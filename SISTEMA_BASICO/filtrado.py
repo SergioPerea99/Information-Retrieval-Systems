@@ -20,13 +20,15 @@ class Filtrado(object):
 
     def normalizacion(self):
         archivo = open('C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\prueba.txt','w')
+        a = ""
         for i in self.informacion:
             aux = i.firstChild.data
-            a = aux.lower()
-            print(a)
-            archivo.write(a+"\n")
+            minus = aux.lower()
+            espacio = " "
+            a = minus.split(espacio)
+            archivo.write(''.join([i+"\n" for i in a if i.isalpha()]))
         archivo.close()
-    
+        
 
 filtro = Filtrado("C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Colección_SRI_2021\S0211-69952009000500006.xml")
 filtro.normalizacion()
