@@ -6,6 +6,7 @@ class Filtrado(object):
     # Constructor parametrizado
     def __init__(self, ruta):
         self.doc = minidom.parse(ruta)
+        self.identificador = self.doc.getElementsByTagName("identifier")[0] #identificador del archivo
         self.fecha = self.doc.getElementsByTagName("dc:date")[0] #Fecha del documento
         self.nombre = self.doc.getElementsByTagName("dc:title")[0] #Nombre en español del documento
         
@@ -19,7 +20,9 @@ class Filtrado(object):
 
 
     def normalizacion_tokenizacion(self):
-        archivo = open('C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\prueba.txt','w')
+        aux = self.identificador.firstChild.data
+        nombre_archivo = aux.split(":")
+        archivo = open("C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Limpieza_SRI_2021\_"+nombre_archivo[len(nombre_archivo)-1] +".txt","w")
         no_borrar = ['0','1','2','3','4','5','6','7','8','9','-','_','']
         for i in self.informacion:
             aux = i.firstChild.data
@@ -33,5 +36,4 @@ class Filtrado(object):
         archivo.close()
         
 
-filtro = Filtrado("C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Colección_SRI_2021\S0211-69952009000500006.xml")
-filtro.normalizacion_tokenizacion()
+
