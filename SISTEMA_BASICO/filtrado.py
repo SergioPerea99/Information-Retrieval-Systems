@@ -22,7 +22,9 @@ class Filtrado(object):
         archivo = open('C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\prueba.txt','w')
         for i in self.informacion:
             aux = i.firstChild.data
-            archivo.write(aux+"\n")
+            a = aux.lower()
+            print(a)
+            archivo.write(a+"\n")
         archivo.close()
     
 
