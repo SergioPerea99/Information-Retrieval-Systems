@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952013000400006</identifier>
+<datestamp>2013-07-02</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Fontseré,Néstor]]></dc:creator>
+<dc:creator><![CDATA[Mestres,Gaspar]]></dc:creator>
+<dc:creator><![CDATA[Barrufet,Marta]]></dc:creator>
+<dc:creator><![CDATA[Burrel,Marta]]></dc:creator>
+<dc:creator><![CDATA[Vera,Manel]]></dc:creator>
+<dc:creator><![CDATA[Arias,Marta]]></dc:creator>
+<dc:creator><![CDATA[Masso,Elisabeth]]></dc:creator>
+<dc:creator><![CDATA[Cases,Aleix]]></dc:creator>
+<dc:creator><![CDATA[Maduell,Francisco]]></dc:creator>
+<dc:creator><![CDATA[Campistol,Josep M.]]></dc:creator>
+<dc:subject><![CDATA[Hemodiálisis]]></dc:subject>
+<dc:subject><![CDATA[Flujo del acceso vascular (Qa)]]></dc:subject>
+<dc:subject><![CDATA[Ecografía-Doppler]]></dc:subject>
+<dc:subject><![CDATA[Termodilución]]></dc:subject>
+<dc:subject><![CDATA[FAVI radio-cefálicas latero-terminales]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.33 n.3 2013]]></dc:source>
+<dc:date>2013-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952013000400006</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Aplicación práctica de la termodilución frente a la ecografía-Doppler en la medición del flujo del acceso vascular]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Practical utility of thermodilution versus doppler ultrasound to measure haemodialysis blood access flow]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: Las actuales guías recomiendan la medición periódica del flujo vascular (Qa). Los métodos actualmente validados son la ecografía-Doppler (ED) y la ultrasonografía dilucional. Objetivo: Analizar la aplicación práctica de la termodilución (TD) en la medición del Qa respecto a la ED. Material y métodos: Estudio transversal realizado en 64 pacientes (41 varones) en programa de hemodiálisis; 59,9 años con 54 FAVI y 10 politetrafluoroetileno (PTFE). El Qa de referencia se determinó por ED en la arteria humeral (fístula arteriovenosa [FAVI]) y en el tramo de punción arterial (PTFE). Para el análisis de concordancia se utilizó el método de Bland-Altman y el coeficiente de correlación intraclase (CCI). Resultados: El Qa obtenido por ED resultó 1426 ± 753 ml/min FAVI y 1186 ± 789 ml/min PTFE. Los valores obtenidos por TD fueron 1372 ± 770 FAVI (sesgo 54,6; CCI 0,923) y 1176 ± 758 PTFE (sesgo 10,2; CCI 0,992). En el subgrupo de 28 pacientes portadores de FAVI radio-cefálicas latero-terminales el Qa obtenido por ED resultó 1232 ± 767 ml/min. A nivel de la arteria radial 942 (CCI 0,805); arteria radial-cubital 1.103 (CCI 0,973); vena cefálica 788 (CCI 0,772) y TD 1026 (CCI 0,971). Se detectaron 5 estenosis significativas; Kt posrevascularización mediante catéter balón de angioplastia (ATP): 79 l (61; p = 0,043) y Qa-TD post-ATP 895 ml/min (663; p = 0,043). Conclusiones: La TD resultó un método indirecto automatizado útil en la medición del Qa. En el subgrupo de pacientes con FAVI radio-cefálicas resultó más preciso el sumatorio de flujo obtenido en arteria radial y cubital. Sin embargo, la TD también presentó una excelente correlación con la arteria humeral.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: The current clinical guidelines recommend indirect measurement of vascular access blood flow (Qa) as one of the most important components in vascular access maintenance programmes. The best-known methods are doppler ultrasound (DU) and saline dilution method. Objective: This study evaluates the efficiency of Qa measurement using the thermodilution method (TD) in comparison with DU. Material and Method: Cross-sectional study in 64 patients on haemodialysis (41 males); mean age: 59.9 years, with 54 AVFs and 10 PTFE. Qa reference values were obtained with DU in the brachial artery (AVFs) or at the zone of arterial puncture (PTFE). Bland-Altman and interclass correlation coefficients (ICC) were used to study accuracy. Results: Mean values obtained with DU-Qa were 1426 ± 753 mL/min for AVFs and 1186 ± 789mL/min for PTFE grafts. The mean Qa with TD was 1372 ± 770 for AVFs (bias: 54.6; ICC: 0.923) and 1176 ± 758 for PTFE (bias 10.2; ICC 0.992). In the 28 patients with radiocephalic side-to-end AVFs, the mean DU-Qa was 1232 ± 767mL/min. Qa values were measured in the radial artery: 942 (ICC 0.805); radial-ulnar artery: 1103 (ICC 0.973); cephalic vein: 788 (ICC 0.772), and with TD: 1026 (ICC 0.971). We detected 5 cases of significant stenosis. After endovascular treatment, mean Kt was 79 liters (61; P=.043) and mean TD-Qa was 895mL/min (663; P=.043). Conclusions: TD represents a good indirect method of Qa measurement. In patients with radiocephalic AVFs, Qa measurements in the radial and ulnar artery are more accurate. Therefore, in this situation the TD method obtained an excellent correlation with values taken from the brachial artery.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

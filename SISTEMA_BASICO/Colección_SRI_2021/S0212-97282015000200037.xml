@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0212-97282015000200037</identifier>
+<datestamp>2016-02-16</datestamp>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Holgado-Tello,Francisco P.]]></dc:creator>
+<dc:creator><![CDATA[Chacón-Moscoso,Salvador]]></dc:creator>
+<dc:creator><![CDATA[Vila-Abad,Enrique]]></dc:creator>
+<dc:creator><![CDATA[Delgado,Begoña]]></dc:creator>
+<dc:creator><![CDATA[Sanduvete-Chaves,Susana]]></dc:creator>
+<dc:creator><![CDATA[Barbero-García,Isabel]]></dc:creator>
+<dc:subject><![CDATA[Validez]]></dc:subject>
+<dc:subject><![CDATA[evaluación de programas]]></dc:subject>
+<dc:subject><![CDATA[satisfacción]]></dc:subject>
+<dc:subject><![CDATA[Análisis Factorial]]></dc:subject>
+<dc:subject><![CDATA[Análisis Multinivel]]></dc:subject>
+<dc:publisher><![CDATA[Universidad de Murcia]]></dc:publisher>
+<dc:source><![CDATA[Anales de Psicología  v.31 n.2 2015]]></dc:source>
+<dc:date>2015-05-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-97282015000200037</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Evaluación de programas de formación continua en contextos no estandarizados: complementariedad entre Análisis Factorial y Multinivel para la obtención de evidencias de validez de constructo]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Training program evaluation in non-standardized context: complementarity across Factorial and Multilevel Analysis to obtain construct validity evidences]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[La evaluación de programas se aplica frecuentemente en ámbitos de intervención no estandarizados. Esto conlleva, entre otras, las carencias de: a) modelo teórico validado previamente; b) instrumentos de medida estándares; c) fiabilidad de las medidas. En este trabajo, se plantea que el Análisis Factorial con correlaciones policóricas y el Análisis Multinivel puede ser un procedimiento adecuado hacia el logro de la validez de constructo en contextos no estandarizados de evaluación donde, además, las variables suelen ser no cuantitativas y estar anidadas. El estudio empírico se realiza sobre una muestra de 2754 trabajadores de la Universidad de Sevilla que han respondido a una encuesta de satisfacción elaborada ad-hoc sobre la formación recibida en distintos cursos encaminados a capacitarlos para el correcto desempeño de sus funciones. Cabe destacar la complementariedad entre ambas técnicas de análisis para examinar la variabilidad diferencial aportada por variables explicativas de distinto nivel jerárquico en la predicción de la satisfacción percibida.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Program evaluation is usually applied to non-standardized intervention contexts. This implies, among others, deficiencies of: a) validated theoretical models; b) non-standard measurement instruments; c) reliable measures. In this work, we show that Factor Analysis with polychoric correlations and Multilevel Analysis could be an adequate procedure to gain construct validity evidence in non-standard evaluative contexts, where the measures are not quantitative and usually are nested. The empirical study is carried out on a sample of 2754 workers of the University of Seville. They have completed a satisfaction questionnaire about training courses aimed to prepare them for the correct performance of their jobs. We highlight the complementarities between both analytical techniques to study the differential variability provided by explained variables nested in different hierarchical level to predict the perceived satisfaction.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

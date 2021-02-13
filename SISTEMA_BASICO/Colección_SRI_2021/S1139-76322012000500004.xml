@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S1139-76322012000500004</identifier>
+<datestamp>2013-03-11</datestamp>
+<setSpec>1139-7632</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Domínguez Aurrecoechea,B.]]></dc:creator>
+<dc:creator><![CDATA[Fernández Francés,M.]]></dc:creator>
+<dc:creator><![CDATA[Ordóñez Alonso,M. Á.]]></dc:creator>
+<dc:creator><![CDATA[López Vilar,P.]]></dc:creator>
+<dc:creator><![CDATA[Merino Ramos,L.]]></dc:creator>
+<dc:creator><![CDATA[Aladro Antuña,A.]]></dc:creator>
+<dc:creator><![CDATA[Díez Estrada,E.]]></dc:creator>
+<dc:creator><![CDATA[Fernández López,F. J.]]></dc:creator>
+<dc:creator><![CDATA[Pérez Candás,J. I.]]></dc:creator>
+<dc:creator><![CDATA[Pérez López,A. M.]]></dc:creator>
+<dc:subject><![CDATA[Guardería]]></dc:subject>
+<dc:subject><![CDATA[Riesgo]]></dc:subject>
+<dc:subject><![CDATA[Enfermedades infecciosas]]></dc:subject>
+<dc:subject><![CDATA[Estudio prospectivo]]></dc:subject>
+<dc:publisher><![CDATA[Asociación Española de Pediatría de Atención Primaria]]></dc:publisher>
+<dc:source><![CDATA[Pediatría Atención Primaria  v.14 n.56 2012]]></dc:source>
+<dc:date>2012-12-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1139-76322012000500004</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Influencia de la asistencia a guarderías sobre la morbilidad en niños menores de 12 meses de edad]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Influence of day care attendance on morbidity in children under 12 months of age]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: la estructura actual de la sociedad española favorece la asistencia de los niños a guarderías infantiles a edades cada vez más tempranas. Esto es un factor de riesgo por sí solo para el padecimiento de infecciones del tracto respiratorio superior e inferior, otitis media aguda, infecciones gastrointestinales y otras infecciones. Objetivo: evaluar la influencia de la asistencia a la guardería sobre el riesgo de padecer infecciones en los niños menores de 12 meses de edad. Población y métodos: estudio longitudinal prospectivo. Se incluyeron en el estudio los niños nacidos entre el 1 de enero y el 30 de septiembre de 2010 que acuden a consulta de Pediatría de Atención Primaria. Se excluyeron los niños que presentaban patología respiratoria o cardiaca grave o inmunodeficiencias graves. Los datos se obtuvieron de la historia clínica informatizada y de las entrevistas en visitas programadas a los padres a los 6 y a los 12 meses. Para el análisis estadístico de los datos se utilizó el programa estadístico R® (R Development Core Team, 2011). Resultados: los niños que acuden a la guardería presentan más episodios infecciosos que los que no lo hacen, siendo estadísticamente significativas (p-valor <0,05) las diferencias respecto a bronquiolitis, bronquitis, conjuntivitis, faringoamigdalitis, gastroenteritis aguda, laringitis, neumonía, otitis media aguda, resfriado común, sibilancias, sinusitis y para el total de patologías. Los niños que asisten a guarderías tienen un riesgo dos o más veces mayor de padecer bronquiolitis, bronquitis, faringoamigdalitis y otitis media, que los que no acuden. Conclusión: teniendo en cuenta estos resultados, parece aconsejable intentar otras fórmulas diferentes para el cuidado de los niños en edades tempranas.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: the current structure of Spanish society favors the attendance of children at day care to increasingly early ages. This is a risk factor in itself to the condition of infection of the upper and lower respiratory tract, as well as acute otitis media, gastrointestinal infections and other infections. Objective: to evaluate the influence of day care attendance on the risk of infections in children under 12 months of age. Population and methods: prospective longitudinal study. Children born between 1 January and 30 September 2010, attending primary care pediatrics´ offices, were included. We excluded children who had severe respiratory or cardiac disease or severe immune deficiency. The data were obtained from computerized medical records and interviews with parents in scheduled visits at 6 and 12 months. In the statistical analysis of the data the statistical software R© (R Development Core Team, 2011) was used. Results: children who attend day care have one or more infectious episodes in higher percentages with statistically significant (p-value <0.05) differences for bronchiolitis, bronchitis, conjunctivitis, tonsillopharyngitis, acute gastroenteritis, laryngitis, pneumonia, acute otitis media, common cold, wheezing, sinusitis and for total pathologies. Attendance at nursery could be responsible for between 35% and 50% of the acute otitis, gastroenteritis, bronchiolitis and bronchitis. Conclusion: taking into account these results, it seems advisable to try other different ways for the care of children in early ages.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

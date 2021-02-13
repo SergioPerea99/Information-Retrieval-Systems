@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S1139-76322013000200012</identifier>
+<datestamp>2013-07-30</datestamp>
+<setSpec>1139-7632</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Ruiz-Canela Cáceres,J.]]></dc:creator>
+<dc:creator><![CDATA[Aizpurua Galdeano,P.]]></dc:creator>
+<dc:subject><![CDATA[Tos ferina]]></dc:subject>
+<dc:subject><![CDATA[Estrategia nido]]></dc:subject>
+<dc:publisher><![CDATA[Asociación Española de Pediatría de Atención Primaria]]></dc:publisher>
+<dc:source><![CDATA[Pediatría Atención Primaria  v.15 n.58 2013]]></dc:source>
+<dc:date>2013-06-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1139-76322013000200012</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[En una epidemia de tos ferina: ¿es útil la estrategia de nido?]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[In a whooping cough epidemic: is cocooning a useful strategy?]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[En este trabajo, con formato clásico de un tema valorado críticamente según metodología de Medicina Basada en la Evidencia, se aborda una revisión de la estrategia de nido y la vacunación de la embarazada contra la tos ferina en un contexto de epidemia. Para ello, se presenta un escenario clínico, se plantea la pregunta clínica estructurada, se hace una búsqueda bibliográfica, se valoran críticamente los estudios seleccionados y se da una respuesta al escenario. Se han seleccionado dos guías clínicas institucionales que abordan el tema. Los artículos no presentan estimaciones que permitan valorar la importancia clínica que puede representar la vacunación de embarazadas o el efecto nido en la disminución de la morbimortalidad de los lactantes. Sin embargo, se conoce que la fuente de contagio de la tos ferina al lactante se produce fundamentalmente en el hogar y que la vacunación de la madre durante el embarazo aumenta los niveles de anticuerpos en el lactante y no hay efectos adversos significativos. Comentario de los revisores: se concluye que en caso de epidemia de tos ferina se puede considerar la vacunación de las embarazadas con tétanos-difteria-tos ferina acelular, con baja carga antigénica de difteria y tos ferina, a partir de la semana 20 de gestación, por las implicaciones de mortalidad y hospitalización en lactantes. Sin embargo, es necesario que las autoridades de salud pública se pronuncien sobre la situación de la tos ferina en cada país. Se recomienda que cualquier experiencia que se realice sea monitorizada con una evaluación a medio y largo plazo de los resultados.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[This paper has the structure of a critically appraised topic. It sought to assess the impact of Tdap vaccination in pregnancy or cocooning on pertussis among young infants during epidemics. The stages of evidence based medicine were followed: presentation of a clinical scenario; clinical question formulation; bibliographic research and critical appraisal of the selected studies. Finally, an answer for the clinical scenario is provided. Two clinical guidelines were selected. No estimates were provided to evaluate the clinical importance of vaccinating pregnant women or cocooning in reducing morbidity and mortality of infants. However, it is known that the source of transmission of pertussis to infants occurs primarily at home and that vaccination of the mother after the 20th week of pregnancy increases levels of antibodies in infants without significant adverse effects. Reviewers´ commentary: we conclude that in case of whooping cough epidemic, Tdap vaccination of pregnant women from 20 weeks of gestation can be considered due to the high rates of mortality and hospitalization among young infants. However, it is necessary that the public health authorities decide the policies to adopt. We think that any experience must be monitored to evaluate mid-and long-term results.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

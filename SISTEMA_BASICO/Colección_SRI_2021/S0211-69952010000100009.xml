@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952010000100009</identifier>
+<datestamp>2010-05-19</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Durán,C.E.]]></dc:creator>
+<dc:creator><![CDATA[Torregrosa,José Vicente]]></dc:creator>
+<dc:creator><![CDATA[Almadén,Y.]]></dc:creator>
+<dc:creator><![CDATA[Canalejo,A.]]></dc:creator>
+<dc:creator><![CDATA[Campistol,J.M.]]></dc:creator>
+<dc:creator><![CDATA[Rodríguez,M.]]></dc:creator>
+<dc:subject><![CDATA[Hiperparatiroidismo secundario]]></dc:subject>
+<dc:subject><![CDATA[Set point de calcio]]></dc:subject>
+<dc:subject><![CDATA[Paratiroidectomía]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.30 n.1 2010]]></dc:source>
+<dc:date>2010-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952010000100009</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Dinámica de la secreción de PTH regulada por calcio en el hiperparatiroidismo secundario: comparación de la respuesta in vivo frente a in vitro]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Dynamics of calcium-regulated PTH secretion in secondary hyperparathyroidism: comparison between «in vivo» vs. «in vitro» responses]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Objetivo: Comparar la dinámica de la secreción de calcio-PTH in vivo e in vitro de glándulas paratiroideas hiperplásicas. Materiales y métodos: Se estudiaron 7 pacientes con hiperparatiroidismo secundario y las 23 glándulas hiperplásicas obtenidas tras paratiroidectomía de estos mismos pacientes. Estudios in vivo de la curva de secreción de PTH se obtuvieron con inducción de hipocalcemia e hipercalcemia con infusiones intravenosas continuas de EDTA sódico y gluconato de calcio, respectivamente. Para los estudios in vitro se emplearon pequeñas piezas de paratiroides de 1 mm que se transfirieron secuencialmente a concentraciones de calcio variables: 0,4, 0,6, 0,8, 1, 1,25 y 1,50 mM, determinándose la concentración de PTHi en el medio. Resultados: Las curvas de secreción de PTH in vivo e in vitro fueron sigmoidales y similares, aunque el set point in vivo era más alto que el in vitro (1,57 &plusmn; 0,05 frente a 1,27 &plusmn; 0,07 mM; p <0,001). El grado de inhibición máxima de PTH fue similar en ambas circunstancias (30,5 &plusmn; 8,1 frente a 33,6 &plusmn; 5,4%; p = NS), con una correlación directa significativa (r = 0,901; p <0,01). El set point in vivo no se correlacionaba con las concentraciones de PTH basales, aunque se correlacionó significativamente con las concentraciones basales de calcio sérico (r = 0,62; p <0,02). Conclusiones: El set point in vivo del calcio está más relacionado con la concentración sérica de calcio que con la concentración basal de PTHi. Aunque hay diferencias entre el set point de calcio in vivo e in vitro, el grado máximo de inhibición de PTH y la curva sigmoidal fueron similares en las dos circunstancias.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Aim: To compare the dynamics in vivo and in vitro calcium-PTH release of uremic patients with secondary hyperparathyroidism and their hyperplasic parathyroid glands after parathyroidectomy. Materials and methods: Seven patients with secondary HPT and their 23 hyperplasic glands obtained after surgical parathyroidectomy were evaluated. In vivo studies of the PTH secretion curve were obtained by induction of hypocalcemia and hypercalcemia with a continuous endovenous infusion of sodium EDTA and Ca gluconate, respectively. For the in vitro studies, small parathyroid pieces of 1 mm were sequentially transferred to wells with varying Ca concentrations: 0.4, 0.6, 0.8, 1, 1.25 and 1.5 mM. iPTH concentrations were determined in the medium. Results: The in vivo set point did not correlate with the basal, maximal or minimal PTH concentrations, although it correlated significantly with the basal serum Ca concentration (r = 0.62, p <0.02). Both in vivo and in vitro PTH secretion curves were sigmoidal, although the in vivo set point was higher than the in vitro (1.57 &plusmn; 0.05 vs. 1.27 &plusmn; 0.07 mM, p <0.001). The degree of maximal PTH inhibition were similar in both circumstances (30.5 &plusmn; 8.1 vs. 33.6 &plusmn; 5.4 %; p = NS) with a significant direct correlation (r = 0.901; p <0.01). Conclusions: The in vivo set point of calcium is more closely related to serum calcium concentration than to basal iPTH concentration. Although there are differences between the in vivo and in vitro calcium set point the maximal degree of PTH inhibition was similar in both circumstances.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

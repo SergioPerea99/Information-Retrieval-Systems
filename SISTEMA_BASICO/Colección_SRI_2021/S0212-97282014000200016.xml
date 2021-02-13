@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0212-97282014000200016</identifier>
+<datestamp>2014-10-02</datestamp>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Carrosa,Eva]]></dc:creator>
+<dc:creator><![CDATA[Blanco-Donoso,Luis M.]]></dc:creator>
+<dc:creator><![CDATA[Moreno-Jiménez,Bernardo]]></dc:creator>
+<dc:creator><![CDATA[González,Ana]]></dc:creator>
+<dc:creator><![CDATA[Fraca,Mónica]]></dc:creator>
+<dc:creator><![CDATA[Meniz,María J.]]></dc:creator>
+<dc:subject><![CDATA[Bootstrapping efecto indirecto]]></dc:subject>
+<dc:subject><![CDATA[engagement]]></dc:subject>
+<dc:subject><![CDATA[reevaluación cognitiva]]></dc:subject>
+<dc:subject><![CDATA[sentido de la coherencia]]></dc:subject>
+<dc:subject><![CDATA[vinculación con el trabajo]]></dc:subject>
+<dc:subject><![CDATA[voluntarios]]></dc:subject>
+<dc:publisher><![CDATA[Universidad de Murcia]]></dc:publisher>
+<dc:source><![CDATA[Anales de Psicología  v.30 n.2 2014]]></dc:source>
+<dc:date>2014-05-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-97282014000200016</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Evaluación y predicción del work engagement en voluntarios: el papel del sentido de la coherencia y la reevaluación cognitiva]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Assesment and prediction of work engagement in a health volunteers sample: the role of sense of coherence and cognitive reappraisal]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Una perspectiva salutogénica se está imponiendo en el ámbito de las organizaciones. Frente al estudio del desgaste profesional o burnout, y en cierta medida, gracias a él, ha surgido el concepto de vinculación al trabajo o engagement. Este trabajo plantea conocer el nivel de engagement de los voluntarios de una asociación que atiende a personas con cáncer y a sus familiares, y el rol que juegan la Reevaluación Cognitiva y el Sentido de Coherencia en su explicación. También se analiza la manera en la que estos factores cognitivos y emocionales se relacionan a la hora de explicar la vinculación dentro de la organización. La muestra está compuesta por 136 voluntarios. Se llevaron a cabo análisis descriptivos, de correlación, de regresión jerárquica y análisis de efectos indirectos a través de la técnica de remuestreo o bootstrapping. Los resultados muestran que la reevaluación cognitiva tiene un efecto directo en la varianza del engagement, así como el sentido de coherencia, que a su vez ejercería un papel mediador entre ambas variables. Se discuten las implicaciones de los resultados para promover la vinculación al trabajo de los voluntarios.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[A salutogenic perspective within organizations is becoming more important. Faced with the study of burnout, and to some extent, thanks to its, has emerged the concept work engagement. This study aims to determine the level of engagement of volunteers from an association that serves people with cancer and their families, and show some factors that could explain it, in particular, cognitive reappraisal and sense of coherence. We also want to analyze the way in which cognitive and emotional factors related to explain this relationship within the organization. The sample consists of 136 volunteers. Descriptive analysis, correlation analysis, regression analysis and analysis of indirect effects were conducted using the statistical procedure bootstrapping. The results show that cognitive reappraisal has a direct effect on the variance of engagement. The sense of coherence, besides having a direct effect, have a mediating role between the two variables. We discuss the implications of the results to promote the work engagement of volunteers.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

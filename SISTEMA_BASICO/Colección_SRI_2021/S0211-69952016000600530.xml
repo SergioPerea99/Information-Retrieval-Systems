@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952016000600530</identifier>
+<datestamp>2017-10-19</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Rodrigo,Emilio]]></dc:creator>
+<dc:creator><![CDATA[Suberviola,Borja]]></dc:creator>
+<dc:creator><![CDATA[Albines,Zoila]]></dc:creator>
+<dc:creator><![CDATA[Castellanos,Álvaro]]></dc:creator>
+<dc:creator><![CDATA[Heras,Milagros]]></dc:creator>
+<dc:creator><![CDATA[Rodriguez-Borregán,Juan Carlos]]></dc:creator>
+<dc:creator><![CDATA[Piñera,Celestino]]></dc:creator>
+<dc:creator><![CDATA[Serrano,Mara]]></dc:creator>
+<dc:creator><![CDATA[Arias,Manuel]]></dc:creator>
+<dc:subject><![CDATA[Fracaso renal agudo]]></dc:subject>
+<dc:subject><![CDATA[Mortalidad]]></dc:subject>
+<dc:subject><![CDATA[Sepsis]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.36 n.5 2016]]></dc:source>
+<dc:date>2016-10-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952016000600530</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Comparación de los sistemas de clasificación del fracaso renal agudo en la sepsis]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[A comparison of acute kidney injury classification systems in sepsis]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Resumen  Antecedentes: Desde 2004 se han propuesto diversos criterios para definir y estadiar el fracaso renal agudo (FRA), sin embargo, no se conoce cuál de ellos debe ser empleado cuando se desarrolla FRA en el contexto de la sepsis grave.  Objetivo: Valorar la capacidad predictiva de mortalidad en una cohorte de pacientes con sepsis de los distintos métodos de clasificación del FRA.  Métodos: Estudio prospectivo de los pacientes &gt; 18 años ingresados en la Unidad de Cuidados Intensivos (UCI) de nuestro hospital desde abril de 2008 hasta septiembre de 2010 con shock séptico. La creatinina plasmática se determinó diariamente en UCI. Los pacientes se clasificaron de forma retrospectiva según las clasificaciones RIFLE, AKIN, KDIGO y cinética de la creatinina (CK).  Resultados: El porcentaje de pacientes que desarrolló FRA según cada clasificación fue: 74,3% RIFLE; 81,7% AKIN; 81,7% KDIGO y 77,5% CK. Cada estadio de FRA por RIFLE (OR 1,452; p = 0,003), por AKIN (OR 1,349; p = 0,028) y por KDIGO (OR 1,452; p = 0,006) se relacionaba de forma independiente con la mortalidad intrahospitalaria, pero no por CK (OR 1,188; p = 0,148).  Conclusiones: Un porcentaje elevado de pacientes con sepsis grave desarrolla FRA que se puede clasificar según los distintos métodos propuestos. Los estadios de las clasificaciones RIFLE, AKIN y KDIGO se relacionan con un mayor riesgo de muerte intrahospitalaria. Por el contrario, la nueva definición de CK no se relaciona con una mayor mortalidad y no se debería usar en estos pacientes con sepsis grave sin confirmar su utilidad en estudios posteriores.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Abstract  Background: Since 2004, various criteria have been proposed to define and stage acute kidney injury (AKI). Nevertheless, fixed criteria for assessing severe sepsis-related AKI have not yet been established.  Objectives: To assess the ability of the different AKI classification methods to predict mortality in a cohort of patients with sepsis.  Methods: A prospective study of patients &gt; 18 years with septic shock admitted to the intensive care unit (ICU) of our hospital from April 2008 to September 2010 was conducted. Plasma creatinine levels were measured daily in the ICU. Patients were classified retrospectively according to RIFLE, AKIN, KDIGO and creatinine kinetics (CK) criteria.  Results: The AKI rate according to the different criteria was 74.3% for RIFLE, 81.7% for AKIN, 81.7% for KDIGO and 77.5% for CK. AKI staging by RIFLE (OR 1.452, P = .003), AKIN (OR 1.349, P = .028) and KDIGO criteria (OR 1.452, P = .006), but not CK criteria (OR 1.188, P = .148) were independently related to in-hospital mortality.  Conclusions: A high rate of patients with severe sepsis developed AKI, which can be classified according to different criteria. Each stage defined by RIFLE, AKIN and KDIGO related to a higher risk of in-hospital mortality. In contrast, the new CK criteria did not relate to higher mortality in patients with severe sepsis and this classification should not be used in these patients without further studies assessing its suitability.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

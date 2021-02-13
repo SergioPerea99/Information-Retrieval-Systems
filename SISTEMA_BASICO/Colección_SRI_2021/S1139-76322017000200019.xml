@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S1139-76322017000200019</identifier>
+<datestamp>2017-10-11</datestamp>
+<setSpec>1139-7632</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Esparza Olcina,MJ]]></dc:creator>
+<dc:creator><![CDATA[Colomer Revuelta,J]]></dc:creator>
+<dc:creator><![CDATA[Martínez Rubio,A]]></dc:creator>
+<dc:creator><![CDATA[Mengual Gil,JM]]></dc:creator>
+<dc:creator><![CDATA[Merino Moína,M]]></dc:creator>
+<dc:creator><![CDATA[Pallás Alonso,CR]]></dc:creator>
+<dc:creator><![CDATA[Rando Diego,A]]></dc:creator>
+<dc:creator><![CDATA[Sánchez Ruiz-Cabello,FJ]]></dc:creator>
+<dc:creator><![CDATA[Cortés Rico,O]]></dc:creator>
+<dc:creator><![CDATA[Galbe Sánchez-Ventura,J]]></dc:creator>
+<dc:creator><![CDATA[Gallego Iborra,A]]></dc:creator>
+<dc:creator><![CDATA[García Aguado,J]]></dc:creator>
+<dc:creator><![CDATA[Mengual Gil,José María]]></dc:creator>
+<dc:subject><![CDATA[Actividades preventivas]]></dc:subject>
+<dc:subject><![CDATA[Recomendaciones]]></dc:subject>
+<dc:subject><![CDATA[US Preventive Services Task Force]]></dc:subject>
+<dc:subject><![CDATA[Marco analítico]]></dc:subject>
+<dc:publisher><![CDATA[Asociación Española de Pediatría de Atención Primaria]]></dc:publisher>
+<dc:source><![CDATA[Pediatría Atención Primaria  v.19 n.74 2017]]></dc:source>
+<dc:date>2017-06-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1139-76322017000200019</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[El marco analítico en la elaboración de recomendaciones del USPSTF]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[The analytic framework in USPSTF recommendations development]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Resumen El planteamiento del marco analítico, y su representación gráfica, forma parte del abordaje integral para la realización de las revisiones sistemáticas que el US Preventive Services Task Force utiliza en el proceso de elaboración de sus recomendaciones. Se incluye como parte de la metodología para el desarrollo del plan de trabajo. Junto a las preguntas clave, establecen los pasos necesarios en la lógica clínica que deben ser demostrados para evaluar la eficacia y los daños de un servicio preventivo en Atención Primaria. El objetivo de un marco analítico es presentar clara y esquemáticamente las preguntas específicas que relacionan intervenciones y resultados y que deben ser contestadas por la revisión bibliográfica. Se describe una convención para su diseño respecto a los ítems, enlaces, símbolos y representación gráfica.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Abstract The analytic framework and its graphic representation, takes part of the integral approach in the systematic reviews that the US Preventive Services Task Force develop in the process of developing their recommendations. It is included as part of the methodology for the process of the working plan. Together with the key questions, the analytic framework establishes the needed steps in the logical process that should be demonstrated in order to assess the efficacy and the harms of a preventive service in primary care. The objective of an analytic framework is to present clearly and schematically the specific questions that relate interventions and results and that should be answered through the bibliographic review. A convention for its design, items, links, symbols and graphic representation is described.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

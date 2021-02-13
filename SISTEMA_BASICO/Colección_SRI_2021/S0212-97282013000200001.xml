@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0212-97282013000200001</identifier>
+<datestamp>2014-09-18</datestamp>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Pardo,Antonio]]></dc:creator>
+<dc:creator><![CDATA[Ferrer,Rodrigo]]></dc:creator>
+<dc:subject><![CDATA[Cambio clínicamente significativo]]></dc:subject>
+<dc:subject><![CDATA[diferencia mínimamente importante]]></dc:subject>
+<dc:subject><![CDATA[falsos positivos]]></dc:subject>
+<dc:publisher><![CDATA[Universidad de Murcia]]></dc:publisher>
+<dc:source><![CDATA[Anales de Psicología  v.29 n.2 2013]]></dc:source>
+<dc:date>2013-05-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-97282013000200001</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Significación clínica: falsos positivos en la estimación del cambio individual]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Clinical significance: false positives in the estimation of individual change]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Tanto en la investigación aplicada como en la práctica clínica es habitual tener que evaluar el cambio que experimentan los pacientes como consecuencia del tratamiento que reciben. En este trabajo se valora el comportamiento de varios métodos estadísticos diseñados para estimar ese cambio. La valoración se ha centrado en un aspecto al que todavía no se le ha prestado atención: la tasa de falsos positivos. Para ello, se ha simulado una situación de no-cambio (diseño pre-post sin cambio entre el pre y el post) y se ha valorado el comportamiento de nueve estadísticos distintos en ese escenario. Se han utilizado tres tamaños muestrales distintos (25, 50 y 100) y se han simulado 1000 muestras de cada tamaño. Para evaluar el comportamiento de los estadísticos elegidos se ha calculado el porcentaje de veces que cada estadístico ha detectado un cambio. Puesto que la situación simulada es de no-cambio, cualquier alerta de cambio debe ser considerada un falso positivo. Los resultados obtenidos son bastante llamativos: ninguno de los nueve estadísticos evaluados ofrece un comportamiento aceptable. Únicamente se consiguen resultados aceptables cuando se trabaja con la desviación típica de las diferencias pre-post y se aplican criterios clásicos en lugar de los propuestos por la literatura relacionada con la significación clínica.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[In applied research and in clinical practice we often need to assess the change experienced by patients as a result of the treatment they have received. This paper assesses the performance of several statistical methods designed to estimate such change. This study focuses on one aspect that still has not received attention: the rate of false positives. We have simulated a situation of no-change (pre-post design with no change between pre and post) in which the behavior of nine different statistics have been evaluated. Three different sample sizes (25, 50 and 100) were used and 1000 samples of each size were simulated. To evaluate the behavior of the chosen statistics we have calculated the percentage of times that each statistic has detected change. Since no-change is the simulated situation, any occurrence of change should be considered a false positive. Results are quite striking: none of the nine statistics evaluated offers an acceptable behavior. Good performance is achieved only when the standard deviation of pre-post differences and the traditional criteria are used and not when those proposed by the literature related to the clinical significance are used.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

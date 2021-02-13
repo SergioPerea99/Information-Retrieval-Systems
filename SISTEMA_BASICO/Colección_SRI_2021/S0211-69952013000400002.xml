@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952013000400002</identifier>
+<datestamp>2013-07-03</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Molas-Ferrer,Gloria]]></dc:creator>
+<dc:creator><![CDATA[Soy-Muner,Dolors]]></dc:creator>
+<dc:creator><![CDATA[Anglada-Martínez,Helena]]></dc:creator>
+<dc:creator><![CDATA[Riu-Viladoms,Gisela]]></dc:creator>
+<dc:creator><![CDATA[Estefanell-Tejero,Anna]]></dc:creator>
+<dc:creator><![CDATA[Ribas-Sala,Josep]]></dc:creator>
+<dc:subject><![CDATA[Enfermedad pulmonar intersticial]]></dc:subject>
+<dc:subject><![CDATA[Inhibidores de mTOR]]></dc:subject>
+<dc:subject><![CDATA[Neumonitis]]></dc:subject>
+<dc:subject><![CDATA[Sirolimus]]></dc:subject>
+<dc:subject><![CDATA[Everolimus]]></dc:subject>
+<dc:subject><![CDATA[Trasplante de órganos]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.33 n.3 2013]]></dc:source>
+<dc:date>2013-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952013000400002</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Neumonitis intersticial como reacción adversa a inhibidores de mTOR]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Interstitial pneumonitis as an adverse reaction to mTOR inhibitors]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: Los inhibidores de mTOR (del inglés mammalian target of rapamycin), sirolimus y everolimus, utilizados como tratamiento inmunosupresor en el trasplante de órganos sólidos, pueden producir efectos adversos graves, como la neumonitis intersticial. Incidencia y presentación clínica: La incidencia de neumonitis intersticial se ha estimado entre el 4 % y el 11 %, aunque podría ser mayor. La mayoría de los casos publicados se ha producido en pacientes trasplantados renales en tratamiento con sirolimus. La presentación clínica es heterogénea, lo que dificulta el diagnóstico. Se acostumbra a observar alteraciones en la tomografía axial computarizada torácica, como opacidades en vidrio deslustrado. La fisiopatología es poco conocida. Sin embargo, se ha observado una mayor incidencia en pacientes con función renal alterada y en pacientes que habían recibido inhibidores de calcineurina previamente. La relación entre aparición de neumonitis y concentraciones plasmáticas de inhibidores de mTOR no está bien definida. Tratamiento: La suspensión del fármaco y la administración de dosis altas de corticoides parecen ser efectivos. Otras alternativas terapéuticas, aunque más discutidas, son la reducción de la dosis del inhibidor de mTOR y el cambio de sirolimus a everolimus. Conclusión: Se debe sospechar de neumonitis iatrogénica en pacientes trasplantados en tratamiento con inhibidores de mTOR y con síntomas respiratorios. Faltan datos concluyentes en cuanto a estrategias de tratamiento. Parece que everolimus podría ser mejor tolerado que sirolimus.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: mTOR (mammalian target of rapamycin) inhibitors sirolimus and everolimus, used as immunosuppressants in solid organ transplantation, may cause severe adverse effects, such as interstitial pneumonitis. Incidence and clinical presentation: The estimated incidence of interstitial pneumonitis is 4-11% although it may be higher. Most reported cases have occurred in renal transplant recipients treated with sirolimus. Clinical presentation is heterogeneous, which makes diagnosis difficult. Abnormalities, such as ground glass opacities, are often found in computerised axial tomography scans of the chest. Physiopathology is not well-known. However, patients with abnormal renal function and those with previous calcineurin inhibitor treatment display a higher incidence. The relationship between pneumonitis and mTOR inhibitor plasma concentrations is not well defined. Treatment: Drug discontinuation and administration of high doses of corticosteroids seems to be an effective treatment. mTOR inhibitor dose reduction and replacing sirolimus with everolimus are other alternatives, but they are still under discussion. Conclusion: Iatrogenic pneumonitis must be suspected when a transplant recipient being treated with mTOR inhibitors presents respiratory symptoms. There is lack of conclusive data on treatment strategies. It appears that everolimus may be tolerated better than sirolimus.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

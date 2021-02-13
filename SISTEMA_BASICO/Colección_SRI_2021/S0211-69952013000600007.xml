@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952013000600007</identifier>
+<datestamp>2013-11-07</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Pozo-Fernández,Carlos Del]]></dc:creator>
+<dc:creator><![CDATA[López-Menchero-Martínez,Ramón]]></dc:creator>
+<dc:creator><![CDATA[Álvarez-Avellán,Luis]]></dc:creator>
+<dc:creator><![CDATA[Albero-Molina,M. Dolores]]></dc:creator>
+<dc:creator><![CDATA[Sánchez-Rodríguez,Laura]]></dc:creator>
+<dc:subject><![CDATA[Metabolismo mineral]]></dc:subject>
+<dc:subject><![CDATA[Guías de práctica clínica]]></dc:subject>
+<dc:subject><![CDATA[Indicadores de calidad]]></dc:subject>
+<dc:subject><![CDATA[Hemodiálisis]]></dc:subject>
+<dc:subject><![CDATA[Calcio]]></dc:subject>
+<dc:subject><![CDATA[fósforo]]></dc:subject>
+<dc:subject><![CDATA[PTHi]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.33 n.5 2013]]></dc:source>
+<dc:date>2013-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952013000600007</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Cumplimiento de objetivos en función de diferentes guías (KDIGO/S.E.N.) y análisis de la variabilidad individual del metabolismo mineral en pacientes en hemodiálisis a medio plazo]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Compliance with objectives based on different guidelines (KDIGO/S.E.N.) and analysis of the individual variability of mineral metabolism in haemodialysis patients in the medium term]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Objetivos: Valorar el grado de cumplimiento y la variabilidad de los parámetros del metabolismo mineral a lo largo del tiempo en una muestra de pacientes en hemodiálisis según los distintos rangos propuestos (Guía KDIGO/Recomendaciones S.E.N.) tanto a nivel de grupo como individual de forma continuada. Material y métodos: Recogimos cuatrimestralmente los datos de calcio, fósforo, hormona paratiroidea (PTH) y de tratamiento en una muestra de 44 pacientes seguidos de forma continuada durante 32 meses. Establecimos los porcentajes de pacientes que cumplían los objetivos propuestos para cada parámetro en ambos rangos: óptimo (KDIGO) y aceptable (S.E.N.) en cada control y el porcentaje que cumplían individualmente los objetivos en al menos un 75 % de las determinaciones. Resultados: El cumplimiento del objetivo utilizando el rango óptimo mejoró, aunque en la PTH no superó el 50 %. Utilizando el rango aceptable, el objetivo se alcanzaba en los tres parámetros por encima del 70 % y más del 50 % de los pacientes cumplían los tres simultáneamente, mientras que utilizando el rango óptimo nunca se alcanzó el 30 %. A nivel individual el cumplimiento del rango óptimo se alcanzó de forma continuada en el 52,3 % (calcio), 45,5% (fósforo) y solo un paciente en la PTH, mientras que utilizando el rango aceptable el cumplimiento se alcanzó en el 84,1 % (calcio) y el 70,5 % (fósforo y PTH). Conclusiones: El uso de criterios menos exigentes que los KDIGO en los objetivos de calcio, fósforo y PTH permite mantener de forma continuada a los pacientes en rangos adecuados con menor intervencionismo y menor variabilidad individual.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Objective: To assess the level of compliance and variability of mineral metabolism parameters over time in a sample of haemodialysis patients for the different ranges proposed (KDIGO guidelines/S.E.N recommendations) in both groups and individuals continuously. Material and method: Every four months, we collected data on calcium, phosphorus, PTH and treatment in a sample of 44 patients followed up continuously for 32 months. We established the percentages of patients who complied with the objectives set for each parameter in both ranges: optimal (KDIGO) and acceptable (S.E.N.) in each control and the percentage that individually complied with the objectives in at least 75% of the determinations. Results: Compliance with the objective using the optimal range improved, although PTH did not exceed 50%. Using the acceptable range, the objective was achieved in the three parameters in over 70% and over 50% of patients achieved the three simultaneously while using the optimal range, 30% was never achieved. Individually, compliance with the optimal range was continuously achieved in 52.3% (calcium), 45.5% (phosphorus) and in only one patient in PTH, while when using the acceptable range, compliance was achieved in 84.1% (calcium) and 70.5% (phosphorus and PTH). Conclusions: The use of less stringent criteria than the KDIGO guidelines in calcium, phosphorus and PTH objectives allows patients to remain continuously within appropriate ranges with less intervention and less individual variability.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>
