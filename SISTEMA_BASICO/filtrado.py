@@ -18,17 +18,20 @@ class Filtrado(object):
         self.informacion = [self.nombre, self.fecha, self.fuente, self.cuerpo]
 
 
-    def normalizacion(self):
+    def normalizacion_tokenizacion(self):
         archivo = open('C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\prueba.txt','w')
-        a = ""
+        no_borrar = ['0','1','2','3','4','5','6','7','8','9','-','_','']
         for i in self.informacion:
             aux = i.firstChild.data
             minus = aux.lower()
-            espacio = " "
-            a = minus.split(espacio)
-            archivo.write(''.join([i+"\n" for i in a if i.isalpha()]))
+            for i in minus:
+                if i == " " or i == "\n":
+                    archivo.write("\n")
+                else:
+                    archivo.write(''.join([j for j in i if j.isalpha() or no_borrar.__contains__(j)]))
+            archivo.write("\n")        
         archivo.close()
         
 
 filtro = Filtrado("C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Colección_SRI_2021\S0211-69952009000500006.xml")
-filtro.normalizacion()
+filtro.normalizacion_tokenizacion()
