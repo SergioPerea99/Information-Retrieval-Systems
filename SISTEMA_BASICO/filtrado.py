@@ -5,19 +5,26 @@ class Filtrado(object):
     informacion = []
     # Constructor parametrizado
     def __init__(self, ruta):
-        doc = minidom.parse(ruta)
-        fecha = doc.getElementsByTagName("dc:date")[0] #Fecha del documento
-        nombre = doc.getElementsByTagName("dc:title")[0] #Nombre en español del documento
+        self.doc = minidom.parse(ruta)
+        self.fecha = self.doc.getElementsByTagName("dc:date")[0] #Fecha del documento
+        self.nombre = self.doc.getElementsByTagName("dc:title")[0] #Nombre en español del documento
         
-        autores = doc.getElementsByTagName("dc:creator") #Contenedor de autores
-        temas = doc.getElementsByTagName("dc:subject") #Temas relacionados con el documento
-        fuente = doc.getElementsByTagName("dc:source")[0] #Fuente de donde proviene la información. Interesante a la hora de posicionar según la fuente.
-        print(nombre.firstChild.data)
-        print(fecha.firstChild.data, " :: ", fuente.firstChild.data)
-        cuerpo = doc.getElementsByTagName("dc:description")[0]
+        #self.autores = doc.getElementsByTagName("dc:creator") #Contenedor de autores
+        #self.temas = doc.getElementsByTagName("dc:subject") #Temas relacionados con el documento
+        self.fuente = self.doc.getElementsByTagName("dc:source")[0] #Fuente de donde proviene la información. Interesante a la hora de posicionar según la fuente.
+        print(self.nombre.firstChild.data)
+        print(self.fecha.firstChild.data, " :: ", self.fuente.firstChild.data)
+        self.cuerpo = self.doc.getElementsByTagName("dc:description")[0]
+        self.informacion = [self.nombre, self.fecha, self.fuente, self.cuerpo]
 
 
+    def normalizacion(self):
+        archivo = open('C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\prueba.txt','w')
+        for i in self.informacion:
+            aux = i.firstChild.data
+            archivo.write(aux+"\n")
+        archivo.close()
     
 
 filtro = Filtrado("C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Colección_SRI_2021\S0211-69952009000500006.xml")
-
+filtro.normalizacion()
