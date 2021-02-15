@@ -1,7 +1,15 @@
 
-
 from filtrado import Filtrado
+import os
+from os.path import isfile,join
 
+ruta = "C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Colección_SRI_2021"
+contenido = os.listdir(ruta)
 
-filtro = Filtrado("C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Colección_SRI_2021\S0211-69952009000500006.xml")
-filtro.normalizacion_tokenizacion()
+#Obtener los archivos de la carpeta
+archivos = [nombre for nombre in contenido if isfile(join(ruta,nombre))]
+#print(archivos)
+
+for archivo in archivos:
+    filtro = Filtrado(join(ruta,archivo))
+    filtro.normalizacion_tokenizacion()

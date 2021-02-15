@@ -1,5 +1,5 @@
 from xml.dom import minidom
-
+from os.path import join
 
 class Filtrado(object):
     informacion = []
@@ -22,7 +22,7 @@ class Filtrado(object):
     def normalizacion_tokenizacion(self):
         aux = self.identificador.firstChild.data
         nombre_archivo = aux.split(":")
-        archivo = open("C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Limpieza_SRI_2021\_"+nombre_archivo[len(nombre_archivo)-1] +".txt","w")
+        archivo = open(join("C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Limpieza_SRI_2021",nombre_archivo[len(nombre_archivo)-1]) +".txt","w")
         no_borrar = ['0','1','2','3','4','5','6','7','8','9','-','_','']
         for i in self.informacion:
             aux = i.firstChild.data
