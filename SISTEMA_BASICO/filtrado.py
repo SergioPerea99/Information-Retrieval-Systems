@@ -19,18 +19,24 @@ class Filtrado(object):
     def normalizacion_tokenizacion(self,ruta):
         aux = self.identificador.firstChild.data
         nombre_archivo = aux.split(":")
-        archivo = open(join(ruta,nombre_archivo[len(nombre_archivo)-1]) +".txt","w")
         no_borrar = ['0','1','2','3','4','5','6','7','8','9','-','_','']
+        num_tokens = 0
+        archivo = open(join(ruta,nombre_archivo[len(nombre_archivo)-1]) +".txt","w")
+        
         for i in self.informacion:
             aux = i.firstChild.data
             minus = aux.lower()
             for i in minus:
                 if i == " " or i == "\n":
                     archivo.write("\n")
+                    num_tokens += 1
                 else:
                     archivo.write(''.join([j for j in i if j.isalpha() or no_borrar.__contains__(j)]))
-            archivo.write("\n")        
+            archivo.write("\n")     
+            num_tokens += 1
+
         archivo.close()
+        return num_tokens
         
 
 
