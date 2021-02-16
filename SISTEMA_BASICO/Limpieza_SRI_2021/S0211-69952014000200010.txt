@@ -181,7 +181,7 @@ t
 de
 student
 y
-967
+967²
 resultados
 durante
 el

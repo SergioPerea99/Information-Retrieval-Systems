@@ -97,7 +97,7 @@ el
 test
 de
 la
-x
+x²
 siendo
 el
 valor

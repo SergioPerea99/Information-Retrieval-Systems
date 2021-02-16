@@ -1,3 +1,3 @@
-El programa ha tardado 5.796115159988403 segundos en ejecutarse.
+El programa ha tardado 6.444225549697876 segundos en ejecutarse.
 Total de archivos procesados -> 1000.
 Total de tokens -> 282731 :: Tokens/archivo -> 282.731.

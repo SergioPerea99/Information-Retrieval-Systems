@@ -225,7 +225,7 @@ de
 
 73
 mlmin173
-m
+m²
 49
 pacientes
 presentaron
@@ -240,7 +240,7 @@ a
 gt
 -352
 mlmin173
-m
+m²
 y
 52
 pacientes
@@ -257,7 +257,7 @@ b
 
 -32
 mlmin173
-m
+m²
 por
 regresión
 de

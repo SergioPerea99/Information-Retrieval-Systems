@@ -133,7 +133,7 @@ corporal
 30
 
 6
-kgm
+kgm²
 todos
 recibieron
 olmesartán

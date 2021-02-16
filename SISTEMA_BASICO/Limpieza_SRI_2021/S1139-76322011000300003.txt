@@ -63,7 +63,7 @@ asociación
 mediante
 el
 test
-x
+x²
 para
 las
 variables

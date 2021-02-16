@@ -151,7 +151,7 @@ se
 utilizó
 la
 prueba
-967
+967²
 asumiendo
 un
 límite

@@ -155,7 +155,7 @@ del
 y
 la
 prueba
-x
+x²
 para
 buscar
 el

@@ -201,7 +201,7 @@ enfermería
 107
 vs
 17
-x
+x²
 766
 p001
 el
@@ -217,7 +217,7 @@ médicos
 651
 vs
 348
-x
+x²
 177
 p0001
 y
@@ -226,7 +226,7 @@ varones
 578
 vs
 394
-x
+x²
 663
 p005
 un
@@ -243,7 +243,7 @@ enfermería
 212
 vs
 35
-x
+x²
 457
 p005
 para

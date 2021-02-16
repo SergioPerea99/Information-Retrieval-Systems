@@ -86,7 +86,7 @@ se
 midió
 en
 mlmin173
-m
+m²
 con
 estratificación
 en
@@ -213,7 +213,7 @@ y
 hrgt300
 
 283
-chi
+chi²
 
 116
 p
@@ -228,7 +228,7 @@ hr45-59
 y
 hr45
 184
-chi
+chi²
 
 64
 p

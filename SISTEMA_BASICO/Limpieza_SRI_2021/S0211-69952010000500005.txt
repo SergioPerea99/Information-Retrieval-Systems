@@ -226,7 +226,7 @@ de
 plusmn
 2
 mlmin173
-m
+m²
 con
 un
 82

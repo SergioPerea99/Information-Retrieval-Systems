@@ -203,7 +203,7 @@ imc
 es
 8805
 25
-kgm
+kgm²
 y
 sobrehidratación
 cuando

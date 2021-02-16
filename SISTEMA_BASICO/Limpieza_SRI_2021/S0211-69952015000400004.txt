@@ -178,7 +178,7 @@ fg-mdrd
 
 20
 mlmin173
-m
+m²
 la
 dosis
 de

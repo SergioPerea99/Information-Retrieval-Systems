@@ -60,7 +60,7 @@ masa
 corporal
 imc
 ge25
-kgm
+kgm²
 material
 y
 métodos

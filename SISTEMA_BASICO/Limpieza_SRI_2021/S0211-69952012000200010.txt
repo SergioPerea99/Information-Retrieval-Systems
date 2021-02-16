@@ -142,7 +142,7 @@ de
 307
 
 5
-kgm
+kgm²
 resultados
 la
 presión
@@ -211,7 +211,7 @@ vs
 6025
 
 230
-mlminm
+mlminm²
 p
 
 005

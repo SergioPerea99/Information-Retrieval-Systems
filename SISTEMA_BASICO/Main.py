@@ -1,3 +1,4 @@
+from stopper import Stopper
 from filtrado import Filtrado
 import os
 from os.path import isfile,join
@@ -6,7 +7,7 @@ import time
 #VARIABLES NECESARIAS
 rutaColeccion = "C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Colección_SRI_2021"
 contenido = os.listdir(rutaColeccion)
-rutaLimpios = "C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Limpieza_SRI_2021"
+ruta_destino = "C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Limpieza_SRI_2021"
 archivos = [nombre for nombre in contenido if isfile(join(rutaColeccion,nombre))] #Obtener los archivos de la carpeta
 num_archivos = 0
 sum_tokens = 0
@@ -15,9 +16,21 @@ sum_tokens = 0
 start_time = time.time()
 for archivo in archivos:
     filtro = Filtrado(join(rutaColeccion,archivo))
-    sum_tokens += filtro.normalizacion_tokenizacion(rutaLimpios)
+    sum_tokens += filtro.normalizacion_tokenizacion(ruta_destino)
     num_archivos += 1
 tiempo_ejecucion = time.time() - start_time
+
+
+#EJECUCION DE LA PRACTICA 1.2: Eliminación de palabras vacías.
+rutaColeccion = "C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Limpieza_SRI_2021"
+contenido = os.listdir(rutaColeccion)
+ruta_destino = "C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\stopper"
+archivos = [nombre for nombre in contenido if isfile(join(rutaColeccion,nombre))] #Obtener los archivos de la carpeta
+
+vacias = Stopper(join("C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO","spanishSmart.txt"))
+for archivo in archivos:
+    vacias.eliminacion_vacias(join(rutaColeccion,archivo),join(ruta_destino,archivo))
+
 
 #DOCUMENTACION DEL PROGRAMA
 documentacion_final = open("C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\documentacion.txt",'w')

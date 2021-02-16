@@ -94,7 +94,7 @@ filtrado
 glomerular
 60
 mlmin173
-m
+m²
 finalmente
 la
 cistatina
@@ -202,7 +202,7 @@ filtrado
 glomerular
 gt90
 mlmin173
-m
+m²
 la
 cistatina
 c
@@ -241,7 +241,7 @@ filtrado
 glomerular
 60-90
 mlmin173
-m
+m²
 la
 cistatina
 c

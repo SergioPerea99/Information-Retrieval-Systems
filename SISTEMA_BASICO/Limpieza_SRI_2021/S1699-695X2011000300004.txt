@@ -265,7 +265,7 @@ mayoritariamente
 del
 medio
 urbano
-x
+x²
 
 98
 p

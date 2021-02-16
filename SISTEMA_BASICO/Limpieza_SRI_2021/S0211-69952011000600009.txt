@@ -240,7 +240,7 @@ y
 
 65
 mlmin173
-m
+m²
 no
 hay
 diferencia

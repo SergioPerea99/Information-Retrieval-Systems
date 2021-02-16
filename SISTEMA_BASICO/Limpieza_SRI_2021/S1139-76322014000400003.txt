@@ -82,7 +82,7 @@ resultados
 mediante
 pruebas
 ji-cuadrado
-935
+935²
 y
 u-mann-whitney
 u
@@ -168,7 +168,7 @@ las
 complicaciones
 al
 diagnóstico
-9354236
+935²4236
 p0000
 por
 el

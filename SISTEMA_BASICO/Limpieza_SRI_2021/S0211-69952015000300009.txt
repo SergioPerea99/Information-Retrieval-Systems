@@ -133,7 +133,7 @@ v20
 métodos
 estadísticos
 utilizados
-935
+935²
 y
 anova
 resultados

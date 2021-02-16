@@ -142,7 +142,7 @@ estándar
 frecuencias
 test
 de
-967
+967²
 t
 de
 student

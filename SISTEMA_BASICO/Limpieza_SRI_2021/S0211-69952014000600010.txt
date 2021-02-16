@@ -76,7 +76,7 @@ anticoagulante
 trombocitopenia
 
 50
-000mm
+000mm³
 3
 índice
 de
@@ -84,7 +84,7 @@ masa
 corporal
 gt
 35
-kgm
+kgm²
 4
 hipertensión
 arterial

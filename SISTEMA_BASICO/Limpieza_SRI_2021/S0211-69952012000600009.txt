@@ -239,7 +239,7 @@ descriptivo
 pruebas
 de
 correlación
-967
+967²
 y
 procedimientos
 crosstabs
@@ -298,7 +298,7 @@ ajustada
 al
 peso
 seco
-967
+967²
 
 3134
 p
@@ -378,7 +378,7 @@ f
 p
 
 0000
-r
+r²
 
 44
 la

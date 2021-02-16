@@ -2,7 +2,7 @@ from xml.dom import minidom
 from os.path import join
 
 class Filtrado(object):
-    informacion = []
+
     # Constructor parametrizado
     def __init__(self, ruta):
         self.doc = minidom.parse(ruta)
@@ -15,11 +15,11 @@ class Filtrado(object):
         self.cuerpo = self.doc.getElementsByTagName("dc:description")[0]
         self.informacion = [self.nombre, self.fecha, self.fuente, self.cuerpo]
 
-
+    #Método de normalización y tokenización
     def normalizacion_tokenizacion(self,ruta):
         aux = self.identificador.firstChild.data
         nombre_archivo = aux.split(":")
-        no_borrar = ['0','1','2','3','4','5','6','7','8','9','-','_','']
+        no_borrar = ['-','_','']
         num_tokens = 0
         archivo = open(join(ruta,nombre_archivo[len(nombre_archivo)-1]) +".txt","w")
         
@@ -31,7 +31,7 @@ class Filtrado(object):
                     archivo.write("\n")
                     num_tokens += 1
                 else:
-                    archivo.write(''.join([j for j in i if j.isalpha() or no_borrar.__contains__(j)]))
+                    archivo.write(''.join([j for j in i if j.isalpha() or j.isdigit() or no_borrar.__contains__(j)]))
             archivo.write("\n")     
             num_tokens += 1
 

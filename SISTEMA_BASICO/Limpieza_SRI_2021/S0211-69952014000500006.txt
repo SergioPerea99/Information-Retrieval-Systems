@@ -240,7 +240,7 @@ inferior
 de
 -1354
 lsem173
-m
+m²
 sc
 -2168
 a
@@ -254,7 +254,7 @@ superior
 de
 5898
 lsem173
-m
+m²
 sc
 5084-6712
 ic

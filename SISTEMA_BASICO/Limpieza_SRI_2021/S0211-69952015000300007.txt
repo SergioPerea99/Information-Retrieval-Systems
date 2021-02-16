@@ -149,7 +149,7 @@ dializador
 14
 o
 18
-m
+m²
 en
 cada
 sesión
@@ -205,7 +205,7 @@ de
 30
 con
 10
-m
+m²
 de
 327
 
@@ -215,7 +215,7 @@ del
 6
 con
 14
-m
+m²
 y
 de
 347
@@ -227,7 +227,7 @@ del
 16
 con
 18
-m
+m²
 p
 
 0001
@@ -268,14 +268,14 @@ de
 56
 con
 10
-m
+m²
 a
 832
 
 42
 con
 14
-m
+m²
 y
 a
 843
@@ -283,7 +283,7 @@ a
 40
 con
 18
-m
+m²
 respecto
 a
 la
@@ -300,7 +300,7 @@ la
 menor
 superficie
 10
-m
+m²
 656
 
 11
@@ -321,7 +321,7 @@ y
 
 71
 14
-m
+m²
 y
 723
 
@@ -331,7 +331,7 @@ y
 
 12
 18
-m
+m²
 conclusión
 el
 incremento

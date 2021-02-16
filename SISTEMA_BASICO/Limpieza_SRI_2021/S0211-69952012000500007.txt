@@ -112,7 +112,7 @@ mdrd
 
 60
 mlmin173
-m
+m²
 se
 presentan
 datos

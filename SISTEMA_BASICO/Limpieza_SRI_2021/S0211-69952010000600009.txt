@@ -233,7 +233,7 @@ fg
 
 60
 mlmin173
-m
+m²
 mediante
 fórmula
 mdrd
@@ -265,7 +265,7 @@ superiores
 a
 60
 mlmin173
-m
+m²
 inversa
 a
 la

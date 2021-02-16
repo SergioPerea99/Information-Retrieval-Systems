@@ -178,7 +178,7 @@ esencial
 fge
 60
 mlmin173
-m
+m²
 microalbuminuria
 300
 mgg

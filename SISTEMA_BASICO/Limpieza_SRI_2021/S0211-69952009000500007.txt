@@ -125,7 +125,7 @@ de
 masa
 corporal
 30
-kgm
+kgm²
 con
 proteinuria
 05

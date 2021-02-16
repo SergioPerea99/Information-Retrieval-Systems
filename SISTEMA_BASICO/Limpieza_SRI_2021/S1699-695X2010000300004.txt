@@ -135,7 +135,7 @@ bivariado
 aplicándose
 la
 prueba
-chi
+chi²
 para
 encontrar
 la

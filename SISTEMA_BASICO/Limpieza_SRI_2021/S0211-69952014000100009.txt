@@ -186,7 +186,7 @@ tejido
 graso
 mayor
 115
-kgm
+kgm²
 log
 rank
 10220

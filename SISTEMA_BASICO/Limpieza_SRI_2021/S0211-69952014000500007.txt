@@ -168,7 +168,7 @@ fórmulas
 fue
 608
 mlmin173
-m
+m²
 ic
 95
 
@@ -189,7 +189,7 @@ imc
 mayor
 de
 25
-kgm
+kgm²
 presentaron
 un
 mejor
@@ -205,7 +205,7 @@ de
 medias
 739
 mlmin173
-m
+m²
 ic
 95
 
@@ -282,7 +282,7 @@ imc
 superior
 a
 25
-kgm
+kgm²
 ambas
 fórmulas
 sobrestiman

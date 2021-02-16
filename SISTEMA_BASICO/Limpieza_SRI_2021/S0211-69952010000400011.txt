@@ -90,7 +90,7 @@ ckd-epi
 fue
 437
 mlmin173
-m
+m²
 ic
 95
 373-419
@@ -117,7 +117,7 @@ fue
 mayor
 655
 mlmin173
-m
+m²
 ic
 95
 595-715

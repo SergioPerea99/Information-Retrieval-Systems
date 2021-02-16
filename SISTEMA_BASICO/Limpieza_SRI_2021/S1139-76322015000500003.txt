@@ -260,7 +260,7 @@ se
 utilizó
 la
 prueba
-935
+935²
 los
 datos
 se

@@ -112,7 +112,7 @@ medio
 133
 
 36
-kgm
+kgm²
 se
 correlaciona
 de
@@ -143,7 +143,7 @@ medio
 112
 
 61
-kgmse
+kgm²se
 correlaciona
 de
 forma
@@ -200,7 +200,7 @@ de
 imm
 gt
 0
-kgm
+kgm²
 presentan
 albúmina
 sérica
@@ -231,7 +231,7 @@ de
 img
 
 0
-kgm
+kgm²
 presentan
 menores
 cifras

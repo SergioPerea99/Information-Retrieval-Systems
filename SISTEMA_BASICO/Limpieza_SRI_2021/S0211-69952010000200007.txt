@@ -61,11 +61,11 @@ iotalamato
 media
 68
 mlmin173
-m
+m²
 de
 40
 mlmin173
-m
+m²
 y
 que
 incluye
@@ -136,7 +136,7 @@ superior
 a
 60
 mlmin173
-m
+m²
 en
 un
 grupo
@@ -219,7 +219,7 @@ estimado
 fue
 06
 mlmin173
-m
+m²
 más
 alto
 por
@@ -233,7 +233,7 @@ grupo
 total
 19
 mlmin173
-m
+m²
 más
 alto
 en
@@ -244,7 +244,7 @@ mujeres
 y
 02
 mlmin173
-m
+m²
 más
 bajo
 para
