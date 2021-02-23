@@ -9,8 +9,6 @@ class Filtrado(object):
         self.identificador = self.doc.getElementsByTagName("identifier")[0] #identificador del archivo
         self.fecha = self.doc.getElementsByTagName("dc:date")[0] #Fecha del documento
         self.nombre = self.doc.getElementsByTagName("dc:title")[0] #Nombre en español del documento
-        #self.autores = doc.getElementsByTagName("dc:creator") #Contenedor de autores
-        #self.temas = doc.getElementsByTagName("dc:subject") #Temas relacionados con el documento
         self.fuente = self.doc.getElementsByTagName("dc:source")[0] #Fuente de donde proviene la información. Interesante a la hora de posicionar según la fuente.
         self.cuerpo = self.doc.getElementsByTagName("dc:description")[0]
         self.informacion = [self.nombre, self.fecha, self.fuente, self.cuerpo]
@@ -27,7 +25,7 @@ class Filtrado(object):
             aux = i.firstChild.data
             minus = aux.lower()
             for i in minus:
-                if i == " " or i == "\n":
+                if i != " " or i != "\n":
                     archivo.write("\n")
                     num_tokens += 1
                 else:

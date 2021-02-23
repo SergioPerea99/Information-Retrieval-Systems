@@ -9,7 +9,7 @@ class Stopper(object):
         for linea in fichero:
             aniadir = linea.split("\n")
             self.contenido_fichero.append(aniadir[0])
-        print(self.contenido_fichero)
+        
 
     #Método para eliminar las palabras vacias de un archivo, almacenándolo en otro archivo dentro de la ruta indicada.
     def eliminacion_vacias(self,ruta_archivo, ruta_destino):
@@ -24,6 +24,7 @@ class Stopper(object):
         for i in limpiar_vacias:
             archivo.write(i+"\n")
         archivo.close()
+        return len(limpiar_vacias)
 
         
         
