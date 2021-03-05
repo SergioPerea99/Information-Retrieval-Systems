@@ -4,7 +4,7 @@ import os
 from os.path import isfile,join
 import time
 from nltk.stem import PorterStemmer
-
+from operator import itemgetter, attrgetter
 #---------------------------------------------------------------------
 #EJECUCION DE LA PRACTICA 1.1: Filtrado, Normalizacion y Tokenizacion.
 
@@ -32,18 +32,31 @@ tiempo_ejecucion = time.time() - start_time
 
 
 #Generar las 5 palabras de mayor frecuencia
-#TODO: -Por cada lista de la coleccion_palabras_normalizadas se debe crear una nueva pair tal que ponga la palabra y su frecuencia. Dsp sería ordenarlas una a una y sacar las 5 primeras.
-pair_palabras_frecuencia = []
+listaPalabras_normalizadas = []
+for lista_palabras in coleccion_palabras_normalizadas: #AGRUPAR TODAS LAS PALABRAS EN UNA MISMA LISTA
+    listaPalabras_normalizadas = listaPalabras_normalizadas + lista_palabras
 
-for lista_palabras in coleccion_palabras_normalizadas: #Para cada lista de palabras de la coleccion normalizada
-    listaPalabras_normalizadas = coleccion_palabras_normalizadas + lista_palabras
+palabraContada = []
+for w in listaPalabras_normalizadas: #ELIMINAR LAS PALABRAS REPETIDAS EN OTRA LISTA
+    if not w in palabraContada:
+        palabraContada.append(w)
+        
+frecuenciaPalab = []    
+for w in palabraContada: #CONTADOR DE CADA PALABRA (UNICA) DESDE LA LISTA QUE CONTIENE TODAS LAS PALABRAS (REPETIDAS)
+    frecuenciaPalab.append(listaPalabras_normalizadas.count(w))
+    
+pair_palabras_frecuencia = list(zip(palabraContada,frecuenciaPalab))
+pair_palabras_frecuencia = sorted(pair_palabras_frecuencia, key=itemgetter(1), reverse=True)
 
-frecuenciaPalab = []
-for w in listaPalabras_normalizadas: #Contador por palabra de cada lista
-    frecuenciaPalab.append(lista_palabras.count(w))
+palabras_mayorFrecuencia = []
+i = 0
+while i < 5:
+    palabras_mayorFrecuencia.append(pair_palabras_frecuencia[i])
+    i = i + 1
+#print(str(pair_palabras_frecuencia))
+#print(len(pair_palabras_frecuencia))
+print(str(palabras_mayorFrecuencia))
 
-pair_palabras_frecuencia = list(zip(listaPalabras_normalizadas,frecuenciaPalab))
-print(str(pair_palabras_frecuencia))
 
 #---ABRIR EL DOCUMENTO DE LAS MEMORIAS
 documentacion_final = open("C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\documentacion.txt",'w')
