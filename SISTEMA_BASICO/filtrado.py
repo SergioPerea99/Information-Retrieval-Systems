@@ -41,7 +41,9 @@ class Filtrado(object):
                     archivo.write("\n")
             i += 1
         archivo.close()
-        return num_tokens
+        devolver = (num_tokens,lista_palabras)
+        return devolver
+    
         
 
 

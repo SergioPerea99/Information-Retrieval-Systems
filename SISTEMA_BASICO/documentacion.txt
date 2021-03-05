@@ -1,5 +1,5 @@
 -------------- MEMORIA DE LA PRÁCTICA 1.1 --------------
-El programa ha tardado 2.6942942142486572 segundos en ejecutarse.
+El programa ha tardado 3.352895736694336 segundos en ejecutarse.
 Total de archivos procesados -> 1000.
 Total de tokens -> 276271 :: Tokens/archivo -> 276.271.
 Número MÍNIMO de palabras una vez normalizado y tokenizado -> 141
