@@ -17,7 +17,8 @@ class Filtrado(object):
     def normalizacion_tokenizacion(self,ruta):
         aux = self.identificador.firstChild.data
         nombre_archivo = aux.split(":")
-        no_borrar = ['-','_','']
+        no_borrar = ['-','_',' ']
+        cadena = []
         num_tokens = 0
         archivo = open(join(ruta,nombre_archivo[len(nombre_archivo)-1]) +".txt","w")
         
@@ -25,14 +26,20 @@ class Filtrado(object):
             aux = i.firstChild.data
             minus = aux.lower()
             for i in minus:
-                if i != " " or i != "\n":
+                if i.isalpha() or i.isdigit() or i in no_borrar:
+                    cadena.append(i)
+        
+        lista_palabras = ''.join(cadena)
+        lista_palabras = lista_palabras.split(" ")
+        
+        i = 0
+        while i < len(lista_palabras):
+            if lista_palabras[i] != '':
+                archivo.write(lista_palabras[i])
+                num_tokens += 1
+                if not i == len(lista_palabras)-1:
                     archivo.write("\n")
-                    num_tokens += 1
-                else:
-                    archivo.write(''.join([j for j in i if j.isalpha() or j.isdigit() or no_borrar.__contains__(j)]))
-            archivo.write("\n")     
-            num_tokens += 1
-
+            i += 1
         archivo.close()
         return num_tokens
         

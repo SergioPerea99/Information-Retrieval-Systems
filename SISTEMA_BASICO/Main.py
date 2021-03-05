@@ -3,6 +3,7 @@ from filtrado import Filtrado
 import os
 from os.path import isfile,join
 import time
+from nltk.stem import PorterStemmer
 
 
 #EJECUCION DE LA PRACTICA 1.1: Filtrado, Normalizacion y Tokenizacion.
@@ -47,6 +48,7 @@ total_palabras_no_vacias = 0
 minimo_palabras = 9999999
 maximo_palabras = -1
 
+
 for archivo in archivos:
     palabrasDoc_no_vacias = vacias.eliminacion_vacias(join(rutaColeccion,archivo),join(ruta_destino,archivo)) #Eliminar palabra vacía
     if minimo_palabras > palabrasDoc_no_vacias: minimo_palabras = palabrasDoc_no_vacias
@@ -59,6 +61,11 @@ documentacion_final.write("Número TOTAL de palabras una vez limpiada de palabra
 documentacion_final.write("Número MÍNIMO de palabras una vez limpiada de palabras vacias -> "+str(minimo_palabras)+"\n")
 documentacion_final.write("Número MÁXIMO de palabras una vez limpiada de palabras vacias -> "+str(maximo_palabras)+"\n")
 documentacion_final.write("Número MEDIO de palabras por documento -> "+str(total_palabras_no_vacias/num_archivos)+"\n")
+
+
+
+#EJECUCIÓN DE LA PRÁCTICA 1.3: STEMMER CON PORTER.
+#TODO: - Antes de usar el stemmer es necesario quitar los "\n" de las palabras de los ficheros para que lo pueda reconocer.
 
 
 #CERRAR EL DOCUMENTO DE LAS MEMORIAS
