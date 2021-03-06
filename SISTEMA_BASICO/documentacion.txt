@@ -1,12 +1,15 @@
 -------------- MEMORIA DE LA PRÁCTICA 1.1 --------------
-El programa ha tardado 1.6300480365753174 segundos en ejecutarse.
+El programa ha tardado 1.725548267364502 segundos en ejecutarse.
 Total de archivos procesados -> 1000.
 Total de tokens -> 276271 :: Tokens/archivo -> 276.271.
 Número MÍNIMO de palabras una vez normalizado y tokenizado -> 141
 Número MÁXIMO de palabras una vez normalizado y tokenizado -> 921
+Número MEDIO de palabras por documento -> 276.271
+Las 5 palabras más frecuentes -> [(('de', 23020), 1.0972354623450906), (('la', 11741), 0.559628217349857), (('en', 9332), 0.4448045757864633), (('y', 9133), 0.4353193517635844), (('el', 7499), 0.35743565300285984)]
 -------------- MEMORIA DE LA PRÁCTICA 1.2 --------------
 Listado de Stopword seleccionado -> spanishSmart.txt
 Número TOTAL de palabras una vez limpiada de palabras vacias -> 150457
 Número MÍNIMO de palabras una vez limpiada de palabras vacias -> 72
 Número MÁXIMO de palabras una vez limpiada de palabras vacias -> 452
 Número MEDIO de palabras por documento -> 150.457
+Las 5 palabras más frecuentes -> [(('úlceras', 4), 0.03418803418803419), (('profesionales', 4), 0.03418803418803419), (('terapia', 3), 0.02564102564102564), (('venosas', 3), 0.02564102564102564), (('pacientes', 3), 0.02564102564102564)]

@@ -36,26 +36,26 @@ listaPalabras_normalizadas = []
 for lista_palabras in coleccion_palabras_normalizadas: #AGRUPAR TODAS LAS PALABRAS EN UNA MISMA LISTA
     listaPalabras_normalizadas = listaPalabras_normalizadas + lista_palabras
 
-palabraContada = []
+palabrasUnicas = []
 for w in listaPalabras_normalizadas: #ELIMINAR LAS PALABRAS REPETIDAS EN OTRA LISTA
-    if not w in palabraContada:
-        palabraContada.append(w)
+    if not w in palabrasUnicas:
+        palabrasUnicas.append(w)
         
 frecuenciaPalab = []    
-for w in palabraContada: #CONTADOR DE CADA PALABRA (UNICA) DESDE LA LISTA QUE CONTIENE TODAS LAS PALABRAS (REPETIDAS)
+for w in palabrasUnicas: #CONTADOR DE CADA PALABRA (UNICA) DESDE LA LISTA QUE CONTIENE TODAS LAS PALABRAS (REPETIDAS)
     frecuenciaPalab.append(listaPalabras_normalizadas.count(w))
     
-pair_palabras_frecuencia = list(zip(palabraContada,frecuenciaPalab))
+pair_palabras_frecuencia = list(zip(palabrasUnicas,frecuenciaPalab))
 pair_palabras_frecuencia = sorted(pair_palabras_frecuencia, key=itemgetter(1), reverse=True)
 
 palabras_mayorFrecuencia = []
-i = 0
-while i < 5:
+palabras_frecuenciaColeccion = []
+for i in range(5):
+    palabras_frecuenciaColeccion.append(pair_palabras_frecuencia[i][1]/len(palabrasUnicas))
     palabras_mayorFrecuencia.append(pair_palabras_frecuencia[i])
-    i = i + 1
-#print(str(pair_palabras_frecuencia))
-#print(len(pair_palabras_frecuencia))
-print(str(palabras_mayorFrecuencia))
+
+palabras5_mayorFrec = list(zip(palabras_mayorFrecuencia,palabras_frecuenciaColeccion))
+#print(str(palabras5_mayorFrec))
 
 
 #---ABRIR EL DOCUMENTO DE LAS MEMORIAS
@@ -66,6 +66,8 @@ documentacion_final.write("Total de archivos procesados -> "+str(num_archivos)+"
 documentacion_final.write("Total de tokens -> "+str(sum_tokens)+" :: Tokens/archivo -> "+str(sum_tokens/num_archivos)+".\n")
 documentacion_final.write("Número MÍNIMO de palabras una vez normalizado y tokenizado -> "+str(minimo_palabras)+"\n")
 documentacion_final.write("Número MÁXIMO de palabras una vez normalizado y tokenizado -> "+str(maximo_palabras)+"\n")
+documentacion_final.write("Número MEDIO de palabras por documento -> "+str(sum_tokens/num_archivos)+"\n")
+documentacion_final.write("Las 5 palabras más frecuentes -> "+str(palabras5_mayorFrec)+"\n")
 
 
 
@@ -84,9 +86,32 @@ maximo_palabras = -1
 
 for archivo in archivos:
     palabrasDoc_no_vacias = vacias.eliminacion_vacias(join(rutaColeccion,archivo),join(ruta_destino,archivo)) #Eliminar palabra vacía
-    if minimo_palabras > palabrasDoc_no_vacias: minimo_palabras = palabrasDoc_no_vacias
-    if maximo_palabras < palabrasDoc_no_vacias: maximo_palabras = palabrasDoc_no_vacias
-    total_palabras_no_vacias += palabrasDoc_no_vacias
+    if minimo_palabras > len(palabrasDoc_no_vacias): minimo_palabras = len(palabrasDoc_no_vacias)
+    if maximo_palabras < len(palabrasDoc_no_vacias): maximo_palabras = len(palabrasDoc_no_vacias)
+    total_palabras_no_vacias += len(palabrasDoc_no_vacias)
+
+
+#Generar las 5 palabras de mayor frecuencia
+palabrasUnicas.clear()
+for w in palabrasDoc_no_vacias: #ELIMINAR LAS PALABRAS REPETIDAS EN OTRA LISTA
+    if not w in palabrasUnicas:
+        palabrasUnicas.append(w)
+        
+frecuenciaPalab.clear()   
+for w in palabrasUnicas: #CONTADOR DE CADA PALABRA (UNICA) DESDE LA LISTA QUE CONTIENE TODAS LAS PALABRAS (REPETIDAS)
+    frecuenciaPalab.append(palabrasDoc_no_vacias.count(w))
+
+pair_palabras_frecuencia = list(zip(palabrasUnicas,frecuenciaPalab))
+pair_palabras_frecuencia = sorted(pair_palabras_frecuencia, key=itemgetter(1), reverse=True)
+
+palabras_mayorFrecuencia = []
+palabras_frecuenciaColeccion = []
+for i in range(5):
+    palabras_frecuenciaColeccion.append(pair_palabras_frecuencia[i][1]/len(palabrasUnicas))
+    palabras_mayorFrecuencia.append(pair_palabras_frecuencia[i])
+
+palabras5_mayorFrec = list(zip(palabras_mayorFrecuencia,palabras_frecuenciaColeccion))
+
 
 documentacion_final.write("-------------- MEMORIA DE LA PRÁCTICA 1.2 --------------"+"\n")
 documentacion_final.write("Listado de Stopword seleccionado -> "+lista_stopword+"\n")
@@ -94,8 +119,7 @@ documentacion_final.write("Número TOTAL de palabras una vez limpiada de palabra
 documentacion_final.write("Número MÍNIMO de palabras una vez limpiada de palabras vacias -> "+str(minimo_palabras)+"\n")
 documentacion_final.write("Número MÁXIMO de palabras una vez limpiada de palabras vacias -> "+str(maximo_palabras)+"\n")
 documentacion_final.write("Número MEDIO de palabras por documento -> "+str(total_palabras_no_vacias/num_archivos)+"\n")
-
-#Generar las 5 palabras de mayor frecuencia
+documentacion_final.write("Las 5 palabras más frecuentes -> "+str(palabras5_mayorFrec)+"\n")
 
 
 #---------------------------------------------------------------------

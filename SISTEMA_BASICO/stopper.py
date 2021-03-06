@@ -24,7 +24,7 @@ class Stopper(object):
         for i in limpiar_vacias:
             archivo.write(i+"\n")
         archivo.close()
-        return len(limpiar_vacias)
+        return limpiar_vacias
 
         
         
