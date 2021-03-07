@@ -22,11 +22,14 @@ en
 pacientes
 con
 insuficiencia
-renal2010-01-01nefrología
+renal
+2010-01-01
+nefrología
 madrid
 v30
 n3
-2010introducción
+2010
+introducción
 la
 medición
 de

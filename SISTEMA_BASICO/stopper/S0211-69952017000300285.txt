@@ -7,11 +7,14 @@ renal
 sustitutivo
 provincia
 toledo
-2012-20132017-06-01nefrología
+2012-2013
+2017-06-01
+nefrología
 madrid
 v37
 n3
-2017resumen
+2017
+resumen
 introducción
 coste
 ocasionado

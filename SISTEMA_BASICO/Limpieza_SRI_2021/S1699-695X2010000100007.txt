@@ -12,7 +12,9 @@ de
 la
 boquilla
 cartagena-
-colombia2010-02-01revista
+colombia
+2010-02-01
+revista
 clínica
 de
 medicina
@@ -20,7 +22,8 @@ de
 familia
 v3
 n1
-2010objetivo
+2010
+objetivo
 describir
 las
 representaciones

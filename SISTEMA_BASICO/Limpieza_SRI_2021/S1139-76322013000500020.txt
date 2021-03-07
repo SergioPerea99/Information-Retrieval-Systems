@@ -9,12 +9,15 @@ historias
 de
 embarazos
 en
-adolescentes2013-12-01pediatría
+adolescentes
+2013-12-01
+pediatría
 atención
 primaria
 v15
 n60
-2013los
+2013
+los
 embarazos
 en
 adolescentes

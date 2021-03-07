@@ -2,12 +2,15 @@ cefalea
 manifestación
 inicial
 enfermedad
-celíaca2017-03-01pediatría
+celíaca
+2017-03-01
+pediatría
 atención
 primaria
 v19
 n73
-2017resumen
+2017
+resumen
 celiaquía
 enfermedad
 inmunomediada

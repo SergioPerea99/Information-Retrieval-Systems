@@ -9,11 +9,14 @@ crónico
 tunelizado
 causa
 resistencia
-bacteriana2011-01-01nefrología
+bacteriana
+2011-01-01
+nefrología
 madrid
 v31
 n3
-2011introducción
+2011
+introducción
 profilaxis
 sellado
 gentamicina

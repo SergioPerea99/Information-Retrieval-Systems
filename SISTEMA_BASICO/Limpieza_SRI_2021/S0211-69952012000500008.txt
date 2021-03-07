@@ -7,11 +7,14 @@ con
 síndrome
 nefrótico
 córtico-resistente
-primario2012-01-01nefrología
+primario
+2012-01-01
+nefrología
 madrid
 v32
 n3
-2012la
+2012
+la
 persistencia
 de
 la

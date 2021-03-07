@@ -4,12 +4,15 @@ meningocócica
 serogrupo
 b
 vacuna
-componentes2014-06-01pediatría
+componentes
+2014-06-01
+pediatría
 atención
 primaria
 v16
 n62
-2014introducción
+2014
+introducción
 enfermedad
 meningocócica
 infección

@@ -10,11 +10,14 @@ versión
 cliente
 revisada
 muestra
-española2015-01-01anales
+española
+2015-01-01
+anales
 psicología
 v31
 n1
-2015diversas
+2015
+diversas
 aproximaciones
 hipnosis
 destacado

@@ -5,11 +5,14 @@ alfa-actinina-4
 tejido
 renal
 pacientes
-proteinuria2009-01-01nefrología
+proteinuria
+2009-01-01
+nefrología
 madrid
 v29
 n6
-2009introducción
+2009
+introducción
 alteraciones
 diafragma
 filtración

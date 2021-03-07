@@ -9,12 +9,14 @@ muerte
 súbita
 lactante
 dormir
-padres2012-03-01pediatría
+padres
+2012-03-01
+pediatría
 atención
 primaria
 v14
 n53
-2012la
+2012
 práctica
 padres
 dormir

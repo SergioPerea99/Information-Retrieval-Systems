@@ -7,11 +7,14 @@ equilibrio
 ácido-base
 pacientes
 estables
-hemodiafiltración2010-01-01nefrología
+hemodiafiltración
+2010-01-01
+nefrología
 madrid
 v30
 n2
-2010introducción
+2010
+introducción
 evaluación
 equilibrio
 ácido-base

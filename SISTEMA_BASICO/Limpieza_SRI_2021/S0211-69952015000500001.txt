@@ -9,11 +9,14 @@ y
 tratamiento
 documento
 de
-consenso2015-01-01nefrología
+consenso
+2015-01-01
+nefrología
 madrid
 v35
 n5
-2015el
+2015
+el
 síndrome
 hemolítico
 urémico

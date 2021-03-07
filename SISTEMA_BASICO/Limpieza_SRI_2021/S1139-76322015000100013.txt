@@ -4,12 +4,15 @@ candida
 krusei
 simulando
 herpes
-cutáneo2015-03-01pediatría
+cutáneo
+2015-03-01
+pediatría
 atención
 primaria
 v17
 n65
-2015las
+2015
+las
 infecciones
 fúngicas
 de

@@ -4,12 +4,15 @@ atención
 primaria
 análisis
 implantación
-modelo2014-09-01pediatría
+modelo
+2014-09-01
+pediatría
 atención
 primaria
 v16
 n63
-2014objetivo
+2014
+objetivo
 capacidad
 resolutiva
 triaje

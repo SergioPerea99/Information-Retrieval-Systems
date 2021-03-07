@@ -13,7 +13,9 @@ a
 discapacitados
 psíquicos
 de
-albacete2010-02-01revista
+albacete
+2010-02-01
+revista
 clínica
 de
 medicina
@@ -21,7 +23,8 @@ de
 familia
 v3
 n1
-2010objetivo
+2010
+objetivo
 determinar
 la
 prevalencia

@@ -8,7 +8,9 @@ pacientes
 oncológicos
 en
 castilla-la
-mancha2011-10-01revista
+mancha
+2011-10-01
+revista
 clínica
 de
 medicina
@@ -16,7 +18,8 @@ de
 familia
 v4
 n3
-2011objetivo
+2011
+objetivo
 conocer
 las
 necesidades

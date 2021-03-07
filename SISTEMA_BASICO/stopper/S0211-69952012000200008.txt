@@ -7,11 +7,14 @@ gradiente
 temperatura
 utilizando
 dispositivo
-twister2012-01-01nefrología
+twister
+2012-01-01
+nefrología
 madrid
 v32
 n2
-2012introducción
+2012
+introducción
 determinación
 periódica
 flujo

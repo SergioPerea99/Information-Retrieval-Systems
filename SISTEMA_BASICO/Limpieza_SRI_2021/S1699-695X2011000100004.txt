@@ -6,7 +6,9 @@ entre
 estudiantes
 universitarios
 de
-odontología2011-02-01revista
+odontología
+2011-02-01
+revista
 clínica
 de
 medicina
@@ -14,7 +16,8 @@ de
 familia
 v4
 n1
-2011objetivo
+2011
+objetivo
 evaluar
 la
 prevalencia

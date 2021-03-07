@@ -10,7 +10,9 @@ función
 del
 medio
 de
-procedencia2012-10-01revista
+procedencia
+2012-10-01
+revista
 clínica
 de
 medicina
@@ -18,7 +20,8 @@ de
 familia
 v5
 n3
-2012objetivo
+2012
+objetivo
 determinar
 la
 existencia

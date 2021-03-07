@@ -8,11 +8,14 @@ tasa
 filtración
 glomerular
 modelo
-hiperbólico2011-01-01nefrología
+hiperbólico
+2011-01-01
+nefrología
 madrid
 v31
 n5
-2011objetivos
+2011
+objetivos
 pacientes
 insuficiencia
 renal

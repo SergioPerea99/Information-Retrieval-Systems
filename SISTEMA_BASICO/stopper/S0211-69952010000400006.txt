@@ -8,11 +8,14 @@ pacientes
 vih
 eras
 pre
-targa2010-01-01nefrología
+targa
+2010-01-01
+nefrología
 madrid
 v30
 n4
-2010fundamento
+2010
+fundamento
 objetivo
 estudio
 analizar

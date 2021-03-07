@@ -1,12 +1,14 @@
 trastornos
 movimiento
 epilépticos
-infancia2009-12-01pediatría
+infancia
+2009-12-01
+pediatría
 atención
 primaria
 v11
 suppl17
-2009los
+2009
 trastornos
 paroxísticos
 alteraciones

@@ -5,11 +5,14 @@ pacientes
 ingresados
 insuficiencia
 renal
-crónica2014-01-01nefrología
+crónica
+2014-01-01
+nefrología
 madrid
 v34
 n6
-2014antecedentes
+2014
+antecedentes
 insuficiencia
 renal
 crónica

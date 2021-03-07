@@ -9,7 +9,9 @@ ciudad
 de
 albacete
 año
-20052009-10-01revista
+2005
+2009-10-01
+revista
 clínica
 de
 medicina
@@ -17,7 +19,8 @@ de
 familia
 v2
 n8
-2009objetivo
+2009
+objetivo
 estudiar
 el
 efecto

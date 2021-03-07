@@ -9,11 +9,13 @@ estudio
 preliminar
 permeabilidad
 eficacia
-diálisis2014-01-01nefrología
+diálisis
+2014-01-01
+nefrología
 madrid
 v34
 n1
-2014la
+2014
 vuelta
 diálisis
 fallo

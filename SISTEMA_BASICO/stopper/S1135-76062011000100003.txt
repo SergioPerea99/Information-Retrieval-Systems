@@ -4,12 +4,14 @@ causa
 muerte
 autopsia
 médico-legal
-ii2011-03-01cuadernos
+ii
+2011-03-01
+cuadernos
 medicina
 forense
 v17
 n1
-2011una
+2011
 tareas
 difíciles
 patología

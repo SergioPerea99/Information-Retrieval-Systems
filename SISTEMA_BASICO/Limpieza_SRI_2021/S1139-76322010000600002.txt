@@ -1,11 +1,14 @@
 bronquiolitis
 y
-neumonía2010-12-01pediatría
+neumonía
+2010-12-01
+pediatría
 atención
 primaria
 v12
 n48
-2010objetivo
+2010
+objetivo
 valorar
 si
 existen

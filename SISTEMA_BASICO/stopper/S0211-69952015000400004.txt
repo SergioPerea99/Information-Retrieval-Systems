@@ -6,11 +6,14 @@ pacientes
 trasplantados
 renales
 hiperparatiroidismo
-secundario2015-01-01nefrología
+secundario
+2015-01-01
+nefrología
 madrid
 v35
 n4
-2015introducción
+2015
+introducción
 hiperparatiroidismo
 secundario
 prevalente

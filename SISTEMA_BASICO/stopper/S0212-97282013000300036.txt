@@ -5,11 +5,12 @@ affective
 picture
 system
 iaps
-parte2013-10-01anales
+2013-10-01
+anales
 psicología
 v29
 n3
-2013este
+2013
 trabajo
 proporciona
 valores

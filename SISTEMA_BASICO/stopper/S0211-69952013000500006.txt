@@ -8,11 +8,14 @@ renal
 crónica
 avanzada
 tratados
-diuréticos2013-01-01nefrología
+diuréticos
+2013-01-01
+nefrología
 madrid
 v33
 n4
-2013introducción
+2013
+introducción
 concentraciones
 séricas
 fósforo

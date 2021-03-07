@@ -10,7 +10,9 @@ estabilidad
 laboral
 de
 médicos
-generales2009-10-01revista
+generales
+2009-10-01
+revista
 clínica
 de
 medicina
@@ -18,7 +20,8 @@ de
 familia
 v2
 n8
-2009objetivo
+2009
+objetivo
 conocer
 las
 motivaciones

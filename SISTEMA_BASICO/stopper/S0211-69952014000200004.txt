@@ -6,11 +6,14 @@ calidad
 asistencial
 nefrología
 técnica
-delphi2014-01-01nefrología
+delphi
+2014-01-01
+nefrología
 madrid
 v34
 n2
-2014antecedentes
+2014
+antecedentes
 libre
 elección
 fácil

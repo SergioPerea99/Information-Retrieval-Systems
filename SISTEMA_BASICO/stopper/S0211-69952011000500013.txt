@@ -5,11 +5,13 @@ paciente
 tratado
 cinacalcet
 informe
-caso2011-01-01nefrología
+caso
+2011-01-01
+nefrología
 madrid
 v31
 n5
-2011el
+2011
 propósito
 informe
 caso

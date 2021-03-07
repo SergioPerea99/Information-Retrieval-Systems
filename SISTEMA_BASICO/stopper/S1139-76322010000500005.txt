@@ -2,12 +2,15 @@ situación
 pediatría
 atención
 primaria
-cataluña2010-11-01pediatría
+cataluña
+2010-11-01
+pediatría
 atención
 primaria
 v12
 suppl19
-2010objetivo
+2010
+objetivo
 exponer
 características
 pediatría

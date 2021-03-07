@@ -2,12 +2,15 @@ hiperfrecuentadores
 urgencias
 pediátricas
 culpa
-padres2017-06-01pediatría
+padres
+2017-06-01
+pediatría
 atención
 primaria
 v19
 n74
-2017resumen
+2017
+resumen
 introducción
 información
 abuso

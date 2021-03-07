@@ -8,12 +8,15 @@ salud
 urbano
 zaragoza
 oportunidades
-mejora2012-06-01pediatría
+mejora
+2012-06-01
+pediatría
 atención
 primaria
 v14
 n54
-2012introducción
+2012
+introducción
 años
 cambiado
 considerablemente

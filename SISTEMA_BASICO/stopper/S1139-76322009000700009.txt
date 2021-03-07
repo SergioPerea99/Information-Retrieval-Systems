@@ -4,12 +4,14 @@ autista
 detección
 precoz
 herramientas
-cribado2009-12-01pediatría
+cribado
+2009-12-01
+pediatría
 atención
 primaria
 v11
 suppl17
-2009el
+2009
 término
 trastornos
 espectro

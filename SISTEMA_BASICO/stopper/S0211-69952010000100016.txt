@@ -11,11 +11,14 @@ renal
 crónica
 españa
 proyecto
-nefrona2010-01-01nefrología
+nefrona
+2010-01-01
+nefrología
 madrid
 v30
 n1
-2010justificación
+2010
+justificación
 enfermedad
 cardiovascular
 ecv

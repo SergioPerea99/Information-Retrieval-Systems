@@ -11,11 +11,14 @@ renal
 crónica
 servicios
 nefrología
-perú2012-01-01nefrología
+perú
+2012-01-01
+nefrología
 madrid
 v32
 n2
-2012antecedentes
+2012
+antecedentes
 enfermedad
 renal
 crónica

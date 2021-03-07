@@ -7,11 +7,14 @@ biopsia
 ambulatoria
 en
 trasplante
-renal2014-01-01nefrología
+renal
+2014-01-01
+nefrología
 madrid
 v34
 n6
-2014antecedentes
+2014
+antecedentes
 la
 biopsia
 del

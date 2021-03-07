@@ -1,12 +1,14 @@
 pediatría
 atención
 primaria
-madrid2010-11-01pediatría
+madrid
+2010-11-01
+pediatría
 atención
 primaria
 v12
 suppl19
-2010la
+2010
 pediatría
 atención
 primaria

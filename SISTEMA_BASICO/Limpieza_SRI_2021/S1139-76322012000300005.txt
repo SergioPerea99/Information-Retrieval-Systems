@@ -10,12 +10,15 @@ sobrepeso
 y
 obesidad
 estudio
-obescat2012-06-01pediatría
+obescat
+2012-06-01
+pediatría
 atención
 primaria
 v14
 n54
-2012objetivo
+2012
+objetivo
 evaluar
 la
 eficacia

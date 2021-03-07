@@ -18,11 +18,14 @@ autosómica
 dominante
 sin
 insuficiencia
-renal2010-01-01nefrología
+renal
+2010-01-01
+nefrología
 madrid
 v30
 n5
-2010antecedentes
+2010
+antecedentes
 el
 aumento
 del

@@ -9,11 +9,14 @@ asistolia
 controlada
 tipo
 iii
-maastricht2012-01-01nefrología
+maastricht
+2012-01-01
+nefrología
 madrid
 v32
 n6
-2012introducción
+2012
+introducción
 disponibilidad
 donantes
 factor

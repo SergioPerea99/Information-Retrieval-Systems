@@ -9,11 +9,14 @@ comparación
 ecuaciones
 ckd-epi
 mdrd-idms
-bis12017-04-01nefrología
+bis1
+2017-04-01
+nefrología
 madrid
 v37
 n2
-2017resumen
+2017
+resumen
 antecedentes
 estimación
 filtrado

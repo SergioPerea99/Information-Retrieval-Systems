@@ -8,11 +8,14 @@ bloqueo
 eje
 renina-angiotensina-aldosterona
 trasplante
-renal2016-10-01nefrología
+renal
+2016-10-01
+nefrología
 madrid
 v36
 n5
-2016resumen
+2016
+resumen
 antecedentes
 proteinuria
 postrasplante

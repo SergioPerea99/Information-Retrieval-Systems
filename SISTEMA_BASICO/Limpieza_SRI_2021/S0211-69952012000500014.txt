@@ -19,11 +19,14 @@ con
 diabetes
 mellitus
 tipo
-22012-01-01nefrología
+2
+2012-01-01
+nefrología
 madrid
 v32
 n3
-2012reflexionamos
+2012
+reflexionamos
 sobre
 las
 discrepancias

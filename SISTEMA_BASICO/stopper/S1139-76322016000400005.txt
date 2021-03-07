@@ -8,12 +8,15 @@ herencia
 genética
 percepción
 imagen
-corporal2016-12-01pediatría
+corporal
+2016-12-01
+pediatría
 atención
 primaria
 v18
 n72
-2016resumen
+2016
+resumen
 introducción
 sobrepeso
 obesidad

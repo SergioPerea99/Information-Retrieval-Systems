@@ -6,12 +6,15 @@ atención
 primaria
 área
 sanitaria
-madrid2010-03-01pediatría
+madrid
+2010-03-01
+pediatría
 atención
 primaria
 v12
 n45
-2010objetivo
+2010
+objetivo
 valorar
 conocimientos
 pediatras

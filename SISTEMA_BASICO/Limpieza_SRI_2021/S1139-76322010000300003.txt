@@ -14,12 +14,15 @@ en
 un
 hospital
 de
-barcelona2010-06-01pediatría
+barcelona
+2010-06-01
+pediatría
 atención
 primaria
 v12
 n46
-2010introducción
+2010
+introducción
 mycoplasma
 pneumoniae
 y

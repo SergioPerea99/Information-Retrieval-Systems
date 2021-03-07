@@ -13,7 +13,9 @@ universidad
 pública
 del
 caribe
-colombiano2010-10-01revista
+colombiano
+2010-10-01
+revista
 clínica
 de
 medicina
@@ -21,7 +23,8 @@ de
 familia
 v3
 n3
-2010objetivo
+2010
+objetivo
 describir
 la
 historia

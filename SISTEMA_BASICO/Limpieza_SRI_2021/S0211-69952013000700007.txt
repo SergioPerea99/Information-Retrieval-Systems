@@ -18,11 +18,14 @@ pacientes
 con
 enfermedad
 renal
-crónica2013-01-01nefrología
+crónica
+2013-01-01
+nefrología
 madrid
 v33
 n6
-2013introducción
+2013
+introducción
 y
 objetivos
 la

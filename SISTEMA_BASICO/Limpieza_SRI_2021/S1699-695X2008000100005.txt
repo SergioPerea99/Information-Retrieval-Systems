@@ -7,7 +7,9 @@ en
 la
 provincia
 de
-albacete2008-02-01revista
+albacete
+2008-02-01
+revista
 clínica
 de
 medicina
@@ -15,7 +17,8 @@ de
 familia
 v2
 n3
-2008objetivos
+2008
+objetivos
 determinar
 la
 incidencia

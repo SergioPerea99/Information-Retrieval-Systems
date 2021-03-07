@@ -10,11 +10,14 @@ instituto
 medicina
 legal
 valencia
-1997-20052005-10-01cuadernos
+1997-2005
+2005-10-01
+cuadernos
 medicina
 forense
 n42
-2005introducción
+2005
+introducción
 objetivos
 países
 industrializados

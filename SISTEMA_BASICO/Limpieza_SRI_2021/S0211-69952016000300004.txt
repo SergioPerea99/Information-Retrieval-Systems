@@ -10,11 +10,14 @@ glomancha
 en
 el
 periodo
-1994-20082016-06-01nefrología
+1994-2008
+2016-06-01
+nefrología
 madrid
 v36
 n3
-2016resumen
+2016
+resumen
 antecedentes
 los
 registros

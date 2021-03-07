@@ -4,12 +4,15 @@ valoración
 daño
 estético
 propuesta
-baremo2014-03-01cuadernos
+baremo
+2014-03-01
+cuadernos
 medicina
 forense
 v20
 n1
-2014introducción
+2014
+introducción
 perjuicio
 estético
 día

@@ -12,11 +12,14 @@ a
 la
 medicina
 del
-adulto2016-12-01nefrología
+adulto
+2016-12-01
+nefrología
 madrid
 v36
 n6
-2016resumen
+2016
+resumen
 introducción
 el
 aumento

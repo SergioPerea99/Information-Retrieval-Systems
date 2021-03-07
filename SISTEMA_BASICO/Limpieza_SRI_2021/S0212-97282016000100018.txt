@@ -8,12 +8,15 @@ cognitiva
 infantil
 en
 población
-española2016-01-01anales
+española
+2016-01-01
+anales
 de
 psicología
 v32
 n1
-2016la
+2016
+la
 depresión
 es
 uno

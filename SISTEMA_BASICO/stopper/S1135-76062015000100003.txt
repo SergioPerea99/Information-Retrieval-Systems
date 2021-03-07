@@ -13,12 +13,14 @@ humanos
 caso
 petrova
 v
-letonia2015-06-01cuadernos
+letonia
+2015-06-01
+cuadernos
 medicina
 forense
 v21
 n1-2
-2015la
+2015
 prestación
 consentimiento
 extracción

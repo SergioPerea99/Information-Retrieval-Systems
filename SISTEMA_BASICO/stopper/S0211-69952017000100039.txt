@@ -9,11 +9,14 @@ residual
 inicio
 tratamiento
 renal
-sustitutivo2017-02-01nefrología
+sustitutivo
+2017-02-01
+nefrología
 madrid
 v37
 n1
-2017resumen
+2017
+resumen
 introducción
 interés
 preservar

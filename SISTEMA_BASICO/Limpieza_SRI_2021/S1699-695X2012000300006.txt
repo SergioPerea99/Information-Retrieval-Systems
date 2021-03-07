@@ -11,7 +11,9 @@ en
 niños
 escolares
 en
-cartagena-colombia2012-10-01revista
+cartagena-colombia
+2012-10-01
+revista
 clínica
 de
 medicina
@@ -19,7 +21,8 @@ de
 familia
 v5
 n3
-2012objetivo
+2012
+objetivo
 evaluar
 la
 asociación

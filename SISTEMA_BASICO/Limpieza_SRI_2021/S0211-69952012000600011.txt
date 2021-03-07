@@ -13,11 +13,14 @@ en
 orina
 de
 24
-horas2012-01-01nefrología
+horas
+2012-01-01
+nefrología
 madrid
 v32
 n4
-2012introducción
+2012
+introducción
 las
 proteínas
 presentan

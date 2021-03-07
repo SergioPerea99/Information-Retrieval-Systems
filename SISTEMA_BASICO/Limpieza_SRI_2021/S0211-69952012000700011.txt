@@ -11,11 +11,14 @@ in
 women
 with
 kidney
-transplant2012-01-01nefrología
+transplant
+2012-01-01
+nefrología
 madrid
 v32
 n5
-2012antecedentes
+2012
+antecedentes
 el
 embarazo
 en

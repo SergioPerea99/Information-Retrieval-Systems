@@ -11,11 +11,14 @@ diálisis
 cataluña
 estudio
 micenas
-i2014-01-01nefrología
+i
+2014-01-01
+nefrología
 madrid
 v34
 n2
-2014introducción
+2014
+introducción
 anemia
 complicación
 frecuente

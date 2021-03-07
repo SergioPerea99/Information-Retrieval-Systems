@@ -6,11 +6,13 @@ cuidadores
 pacientes
 trastorno
 conducta
-alimentaria2014-01-01anales
+alimentaria
+2014-01-01
+anales
 psicología
 v30
 n1
-2014el
+2014
 objetivo
 principal
 presente

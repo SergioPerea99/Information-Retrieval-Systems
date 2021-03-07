@@ -5,7 +5,9 @@ en
 pacientes
 de
 atención
-primaria2015-02-01revista
+primaria
+2015-02-01
+revista
 clínica
 de
 medicina
@@ -13,7 +15,8 @@ de
 familia
 v8
 n1
-2015objetivo
+2015
+objetivo
 determinar
 con
 qué

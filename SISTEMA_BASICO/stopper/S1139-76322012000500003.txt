@@ -10,12 +10,15 @@ accidentes
 conlleva
 niños
 menores
-años2012-12-01pediatría
+años
+2012-12-01
+pediatría
 atención
 primaria
 v14
 n56
-2012introducción
+2012
+introducción
 prevalencia
 uso
 joyas

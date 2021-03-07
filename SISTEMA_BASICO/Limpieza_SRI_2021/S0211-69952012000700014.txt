@@ -8,11 +8,14 @@ global
 de
 centros
 de
-hemodiálisis2012-01-01nefrología
+hemodiálisis
+2012-01-01
+nefrología
 madrid
 v32
 n5
-2012antecedentes
+2012
+antecedentes
 en
 la
 actualidad

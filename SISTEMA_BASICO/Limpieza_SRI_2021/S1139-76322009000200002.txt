@@ -28,12 +28,15 @@ broncoespasmo
 recurrente
 tras
 el
-alta2009-06-01pediatría
+alta
+2009-06-01
+pediatría
 atención
 primaria
 v11
 n42
-2009introducción
+2009
+introducción
 la
 bronquiolitis
 bql

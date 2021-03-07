@@ -6,12 +6,15 @@ estudio
 comparativo
 centros
 salud
-valladolid2009-06-01pediatría
+valladolid
+2009-06-01
+pediatría
 atención
 primaria
 v11
 n42
-2009introducción
+2009
+introducción
 asma
 enfermedad
 crónica

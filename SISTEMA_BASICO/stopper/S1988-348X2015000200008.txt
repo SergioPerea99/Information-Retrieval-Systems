@@ -6,10 +6,13 @@ ictus
 cardioembólico
 secundario
 fibrilación
-auricular2015-01-01ene
+auricular
+2015-01-01
+ene
 v9
 n2
-2015introducción
+2015
+introducción
 morbimortalidad
 ictus
 etiología

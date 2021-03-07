@@ -6,11 +6,13 @@ estudio
 casos
 controles
 autopsia
-psicológica2013-10-01anales
+psicológica
+2013-10-01
+anales
 psicología
 v29
 n3
-2013las
+2013
 tasas
 métodos
 factores

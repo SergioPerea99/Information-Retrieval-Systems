@@ -8,11 +8,14 @@ renal
 pediátrico
 estudio
 prospectivo
-unicéntrico2016-12-01nefrología
+unicéntrico
+2016-12-01
+nefrología
 madrid
 v36
 n6
-2016resumen
+2016
+resumen
 introducción
 evidencia
 suficiente

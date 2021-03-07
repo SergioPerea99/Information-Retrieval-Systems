@@ -13,11 +13,14 @@ stenting
 cubierto
 angioplastia
 alta
-presión2013-01-01nefrología
+presión
+2013-01-01
+nefrología
 madrid
 v33
 n4
-2013introducciónobjetivo
+2013
+introducciónobjetivo
 guía
 national
 kidney

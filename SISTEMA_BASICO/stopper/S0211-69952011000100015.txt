@@ -7,11 +7,14 @@ salud
 pacientes
 tratamiento
 diálisis
-peritoneal2011-01-01nefrología
+peritoneal
+2011-01-01
+nefrología
 madrid
 v31
 n1
-2011introducción
+2011
+introducción
 reconoce
 efecto
 distintas

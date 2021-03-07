@@ -10,12 +10,14 @@ forense
 dijin
 policía
 nacional
-colombia2011-06-01cuadernos
+colombia
+2011-06-01
+cuadernos
 medicina
 forense
 v17
 n2
-2011el
+2011
 laboratorio
 dirección
 investigación

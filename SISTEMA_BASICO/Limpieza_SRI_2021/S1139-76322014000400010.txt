@@ -20,12 +20,15 @@ consulta
 de
 atención
 primaria
-pediátrica2014-09-01pediatría
+pediátrica
+2014-09-01
+pediatría
 atención
 primaria
 v16
 n63
-2014el
+2014
+el
 contenido
 de
 este

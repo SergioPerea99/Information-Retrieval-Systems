@@ -12,7 +12,9 @@ anciano
 institucionalizado
 un
 ensayo
-clínico2010-02-01revista
+clínico
+2010-02-01
+revista
 clínica
 de
 medicina
@@ -20,7 +22,8 @@ de
 familia
 v3
 n1
-2010objetivo
+2010
+objetivo
 determinar
 si
 la

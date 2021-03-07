@@ -1,11 +1,13 @@
 vivir
 epoc
 percepción
-pacientes2016-01-01anales
+pacientes
+2016-01-01
+anales
 psicología
 v32
 n1
-2016este
+2016
 estudio
 pretende
 representación

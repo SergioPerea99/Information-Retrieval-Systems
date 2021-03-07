@@ -10,11 +10,14 @@ pacientes
 insuficiencia
 renal
 crónica
-prediálisis2013-01-01nefrología
+prediálisis
+2013-01-01
+nefrología
 madrid
 v33
 n3
-2013antecedentes
+2013
+antecedentes
 tratamiento
 hierro
 parenteral

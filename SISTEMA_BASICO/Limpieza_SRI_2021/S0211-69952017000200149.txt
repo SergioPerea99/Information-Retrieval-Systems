@@ -27,11 +27,14 @@ con
 enfermedad
 renal
 crónica
-avanzada2017-04-01nefrología
+avanzada
+2017-04-01
+nefrología
 madrid
 v37
 n2
-2017resumen
+2017
+resumen
 antecedentes
 en
 la

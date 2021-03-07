@@ -6,11 +6,14 @@ española
 nefrología
 pediátrica
 aenp
-1988-20072010-01-01nefrología
+1988-2007
+2010-01-01
+nefrología
 madrid
 v30
 n6
-2010objetivos
+2010
+objetivos
 revisar
 comunicaciones
 científicas

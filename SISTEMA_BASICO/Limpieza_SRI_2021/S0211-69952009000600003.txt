@@ -8,11 +8,14 @@ peritonitis
 fúngica
 en
 diálisis
-peritoneal2009-01-01nefrología
+peritoneal
+2009-01-01
+nefrología
 madrid
 v29
 n6
-2009la
+2009
+la
 peritonitis
 es
 una

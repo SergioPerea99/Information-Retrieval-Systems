@@ -2,11 +2,14 @@ fragilidad
 anciano
 enfermedad
 renal
-crónica2016-12-01nefrología
+crónica
+2016-12-01
+nefrología
 madrid
 v36
 n6
-2016resumen
+2016
+resumen
 años
 concepto
 fragilidad

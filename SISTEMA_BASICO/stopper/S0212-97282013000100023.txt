@@ -7,11 +7,13 @@ maltrato
 infantil
 situación
 acogimiento
-residencial2013-01-01anales
+residencial
+2013-01-01
+anales
 psicología
 v29
 n1
-2013el
+2013
 objetivo
 presente
 trabajo

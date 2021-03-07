@@ -4,11 +4,13 @@ renal
 factores
 progresión
 pacientes
-nefrectomizados2010-01-01nefrología
+nefrectomizados
+2010-01-01
+nefrología
 madrid
 v30
 n2
-2010a
+2010
 consultas
 externas
 nefrología

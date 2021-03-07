@@ -3,11 +3,14 @@ flujo
 líquido
 diálisis
 hemodiafiltración
-on-line2015-01-01nefrología
+on-line
+2015-01-01
+nefrología
 madrid
 v35
 n5
-2015introducción
+2015
+introducción
 hemodiafiltración
 on-line
 hdf-ol

@@ -13,7 +13,9 @@ programa
 formativo
 de
 la
-especialidad2012-02-01revista
+especialidad
+2012-02-01
+revista
 clínica
 de
 medicina
@@ -21,7 +23,8 @@ de
 familia
 v5
 n1
-2012objetivo
+2012
+objetivo
 conocer
 la
 opinión

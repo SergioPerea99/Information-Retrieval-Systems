@@ -4,11 +4,13 @@ difuso
 importancia
 diagnóstico
 neuropatología
-forense2005-07-01cuadernos
+forense
+2005-07-01
+cuadernos
 medicina
 forense
 n41
-2005el
+2005
 término
 daño
 axonal

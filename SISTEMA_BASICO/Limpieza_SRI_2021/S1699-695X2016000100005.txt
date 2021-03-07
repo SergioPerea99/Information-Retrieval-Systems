@@ -21,7 +21,9 @@ en
 un
 servicio
 de
-urgencias2016-02-01revista
+urgencias
+2016-02-01
+revista
 clínica
 de
 medicina
@@ -29,7 +31,8 @@ de
 familia
 v9
 n1
-2016objetivo
+2016
+objetivo
 validar
 los
 criterios

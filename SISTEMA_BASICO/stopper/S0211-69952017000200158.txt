@@ -7,11 +7,14 @@ virus
 hepatitis
 c
 pacientes
-hemodiálisis2017-04-01nefrología
+hemodiálisis
+2017-04-01
+nefrología
 madrid
 v37
 n2
-2017resumen
+2017
+resumen
 infección
 virus
 hepatitis

@@ -8,11 +8,13 @@ activación
 paciente
 enfermedad
 renal
-crónica2015-01-01nefrología
+crónica
+2015-01-01
+nefrología
 madrid
 v35
 n1
-2015el
+2015
 déficit
 vitamina
 d

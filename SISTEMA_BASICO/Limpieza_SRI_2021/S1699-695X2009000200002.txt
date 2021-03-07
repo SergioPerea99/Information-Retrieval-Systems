@@ -5,7 +5,9 @@ consumo
 de
 tabaco
 en
-adolescentes2009-06-01revista
+adolescentes
+2009-06-01
+revista
 clínica
 de
 medicina
@@ -13,7 +15,8 @@ de
 familia
 v2
 n7
-2009objetivo
+2009
+objetivo
 identificar
 factores
 asociados

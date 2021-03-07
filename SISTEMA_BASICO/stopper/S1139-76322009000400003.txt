@@ -7,12 +7,15 @@ riesgo
 centro
 atención
 primaria
-españa2009-09-01pediatría
+españa
+2009-09-01
+pediatría
 atención
 primaria
 v11
 n43
-2009introducción
+2009
+introducción
 niños
 enfermedades
 crónicas

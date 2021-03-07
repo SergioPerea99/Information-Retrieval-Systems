@@ -5,11 +5,13 @@ desarrollo
 lector
 niños
 educación
-primaria2016-01-01anales
+primaria
+2016-01-01
+anales
 psicología
 v32
 n1
-2016en
+2016
 década
 diversos
 estudios

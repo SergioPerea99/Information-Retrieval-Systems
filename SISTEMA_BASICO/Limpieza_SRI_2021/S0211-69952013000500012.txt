@@ -11,11 +11,14 @@ crónica
 estadios
 i
 a
-iv2013-01-01nefrología
+iv
+2013-01-01
+nefrología
 madrid
 v33
 n4
-2013introducción
+2013
+introducción
 los
 eventos
 cardiovasculares

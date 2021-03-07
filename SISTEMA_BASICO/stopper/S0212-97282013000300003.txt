@@ -6,11 +6,13 @@ jugadores
 fútbol
 modelo
 costa
-mccrae2013-10-01anales
+mccrae
+2013-10-01
+anales
 psicología
 v29
 n3
-2013el
+2013
 estudio
 personalidad
 deporte

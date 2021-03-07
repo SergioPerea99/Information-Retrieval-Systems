@@ -10,11 +10,14 @@ superior
 60
 años
 atención
-primaria2013-01-01nefrología
+primaria
+2013-01-01
+nefrología
 madrid
 v33
 n4
-2013objetivo
+2013
+objetivo
 comparar
 prevalencia
 clasificación

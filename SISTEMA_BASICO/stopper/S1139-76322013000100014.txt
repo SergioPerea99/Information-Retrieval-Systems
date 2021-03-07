@@ -3,12 +3,15 @@ enseñanza
 reanimación
 cardiopulmonar
 etapa
-escolar2013-03-01pediatría
+escolar
+2013-03-01
+pediatría
 atención
 primaria
 v15
 n57
-2013conclusiones
+2013
+conclusiones
 autores
 estudio
 formación

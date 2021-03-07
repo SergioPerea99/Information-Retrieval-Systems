@@ -3,12 +3,15 @@ activa
 niños
 mejora
 cobertura
-vacunal2016-06-01pediatría
+vacunal
+2016-06-01
+pediatría
 atención
 primaria
 v18
 n70
-2016resumen
+2016
+resumen
 objetivo
 mejorar
 cobertura

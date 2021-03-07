@@ -4,12 +4,14 @@ medicina
 basada
 pruebas
 tribus
-urbanas2014-12-01pediatría
+urbanas
+2014-12-01
+pediatría
 atención
 primaria
 v16
 n64
-2014se
+2014
 ido
 configurando
 cuerpo

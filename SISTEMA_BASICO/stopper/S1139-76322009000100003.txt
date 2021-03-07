@@ -10,12 +10,15 @@ revelado
 placa
 capacidad
 tampón
-saliva2009-03-01pediatría
+saliva
+2009-03-01
+pediatría
 atención
 primaria
 v11
 n41
-2009objetivos
+2009
+objetivos
 cuantificar
 factores
 riesgo

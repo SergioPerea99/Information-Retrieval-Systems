@@ -6,11 +6,14 @@ componentes
 coste
 basado
 datos
-individuales2010-01-01nefrología
+individuales
+2010-01-01
+nefrología
 madrid
 v30
 n4
-2010antecedentes
+2010
+antecedentes
 conocimiento
 coste
 hemodiálisis

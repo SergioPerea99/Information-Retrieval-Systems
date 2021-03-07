@@ -9,11 +9,14 @@ en
 la
 hemodiafiltración
 on-line
-posdilucional2015-01-01nefrología
+posdilucional
+2015-01-01
+nefrología
 madrid
 v35
 n6
-2015introducción
+2015
+introducción
 en
 la
 hemodiafiltración

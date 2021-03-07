@@ -8,7 +8,9 @@ análisis
 epidemiológico
 microbiológico
 y
-clínico2011-06-01revista
+clínico
+2011-06-01
+revista
 clínica
 de
 medicina
@@ -16,7 +18,8 @@ de
 familia
 v4
 n2
-2011objetivo
+2011
+objetivo
 el
 objetivo
 principal

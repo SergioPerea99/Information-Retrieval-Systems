@@ -12,12 +12,15 @@ contacto
 intergrupal
 y
 la
-edad2015-10-01anales
+edad
+2015-10-01
+anales
 de
 psicología
 v31
 n3
-2015se
+2015
+se
 presentan
 dos
 estudios

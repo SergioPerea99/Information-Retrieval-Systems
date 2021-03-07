@@ -11,12 +11,15 @@ de
 la
 educación
 secundaria
-obligatoria2015-06-01pediatría
+obligatoria
+2015-06-01
+pediatría
 atención
 primaria
 v17
 n66
-2015existe
+2015
+existe
 una
 preocupación
 sobre

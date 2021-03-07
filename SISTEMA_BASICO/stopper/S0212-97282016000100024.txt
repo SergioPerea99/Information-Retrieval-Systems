@@ -8,11 +8,13 @@ general
 española
 desarrollo
 versión
-breve2016-01-01anales
+breve
+2016-01-01
+anales
 psicología
 v32
 n1
-2016las
+2016
 adaptaciones
 españolas
 escala

@@ -9,12 +9,15 @@ contexto
 escolar
 y
 variables
-asociadas2013-01-01anales
+asociadas
+2013-01-01
+anales
 de
 psicología
 v29
 n1
-2013el
+2013
+el
 objetivo
 del
 estudio

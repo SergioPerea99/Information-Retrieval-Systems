@@ -2,11 +2,13 @@ modelos
 gestión
 asistencia
 integral
-nefrología2013-01-01nefrología
+nefrología
+2013-01-01
+nefrología
 madrid
 v33
 n3
-2013la
+2013
 enfermedad
 renal
 crónica

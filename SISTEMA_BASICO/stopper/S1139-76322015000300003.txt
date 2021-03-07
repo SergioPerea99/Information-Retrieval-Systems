@@ -5,12 +5,15 @@ calidad
 vida
 desarrollo
 dermatitis
-atópica2015-06-01pediatría
+atópica
+2015-06-01
+pediatría
 atención
 primaria
 v17
 n66
-2015introducción
+2015
+introducción
 dermatitis
 atópica
 patología

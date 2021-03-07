@@ -11,12 +11,15 @@ oncología
 pediátrica
 es
 la
-protagonista2012-12-01pediatría
+protagonista
+2012-12-01
+pediatría
 atención
 primaria
 v14
 n56
-2012el
+2012
+el
 cáncer
 infantil
 es

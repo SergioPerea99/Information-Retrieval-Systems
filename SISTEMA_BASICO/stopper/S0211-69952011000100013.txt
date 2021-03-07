@@ -6,11 +6,14 @@ clínica
 compartida
 nefrología
 atención
-primaria2011-01-01nefrología
+primaria
+2011-01-01
+nefrología
 madrid
 v31
 n1
-2011introducción
+2011
+introducción
 elevada
 prevalencia
 enfermedad

@@ -7,7 +7,9 @@ el
 de
 salud
 de
-toledo2013-02-01revista
+toledo
+2013-02-01
+revista
 clínica
 de
 medicina
@@ -15,7 +17,8 @@ de
 familia
 v6
 n1
-2013objetivo
+2013
+objetivo
 conocer
 el
 porcentaje

@@ -7,11 +7,14 @@ dolor
 relaciones
 presión
 arterial
-dolor2011-01-01nefrología
+dolor
+2011-01-01
+nefrología
 madrid
 v31
 n6
-2011antecedentes
+2011
+antecedentes
 presión
 arterial
 asocia

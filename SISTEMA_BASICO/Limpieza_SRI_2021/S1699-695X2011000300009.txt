@@ -5,7 +5,9 @@ su
 abordaje
 en
 atención
-primaria2011-10-01revista
+primaria
+2011-10-01
+revista
 clínica
 de
 medicina
@@ -13,7 +15,8 @@ de
 familia
 v4
 n3
-2011la
+2011
+la
 somatización
 como
 tal

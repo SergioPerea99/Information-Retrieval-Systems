@@ -4,12 +4,15 @@ guarderías
 frecuentación
 urgencias
 atención
-primaria2016-09-01pediatría
+primaria
+2016-09-01
+pediatría
 atención
 primaria
 v18
 n71
-2016resumen
+2016
+resumen
 introducción
 guarderías
 surgen

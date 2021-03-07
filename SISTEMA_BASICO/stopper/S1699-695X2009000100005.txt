@@ -3,13 +3,15 @@ paciente
 pieza
 clave
 calidad
-asistencial2009-02-01revista
+asistencial
+2009-02-01
+revista
 clínica
 medicina
 familia
 v2
 n6
-2009la
+2009
 información
 clínica
 proporciona

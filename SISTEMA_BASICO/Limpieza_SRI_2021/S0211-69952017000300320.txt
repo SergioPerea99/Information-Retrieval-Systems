@@ -13,11 +13,14 @@ en
 la
 nefropatía
 iga
-idiopática2017-06-01nefrología
+idiopática
+2017-06-01
+nefrología
 madrid
 v37
 n3
-2017resumen
+2017
+resumen
 objetivos
 1
 identificar

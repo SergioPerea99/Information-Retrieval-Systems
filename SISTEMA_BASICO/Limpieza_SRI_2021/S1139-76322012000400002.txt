@@ -10,12 +10,15 @@ de
 la
 otitis
 media
-aguda2012-09-01pediatría
+aguda
+2012-09-01
+pediatría
 atención
 primaria
 v14
 n55
-2012se
+2012
+se
 presenta
 el
 documento

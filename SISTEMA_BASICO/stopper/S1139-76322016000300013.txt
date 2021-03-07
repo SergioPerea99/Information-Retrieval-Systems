@@ -7,12 +7,15 @@ adecuada
 historia
 clínica
 antecedentes
-familiares2016-09-01pediatría
+familiares
+2016-09-01
+pediatría
 atención
 primaria
 v18
 n71
-2016resumen
+2016
+resumen
 enfermedad
 bruton
 agammaglobulinemia

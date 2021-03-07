@@ -8,11 +8,14 @@ peritoneal
 análisis
 12
 años
-seguimiento2014-01-01nefrología
+seguimiento
+2014-01-01
+nefrología
 madrid
 v34
 n1
-2014introducción
+2014
+introducción
 objetivos
 registro
 muestre

@@ -7,7 +7,9 @@ en
 pacientes
 con
 parálisis
-cerebral2008-10-01revista
+cerebral
+2008-10-01
+revista
 clínica
 de
 medicina
@@ -15,7 +17,8 @@ de
 familia
 v2
 n5
-2008objetivo
+2008
+objetivo
 describir
 el
 estado

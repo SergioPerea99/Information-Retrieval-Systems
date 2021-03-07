@@ -12,7 +12,9 @@ en
 la
 provincia
 de
-toledo2011-02-01revista
+toledo
+2011-02-01
+revista
 clínica
 de
 medicina
@@ -20,7 +22,8 @@ de
 familia
 v4
 n1
-2011objetivos
+2011
+objetivos
 conocer
 las
 características

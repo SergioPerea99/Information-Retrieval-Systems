@@ -14,7 +14,9 @@ en
 un
 centro
 de
-salud2009-06-01revista
+salud
+2009-06-01
+revista
 clínica
 de
 medicina
@@ -22,7 +24,8 @@ de
 familia
 v2
 n7
-2009objetivo
+2009
+objetivo
 evaluar
 la
 proporción

@@ -12,12 +12,15 @@ al
 trabajo
 workbat
 versión
-española2013-10-01anales
+española
+2013-10-01
+anales
 de
 psicología
 v29
 n3
-2013el
+2013
+el
 objetivo
 de
 este

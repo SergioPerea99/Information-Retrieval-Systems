@@ -6,11 +6,13 @@ crítica
 bases
 moleculares
 experiencia
-clínica2013-01-01nefrología
+clínica
+2013-01-01
+nefrología
 madrid
 v33
 n5
-2013la
+2013
 proteinuria
 principal
 predictor

@@ -8,7 +8,9 @@ los
 índices
 frax
 y
-qfracturescorestm2012-10-01revista
+qfracturescorestm
+2012-10-01
+revista
 clínica
 de
 medicina
@@ -16,7 +18,8 @@ de
 familia
 v5
 n3
-2012objetivo
+2012
+objetivo
 establecer
 una
 correlación

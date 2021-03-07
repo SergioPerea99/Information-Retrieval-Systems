@@ -11,7 +11,9 @@ de
 la
 ciudad
 de
-cartagena2015-02-01revista
+cartagena
+2015-02-01
+revista
 clínica
 de
 medicina
@@ -19,7 +21,8 @@ de
 familia
 v8
 n1
-2015objetivo
+2015
+objetivo
 estimar
 la
 asociación

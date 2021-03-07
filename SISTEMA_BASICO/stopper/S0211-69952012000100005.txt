@@ -8,11 +8,13 @@ revisión
 propuesta
 terapia
 renal
-sustitutiva2012-01-01nefrología
+sustitutiva
+2012-01-01
+nefrología
 madrid
 v32
 n1
-2012el
+2012
 paciente
 enfermedad
 renal

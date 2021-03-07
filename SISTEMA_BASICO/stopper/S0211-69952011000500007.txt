@@ -12,11 +12,14 @@ pacientes
 riesgo
 enfermedad
 renal
-crónica2011-01-01nefrología
+crónica
+2011-01-01
+nefrología
 madrid
 v31
 n5
-2011objetivo
+2011
+objetivo
 evaluar
 cistatina
 c

@@ -20,12 +20,15 @@ general
 y
 una
 muestra
-clínica2016-01-01anales
+clínica
+2016-01-01
+anales
 de
 psicología
 v32
 n1
-2016los
+2016
+los
 trastornos
 de
 conducta

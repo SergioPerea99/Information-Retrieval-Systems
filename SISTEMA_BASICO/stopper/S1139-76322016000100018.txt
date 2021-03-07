@@ -1,12 +1,15 @@
 uso
 timpanometría
 atención
-primaria2016-03-01pediatría
+primaria
+2016-03-01
+pediatría
 atención
 primaria
 v18
 n69
-2016dada
+2016
+dada
 elevada
 prevalencia
 otitis

@@ -7,11 +7,14 @@ pacientes
 con
 enfermedad
 renal
-crónica2017-06-01nefrología
+crónica
+2017-06-01
+nefrología
 madrid
 v37
 n3
-2017resumen
+2017
+resumen
 introducción
 las
 escalas

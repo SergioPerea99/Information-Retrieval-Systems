@@ -8,11 +8,14 @@ tratada
 tacrolimus
 mofetil
 micofenolato
-basiliximab2014-01-01nefrología
+basiliximab
+2014-01-01
+nefrología
 madrid
 v34
 n2
-2014antecedentes
+2014
+antecedentes
 suficiente
 evidencia
 frecuencia

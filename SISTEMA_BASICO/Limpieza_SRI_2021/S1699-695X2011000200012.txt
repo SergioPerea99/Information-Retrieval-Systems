@@ -3,7 +3,9 @@ x
 asociada
 a
 dismorfismo
-fenotípico2011-06-01revista
+fenotípico
+2011-06-01
+revista
 clínica
 de
 medicina
@@ -11,7 +13,8 @@ de
 familia
 v4
 n2
-2011el
+2011
+el
 síndrome
 triple
 xxx

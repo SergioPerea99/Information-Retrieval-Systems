@@ -6,11 +6,13 @@ ecuación
 ckd-epi
 concentración
 creatinina
-sérica2014-01-01nefrología
+sérica
+2014-01-01
+nefrología
 madrid
 v34
 n2
-2014la
+2014
 enfermedad
 renal
 crónica

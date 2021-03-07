@@ -4,12 +4,15 @@ del
 tiroides
 en
 la
-infancia2009-10-01pediatría
+infancia
+2009-10-01
+pediatría
 atención
 primaria
 v11
 suppl16
-2009la
+2009
+la
 aparición
 de
 alteraciones

@@ -8,11 +8,14 @@ crónica
 4-5
 no-d
 enfermedad
-cardíaca2012-01-01nefrología
+cardíaca
+2012-01-01
+nefrología
 madrid
 v32
 n3
-2012antecedentes
+2012
+antecedentes
 pacientes
 enfermedad
 renal

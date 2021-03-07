@@ -3,11 +3,14 @@ calcimiméticos
 posdiálisis
 efectividad
 tolerancia
-gastrointestinal2015-01-01nefrología
+gastrointestinal
+2015-01-01
+nefrología
 madrid
 v35
 n4
-2015introducción
+2015
+introducción
 cinacalcet
 resulta
 efectivo

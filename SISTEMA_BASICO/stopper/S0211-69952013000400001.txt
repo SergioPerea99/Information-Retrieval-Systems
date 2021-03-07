@@ -5,11 +5,13 @@ distal
 enfermedad
 hereditaria
 eliminar
-hidrogeniones2013-01-01nefrología
+hidrogeniones
+2013-01-01
+nefrología
 madrid
 v33
 n3
-2013la
+2013
 acidosis
 tubular
 renal

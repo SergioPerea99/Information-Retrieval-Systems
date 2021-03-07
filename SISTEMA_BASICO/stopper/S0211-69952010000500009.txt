@@ -7,11 +7,13 @@ experiencia
 españa
 50
 años
-después2010-01-01nefrología
+2010-01-01
+nefrología
 madrid
 v30
 n5
-2010antecedentes
+2010
+antecedentes
 biopsia
 renal
 br

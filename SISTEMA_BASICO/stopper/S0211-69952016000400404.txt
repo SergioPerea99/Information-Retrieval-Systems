@@ -4,11 +4,14 @@ pacientes
 enfermedad
 renal
 crónica
-avanzada2016-08-01nefrología
+avanzada
+2016-08-01
+nefrología
 madrid
 v36
 n4
-2016resumen
+2016
+resumen
 antecedentes
 alta
 proporción

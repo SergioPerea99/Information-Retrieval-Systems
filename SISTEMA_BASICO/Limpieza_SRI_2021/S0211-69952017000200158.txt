@@ -18,11 +18,14 @@ c
 en
 pacientes
 en
-hemodiálisis2017-04-01nefrología
+hemodiálisis
+2017-04-01
+nefrología
 madrid
 v37
 n2
-2017resumen
+2017
+resumen
 la
 infección
 por

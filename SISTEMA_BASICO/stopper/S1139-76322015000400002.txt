@@ -5,12 +5,15 @@ febril
 diagnóstico
 infección
 urinaria
-urgencias2015-09-01pediatría
+urgencias
+2015-09-01
+pediatría
 atención
 primaria
 v17
 n67
-2015introducción
+2015
+introducción
 infección
 tracto
 urinario

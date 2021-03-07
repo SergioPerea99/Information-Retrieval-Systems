@@ -12,11 +12,14 @@ crónica
 en
 diálisis
 en
-argentina2013-01-01nefrología
+argentina
+2013-01-01
+nefrología
 madrid
 v33
 n5
-2013antecedentes
+2013
+antecedentes
 existen
 pocos
 datos

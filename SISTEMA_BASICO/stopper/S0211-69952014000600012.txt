@@ -7,11 +7,13 @@ patología
 renal
 pacientes
 infección
-vih2014-01-01nefrología
+vih
+2014-01-01
+nefrología
 madrid
 v34
 n6
-2014el
+2014
 objetivo
 documento
 actualizar

@@ -21,12 +21,15 @@ graves
 en
 niños
 y
-adolescentes2014-03-01pediatría
+adolescentes
+2014-03-01
+pediatría
 atención
 primaria
 v16
 n61
-2014los
+2014
+los
 problemas
 de
 salud

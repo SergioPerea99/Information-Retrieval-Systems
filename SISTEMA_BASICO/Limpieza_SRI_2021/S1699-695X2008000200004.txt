@@ -13,7 +13,9 @@ de
 salud
 de
 castilla-la
-mancha2008-06-01revista
+mancha
+2008-06-01
+revista
 clínica
 de
 medicina
@@ -21,7 +23,8 @@ de
 familia
 v2
 n4
-2008objetivo
+2008
+objetivo
 conocer
 las
 características

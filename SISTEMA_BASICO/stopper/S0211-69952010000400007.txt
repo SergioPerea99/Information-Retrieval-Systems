@@ -6,11 +6,14 @@ enfermedad
 coronaria
 mortalidad
 pacientes
-hemodiálisis2010-01-01nefrología
+hemodiálisis
+2010-01-01
+nefrología
 madrid
 v30
 n4
-2010introducción
+2010
+introducción
 enfermedad
 cardiovascular
 principal

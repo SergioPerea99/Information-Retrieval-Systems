@@ -22,12 +22,15 @@ en
 una
 consulta
 en
-navarra2009-03-01pediatría
+navarra
+2009-03-01
+pediatría
 atención
 primaria
 v11
 n41
-2009la
+2009
+la
 detección
 precoz
 de

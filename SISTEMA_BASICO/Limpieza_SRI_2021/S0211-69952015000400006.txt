@@ -13,11 +13,14 @@ hemodiálisis
 en
 el
 paciente
-anciano2015-01-01nefrología
+anciano
+2015-01-01
+nefrología
 madrid
 v35
 n4
-2015introducción
+2015
+introducción
 los
 pacientes
 ancianos

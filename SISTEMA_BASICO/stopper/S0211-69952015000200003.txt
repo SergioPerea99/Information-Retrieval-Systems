@@ -4,11 +4,13 @@ moleculares
 nefropatía
 diabética
 rol
-vegf-a2015-01-01nefrología
+vegf-a
+2015-01-01
+nefrología
 madrid
 v35
 n2
-2015la
+2015
 prevalencia
 diabetes
 mellitus

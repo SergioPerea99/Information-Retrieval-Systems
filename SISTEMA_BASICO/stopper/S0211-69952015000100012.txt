@@ -8,11 +8,14 @@ enfermedad
 renal
 crónica
 avanzada
-españa2015-01-01nefrología
+españa
+2015-01-01
+nefrología
 madrid
 v35
 n1
-2015antecedentes
+2015
+antecedentes
 enfermedad
 renal
 crónica

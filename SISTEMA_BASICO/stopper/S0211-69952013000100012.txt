@@ -8,11 +8,14 @@ postrasplante
 renal
 estudio
 retrospectivo
-exploratorio2013-01-01nefrología
+exploratorio
+2013-01-01
+nefrología
 madrid
 v33
 n1
-2013antecedentes
+2013
+antecedentes
 objetivos
 evaluado
 uso

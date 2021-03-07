@@ -6,11 +6,14 @@ agudo
 ancianos
 enfermedad
 renal
-crónica2012-01-01nefrología
+crónica
+2012-01-01
+nefrología
 madrid
 v32
 n6
-2012introducción
+2012
+introducción
 objetivos
 fracaso
 renal

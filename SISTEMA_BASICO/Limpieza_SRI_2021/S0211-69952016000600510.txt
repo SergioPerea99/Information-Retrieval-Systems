@@ -14,11 +14,14 @@ en
 la
 enfermedad
 renal
-crónica2016-10-01nefrología
+crónica
+2016-10-01
+nefrología
 madrid
 v36
 n5
-2016resumen
+2016
+resumen
 introducción
 el
 origen

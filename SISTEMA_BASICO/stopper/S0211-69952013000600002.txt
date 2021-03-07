@@ -7,11 +7,14 @@ peritoneal
 hemodiálisis
 acceso
 vascular
-inicio2013-01-01nefrología
+inicio
+2013-01-01
+nefrología
 madrid
 v33
 n5
-2013introducción
+2013
+introducción
 estudio
 publicado
 2011

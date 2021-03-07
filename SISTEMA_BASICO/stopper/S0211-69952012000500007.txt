@@ -4,11 +4,14 @@ periférica
 insuficiencia
 renal
 asociación
-frecuente2012-01-01nefrología
+frecuente
+2012-01-01
+nefrología
 madrid
 v32
 n3
-2012objetivos
+2012
+objetivos
 determinar
 prevalencia
 insuficiencia

@@ -9,11 +9,13 @@ calificaciones
 estudiantes
 trabajo
 final
-grado2016-05-01anales
+grado
+2016-05-01
+anales
 psicología
 v32
 n2
-2016la
+2016
 adaptación
 plan
 bolonia

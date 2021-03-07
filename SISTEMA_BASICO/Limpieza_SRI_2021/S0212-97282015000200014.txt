@@ -7,12 +7,15 @@ del
 test
 stroop
 de
-alcohol2015-05-01anales
+alcohol
+2015-05-01
+anales
 de
 psicología
 v31
 n2
-2015el
+2015
+el
 sesgo
 atencional
 para

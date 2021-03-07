@@ -8,7 +8,9 @@ clave
 de
 la
 calidad
-asistencial2009-02-01revista
+asistencial
+2009-02-01
+revista
 clínica
 de
 medicina
@@ -16,7 +18,8 @@ de
 familia
 v2
 n6
-2009la
+2009
+la
 información
 clínica
 que

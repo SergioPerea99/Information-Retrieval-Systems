@@ -22,12 +22,16 @@ class Filtrado(object):
         num_tokens = 0
         archivo = open(join(ruta,nombre_archivo[len(nombre_archivo)-1]) +".txt","w")
         
+        cont = 0
         for i in self.informacion:
             aux = i.firstChild.data
             minus = aux.lower()
+            cont = cont + 1
             for i in minus:
                 if i.isalpha() or i.isdigit() or i in no_borrar:
                     cadena.append(i)
+            if cont < len(self.informacion):
+                cadena.append("\n")
         
         lista_palabras = ''.join(cadena)
         lista_palabras = lista_palabras.split(" ")

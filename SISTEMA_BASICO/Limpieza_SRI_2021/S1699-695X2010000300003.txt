@@ -5,7 +5,9 @@ pacientes
 con
 obesidad
 y
-sobrepeso2010-10-01revista
+sobrepeso
+2010-10-01
+revista
 clínica
 de
 medicina
@@ -13,7 +15,8 @@ de
 familia
 v3
 n3
-2010objetivo
+2010
+objetivo
 existen
 dudas
 sobre

@@ -18,12 +18,15 @@ citation
 reports-science
 citation
 index
-20092011-03-01pediatría
+2009
+2011-03-01
+pediatría
 atención
 primaria
 v13
 n49
-2011introducción
+2011
+introducción
 el
 factor
 de

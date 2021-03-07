@@ -7,12 +7,14 @@ paciente
 meses
 edad
 descripción
-caso2015-06-01pediatría
+caso
+2015-06-01
+pediatría
 atención
 primaria
 v17
 n66
-2015los
+2015
 tumores
 sistema
 nervioso

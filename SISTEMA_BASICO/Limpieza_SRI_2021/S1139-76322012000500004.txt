@@ -14,12 +14,15 @@ de
 12
 meses
 de
-edad2012-12-01pediatría
+edad
+2012-12-01
+pediatría
 atención
 primaria
 v14
 n56
-2012introducción
+2012
+introducción
 la
 estructura
 actual

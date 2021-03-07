@@ -13,11 +13,14 @@ pacientes
 con
 infección
 por
-vih2014-01-01nefrología
+vih
+2014-01-01
+nefrología
 madrid
 v34
 suppl2
-2014objetivo
+2014
+objetivo
 actualizar
 las
 recomendaciones

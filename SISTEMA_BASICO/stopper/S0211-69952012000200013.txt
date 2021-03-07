@@ -12,11 +12,14 @@ escaso
 acierto
 predictivo
 paciente
-individual2012-01-01nefrología
+individual
+2012-01-01
+nefrología
 madrid
 v32
 n2
-2012introducción
+2012
+introducción
 estudios
 pronóstico
 individual

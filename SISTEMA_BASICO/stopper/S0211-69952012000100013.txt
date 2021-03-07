@@ -5,11 +5,14 @@ asocia
 menor
 supervivencia
 hemodiálisis
-crónica2012-01-01nefrología
+crónica
+2012-01-01
+nefrología
 madrid
 v32
 n1
-2012introducción
+2012
+introducción
 pobres
 condiciones
 socioeconómicas

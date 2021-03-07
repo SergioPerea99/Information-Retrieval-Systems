@@ -6,12 +6,15 @@ de
 atención
 primaria
 en
-galicia2009-03-01pediatría
+galicia
+2009-03-01
+pediatría
 atención
 primaria
 v11
 n41
-2009objetivos
+2009
+objetivos
 averiguar
 las
 condiciones

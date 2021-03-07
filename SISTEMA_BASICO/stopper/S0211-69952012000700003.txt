@@ -1,11 +1,13 @@
 trasplantectomía
 fallo
 injerto
-renal2012-01-01nefrología
+renal
+2012-01-01
+nefrología
 madrid
 v32
 n5
-2012el
+2012
 4-10
 pacientes
 incidentes

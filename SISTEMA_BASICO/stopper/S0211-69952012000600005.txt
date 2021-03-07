@@ -11,11 +11,14 @@ daclizumab
 mofetil-micofenolato
 introducción
 retrasada
-tacrolimus2012-01-01nefrología
+tacrolimus
+2012-01-01
+nefrología
 madrid
 v32
 n4
-2012antecedentes
+2012
+antecedentes
 trasplante
 órganos
 donantes

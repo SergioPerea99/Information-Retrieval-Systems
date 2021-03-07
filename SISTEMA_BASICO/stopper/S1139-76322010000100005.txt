@@ -2,12 +2,14 @@ consultas
 dermatológicas
 pediatría
 atención
-primaria2010-03-01pediatría
+primaria
+2010-03-01
+pediatría
 atención
 primaria
 v12
 n45
-2010las
+2010
 consultas
 problemas
 dermatológicos

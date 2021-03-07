@@ -24,7 +24,9 @@ perfiles
 del
 médico
 de
-familia2014-02-01revista
+familia
+2014-02-01
+revista
 clínica
 de
 medicina
@@ -32,7 +34,8 @@ de
 familia
 v7
 n1
-2014objetivo
+2014
+objetivo
 se
 realizó
 un

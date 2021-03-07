@@ -6,12 +6,15 @@ y
 pasivo
 en
 la
-infancia2009-12-01pediatría
+infancia
+2009-12-01
+pediatría
 atención
 primaria
 v11
 suppl17
-2009el
+2009
+el
 tabaquismo
 es
 un

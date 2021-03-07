@@ -11,11 +11,13 @@ tratamiento
 diabetes
 mellitus
 tipo
-22010-01-01nefrología
+2
+2010-01-01
+nefrología
 madrid
 v30
 n6
-2010durante
+2010
 siglos
 riñón
 considerado

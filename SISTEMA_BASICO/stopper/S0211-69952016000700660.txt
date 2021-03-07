@@ -5,11 +5,14 @@ categoría
 banff
 2013
 biopsia
-indicación2016-12-01nefrología
+indicación
+2016-12-01
+nefrología
 madrid
 v36
 n6
-2016resumen
+2016
+resumen
 introducción
 impacto
 rechazo

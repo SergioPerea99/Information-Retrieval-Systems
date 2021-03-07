@@ -3,12 +3,14 @@ mongering
 lucrativo
 negocio
 promoción
-enfermedades2009-09-01pediatría
+enfermedades
+2009-09-01
+pediatría
 atención
 primaria
 v11
 n43
-2009en
+2009
 países
 ricos
 vivimos

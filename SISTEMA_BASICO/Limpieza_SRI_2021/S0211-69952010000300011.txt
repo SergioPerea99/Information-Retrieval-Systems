@@ -11,11 +11,14 @@ de
 prelitiasis
 en
 la
-infancia2010-01-01nefrología
+infancia
+2010-01-01
+nefrología
 madrid
 v30
 n3
-2010los
+2010
+los
 quistes
 renales
 simples

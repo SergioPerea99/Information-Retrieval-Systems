@@ -6,12 +6,15 @@ caso
 en
 un
 joven
-deportista2013-03-01pediatría
+deportista
+2013-03-01
+pediatría
 atención
 primaria
 v15
 n57
-2013la
+2013
+la
 enfermedad
 de
 iselin

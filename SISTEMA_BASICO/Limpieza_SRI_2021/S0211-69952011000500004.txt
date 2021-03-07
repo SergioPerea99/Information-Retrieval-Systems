@@ -10,11 +10,14 @@ pacientes
 con
 enfermedad
 renal
-crónica2011-01-01nefrología
+crónica
+2011-01-01
+nefrología
 madrid
 v31
 n5
-2011en
+2011
+en
 los
 últimos
 años

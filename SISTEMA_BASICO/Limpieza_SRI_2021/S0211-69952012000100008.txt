@@ -18,11 +18,14 @@ coronario
 o
 fallo
 cardíaco
-agudos2012-01-01nefrología
+agudos
+2012-01-01
+nefrología
 madrid
 v32
 n1
-2012antecedentes
+2012
+antecedentes
 el
 fracaso
 renal

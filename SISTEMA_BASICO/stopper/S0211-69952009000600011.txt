@@ -8,11 +8,13 @@ enfermedad
 renal
 crónica
 avanzada
-prediálisis2009-01-01nefrología
+prediálisis
+2009-01-01
+nefrología
 madrid
 v29
 n6
-2009la
+2009
 dislipemia
 reconocido
 factor

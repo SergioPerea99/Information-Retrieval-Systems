@@ -4,12 +4,15 @@ clínica
 productos
 basados
 evidencia
-consulta2009-12-01pediatría
+consulta
+2009-12-01
+pediatría
 atención
 primaria
 v11
 suppl17
-2009guíasalud
+2009
+guíasalud
 organismo
 sistema
 nacional

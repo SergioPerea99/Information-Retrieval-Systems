@@ -10,11 +10,14 @@ tipo
 1
 estudio
 población
-española2014-01-01nefrología
+española
+2014-01-01
+nefrología
 madrid
 v34
 n2
-2014antecedentes
+2014
+antecedentes
 trabajos
 estudiado
 asociación

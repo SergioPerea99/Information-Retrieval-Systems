@@ -14,7 +14,9 @@ de
 diabetes
 mellitus
 tipo
-22012-10-01revista
+2
+2012-10-01
+revista
 clínica
 de
 medicina
@@ -22,7 +24,8 @@ de
 familia
 v5
 n3
-2012objetivo
+2012
+objetivo
 determinar
 la
 evaluación

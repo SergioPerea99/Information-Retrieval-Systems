@@ -11,11 +11,14 @@ prescribir
 la
 hemodiafiltración
 on-line
-posdilucional2010-01-01nefrología
+posdilucional
+2010-01-01
+nefrología
 madrid
 v30
 n3
-2010la
+2010
+la
 hemodiafiltración
 on-line
 hdf-ol

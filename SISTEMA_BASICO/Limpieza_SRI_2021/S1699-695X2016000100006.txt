@@ -1,5 +1,7 @@
 marcadores
-tumorales2016-02-01revista
+tumorales
+2016-02-01
+revista
 clínica
 de
 medicina
@@ -7,7 +9,8 @@ de
 familia
 v9
 n1
-2016los
+2016
+los
 marcadores
 tumorales
 son

@@ -18,11 +18,14 @@ de
 salud
 de
 atención
-primaria2012-01-01nefrología
+primaria
+2012-01-01
+nefrología
 madrid
 v32
 n6
-2012objetivos
+2012
+objetivos
 conocer
 el
 estado

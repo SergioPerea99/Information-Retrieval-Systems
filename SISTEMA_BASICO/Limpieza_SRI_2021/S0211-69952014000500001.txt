@@ -8,11 +8,14 @@ en
 enfermos
 renales
 en
-españa2014-01-01nefrología
+españa
+2014-01-01
+nefrología
 madrid
 v34
 n5
-2014la
+2014
+la
 enfermedad
 neumocócica
 invasiva

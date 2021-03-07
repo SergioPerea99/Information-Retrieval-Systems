@@ -21,12 +21,15 @@ de
 edad
 y
 su
-tolerancia2011-12-01pediatría
+tolerancia
+2011-12-01
+pediatría
 atención
 primaria
 v13
 n52
-2011introducción
+2011
+introducción
 la
 alergia
 a

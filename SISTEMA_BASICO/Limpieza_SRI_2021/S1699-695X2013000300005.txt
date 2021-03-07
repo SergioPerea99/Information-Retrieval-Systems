@@ -10,7 +10,9 @@ por
 enfermería
 en
 atención
-primaria2013-10-01revista
+primaria
+2013-10-01
+revista
 clínica
 de
 medicina
@@ -18,7 +20,8 @@ de
 familia
 v6
 n3
-2013objetivo
+2013
+objetivo
 conocer
 la
 valoración

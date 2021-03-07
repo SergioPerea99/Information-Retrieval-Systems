@@ -5,12 +5,15 @@ asma
 newcastle
 asthma
 knowledge
-questionnaire2013-06-01pediatría
+questionnaire
+2013-06-01
+pediatría
 atención
 primaria
 v15
 n58
-2013objetivo
+2013
+objetivo
 determinar
 grado
 conocimiento

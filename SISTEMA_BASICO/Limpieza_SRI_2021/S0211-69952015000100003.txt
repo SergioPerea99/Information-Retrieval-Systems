@@ -5,11 +5,14 @@ de
 espera
 para
 trasplante
-renal2015-01-01nefrología
+renal
+2015-01-01
+nefrología
 madrid
 v35
 n1
-2015el
+2015
+el
 trasplante
 renal
 tx

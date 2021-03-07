@@ -11,7 +11,9 @@ logopedia
 a
 la
 práctica
-clínica2011-02-01revista
+clínica
+2011-02-01
+revista
 clínica
 de
 medicina
@@ -19,7 +21,8 @@ de
 familia
 v4
 n1
-2011objetivo
+2011
+objetivo
 analizar
 la
 perspectiva

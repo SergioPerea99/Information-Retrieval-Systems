@@ -2,12 +2,14 @@ seguimiento
 prematurogran
 prematuro
 atención
-primaria2009-12-01pediatría
+primaria
+2009-12-01
+pediatría
 atención
 primaria
 v11
 suppl17
-2009dado
+2009
 prematuridad
 principales
 problemas

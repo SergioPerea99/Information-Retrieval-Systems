@@ -13,7 +13,9 @@ de
 un
 centro
 de
-salud2015-02-01revista
+salud
+2015-02-01
+revista
 clínica
 de
 medicina
@@ -21,7 +23,8 @@ de
 familia
 v8
 n1
-2015objetivo
+2015
+objetivo
 conocer
 los
 cambios

@@ -17,7 +17,9 @@ la
 provincia
 de
 ica
-perú2013-02-01revista
+perú
+2013-02-01
+revista
 clínica
 de
 medicina
@@ -25,7 +27,8 @@ de
 familia
 v6
 n1
-2013objetivo
+2013
+objetivo
 determinar
 el
 nivel

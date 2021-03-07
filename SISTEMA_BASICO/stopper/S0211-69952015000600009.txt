@@ -6,11 +6,14 @@ complicaciones
 hipertensivas
 embarazo
 alto
-riesgo2015-01-01nefrología
+riesgo
+2015-01-01
+nefrología
 madrid
 v35
 n6
-2015introducción
+2015
+introducción
 preeclampsia
 pe
 importante

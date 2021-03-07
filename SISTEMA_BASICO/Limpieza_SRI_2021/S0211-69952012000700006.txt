@@ -13,11 +13,14 @@ pacientes
 en
 tratamiento
 con
-diálisis2012-01-01nefrología
+diálisis
+2012-01-01
+nefrología
 madrid
 v32
 n5
-2012introducción
+2012
+introducción
 aunque
 la
 frecuencia

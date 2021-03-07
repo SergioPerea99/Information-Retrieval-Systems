@@ -11,12 +11,15 @@ la
 consulta
 de
 atención
-primaria2015-03-01pediatría
+primaria
+2015-03-01
+pediatría
 atención
 primaria
 v17
 n65
-2015introducción
+2015
+introducción
 la
 derivación
 a

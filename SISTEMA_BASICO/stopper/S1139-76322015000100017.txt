@@ -7,12 +7,14 @@ corto
 plazo
 otitis
 medias
-serosas2015-03-01pediatría
+serosas
+2015-03-01
+pediatría
 atención
 primaria
 v17
 n65
-2015las
+2015
 otitis
 medias
 serosas

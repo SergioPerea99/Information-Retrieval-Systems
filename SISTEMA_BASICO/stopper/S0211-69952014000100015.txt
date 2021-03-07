@@ -4,11 +4,14 @@ biopsia
 injertos
 renales
 pacientes
-trasplantados2014-01-01nefrología
+trasplantados
+2014-01-01
+nefrología
 madrid
 v34
 n1
-2014antecedentes
+2014
+antecedentes
 biopsia
 percutánea
 injertos

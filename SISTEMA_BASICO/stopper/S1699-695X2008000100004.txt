@@ -1,12 +1,15 @@
 prevalencia
 obesidad
-escolares2008-02-01revista
+escolares
+2008-02-01
+revista
 clínica
 medicina
 familia
 v2
 n3
-2008objetivos
+2008
+objetivos
 prevalencia
 obesidad
 niños

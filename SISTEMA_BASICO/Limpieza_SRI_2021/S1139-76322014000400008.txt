@@ -7,12 +7,15 @@ e
 coli
 en
 un
-prematuro2014-09-01pediatría
+prematuro
+2014-09-01
+pediatría
 atención
 primaria
 v16
 n63
-2014presentamos
+2014
+presentamos
 el
 caso
 de

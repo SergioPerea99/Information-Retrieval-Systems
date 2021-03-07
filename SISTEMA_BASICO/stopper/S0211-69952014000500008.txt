@@ -5,11 +5,13 @@ monitor
 5008
 volumen
 convectivo
-total2014-01-01nefrología
+2014-01-01
+nefrología
 madrid
 v34
 n5
-2014introducción
+2014
+introducción
 hemodiafiltración
 on-line
 hdf-ol

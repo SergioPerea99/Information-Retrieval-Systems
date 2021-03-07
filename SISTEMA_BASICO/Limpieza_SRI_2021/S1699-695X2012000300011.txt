@@ -5,7 +5,9 @@ sospecha
 de
 síndrome
 de
-boerhaave2012-10-01revista
+boerhaave
+2012-10-01
+revista
 clínica
 de
 medicina
@@ -13,7 +15,8 @@ de
 familia
 v5
 n3
-2012el
+2012
+el
 neumomediastino
 espontáneo
 es

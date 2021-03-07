@@ -6,11 +6,13 @@ madres
 padres
 contextos
 riesgo
-psicosocial2013-10-01anales
+psicosocial
+2013-10-01
+anales
 psicología
 v29
 n3
-2013este
+2013
 artículo
 describe
 proceso

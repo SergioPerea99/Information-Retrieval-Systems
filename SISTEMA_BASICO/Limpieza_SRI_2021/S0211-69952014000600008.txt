@@ -9,11 +9,14 @@ en
 pacientes
 en
 hemodiálisis
-crónica2014-01-01nefrología
+crónica
+2014-01-01
+nefrología
 madrid
 v34
 n6
-2014introducción
+2014
+introducción
 los
 pacientes
 en

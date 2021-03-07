@@ -13,11 +13,13 @@ análisis
 adn
 mitocondrial
 propósito
-caso2004-10-01cuadernos
+caso
+2004-10-01
+cuadernos
 medicina
 forense
 n38
-2004la
+2004
 identificación
 personas
 desaparecidas

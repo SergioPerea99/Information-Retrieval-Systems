@@ -15,7 +15,9 @@ domiciliaria
 de
 pacientes
 ancianos
-dependientes2012-02-01revista
+dependientes
+2012-02-01
+revista
 clínica
 de
 medicina
@@ -23,7 +25,8 @@ de
 familia
 v5
 n1
-2012objetivos
+2012
+objetivos
 evaluar
 el
 impacto

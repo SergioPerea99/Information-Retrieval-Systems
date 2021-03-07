@@ -6,12 +6,14 @@ niño
 menor
 3
 años
-edad2009-03-01pediatría
+edad
+2009-03-01
+pediatría
 atención
 primaria
 v11
 n41
-2009las
+2009
 guías
 consensos
 actuales

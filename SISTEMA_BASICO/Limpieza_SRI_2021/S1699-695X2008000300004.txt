@@ -10,7 +10,9 @@ en
 atención
 primaria
 de
-salud2008-10-01revista
+salud
+2008-10-01
+revista
 clínica
 de
 medicina
@@ -18,7 +20,8 @@ de
 familia
 v2
 n5
-2008hipótesis
+2008
+hipótesis
 y
 objetivo
 la

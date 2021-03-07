@@ -13,11 +13,14 @@ de
 hemodiálisis
 nueva
 anastomosis
-proximal2012-01-01nefrología
+proximal
+2012-01-01
+nefrología
 madrid
 v32
 n4
-2012introducción
+2012
+introducción
 las
 estenosis
 yuxtaanastomóticas

@@ -12,11 +12,14 @@ en
 la
 nefropatía
 diabética
-establecida2012-01-01nefrología
+establecida
+2012-01-01
+nefrología
 madrid
 v32
 n2
-2012antecedentes
+2012
+antecedentes
 hipotéticamente
 la
 utilización

@@ -5,12 +5,14 @@ análisis
 psicológico-forense
 psiquiátrico-legal
 criminológico
-i2011-09-01cuadernos
+i
+2011-09-01
+cuadernos
 medicina
 forense
 v17
 n3
-2011tras
+2011
 200
 años
 historia

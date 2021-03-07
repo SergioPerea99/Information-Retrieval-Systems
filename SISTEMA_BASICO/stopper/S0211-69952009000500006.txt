@@ -8,11 +8,13 @@ hepatitis
 b
 136
 pacientes
-hemodiálisis2009-01-01nefrología
+hemodiálisis
+2009-01-01
+nefrología
 madrid
 v29
 n5
-2009la
+2009
 respuesta
 inmunitaria
 vacuna

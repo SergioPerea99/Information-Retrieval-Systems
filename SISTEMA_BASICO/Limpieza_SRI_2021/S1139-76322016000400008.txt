@@ -6,12 +6,15 @@ los
 padres
 sobre
 la
-fiebre2016-12-01pediatría
+fiebre
+2016-12-01
+pediatría
 atención
 primaria
 v18
 n72
-2016resumen
+2016
+resumen
 introducción
 la
 fiebre

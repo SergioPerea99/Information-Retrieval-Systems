@@ -19,7 +19,9 @@ del
 consumo
 de
 hormona
-tiroidea2012-06-01revista
+tiroidea
+2012-06-01
+revista
 clínica
 de
 medicina
@@ -27,7 +29,8 @@ de
 familia
 v5
 n2
-2012objetivo
+2012
+objetivo
 nos
 proponemos
 estimar

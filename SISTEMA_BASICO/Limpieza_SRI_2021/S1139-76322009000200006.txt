@@ -16,12 +16,15 @@ en
 castilla
 y
 león
-españa2009-06-01pediatría
+españa
+2009-06-01
+pediatría
 atención
 primaria
 v11
 n42
-2009objetivo
+2009
+objetivo
 determinar
 la
 tasa

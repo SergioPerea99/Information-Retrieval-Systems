@@ -16,7 +16,9 @@ mir
 de
 2011
 y
-20132014-06-01revista
+2013
+2014-06-01
+revista
 clínica
 de
 medicina
@@ -24,7 +26,8 @@ de
 familia
 v7
 n2
-2014objetivo
+2014
+objetivo
 conocer
 la
 prioridad

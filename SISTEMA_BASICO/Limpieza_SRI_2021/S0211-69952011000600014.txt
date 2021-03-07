@@ -6,11 +6,14 @@ la
 poliquistosis
 renal
 autosómica
-dominante2011-01-01nefrología
+dominante
+2011-01-01
+nefrología
 madrid
 v31
 n6
-2011la
+2011
+la
 carga
 biológica
 física

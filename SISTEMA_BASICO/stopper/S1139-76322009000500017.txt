@@ -8,12 +8,15 @@ sanitarios
 niños
 menores
 2
-años2009-12-01pediatría
+años
+2009-12-01
+pediatría
 atención
 primaria
 v11
 n44
-2009objetivo
+2009
+objetivo
 evaluar
 influencia
 asistencia

@@ -5,11 +5,13 @@ laborales
 sevilla
 estudio
 epidemiológico
-toxicológico2008-04-01cuadernos
+toxicológico
+2008-04-01
+cuadernos
 medicina
 forense
 n52
-2008en
+2008
 trabajo
 realiza
 análisis

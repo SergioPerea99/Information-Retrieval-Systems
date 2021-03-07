@@ -4,12 +4,15 @@ de
 manos
 una
 recomendación
-atendida2012-09-01pediatría
+atendida
+2012-09-01
+pediatría
 atención
 primaria
 v14
 n55
-2012objetivos
+2012
+objetivos
 determinar
 la
 incidencia

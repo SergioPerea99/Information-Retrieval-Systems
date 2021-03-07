@@ -7,11 +7,14 @@ hospitalizados
 gastroenteritis
 aguda
 estudio
-prospectivo2014-01-01nefrología
+prospectivo
+2014-01-01
+nefrología
 madrid
 v34
 n4
-2014objetivo
+2014
+objetivo
 determinar
 utilización
 sueros

@@ -4,11 +4,13 @@ autopsia
 casos
 muerte
 súbita
-cardíaca2009-01-01cuadernos
+cardíaca
+2009-01-01
+cuadernos
 medicina
 forense
 n55
-2009a
+2009
 muerte
 súbita
 cardíaca

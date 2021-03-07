@@ -4,11 +4,13 @@ pkd2
 poliquistosis
 renal
 autosómica
-dominante2009-01-01nefrología
+dominante
+2009-01-01
+nefrología
 madrid
 v29
 n6
-2009la
+2009
 poliquistosis
 renal
 autosómica

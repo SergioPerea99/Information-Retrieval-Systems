@@ -9,11 +9,14 @@ obesos
 cuál
 opción
 terapéutica
-eficaz2009-01-01nefrología
+eficaz
+2009-01-01
+nefrología
 madrid
 v29
 n5
-2009introducción
+2009
+introducción
 obesidad
 aumenta
 riesgo

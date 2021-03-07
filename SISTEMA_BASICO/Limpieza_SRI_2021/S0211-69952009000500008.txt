@@ -13,11 +13,14 @@ hospitales
 de
 referencia
 en
-españa2009-01-01nefrología
+españa
+2009-01-01
+nefrología
 madrid
 v29
 n5
-2009introducción
+2009
+introducción
 para
 garantizar
 una

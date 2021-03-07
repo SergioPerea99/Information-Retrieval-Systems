@@ -6,11 +6,14 @@ renal
 riñón
 nativo
 trasplante
-renal2011-01-01nefrología
+renal
+2011-01-01
+nefrología
 madrid
 v31
 n5
-2011antecedentes
+2011
+antecedentes
 frecuencia
 tumores
 pacientes

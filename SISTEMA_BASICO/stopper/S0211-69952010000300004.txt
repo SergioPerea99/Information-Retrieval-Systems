@@ -2,11 +2,13 @@ uso
 bifosfonatos
 enfermedad
 renal
-crónica2010-01-01nefrología
+crónica
+2010-01-01
+nefrología
 madrid
 v30
 n3
-2010los
+2010
 bifosfonatos
 compuestos
 sintéticos

@@ -12,11 +12,13 @@ peritonitis
 comorbilidad
 supervivencia
 pacientes
-técnica2010-01-01nefrología
+técnica
+2010-01-01
+nefrología
 madrid
 v30
 n1
-2010en
+2010
 estudio
 presentamos
 resultados

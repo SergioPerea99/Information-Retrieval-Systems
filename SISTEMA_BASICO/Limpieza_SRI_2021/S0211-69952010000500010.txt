@@ -11,11 +11,14 @@ pacientes
 incidentes
 en
 diálisis
-peritoneal2010-01-01nefrología
+peritoneal
+2010-01-01
+nefrología
 madrid
 v30
 n5
-2010introducción
+2010
+introducción
 el
 plan
 de

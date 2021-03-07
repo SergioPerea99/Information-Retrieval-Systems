@@ -16,11 +16,14 @@ ratas
 con
 diabetes
 tipo
-12010-01-01nefrología
+1
+2010-01-01
+nefrología
 madrid
 v30
 n6
-2010se
+2010
+se
 ha
 reportado
 una

@@ -1,11 +1,13 @@
 manejo
 hipercalcemia
 trasplante
-renal2013-01-01nefrología
+renal
+2013-01-01
+nefrología
 madrid
 v33
 n6
-2013la
+2013
 hipercalcemia
 postrasplante
 debida

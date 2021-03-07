@@ -2,11 +2,13 @@ diabetes
 mellitus
 enfermedad
 renal
-anciano2014-01-01nefrología
+anciano
+2014-01-01
+nefrología
 madrid
 v34
 n3
-2014el
+2014
 manejo
 anciano
 diabético

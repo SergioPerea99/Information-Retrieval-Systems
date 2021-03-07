@@ -9,11 +9,14 @@ cambio
 ciclosporina
 diabetes
 inducida
-tacrolimus2015-01-01nefrología
+tacrolimus
+2015-01-01
+nefrología
 madrid
 v35
 n3
-2015antecedentes
+2015
+antecedentes
 cambio
 ciclosporina
 revertir

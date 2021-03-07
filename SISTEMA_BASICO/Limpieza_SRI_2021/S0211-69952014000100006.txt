@@ -15,11 +15,14 @@ adultos
 con
 síndrome
 nefrótico
-idiopático2014-01-01nefrología
+idiopático
+2014-01-01
+nefrología
 madrid
 v34
 n1
-2014introducción
+2014
+introducción
 estudios
 recientes
 sugieren

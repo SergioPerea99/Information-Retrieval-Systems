@@ -10,11 +10,14 @@ glomeruloesclerosis
 focal
 segmentaria
 idiopática
-secundaria2014-01-01nefrología
+secundaria
+2014-01-01
+nefrología
 madrid
 v34
 n1
-2014antecedentes
+2014
+antecedentes
 descrito
 nivel
 circulante

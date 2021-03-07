@@ -13,12 +13,15 @@ dcl
 a
 través
 del
-tavec2014-01-01anales
+tavec
+2014-01-01
+anales
 de
 psicología
 v30
 n1
-2014el
+2014
+el
 deterioro
 cognitivo
 leve

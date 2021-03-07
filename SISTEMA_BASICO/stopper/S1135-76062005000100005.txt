@@ -2,11 +2,13 @@ estudio
 epidemiológico
 suicidio
 sevilla
-20042005-01-01cuadernos
+2004
+2005-01-01
+cuadernos
 medicina
 forense
 n39
-2005en
+2005
 artículo
 realiza
 estudio

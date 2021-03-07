@@ -16,11 +16,14 @@ enfermedad
 renal
 crónica
 en
-diálisis2013-01-01nefrología
+diálisis
+2013-01-01
+nefrología
 madrid
 v33
 n6
-2013introducción
+2013
+introducción
 la
 candidosis
 bucal

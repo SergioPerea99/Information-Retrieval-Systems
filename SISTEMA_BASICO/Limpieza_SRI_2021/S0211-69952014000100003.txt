@@ -4,11 +4,14 @@ tacrolimus
 del
 laboratorio
 al
-paciente2014-01-01nefrología
+paciente
+2014-01-01
+nefrología
 madrid
 v34
 n1
-2014el
+2014
+el
 tacrolimus
 tac
 es

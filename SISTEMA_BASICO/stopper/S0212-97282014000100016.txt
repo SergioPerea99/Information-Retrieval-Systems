@@ -2,11 +2,13 @@ evidencia
 statistical
 anxiety
 scale
-sas2014-01-01anales
+sas
+2014-01-01
+anales
 psicología
 v30
 n1
-2014las
+2014
 asignaturas
 relacionadas
 estadística

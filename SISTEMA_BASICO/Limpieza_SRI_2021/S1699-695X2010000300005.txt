@@ -23,7 +23,9 @@ de
 6
 a
 12
-años2010-10-01revista
+años
+2010-10-01
+revista
 clínica
 de
 medicina
@@ -31,7 +33,8 @@ de
 familia
 v3
 n3
-2010objetivo
+2010
+objetivo
 diseñar
 y
 validar

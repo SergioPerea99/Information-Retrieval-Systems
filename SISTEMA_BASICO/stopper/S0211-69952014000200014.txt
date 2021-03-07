@@ -4,11 +4,13 @@ detección
 manejo
 enfermedad
 renal
-crónica2014-01-01nefrología
+crónica
+2014-01-01
+nefrología
 madrid
 v34
 n2
-2014la
+2014
 enfermedad
 renal
 crónica

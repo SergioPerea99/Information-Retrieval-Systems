@@ -10,11 +10,14 @@ pacientes
 en
 hemodiálisis
 persistentemente
-hiperhidratados2014-01-01nefrología
+hiperhidratados
+2014-01-01
+nefrología
 madrid
 v34
 n6
-2014introducción
+2014
+introducción
 la
 hiperhidratación
 es

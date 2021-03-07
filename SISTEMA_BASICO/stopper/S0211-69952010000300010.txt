@@ -4,11 +4,13 @@ indicador
 calidad
 área
 adecuación
-hemodiálisis2010-01-01nefrología
+hemodiálisis
+2010-01-01
+nefrología
 madrid
 v30
 n3
-2010la
+2010
 dosis
 diálisis
 marcador

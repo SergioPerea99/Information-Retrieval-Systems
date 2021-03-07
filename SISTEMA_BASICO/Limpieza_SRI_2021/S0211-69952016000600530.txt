@@ -10,11 +10,14 @@ renal
 agudo
 en
 la
-sepsis2016-10-01nefrología
+sepsis
+2016-10-01
+nefrología
 madrid
 v36
 n5
-2016resumen
+2016
+resumen
 antecedentes
 desde
 2004

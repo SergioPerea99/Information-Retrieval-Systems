@@ -16,12 +16,15 @@ la
 provincia
 central
 de
-kenia2010-12-01pediatría
+kenia
+2010-12-01
+pediatría
 atención
 primaria
 v12
 n48
-2010introducción
+2010
+introducción
 la
 lactancia
 materna

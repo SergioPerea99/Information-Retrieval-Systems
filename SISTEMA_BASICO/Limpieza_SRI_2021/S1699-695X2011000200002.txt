@@ -11,7 +11,9 @@ salud
 del
 paciente
 con
-insomnio2011-06-01revista
+insomnio
+2011-06-01
+revista
 clínica
 de
 medicina
@@ -19,7 +21,8 @@ de
 familia
 v4
 n2
-2011objetivo
+2011
+objetivo
 valoración
 clínica
 y

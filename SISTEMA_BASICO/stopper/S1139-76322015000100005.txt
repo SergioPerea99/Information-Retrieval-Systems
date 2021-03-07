@@ -2,12 +2,15 @@ gastroenteritis
 bacteriana
 área
 zaragoza
-españa2015-03-01pediatría
+españa
+2015-03-01
+pediatría
 atención
 primaria
 v17
 n65
-2015objetivo
+2015
+objetivo
 infecciones
 agudas
 tracto

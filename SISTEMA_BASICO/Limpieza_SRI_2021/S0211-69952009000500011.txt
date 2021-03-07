@@ -16,11 +16,14 @@ con
 donantes
 con
 criterios
-expandidos2009-01-01nefrología
+expandidos
+2009-01-01
+nefrología
 madrid
 v29
 n5
-2009introducción
+2009
+introducción
 los
 resultados
 de

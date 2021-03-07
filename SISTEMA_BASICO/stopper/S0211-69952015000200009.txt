@@ -12,11 +12,14 @@ sometidos
 cirugía
 cardiaca
 angiografía
-coronaria2015-01-01nefrología
+coronaria
+2015-01-01
+nefrología
 madrid
 v35
 n2
-2015introducción
+2015
+introducción
 objetivos
 fracaso
 renal

@@ -16,11 +16,14 @@ pediátricos
 con
 enfermedad
 renal
-crónica2010-01-01nefrología
+crónica
+2010-01-01
+nefrología
 madrid
 v30
 n2
-2010el
+2010
+el
 tratamiento
 actual
 de

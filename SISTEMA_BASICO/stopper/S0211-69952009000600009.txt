@@ -6,11 +6,14 @@ continua
 ambulatoria
 descripción
 10
-casos2009-01-01nefrología
+casos
+2009-01-01
+nefrología
 madrid
 v29
 n6
-2009antecedentes
+2009
+antecedentes
 peritonitis
 fúngica
 complicación

@@ -22,11 +22,14 @@ renal
 crónica
 tmo-erc
 en
-adultos2013-01-01nefrología
+adultos
+2013-01-01
+nefrología
 madrid
 v33
 suppl1
-2013las
+2013
+las
 guías
 de
 práctica

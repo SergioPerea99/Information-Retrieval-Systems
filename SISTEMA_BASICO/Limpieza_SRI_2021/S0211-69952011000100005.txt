@@ -10,11 +10,14 @@ anti-mtor
 en
 el
 trasplante
-renal2011-01-01nefrología
+renal
+2011-01-01
+nefrología
 madrid
 v31
 n1
-2011los
+2011
+los
 fármacos
 inhibidores
 de

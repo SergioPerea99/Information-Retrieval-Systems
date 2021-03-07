@@ -4,12 +4,15 @@ telemedicina
 seguimiento
 recién
 nacido
-sano2014-12-01pediatría
+sano
+2014-12-01
+pediatría
 atención
 primaria
 v16
 n64
-2014introducción
+2014
+introducción
 implementación
 telemedicina
 estudios

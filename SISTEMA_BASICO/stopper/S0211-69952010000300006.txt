@@ -8,11 +8,14 @@ período
 supervivencia
 enfermedad
 renal
-terminal2010-01-01nefrología
+terminal
+2010-01-01
+nefrología
 madrid
 v30
 n3
-2010objetivo
+2010
+objetivo
 nefropatía
 hipertensiva
 causa

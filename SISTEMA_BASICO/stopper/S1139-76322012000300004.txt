@@ -7,12 +7,15 @@ residentes
 relación
 proceso
 asistencial
-establecido2012-06-01pediatría
+establecido
+2012-06-01
+pediatría
 atención
 primaria
 v14
 n54
-2012objetivo
+2012
+objetivo
 evaluar
 consejo
 padres

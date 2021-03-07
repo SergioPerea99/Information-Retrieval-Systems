@@ -1,11 +1,14 @@
 feocromocitoma-paraganglioma
 diagnóstico
 bioquímico
-genético2016-10-01nefrología
+genético
+2016-10-01
+nefrología
 madrid
 v36
 n5
-2016resumen
+2016
+resumen
 feocromocitomas
 paragangliomas
 tumores

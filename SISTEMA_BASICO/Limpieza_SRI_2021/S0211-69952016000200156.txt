@@ -15,11 +15,14 @@ y
 tiempo-dependientes
 para
 trasplante
-renal2016-04-01nefrología
+renal
+2016-04-01
+nefrología
 madrid
 v36
 n2
-2016resumen
+2016
+resumen
 introducción
 el
 estudio

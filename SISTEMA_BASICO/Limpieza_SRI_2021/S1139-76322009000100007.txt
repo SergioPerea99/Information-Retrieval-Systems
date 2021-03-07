@@ -12,12 +12,15 @@ de
 3
 años
 de
-edad2009-03-01pediatría
+edad
+2009-03-01
+pediatría
 atención
 primaria
 v11
 n41
-2009las
+2009
+las
 guías
 y
 consensos

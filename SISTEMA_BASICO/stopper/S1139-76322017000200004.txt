@@ -6,12 +6,15 @@ antígeno
 estreptocócico
 consulta
 atención
-primaria2017-06-01pediatría
+primaria
+2017-06-01
+pediatría
 atención
 primaria
 v19
 n74
-2017resumen
+2017
+resumen
 introducción
 faringoamigdalitis
 aguda

@@ -13,12 +13,15 @@ la
 distinción
 temprana
 del
-plural2016-10-01anales
+plural
+2016-10-01
+anales
 de
 psicología
 v32
 n3
-2016el
+2016
+el
 lenguaje
 permite
 explorar

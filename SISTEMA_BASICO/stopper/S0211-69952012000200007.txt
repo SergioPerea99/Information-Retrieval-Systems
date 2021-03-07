@@ -3,11 +3,13 @@ función
 renal
 enfermos
 tratados
-hemodiálisis2012-01-01nefrología
+hemodiálisis
+2012-01-01
+nefrología
 madrid
 v32
 n2
-2012en
+2012
 trabajo
 revisamos
 casos

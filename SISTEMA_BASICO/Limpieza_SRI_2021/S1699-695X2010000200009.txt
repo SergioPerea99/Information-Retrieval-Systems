@@ -13,7 +13,9 @@ que
 consulta
 en
 atención
-primaria2010-06-01revista
+primaria
+2010-06-01
+revista
 clínica
 de
 medicina
@@ -21,7 +23,8 @@ de
 familia
 v3
 n2
-2010objetivo
+2010
+objetivo
 conocer
 la
 prevalencia

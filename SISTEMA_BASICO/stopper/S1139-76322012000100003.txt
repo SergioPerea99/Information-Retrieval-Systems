@@ -5,12 +5,15 @@ cuál
 cobertura
 centro
 salud
-urbano2012-03-01pediatría
+urbano
+2012-03-01
+pediatría
 atención
 primaria
 v14
 n53
-2012objetivo
+2012
+objetivo
 determinar
 tasa
 cobertura

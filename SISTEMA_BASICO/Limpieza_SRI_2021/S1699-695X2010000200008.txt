@@ -4,7 +4,9 @@ automedicación
 en
 población
 universitaria
-española2010-06-01revista
+española
+2010-06-01
+revista
 clínica
 de
 medicina
@@ -12,7 +14,8 @@ de
 familia
 v3
 n2
-2010objetivo
+2010
+objetivo
 la
 automedicación
 es

@@ -16,11 +16,14 @@ renal
 en
 terapia
 con
-tacrolimus2011-01-01nefrología
+tacrolimus
+2011-01-01
+nefrología
 madrid
 v31
 n6
-2011antecedentes
+2011
+antecedentes
 la
 falta
 de

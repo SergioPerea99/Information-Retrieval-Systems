@@ -5,12 +5,14 @@ maltrato
 infancia
 ámbito
 atención
-primaria2009-03-01pediatría
+primaria
+2009-03-01
+pediatría
 atención
 primaria
 v11
 n41
-2009se
+2009
 maltrato
 infantil
 acción

@@ -6,11 +6,14 @@ estimación
 filtrado
 glomerular
 pacientes
-hipertensos2010-01-01nefrología
+hipertensos
+2010-01-01
+nefrología
 madrid
 v30
 n4
-2010objetivo
+2010
+objetivo
 analizar
 concordancias
 filtrado

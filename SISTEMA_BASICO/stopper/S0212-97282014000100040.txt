@@ -6,11 +6,13 @@ deterioro
 cognitivo
 leve
 dcl
-tavec2014-01-01anales
+tavec
+2014-01-01
+anales
 psicología
 v30
 n1
-2014el
+2014
 deterioro
 cognitivo
 leve

@@ -5,7 +5,9 @@ consejo
 genético
 en
 atención
-primaria2014-06-01revista
+primaria
+2014-06-01
+revista
 clínica
 de
 medicina
@@ -13,7 +15,8 @@ de
 familia
 v7
 n2
-2014el
+2014
+el
 consejo
 genético
 ayuda

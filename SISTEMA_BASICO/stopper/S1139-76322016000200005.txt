@@ -4,12 +4,15 @@ tablas
 crecimiento
 diagnóstico
 sobrepeso
-obesidad2016-06-01pediatría
+obesidad
+2016-06-01
+pediatría
 atención
 primaria
 v18
 n70
-2016resumen
+2016
+resumen
 objetivos
 estimar
 diferencias

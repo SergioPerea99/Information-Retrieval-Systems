@@ -4,11 +4,14 @@ unidades
 hemodiálisis
 méxico
 estudio
-transversal2011-01-01nefrología
+transversal
+2011-01-01
+nefrología
 madrid
 v31
 n1
-2011antecedentes
+2011
+antecedentes
 clima
 laboral
 cl

@@ -5,11 +5,14 @@ un
 nefrólogo
 una
 enfermedad
-mitocondrial2015-01-01nefrología
+mitocondrial
+2015-01-01
+nefrología
 madrid
 v35
 n1
-2015las
+2015
+las
 enfermedades
 mitocondriales
 considerando

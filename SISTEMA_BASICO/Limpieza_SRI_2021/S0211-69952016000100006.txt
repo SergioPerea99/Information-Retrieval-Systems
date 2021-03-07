@@ -18,11 +18,14 @@ renal
 al
 año
 del
-trasplante2016-01-01nefrología
+trasplante
+2016-01-01
+nefrología
 madrid
 v36
 n1
-2016antecedentes
+2016
+antecedentes
 la
 biopsia
 renal

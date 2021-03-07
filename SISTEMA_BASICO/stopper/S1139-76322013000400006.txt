@@ -4,12 +4,15 @@ pediatras
 atención
 primaria
 país
-vasco2013-09-01pediatría
+vasco
+2013-09-01
+pediatría
 atención
 primaria
 v15
 n59
-2013introducción
+2013
+introducción
 tos
 motivo
 frecuente

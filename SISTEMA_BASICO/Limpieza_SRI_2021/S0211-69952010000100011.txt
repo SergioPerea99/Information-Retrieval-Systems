@@ -7,11 +7,14 @@ con
 poliquistosis
 renal
 autosómica
-dominante2010-01-01nefrología
+dominante
+2010-01-01
+nefrología
 madrid
 v30
 n1
-2010la
+2010
+la
 poliquistosis
 renal
 autosómica

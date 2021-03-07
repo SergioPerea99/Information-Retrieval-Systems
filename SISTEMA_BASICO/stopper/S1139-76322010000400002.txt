@@ -3,12 +3,15 @@ escolares
 dolor
 espalda
 población
-infantil2010-09-01pediatría
+infantil
+2010-09-01
+pediatría
 atención
 primaria
 v12
 n47
-2010introducción
+2010
+introducción
 peso
 mochilas
 preocupa

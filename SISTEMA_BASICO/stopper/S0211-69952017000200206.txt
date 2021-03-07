@@ -5,11 +5,14 @@ renal
 relación
 parvovirus
 humano
-b192017-04-01nefrología
+b19
+2017-04-01
+nefrología
 madrid
 v37
 n2
-2017resumen
+2017
+resumen
 infecciones
 continúan
 problema

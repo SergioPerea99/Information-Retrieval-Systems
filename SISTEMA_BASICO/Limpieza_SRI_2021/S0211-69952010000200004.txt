@@ -7,11 +7,14 @@ imagen
 en
 el
 hiperparatiroidismo
-secundario2010-01-01nefrología
+secundario
+2010-01-01
+nefrología
 madrid
 v30
 n2
-2010en
+2010
+en
 los
 pacientes
 con

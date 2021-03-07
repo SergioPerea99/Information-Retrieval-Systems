@@ -4,12 +4,15 @@ pediatría
 atención
 primaria
 estudio
-multicéntrico2009-06-01pediatría
+multicéntrico
+2009-06-01
+pediatría
 atención
 primaria
 v11
 n42
-2009objetivo
+2009
+objetivo
 cuantificar
 demandas
 aditivas

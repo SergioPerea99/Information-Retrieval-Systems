@@ -9,12 +9,15 @@ encuesta
 a
 jóvenes
 universitarios
-españoles2011-06-01pediatría
+españoles
+2011-06-01
+pediatría
 atención
 primaria
 v13
 n50
-2011objetivos
+2011
+objetivos
 conocimiento
 de
 la

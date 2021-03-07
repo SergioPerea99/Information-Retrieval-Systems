@@ -6,12 +6,15 @@ los
 pediatras
 de
 atención
-primaria2014-03-01pediatría
+primaria
+2014-03-01
+pediatría
 atención
 primaria
 v16
 n61
-2014introducción
+2014
+introducción
 en
 el
 sistema

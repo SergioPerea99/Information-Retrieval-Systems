@@ -12,7 +12,9 @@ eso
 en
 una
 población
-rural2014-10-01revista
+rural
+2014-10-01
+revista
 clínica
 de
 medicina
@@ -20,7 +22,8 @@ de
 familia
 v7
 n3
-2014objetivo
+2014
+objetivo
 conocer
 el
 patrón

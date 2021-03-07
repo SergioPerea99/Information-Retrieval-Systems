@@ -23,11 +23,14 @@ la
 enfermedad
 cardiovascular
 y
-mortalidad2013-01-01nefrología
+mortalidad
+2013-01-01
+nefrología
 madrid
 v33
 n1
-2013los
+2013
+los
 pacientes
 con
 enfermedad

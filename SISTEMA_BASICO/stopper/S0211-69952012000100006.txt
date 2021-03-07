@@ -9,11 +9,14 @@ clínicas
 organización
 desarrollo
 biobanco
-redinren2012-01-01nefrología
+redinren
+2012-01-01
+nefrología
 madrid
 v32
 n1
-2012antecedentes
+2012
+antecedentes
 creación
 biobanco
 plataforma

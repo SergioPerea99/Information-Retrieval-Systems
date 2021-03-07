@@ -4,12 +4,15 @@ adolescentes
 relación
 conductas
 riesgo
-variables2013-09-01pediatría
+variables
+2013-09-01
+pediatría
 atención
 primaria
 v15
 n59
-2013introducción
+2013
+introducción
 adolescencia
 etapa
 vida

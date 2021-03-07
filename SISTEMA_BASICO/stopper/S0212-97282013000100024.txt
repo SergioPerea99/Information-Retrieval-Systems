@@ -4,11 +4,13 @@ cultural
 grupos
 inmigrantes
 variables
-predictoras2013-01-01anales
+predictoras
+2013-01-01
+anales
 psicología
 v29
 n1
-2013este
+2013
 estudio
 pretende
 analizar

@@ -2,12 +2,15 @@ prueba
 tuberculina
 población
 pediátrica
-inmigrada2010-09-01pediatría
+inmigrada
+2010-09-01
+pediatría
 atención
 primaria
 v12
 n47
-2010introducción
+2010
+introducción
 inmigración
 aumentar
 prevalencia

@@ -10,11 +10,14 @@ pacientes
 críticos
 insuficiencia
 renal
-aguda2012-01-01nefrología
+aguda
+2012-01-01
+nefrología
 madrid
 v32
 n3
-2012introducción
+2012
+introducción
 insuficiencia
 renal
 aguda

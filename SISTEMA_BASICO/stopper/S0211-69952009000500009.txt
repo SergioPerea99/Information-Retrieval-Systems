@@ -4,11 +4,14 @@ tiroidea
 niños
 insuficiencia
 renal
-crónica2009-01-01nefrología
+crónica
+2009-01-01
+nefrología
 madrid
 v29
 n5
-2009objetivos
+2009
+objetivos
 determinar
 frecuencia
 tipo

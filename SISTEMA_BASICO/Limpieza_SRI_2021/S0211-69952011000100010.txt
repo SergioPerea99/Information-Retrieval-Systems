@@ -14,11 +14,14 @@ con
 nefropatía
 diabética
 en
-hemodiálisis2011-01-01nefrología
+hemodiálisis
+2011-01-01
+nefrología
 madrid
 v31
 n1
-2011antecedentes
+2011
+antecedentes
 diversos
 estudios
 han

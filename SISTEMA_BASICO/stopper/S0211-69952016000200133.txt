@@ -3,11 +3,14 @@ glucémicas
 pacientes
 enfermedad
 renal
-crónica2016-04-01nefrología
+crónica
+2016-04-01
+nefrología
 madrid
 v36
 n2
-2016resumen
+2016
+resumen
 argentina
 estudios
 destinados

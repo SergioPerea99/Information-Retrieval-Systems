@@ -8,11 +8,14 @@ con
 pacientes
 tratados
 con
-plasmaféresis2011-01-01nefrología
+plasmaféresis
+2011-01-01
+nefrología
 madrid
 v31
 n4
-2011introducción
+2011
+introducción
 la
 plasmaféresis
 pf

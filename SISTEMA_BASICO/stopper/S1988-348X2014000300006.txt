@@ -4,10 +4,13 @@ bucodental
 anciano
 valoración
 diagnóstico
-enfermero2014-01-01ene
+enfermero
+2014-01-01
+ene
 v8
 n3
-2014objetivo
+2014
+objetivo
 identificar
 preguntas
 clave

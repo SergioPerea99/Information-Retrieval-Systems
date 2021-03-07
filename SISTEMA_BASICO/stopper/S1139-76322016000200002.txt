@@ -1,11 +1,14 @@
 perfil
 internauta
-gestantes2016-06-01pediatría
+gestantes
+2016-06-01
+pediatría
 atención
 primaria
 v18
 n70
-2016resumen
+2016
+resumen
 objetivo
 perfil
 internauta

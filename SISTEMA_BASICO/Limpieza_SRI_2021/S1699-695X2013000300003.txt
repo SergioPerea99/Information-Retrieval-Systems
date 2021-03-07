@@ -18,7 +18,9 @@ familiar
 y
 comunitaria
 hemos
-avanzado2013-10-01revista
+avanzado
+2013-10-01
+revista
 clínica
 de
 medicina
@@ -26,7 +28,8 @@ de
 familia
 v6
 n3
-2013objetivo
+2013
+objetivo
 conocer
 la
 rotación

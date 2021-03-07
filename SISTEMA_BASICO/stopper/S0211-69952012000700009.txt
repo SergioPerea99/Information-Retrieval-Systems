@@ -7,11 +7,14 @@ insuficiencia
 renal
 crónica
 tratamiento
-hemodiálisis2012-01-01nefrología
+hemodiálisis
+2012-01-01
+nefrología
 madrid
 v32
 n5
-2012objetivo
+2012
+objetivo
 valorar
 calidad
 vida

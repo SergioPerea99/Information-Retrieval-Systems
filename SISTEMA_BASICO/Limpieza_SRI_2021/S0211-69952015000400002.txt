@@ -19,11 +19,14 @@ dialysis
 and
 transplant
 association
-era-edta2015-01-01nefrología
+era-edta
+2015-01-01
+nefrología
 madrid
 v35
 n4
-2015antecedentes
+2015
+antecedentes
 la
 european
 renal

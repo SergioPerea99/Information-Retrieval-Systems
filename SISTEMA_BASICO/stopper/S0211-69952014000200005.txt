@@ -6,11 +6,13 @@ metabolismo
 óseo-mineral
 enfermedad
 renal
-crónica2014-01-01nefrología
+crónica
+2014-01-01
+nefrología
 madrid
 v34
 n2
-2014el
+2014
 presente
 estudio
 diseñado

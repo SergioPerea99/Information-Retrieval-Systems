@@ -11,11 +11,14 @@ pacientes
 hipertensos
 atendidos
 atención
-primaria2010-01-01nefrología
+primaria
+2010-01-01
+nefrología
 madrid
 v30
 n6
-2010antecedentes
+2010
+antecedentes
 deterioro
 función
 renal

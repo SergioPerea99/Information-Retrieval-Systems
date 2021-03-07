@@ -11,11 +11,14 @@ estadios
 diálisis
 vs
 tratamiento
-conservador2016-06-01nefrología
+conservador
+2016-06-01
+nefrología
 madrid
 v36
 n3
-2016resumen
+2016
+resumen
 introducción
 pacientes
 edad

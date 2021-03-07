@@ -1,12 +1,15 @@
 somos
 variables
-evidencia2010-02-01revista
+evidencia
+2010-02-01
+revista
 clínica
 medicina
 familia
 v3
 n1
-2010objetivo
+2010
+objetivo
 describir
 variabilidad
 terapéutica

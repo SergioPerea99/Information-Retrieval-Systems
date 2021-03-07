@@ -9,7 +9,9 @@ un
 servicio
 de
 urgencias
-hospitalario2009-02-01revista
+hospitalario
+2009-02-01
+revista
 clínica
 de
 medicina
@@ -17,7 +19,8 @@ de
 familia
 v2
 n6
-2009objetivos
+2009
+objetivos
 determinar
 la
 prevalencia

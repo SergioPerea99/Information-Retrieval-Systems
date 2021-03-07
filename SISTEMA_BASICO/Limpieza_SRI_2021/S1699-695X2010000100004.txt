@@ -11,7 +11,9 @@ a
 consultas
 de
 atención
-primaria2010-02-01revista
+primaria
+2010-02-01
+revista
 clínica
 de
 medicina
@@ -19,7 +21,8 @@ de
 familia
 v3
 n1
-2010objetivos
+2010
+objetivos
 conocer
 qué
 proporción

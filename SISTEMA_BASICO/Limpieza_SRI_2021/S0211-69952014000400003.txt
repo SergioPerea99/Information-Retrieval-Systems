@@ -13,11 +13,14 @@ la
 hormona
 antidiurética
 algoritmo
-multidisciplinar2014-01-01nefrología
+multidisciplinar
+2014-01-01
+nefrología
 madrid
 v34
 n4
-2014introducción
+2014
+introducción
 el
 síndrome
 de

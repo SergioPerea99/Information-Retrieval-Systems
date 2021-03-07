@@ -14,11 +14,13 @@ miocardio
 exposición
 caso
 revisión
-literatura2002-10-01cuadernos
+literatura
+2002-10-01
+cuadernos
 medicina
 forense
 n30
-2002los
+2002
 enfermos
 psiquiátricos
 concretamente

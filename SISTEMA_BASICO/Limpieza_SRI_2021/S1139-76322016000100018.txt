@@ -4,12 +4,15 @@ la
 timpanometría
 en
 atención
-primaria2016-03-01pediatría
+primaria
+2016-03-01
+pediatría
 atención
 primaria
 v18
 n69
-2016dada
+2016
+dada
 la
 elevada
 prevalencia

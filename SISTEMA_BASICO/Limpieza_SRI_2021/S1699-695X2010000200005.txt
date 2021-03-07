@@ -6,7 +6,9 @@ frax
 en
 pacientes
 con
-osteoporosis2010-06-01revista
+osteoporosis
+2010-06-01
+revista
 clínica
 de
 medicina
@@ -14,7 +16,8 @@ de
 familia
 v3
 n2
-2010objetivo
+2010
+objetivo
 describir
 las
 características

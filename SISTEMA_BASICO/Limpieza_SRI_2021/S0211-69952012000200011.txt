@@ -10,11 +10,14 @@ con
 enfermedad
 poliquística
 autosómica
-dominante2012-01-01nefrología
+dominante
+2012-01-01
+nefrología
 madrid
 v32
 n2
-2012objetivos
+2012
+objetivos
 el
 objetivo
 del

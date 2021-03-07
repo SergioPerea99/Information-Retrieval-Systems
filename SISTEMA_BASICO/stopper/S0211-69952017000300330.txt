@@ -9,11 +9,14 @@ protección
 renal
 colombia
 estudio
-cohorte2017-06-01nefrología
+cohorte
+2017-06-01
+nefrología
 madrid
 v37
 n3
-2017resumen
+2017
+resumen
 antecedentes
 carga
 global

@@ -6,11 +6,13 @@ expertos
 noveles
 visualización
 escenas
-tráfico2013-01-01anales
+tráfico
+2013-01-01
+anales
 psicología
 v29
 n1
-2013el
+2013
 objetivo
 presente
 trabajo

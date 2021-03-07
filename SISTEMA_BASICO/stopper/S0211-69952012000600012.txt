@@ -9,11 +9,14 @@ lista
 trasplante
 renal
 despistaje
-coronariografía2012-01-01nefrología
+coronariografía
+2012-01-01
+nefrología
 madrid
 v32
 n4
-2012introducción
+2012
+introducción
 objetivos
 enfermedad
 arterial

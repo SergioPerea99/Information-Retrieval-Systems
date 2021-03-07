@@ -27,11 +27,14 @@ renal
 aguda
 de
 pacientes
-críticos2010-01-01nefrología
+críticos
+2010-01-01
+nefrología
 madrid
 v30
 n2
-2010introducción
+2010
+introducción
 la
 medida
 de

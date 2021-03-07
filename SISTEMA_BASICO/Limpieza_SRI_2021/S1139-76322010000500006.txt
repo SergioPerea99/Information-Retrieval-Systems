@@ -4,12 +4,15 @@ en
 atención
 primaria
 en
-madrid2010-11-01pediatría
+madrid
+2010-11-01
+pediatría
 atención
 primaria
 v12
 suppl19
-2010la
+2010
+la
 pediatría
 en
 atención

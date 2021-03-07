@@ -19,12 +19,15 @@ primer
 año
 en
 enseñanza
-superior2015-01-01anales
+superior
+2015-01-01
+anales
 de
 psicología
 v31
 n1
-2015desde
+2015
+desde
 una
 concepción
 multidimensional

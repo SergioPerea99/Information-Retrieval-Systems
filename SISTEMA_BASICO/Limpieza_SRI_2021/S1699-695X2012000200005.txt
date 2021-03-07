@@ -13,7 +13,9 @@ en
 medio
 rural
 y
-urbano2012-06-01revista
+urbano
+2012-06-01
+revista
 clínica
 de
 medicina
@@ -21,7 +23,8 @@ de
 familia
 v5
 n2
-2012objetivo
+2012
+objetivo
 conocer
 la
 variabilidad

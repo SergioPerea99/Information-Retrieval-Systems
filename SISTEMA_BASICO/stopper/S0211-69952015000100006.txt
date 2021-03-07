@@ -7,11 +7,14 @@ flujo
 sangre
 volumen
 convectivo
-eficacia2015-01-01nefrología
+eficacia
+2015-01-01
+nefrología
 madrid
 v35
 n1
-2015introducción
+2015
+introducción
 hemodiafiltración
 on-line
 hdf-ol

@@ -3,11 +3,14 @@ renal
 oculta
 ingresos
 oportunidad
-mejora2011-01-01nefrología
+mejora
+2011-01-01
+nefrología
 madrid
 v31
 n1
-2011objetivos
+2011
+objetivos
 pacientes
 hospitalizados
 afectados

@@ -3,11 +3,14 @@ calcio
 baño
 diálisis
 asignatura
-pendiente2012-01-01nefrología
+pendiente
+2012-01-01
+nefrología
 madrid
 v32
 n5
-2012introducción
+2012
+introducción
 calcio
 ca
 elementos

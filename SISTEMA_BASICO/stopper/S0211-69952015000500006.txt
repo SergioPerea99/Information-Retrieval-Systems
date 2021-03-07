@@ -12,11 +12,13 @@ receptor
 tipo
 m
 fosfolipasa
-a22015-01-01nefrología
+a2
+2015-01-01
+nefrología
 madrid
 v35
 n5
-2015en
+2015
 nefropatía
 membranosa
 nm

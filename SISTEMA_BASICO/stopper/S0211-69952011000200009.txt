@@ -5,11 +5,14 @@ latente
 pacientes
 diálisis
 peritoneal
-métodos2011-01-01nefrología
+métodos
+2011-01-01
+nefrología
 madrid
 v31
 n2
-2011introducción
+2011
+introducción
 riesgo
 tuberculosis
 tb

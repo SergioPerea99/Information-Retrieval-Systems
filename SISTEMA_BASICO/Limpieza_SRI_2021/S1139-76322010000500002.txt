@@ -14,12 +14,15 @@ la
 evidencia
 a
 la
-práctica2010-11-01pediatría
+práctica
+2010-11-01
+pediatría
 atención
 primaria
 v12
 suppl19
-2010se
+2010
+se
 describe
 la
 metodología

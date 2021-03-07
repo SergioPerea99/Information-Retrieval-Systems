@@ -12,11 +12,14 @@ enfermedad
 renal
 crónica
 estadio
-4-52017-06-01nefrología
+4-5
+2017-06-01
+nefrología
 madrid
 v37
 n3
-2017resumen
+2017
+resumen
 introducción
 niveles
 séricos

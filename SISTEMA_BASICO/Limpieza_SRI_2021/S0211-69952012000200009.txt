@@ -20,11 +20,14 @@ servicios
 de
 nefrología
 de
-perú2012-01-01nefrología
+perú
+2012-01-01
+nefrología
 madrid
 v32
 n2
-2012antecedentes
+2012
+antecedentes
 la
 enfermedad
 renal

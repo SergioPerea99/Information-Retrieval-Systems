@@ -4,11 +4,13 @@ stent
 estenosis
 arterial
 injerto
-renal2012-01-01nefrología
+renal
+2012-01-01
+nefrología
 madrid
 v32
 n4
-2012la
+2012
 estenosis
 arterial
 injerto

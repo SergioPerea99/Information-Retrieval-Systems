@@ -6,11 +6,14 @@ con
 medicamentos
 en
 pacientes
-hospitalizados2015-01-01nefrología
+hospitalizados
+2015-01-01
+nefrología
 madrid
 v35
 n6
-2015antecedentes
+2015
+antecedentes
 la
 información
 sobre

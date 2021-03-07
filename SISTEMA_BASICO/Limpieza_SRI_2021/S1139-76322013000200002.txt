@@ -17,12 +17,15 @@ bronquiolitis
 aguda
 del
 lactante
-hospitalizado2013-06-01pediatría
+hospitalizado
+2013-06-01
+pediatría
 atención
 primaria
 v15
 n58
-2013objetivo
+2013
+objetivo
 estudiar
 la
 utilidad

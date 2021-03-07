@@ -11,11 +11,14 @@ mineral
 pacientes
 hemodiálisis
 medio
-plazo2013-01-01nefrología
+plazo
+2013-01-01
+nefrología
 madrid
 v33
 n5
-2013objetivos
+2013
+objetivos
 valorar
 grado
 cumplimiento

@@ -7,11 +7,13 @@ estudiantes
 grados
 maestro
 infantil
-primaria2016-10-01anales
+primaria
+2016-10-01
+anales
 psicología
 v32
 n3
-2016es
+2016
 inquietante
 idea
 pensar

@@ -5,11 +5,13 @@ claves
 verbales
 distinción
 temprana
-plural2016-10-01anales
+plural
+2016-10-01
+anales
 psicología
 v32
 n3
-2016el
+2016
 lenguaje
 permite
 explorar

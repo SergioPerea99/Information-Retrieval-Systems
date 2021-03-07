@@ -3,12 +3,15 @@ síntomas
 depresivos
 adolescentes
 año
-escolaridad2013-06-01pediatría
+escolaridad
+2013-06-01
+pediatría
 atención
 primaria
 v15
 n58
-2013introducción
+2013
+introducción
 adolescencia
 periodo
 cambios

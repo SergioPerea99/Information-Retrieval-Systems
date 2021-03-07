@@ -7,11 +7,14 @@ con
 eventos
 cardiovasculares
 en
-hemodiálisis2014-01-01nefrología
+hemodiálisis
+2014-01-01
+nefrología
 madrid
 v34
 n1
-2014antecedentes
+2014
+antecedentes
 el
 síndrome
 metabólico

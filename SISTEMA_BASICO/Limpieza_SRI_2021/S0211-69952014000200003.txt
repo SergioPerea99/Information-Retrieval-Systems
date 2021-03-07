@@ -13,11 +13,14 @@ en
 prediálisis
 y
 diálisis
-peritoneal2014-01-01nefrología
+peritoneal
+2014-01-01
+nefrología
 madrid
 v34
 n2
-2014antecedentes
+2014
+antecedentes
 un
 importante
 obstáculo

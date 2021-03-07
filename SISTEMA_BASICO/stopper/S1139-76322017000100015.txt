@@ -5,12 +5,15 @@ tercer
 personaje
 leitmotiv
 cine
-pediatría2017-03-01pediatría
+pediatría
+2017-03-01
+pediatría
 atención
 primaria
 v19
 n73
-2017resumen
+2017
+resumen
 música
 suele
 personaje

@@ -11,11 +11,14 @@ en
 una
 cohorte
 de
-ancianos2012-01-01nefrología
+ancianos
+2012-01-01
+nefrología
 madrid
 v32
 n1
-2012introducción
+2012
+introducción
 existe
 evidencia
 creciente

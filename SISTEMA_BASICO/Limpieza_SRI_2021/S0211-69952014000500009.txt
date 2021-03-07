@@ -8,11 +8,14 @@ en
 pacientes
 con
 trasplante
-renal2014-01-01nefrología
+renal
+2014-01-01
+nefrología
 madrid
 v34
 n5
-2014introducción
+2014
+introducción
 el
 optimismo
 disposicional

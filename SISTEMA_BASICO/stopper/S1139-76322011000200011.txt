@@ -1,12 +1,14 @@
 situación
 menor
 ámbito
-sanitario2011-06-01pediatría
+sanitario
+2011-06-01
+pediatría
 atención
 primaria
 v13
 n50
-2011la
+2011
 situación
 actual
 menor

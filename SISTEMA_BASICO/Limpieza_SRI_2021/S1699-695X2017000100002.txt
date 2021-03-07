@@ -9,7 +9,9 @@ de
 un
 centro
 de
-salud2017-02-01revista
+salud
+2017-02-01
+revista
 clínica
 de
 medicina
@@ -17,7 +19,8 @@ de
 familia
 v10
 n1
-2017objetivo
+2017
+objetivo
 conocer
 el
 uso

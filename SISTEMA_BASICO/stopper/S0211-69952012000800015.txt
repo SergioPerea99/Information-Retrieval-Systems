@@ -7,11 +7,14 @@ mb
 pacientes
 insuficiencia
 renal
-crónica2012-01-01nefrología
+crónica
+2012-01-01
+nefrología
 madrid
 v32
 n6
-2012objetivo
+2012
+objetivo
 evaluar
 valores
 corte

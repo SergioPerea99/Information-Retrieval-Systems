@@ -15,11 +15,14 @@ el
 volumen
 convectivo
 y
-eficacia2015-01-01nefrología
+eficacia
+2015-01-01
+nefrología
 madrid
 v35
 n1
-2015introducción
+2015
+introducción
 la
 hemodiafiltración
 on-line

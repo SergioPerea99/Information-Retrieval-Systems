@@ -2,12 +2,15 @@ hallazgos
 clínicos
 inusuales
 brote
-escarlatina2016-09-01pediatría
+escarlatina
+2016-09-01
+pediatría
 atención
 primaria
 v18
 n71
-2016resumen
+2016
+resumen
 introducción
 escarlatina
 enfermedad

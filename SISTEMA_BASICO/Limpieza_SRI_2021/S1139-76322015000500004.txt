@@ -9,12 +9,15 @@ en
 una
 zona
 de
-salud2015-12-01pediatría
+salud
+2015-12-01
+pediatría
 atención
 primaria
 v17
 n68
-2015introducción
+2015
+introducción
 se
 realiza
 una

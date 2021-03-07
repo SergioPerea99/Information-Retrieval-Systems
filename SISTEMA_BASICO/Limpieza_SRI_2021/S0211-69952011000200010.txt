@@ -22,11 +22,14 @@ canaria
 en
 los
 últimos
-años2011-01-01nefrología
+años
+2011-01-01
+nefrología
 madrid
 v31
 n2
-2011introducción
+2011
+introducción
 existen
 importantes
 diferencias

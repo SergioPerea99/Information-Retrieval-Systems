@@ -9,12 +9,15 @@ la
 gripe
 presente
 y
-futuro2014-09-01pediatría
+futuro
+2014-09-01
+pediatría
 atención
 primaria
 v16
 n63
-2014aproximadamente
+2014
+aproximadamente
 dos
 de
 cada

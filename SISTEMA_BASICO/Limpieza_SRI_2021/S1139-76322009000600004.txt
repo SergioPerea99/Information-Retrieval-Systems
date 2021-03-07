@@ -4,12 +4,15 @@ y
 terapéuticos
 en
 talla
-baja2009-10-01pediatría
+baja
+2009-10-01
+pediatría
 atención
 primaria
 v11
 suppl16
-2009una
+2009
+una
 separación
 clara
 entre

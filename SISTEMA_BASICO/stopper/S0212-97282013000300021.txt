@@ -4,11 +4,13 @@ factorial
 tci-r
 muestra
 adictos
-tratamiento2013-10-01anales
+tratamiento
+2013-10-01
+anales
 psicología
 v29
 n3
-2013el
+2013
 tci-r
 reciente
 instrumento

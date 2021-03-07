@@ -6,11 +6,14 @@ pacientes
 diálisis
 área
 sur
-canaria2011-01-01nefrología
+canaria
+2011-01-01
+nefrología
 madrid
 v31
 n4
-2011introducción
+2011
+introducción
 infecciones
 bacterianas
 representan

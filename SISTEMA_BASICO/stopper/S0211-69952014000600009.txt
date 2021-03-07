@@ -4,11 +4,14 @@ influencia
 clima
 aparición
 infección
-peritoneal2014-01-01nefrología
+peritoneal
+2014-01-01
+nefrología
 madrid
 v34
 n6
-2014introducción
+2014
+introducción
 infección
 peritoneal
 complicación

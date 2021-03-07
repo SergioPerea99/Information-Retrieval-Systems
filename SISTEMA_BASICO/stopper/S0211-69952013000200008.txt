@@ -8,11 +8,14 @@ dp
 fósforo
 pacientes
 diálisis
-peritoneal2013-01-01nefrología
+peritoneal
+2013-01-01
+nefrología
 madrid
 v33
 n2
-2013introducción
+2013
+introducción
 observado
 relación
 aumento

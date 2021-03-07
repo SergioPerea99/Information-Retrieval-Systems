@@ -11,11 +11,13 @@ aines
 antihistamínicos
 propósito
 caso
-fatal2002-01-01cuadernos
+fatal
+2002-01-01
+cuadernos
 medicina
 forense
 n27
-2002se
+2002
 presenta
 caso
 intoxicación

@@ -15,11 +15,14 @@ de
 los
 pacientes
 en
-hemodiálisis2011-01-01nefrología
+hemodiálisis
+2011-01-01
+nefrología
 madrid
 v31
 n4
-2011introducción
+2011
+introducción
 durante
 la
 hospitalización

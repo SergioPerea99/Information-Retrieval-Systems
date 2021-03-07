@@ -2,11 +2,13 @@ histopatología
 cardíaca
 traumatismos
 torácicos
-cerrados2002-01-01cuadernos
+cerrados
+2002-01-01
+cuadernos
 medicina
 forense
 n27
-2002en
+2002
 presente
 trabajo
 estudio

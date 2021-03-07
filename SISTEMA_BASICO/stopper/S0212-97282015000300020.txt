@@ -7,11 +7,13 @@ latinos
 influencia
 contacto
 intergrupal
-edad2015-10-01anales
+edad
+2015-10-01
+anales
 psicología
 v31
 n3
-2015se
+2015
 presentan
 estudios
 cuyo

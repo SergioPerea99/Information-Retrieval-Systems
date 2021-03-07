@@ -2,12 +2,15 @@ encuesta
 actitudes
 profesionales
 lactancia
-materna2012-06-01pediatría
+materna
+2012-06-01
+pediatría
 atención
 primaria
 v14
 n54
-2012introducción
+2012
+introducción
 iniciativa
 hospitales
 centros

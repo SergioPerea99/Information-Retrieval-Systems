@@ -11,11 +11,14 @@ in
 vivo
 frente
 in
-vitro2010-01-01nefrología
+vitro
+2010-01-01
+nefrología
 madrid
 v30
 n1
-2010objetivo
+2010
+objetivo
 comparar
 dinámica
 secreción

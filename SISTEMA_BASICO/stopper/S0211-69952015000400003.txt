@@ -5,11 +5,13 @@ vivo
 gemelos
 monocigotos
 inmunosupresión
-mantenimiento2015-01-01nefrología
+mantenimiento
+2015-01-01
+nefrología
 madrid
 v35
 n4
-2015los
+2015
 pacientes
 trasplantados
 riñón

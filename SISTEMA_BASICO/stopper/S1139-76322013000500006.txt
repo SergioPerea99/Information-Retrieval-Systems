@@ -10,12 +10,15 @@ acuáticas
 adolescentes
 13
 18
-años2013-12-01pediatría
+años
+2013-12-01
+pediatría
 atención
 primaria
 v15
 n60
-2013introducción
+2013
+introducción
 accidentes
 lesiones
 intencionales

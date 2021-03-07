@@ -9,11 +9,14 @@ arterial
 central
 hipertensos
 enfermedad
-renal2010-01-01nefrología
+renal
+2010-01-01
+nefrología
 madrid
 v30
 n5
-2010objetivo
+2010
+objetivo
 analizar
 relación
 velocidad

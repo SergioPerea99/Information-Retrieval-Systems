@@ -10,11 +10,14 @@ parada
 cardíaca
 maastricht
 tipo
-iii2012-01-01nefrología
+iii
+2012-01-01
+nefrología
 madrid
 v32
 n6
-2012el
+2012
+el
 trasplante
 renal
 tr

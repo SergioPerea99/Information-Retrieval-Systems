@@ -9,11 +9,14 @@ pacientes
 enfermedad
 renal
 crónica
-avanzada2010-01-01nefrología
+avanzada
+2010-01-01
+nefrología
 madrid
 v30
 n4
-2010introducción
+2010
+introducción
 niveles
 bajos
 25

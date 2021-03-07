@@ -10,11 +10,14 @@ del
 calcio
 en
 diálisis
-peritoneal2013-01-01nefrología
+peritoneal
+2013-01-01
+nefrología
 madrid
 v33
 n3
-2013el
+2013
+el
 líquido
 peritoneal
 turbio

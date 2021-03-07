@@ -6,11 +6,14 @@ atención
 primaria
 insuficiencia
 renal
-crónica2015-01-01nefrología
+crónica
+2015-01-01
+nefrología
 madrid
 v35
 n4
-2015objetivo
+2015
+objetivo
 evaluar
 prevalencia
 insuficiencia

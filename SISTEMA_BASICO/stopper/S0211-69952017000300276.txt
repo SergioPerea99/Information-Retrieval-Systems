@@ -12,11 +12,14 @@ segmento
 st
 tratado
 estrategia
-invasiva2017-06-01nefrología
+invasiva
+2017-06-01
+nefrología
 madrid
 v37
 n3
-2017resumen
+2017
+resumen
 introducción
 objetivo
 pacientes

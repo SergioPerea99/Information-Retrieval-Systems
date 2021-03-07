@@ -17,11 +17,13 @@ fosfolipasa
 a2
 nefropatía
 membranosa
-idiopática2014-01-01nefrología
+idiopática
+2014-01-01
+nefrología
 madrid
 v34
 n3
-2014el
+2014
 receptor
 tipo
 m

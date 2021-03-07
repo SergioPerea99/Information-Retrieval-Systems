@@ -6,12 +6,15 @@ meses
 factor
 riesgo
 sibilancias
-recurrentes2013-09-01pediatría
+recurrentes
+2013-09-01
+pediatría
 atención
 primaria
 v15
 n59
-2013introducción
+2013
+introducción
 objetivos
 diversos
 factores

@@ -16,11 +16,14 @@ datos
 euclid
 resultados
 años
-2009-20102012-01-01nefrología
+2009-2010
+2012-01-01
+nefrología
 madrid
 v32
 n6
-2012estudio
+2012
+estudio
 observacional
 pacientes
 dializados

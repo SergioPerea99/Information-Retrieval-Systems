@@ -14,11 +14,14 @@ reciben
 trasplante
 renal
 de
-cadáver2010-01-01nefrología
+cadáver
+2010-01-01
+nefrología
 madrid
 v30
 n2
-2010en
+2010
+en
 el
 hospital
 universitario

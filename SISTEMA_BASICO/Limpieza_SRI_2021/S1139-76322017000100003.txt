@@ -14,12 +14,15 @@ consultas
 pediátricas
 de
 atención
-primaria2017-03-01pediatría
+primaria
+2017-03-01
+pediatría
 atención
 primaria
 v19
 n73
-2017resumen
+2017
+resumen
 objetivo
 estudiar
 la

@@ -5,11 +5,14 @@ sometidas
 hemodiálisis
 cataluña
 evolución
-mortalidad2012-01-01nefrología
+mortalidad
+2012-01-01
+nefrología
 madrid
 v32
 n5
-2012introducción
+2012
+introducción
 edad
 comorbilidades
 asociadas

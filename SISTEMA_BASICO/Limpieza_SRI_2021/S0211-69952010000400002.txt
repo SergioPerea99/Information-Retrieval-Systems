@@ -3,11 +3,14 @@ de
 crecimiento
 y
 regeneración
-renal2010-01-01nefrología
+renal
+2010-01-01
+nefrología
 madrid
 v30
 n4
-2010cuando
+2010
+cuando
 se
 produce
 un

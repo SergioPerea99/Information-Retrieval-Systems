@@ -4,11 +4,14 @@ bahia
 barómetro
 hidratación
 población
-española2010-01-01nefrología
+española
+2010-01-01
+nefrología
 madrid
 v30
 n2
-2010antecedentes
+2010
+antecedentes
 funciones
 vitales
 requieren

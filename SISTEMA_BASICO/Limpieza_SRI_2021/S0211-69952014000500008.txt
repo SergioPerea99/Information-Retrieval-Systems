@@ -11,11 +11,14 @@ en
 el
 volumen
 convectivo
-total2014-01-01nefrología
+total
+2014-01-01
+nefrología
 madrid
 v34
 n5
-2014introducción
+2014
+introducción
 la
 hemodiafiltración
 on-line

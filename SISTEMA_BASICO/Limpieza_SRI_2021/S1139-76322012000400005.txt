@@ -12,12 +12,15 @@ en
 pacientes
 con
 tos
-ferina2012-09-01pediatría
+ferina
+2012-09-01
+pediatría
 atención
 primaria
 v14
 n55
-2012objetivo
+2012
+objetivo
 analizar
 a
 los

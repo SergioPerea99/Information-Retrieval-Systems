@@ -4,12 +4,15 @@ en
 atención
 primaria
 es
-posible2011-06-01pediatría
+posible
+2011-06-01
+pediatría
 atención
 primaria
 v13
 n50
-2011el
+2011
+el
 equipo
 formado
 por

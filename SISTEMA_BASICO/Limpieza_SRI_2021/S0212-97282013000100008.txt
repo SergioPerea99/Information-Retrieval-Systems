@@ -9,12 +9,15 @@ de
 depresión
 de
 beck-ii
-bdi-ii2013-01-01anales
+bdi-ii
+2013-01-01
+anales
 de
 psicología
 v29
 n1
-2013este
+2013
+este
 estudio
 tenía
 dos

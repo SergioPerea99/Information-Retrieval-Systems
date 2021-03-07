@@ -10,12 +10,15 @@ asintomáticas
 tratar
 o
 no
-tratar2009-12-01pediatría
+tratar
+2009-12-01
+pediatría
 atención
 primaria
 v11
 n44
-2009escenario
+2009
+escenario
 clínico
 niña
 de

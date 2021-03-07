@@ -11,11 +11,14 @@ que
 sufren
 una
 caída
-intrahospitalaria2016-06-01nefrología
+intrahospitalaria
+2016-06-01
+nefrología
 madrid
 v36
 n3
-2016resumen
+2016
+resumen
 fundamento
 y
 objetivo

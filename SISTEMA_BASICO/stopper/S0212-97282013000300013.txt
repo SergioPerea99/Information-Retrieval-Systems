@@ -7,11 +7,14 @@ género
 prevalencia
 diferencias
 género
-edad2013-10-01anales
+edad
+2013-10-01
+anales
 psicología
 v29
 n3
-2013antecedentes
+2013
+antecedentes
 exposición
 menores
 violencia

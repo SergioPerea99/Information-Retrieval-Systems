@@ -17,11 +17,14 @@ pacientes
 operados
 de
 cirugía
-cardíaca2012-01-01nefrología
+cardíaca
+2012-01-01
+nefrología
 madrid
 v32
 n1
-2012introducción
+2012
+introducción
 y
 objetivo
 la
