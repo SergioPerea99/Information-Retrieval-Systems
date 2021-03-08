@@ -16,11 +16,13 @@ class Pares_Palabra_Frecuencia:
         self.dicc_archivos = {}
         self.dicc_palabras = {}
         self.dicc_palabrasFrec_archivos = {}
+        self.dicc_palabras_invertida = {}
         
     #Creación de diccionario de palabras únicas
     def dicc_terminos(self, lista_palabras_unicas):
         for i in lista_palabras_unicas:
             self.dicc_palabras[self.identificador] = i
+            self.dicc_palabras_invertida[i] = self.identificador
             self.identificador = self.identificador + 1
         return self.dicc_palabras
     
@@ -35,14 +37,19 @@ class Pares_Palabra_Frecuencia:
     
     #Creación de diccionario de los nombres de los ficheros
     def crearEEDD_palabrasFrecuencia(self, ruta_coleccion): 
-        for key_palabra in self.dicc_palabras:
-            for key_fichero in self.dicc_archivos:
-                archivo = open(join(ruta_coleccion,self.dicc_archivos[key_fichero]),"r") 
-                lineas = [linea.strip() for linea in archivo]
-                archivo.close()
-                apariciones = lineas.count(self.dicc_palabras[key_palabra])
-                if apariciones > 0:
-                    self.dicc_palabrasFrec_archivos[key_palabra] = {key_fichero: apariciones}
+        for key_fichero in self.dicc_archivos:
+            archivo = open(join(ruta_coleccion,self.dicc_archivos[key_fichero]),"r") 
+            #palabrasArchivo = [linea.strip() for linea in archivo]
+            for linea in archivo:
+                clavePalabra = self.dicc_palabras_invertida[linea.strip()]
+                if clavePalabra in self.dicc_palabrasFrec_archivos: #Comprobar si existe la palabra en el dicc
+                    if key_fichero in self.dicc_palabrasFrec_archivos[clavePalabra]: #Comprobar si existe ya una aparicion de la palabra en dicho fichero
+                        self.dicc_palabrasFrec_archivos[clavePalabra][key_fichero] = self.dicc_palabrasFrec_archivos[clavePalabra][key_fichero] + 1 #Incrementar en 1 su aparicion en cierto caso
+                    else:
+                        self.dicc_palabrasFrec_archivos[clavePalabra][key_fichero] = 1
+                else:
+                    self.dicc_palabrasFrec_archivos[clavePalabra] = {key_fichero: 1}
+            archivo.close()
         return self.dicc_palabrasFrec_archivos
     
     def guardarEEDD_palabrasFrecuencia(self,rutaGuardado):

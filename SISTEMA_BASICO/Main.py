@@ -188,7 +188,7 @@ tiempo_ejecucion = time.time() - start_time
 pares_palabra_frecuencia.guardarEEDD_palabrasFrecuencia(rutaDiccionario)
 diccionarioPalabraFrec = pares_palabra_frecuencia.cargarEEDD_palabrasFrecuencia(rutaDiccionario)
 
-
+print(diccionarioPalabraFrec)
 documentacion_final.write("-------------- MEMORIA DE LA PRÁCTICA 1.4 --------------"+"\n")
 documentacion_final.write("Tiempo en segundos en calcular y generar la estructura de diccionario (la seleccionada) -> "+str(tiempo_ejecucion)+"\n")
 
