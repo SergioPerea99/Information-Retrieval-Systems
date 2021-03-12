@@ -56,6 +56,9 @@ class Pares_Palabra_Frecuencia:
         with open(join(rutaGuardado,"dicc_palabras_frecuencia.pkl"), "wb") as tf:
             pickle.dump(self.dicc_palabrasFrec_archivos,tf)
         tf.close()
+        sizefile = os.stat( join(rutaGuardado,"dicc_palabras_frecuencia.pkl")).st_size
+        return sizefile
+    
     def cargarEEDD_palabrasFrecuencia(self,rutaGuardado):
         with open(join(rutaGuardado,"dicc_palabras_frecuencia.pkl"), "rb") as tf:
             aux = pickle.load(tf)

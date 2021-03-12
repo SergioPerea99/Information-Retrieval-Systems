@@ -165,12 +165,10 @@ palabras5_mayorFrec = list(zip(palabras_mayorFrecuencia,palabras_frecuenciaColec
 
 
 documentacion_final.write("-------------- MEMORIA DE LA PRÁCTICA 1.3 --------------"+"\n")
-#DUDA: Como son las palabras unicas de la coleccion, ¿en cada archivo se guardan aún asi repetidas? ¿Hay que meter en los txt ya las palabras sin repetir?
 documentacion_final.write("El STEMMER empleado es PorterStemmer de la librería nltk.stem\n")
 documentacion_final.write("Número TOTAL de palabras ÚNICAS de la colección -> "+str(len(palabrasUnicas))+"\n")
 documentacion_final.write("Número MÍNIMO de palabras ÚNICAS una vez extraidas sus raices de los documentos en la colección-> "+str(minimo_palabras)+"\n")
 documentacion_final.write("Número MÁXIMO de palabras ÚNICAS una vez extraidas sus raices de los documentos en la colección-> "+str(maximo_palabras)+"\n")
-#DUDA: La media la hago respecto a la suma de palabras (únicas pero por su documento en concreto) o por la suma de palabras únicas en toda la coleccion ???
 documentacion_final.write("Número MEDIO de palabras ÚNICAS de los documentos en la colección -> "+str(len(total_lista_raices_sinRepeticiones)/num_archivos)+"\n")
 documentacion_final.write("Las 5 palabras más frecuentes -> "+str(palabras5_mayorFrec)+"\n")
 
@@ -184,15 +182,14 @@ diccionario_archivos = pares_palabra_frecuencia.dicc_ficheros(rutaColeccion)
 start_time = time.time()
 diccionarioPalabraFrec = pares_palabra_frecuencia.crearEEDD_palabrasFrecuencia(rutaColeccion)
 tiempo_ejecucion = time.time() - start_time
-#DUDA: Añado a la estructura, por cada palabra, los archivos en los q realmente aparecen y cuantas veces aparecen (es decir, evitando poner que la palabra "x" en el archivo "y" aparece 0 veces)
-pares_palabra_frecuencia.guardarEEDD_palabrasFrecuencia(rutaDiccionario)
+tam_eedd = pares_palabra_frecuencia.guardarEEDD_palabrasFrecuencia(rutaDiccionario)
 diccionarioPalabraFrec = pares_palabra_frecuencia.cargarEEDD_palabrasFrecuencia(rutaDiccionario)
 
-print(diccionarioPalabraFrec)
 documentacion_final.write("-------------- MEMORIA DE LA PRÁCTICA 1.4 --------------"+"\n")
 documentacion_final.write("Tiempo en segundos en calcular y generar la estructura de diccionario (la seleccionada) -> "+str(tiempo_ejecucion)+"\n")
-
-
+documentacion_final.write("El espacio en disco para guardar la estructura es de "+str(tam_eedd)+" bytes.\n")
+#TODO: cambiar a obtener la info del pc por entrada
+documentacion_final.write("Las caracteristicas de mi ordenador son:\n - Procesador: Inter(R) Core(TM) i7-8565U CPU @ 1.80GHz 1.99 GHz.\n - Memoria RAM: 7,82 GB utilizable.")
 
 #CERRAR EL DOCUMENTO DE LAS MEMORIAS
 documentacion_final.close()
