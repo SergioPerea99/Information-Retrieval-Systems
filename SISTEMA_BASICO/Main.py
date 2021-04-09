@@ -2,20 +2,24 @@ from stopper import Stopper
 from filtrado import Filtrado
 from stemmer import Stemmer
 from palabra_frecuencia import Pares_Palabra_Frecuencia
+from fich_norm import Ficheros_Pesos_Normalizados
 from os.path import isfile,join
 from operator import itemgetter
 import os
 import time
+import configparser
 
-
+config = configparser.ConfigParser()
+config.read('conf.ini')
 
 #---------------------------------------------------------------------
 #EJECUCION DE LA PRACTICA 1.1: Filtrado, Normalizacion y Tokenizacion.
 
 #---VARIABLES NECESARIAS
-rutaColeccion = "C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Colección_SRI_2021"
+'''
+rutaColeccion = config['DEFAULT']['ruta_coleccion_inicio']
 contenido = os.listdir(rutaColeccion)
-ruta_destino = "C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Limpieza_SRI_2021"
+ruta_destino = config['DEFAULT']['ruta_coleccion_normalizada']
 archivos = [nombre for nombre in contenido if isfile(join(rutaColeccion,nombre))] #Obtener los archivos de la carpeta
 num_archivos = len(archivos)
 sum_tokens = 0
@@ -62,7 +66,8 @@ palabras5_mayorFrec = list(zip(palabras_mayorFrecuencia,palabras_frecuenciaColec
 
 
 #---ABRIR EL DOCUMENTO DE LAS MEMORIAS
-documentacion_final = open("C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\documentacion.txt",'w')
+ruta_archivo_historial = config['DEFAULT']['ruta_archivo_historial']
+documentacion_final = open(ruta_archivo_historial,'w')
 documentacion_final.write("-------------- MEMORIA DE LA PRÁCTICA 1.1 --------------"+"\n")
 documentacion_final.write("El programa ha tardado "+str(tiempo_ejecucion)+" segundos en ejecutarse.\n")
 documentacion_final.write("Total de archivos procesados -> "+str(num_archivos)+".\n")
@@ -75,12 +80,12 @@ documentacion_final.write("Las 5 palabras más frecuentes -> "+str(palabras5_may
 
 #---------------------------------------------------------------------
 #EJECUCION DE LA PRACTICA 1.2: Eliminación de palabras vacías.
-rutaColeccion = "C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\Limpieza_SRI_2021"
-lista_stopword = "spanishSmart.txt"
+rutaColeccion = ruta_destino
+lista_stopword = config['DEFAULT']['ruta_lista_stopword']
 contenido = os.listdir(rutaColeccion)
-ruta_destino = "C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\stopper"
+ruta_destino = config['DEFAULT']['ruta_coleccion_stopper']
 archivos = [nombre for nombre in contenido if isfile(join(rutaColeccion,nombre))] #Obtener los archivos de la carpeta
-vacias = Stopper(join("C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO",lista_stopword)) #Crear el stopper
+vacias = Stopper(lista_stopword) #Crear el stopper
 minimo_palabras = 9999999
 maximo_palabras = -1
 
@@ -125,9 +130,9 @@ documentacion_final.write("Las 5 palabras más frecuentes -> "+str(palabras5_may
 
 #---------------------------------------------------------------------
 #EJECUCIÓN DE LA PRÁCTICA 1.3: STEMMER CON PORTER.
-rutaColeccion = "C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\stopper"
+rutaColeccion = ruta_destino
 contenido = os.listdir(rutaColeccion)
-ruta_destino = "C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\stemmer"
+ruta_destino = config['DEFAULT']['ruta_coleccion_stemmer']
 raices = Stemmer()
 archivos = [nombre for nombre in contenido if isfile(join(rutaColeccion,nombre))] #Obtener los archivos de la carpeta
 minimo_palabras = 9999999
@@ -174,8 +179,9 @@ documentacion_final.write("Las 5 palabras más frecuentes -> "+str(palabras5_may
 
 #---------------------------------------------------------------------
 #EJECUCIÓN DE LA PRÁCTICA 1.4: CREACIÓN DE PARES PALABRA-FRECUENCIA.
-rutaColeccion = "C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO\stemmer"
-rutaDiccionario = "C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_BASICO"
+
+rutaColeccion = config['DEFAULT']['ruta_coleccion_stemmer']
+rutaDiccionario = config['DEFAULT']['ruta_almacen_palabras_frecuencia']
 pares_palabra_frecuencia = Pares_Palabra_Frecuencia()
 diccionario_palabras = pares_palabra_frecuencia.dicc_terminos(palabrasUnicas)
 diccionario_archivos = pares_palabra_frecuencia.dicc_ficheros(rutaColeccion)
@@ -188,8 +194,20 @@ diccionarioPalabraFrec = pares_palabra_frecuencia.cargarEEDD_palabrasFrecuencia(
 documentacion_final.write("-------------- MEMORIA DE LA PRÁCTICA 1.4 --------------"+"\n")
 documentacion_final.write("Tiempo en segundos en calcular y generar la estructura de diccionario (la seleccionada) -> "+str(tiempo_ejecucion)+"\n")
 documentacion_final.write("El espacio en disco para guardar la estructura es de "+str(tam_eedd)+" bytes.\n")
-#TODO: cambiar a obtener la info del pc por entrada
 documentacion_final.write("Las caracteristicas de mi ordenador son:\n - Procesador: Inter(R) Core(TM) i7-8565U CPU @ 1.80GHz 1.99 GHz.\n - Memoria RAM: 7,82 GB utilizable.")
 
+#---------------------------------------------------------------------
+#EJECUCIÓN DE LA PRÁCTICA 1.5: Ficheros de pesos normalizados y no normalizados.
+'''
+#Se parte de los archivos últimos recogidos; es decir, los archivos a los que se les ha aplicado el Stemmer.
+rutaColeccion = config['DEFAULT']['ruta_coleccion_stemmer']
+contenido = os.listdir(rutaColeccion)
+ruta_destino = config['DEFAULT']['ruta_coleccion_ficherosNormalizados']
+archivos = [nombre for nombre in contenido if isfile(join(rutaColeccion,nombre))] #Obtener los archivos de la carpeta
+archivos_frecuencias_normalizadas = []
+fich_pesosNorm = Ficheros_Pesos_Normalizados()
+for archivo in archivos:
+    tf_documental = fich_pesosNorm.normalizar_pesos_archivo(join(rutaColeccion,archivo))
+    
 #CERRAR EL DOCUMENTO DE LAS MEMORIAS
-documentacion_final.close()
+#documentacion_final.close()

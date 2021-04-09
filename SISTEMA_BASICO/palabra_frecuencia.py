@@ -39,7 +39,6 @@ class Pares_Palabra_Frecuencia:
     def crearEEDD_palabrasFrecuencia(self, ruta_coleccion): 
         for key_fichero in self.dicc_archivos:
             archivo = open(join(ruta_coleccion,self.dicc_archivos[key_fichero]),"r") 
-            #palabrasArchivo = [linea.strip() for linea in archivo]
             for linea in archivo:
                 clavePalabra = self.dicc_palabras_invertida[linea.strip()]
                 if clavePalabra in self.dicc_palabrasFrec_archivos: #Comprobar si existe la palabra en el dicc
