@@ -17,6 +17,7 @@ class Pares_Palabra_Frecuencia:
         self.dicc_palabras = {}
         self.dicc_palabrasFrec_archivos = {}
         self.dicc_palabras_invertida = {}
+        self.dicc_archivos_invertida = {}
         
     #Creación de diccionario de palabras únicas
     def dicc_terminos(self, lista_palabras_unicas):
@@ -26,14 +27,21 @@ class Pares_Palabra_Frecuencia:
             self.identificador = self.identificador + 1
         return self.dicc_palabras
     
+    def get_dicc_invert_terminos(self):
+        return self.dicc_palabras_invertida
+    
     #Creación de diccionario de los nombres de los ficheros
     def dicc_ficheros(self, ruta_coleccion):
         contenido = os.listdir(ruta_coleccion)
         archivos = [nombre for nombre in contenido if isfile(join(ruta_coleccion,nombre))] #Obtener los archivos de la carpeta
         for archivo in archivos:
             self.dicc_archivos[self.identificador] = archivo
+            self.dicc_archivos_invertida[archivo] = self.identificador
             self.identificador = self.identificador + 1
         return self.dicc_archivos
+    
+    def get_dicc_invert_archivos(self):
+        return self.dicc_archivos_invertida
     
     #Creación de diccionario de los nombres de los ficheros
     def crearEEDD_palabrasFrecuencia(self, ruta_coleccion): 

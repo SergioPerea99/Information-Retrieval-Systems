@@ -1,5 +1,5 @@
 -------------- MEMORIA DE LA PRÁCTICA 1.1 --------------
-El programa ha tardado 3.179669141769409 segundos en ejecutarse.
+El programa ha tardado 2.525099277496338 segundos en ejecutarse.
 Total de archivos procesados -> 1000.
 Total de tokens -> 276271 :: Tokens/archivo -> 276.271.
 Número MÍNIMO de palabras una vez normalizado y tokenizado -> 141
@@ -21,8 +21,15 @@ Número MÁXIMO de palabras ÚNICAS una vez extraidas sus raices de los documentos 
 Número MEDIO de palabras ÚNICAS de los documentos en la colección -> 105.289
 Las 5 palabras más frecuentes -> [(('pacient', 2356), 0.13559712230215828), (('estudio', 1235), 0.07107913669064748), (('año', 1172), 0.06745323741007195), (('renal', 1150), 0.06618705035971223), (('resultado', 1008), 0.05801438848920863)]
 -------------- MEMORIA DE LA PRÁCTICA 1.4 --------------
-Tiempo en segundos en calcular y generar la estructura de diccionario (la seleccionada) -> 11.330233335494995
+Tiempo en segundos en calcular y generar la estructura de diccionario (la seleccionada) -> 10.314416885375977
 El espacio en disco para guardar la estructura es de 638638 bytes.
+Las caracteristicas de mi ordenador son:
+ - Procesador: Inter(R) Core(TM) i7-8565U CPU @ 1.80GHz 1.99 GHz.
+ - Memoria RAM: 7,82 GB utilizable.-------------- MEMORIA DE LA PRÁCTICA 1.5 --------------
+Tiempo en segundos en calcular y generar la estructura de diccionario para los pesos normalizados (la seleccionada) -> 1.342991828918457
+Tiempo en segundos en calcular y generar la estructura de diccionario para los pesos normalizados (la seleccionada) -> 39.99536347389221
+El espacio en disco para guardar la estructura de pesos normalizados es de 2122 bytes.
+El espacio en disco para guardar la estructura de los IDF es de 208322 bytes.
 Las caracteristicas de mi ordenador son:
  - Procesador: Inter(R) Core(TM) i7-8565U CPU @ 1.80GHz 1.99 GHz.
  - Memoria RAM: 7,82 GB utilizable.

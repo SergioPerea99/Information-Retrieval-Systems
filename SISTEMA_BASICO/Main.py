@@ -16,7 +16,7 @@ config.read('conf.ini')
 #EJECUCION DE LA PRACTICA 1.1: Filtrado, Normalizacion y Tokenizacion.
 
 #---VARIABLES NECESARIAS
-'''
+
 rutaColeccion = config['DEFAULT']['ruta_coleccion_inicio']
 contenido = os.listdir(rutaColeccion)
 ruta_destino = config['DEFAULT']['ruta_coleccion_normalizada']
@@ -130,7 +130,7 @@ documentacion_final.write("Las 5 palabras más frecuentes -> "+str(palabras5_may
 
 #---------------------------------------------------------------------
 #EJECUCIÓN DE LA PRÁCTICA 1.3: STEMMER CON PORTER.
-rutaColeccion = ruta_destino
+rutaColeccion = config['DEFAULT']['ruta_coleccion_stopper']
 contenido = os.listdir(rutaColeccion)
 ruta_destino = config['DEFAULT']['ruta_coleccion_stemmer']
 raices = Stemmer()
@@ -140,11 +140,13 @@ maximo_palabras = -1
 
 total_lista_raices_sinRepeticiones = []
 total_lista_raices_conRepeticiones = []
+total_lista_raices = []
 for archivo in archivos:
     lista_raices = raices.extraccion_raices(join(rutaColeccion,archivo),join(ruta_destino,archivo))
     if minimo_palabras > len(lista_raices[0]): minimo_palabras = len(lista_raices[0])
     if maximo_palabras < len(lista_raices[0]): maximo_palabras = len(lista_raices[0])
     total_lista_raices_sinRepeticiones = total_lista_raices_sinRepeticiones + lista_raices[0]
+    total_lista_raices.append(lista_raices[0])
     total_lista_raices_conRepeticiones = total_lista_raices_conRepeticiones + lista_raices[1]
 
 #Generar las 5 palabras de mayor frecuencia
@@ -180,34 +182,63 @@ documentacion_final.write("Las 5 palabras más frecuentes -> "+str(palabras5_may
 #---------------------------------------------------------------------
 #EJECUCIÓN DE LA PRÁCTICA 1.4: CREACIÓN DE PARES PALABRA-FRECUENCIA.
 
-rutaColeccion = config['DEFAULT']['ruta_coleccion_stemmer']
+rutaColeccion = ruta_destino
 rutaDiccionario = config['DEFAULT']['ruta_almacen_palabras_frecuencia']
 pares_palabra_frecuencia = Pares_Palabra_Frecuencia()
 diccionario_palabras = pares_palabra_frecuencia.dicc_terminos(palabrasUnicas)
+dicc_palabras_invertido = pares_palabra_frecuencia.get_dicc_invert_terminos()
 diccionario_archivos = pares_palabra_frecuencia.dicc_ficheros(rutaColeccion)
+dicc_archivos_invertido = pares_palabra_frecuencia.get_dicc_invert_archivos()
 start_time = time.time()
 diccionarioPalabraFrec = pares_palabra_frecuencia.crearEEDD_palabrasFrecuencia(rutaColeccion)
 tiempo_ejecucion = time.time() - start_time
 tam_eedd = pares_palabra_frecuencia.guardarEEDD_palabrasFrecuencia(rutaDiccionario)
 diccionarioPalabraFrec = pares_palabra_frecuencia.cargarEEDD_palabrasFrecuencia(rutaDiccionario)
 
+
 documentacion_final.write("-------------- MEMORIA DE LA PRÁCTICA 1.4 --------------"+"\n")
 documentacion_final.write("Tiempo en segundos en calcular y generar la estructura de diccionario (la seleccionada) -> "+str(tiempo_ejecucion)+"\n")
 documentacion_final.write("El espacio en disco para guardar la estructura es de "+str(tam_eedd)+" bytes.\n")
 documentacion_final.write("Las caracteristicas de mi ordenador son:\n - Procesador: Inter(R) Core(TM) i7-8565U CPU @ 1.80GHz 1.99 GHz.\n - Memoria RAM: 7,82 GB utilizable.")
 
+
 #---------------------------------------------------------------------
 #EJECUCIÓN DE LA PRÁCTICA 1.5: Ficheros de pesos normalizados y no normalizados.
-'''
+
 #Se parte de los archivos últimos recogidos; es decir, los archivos a los que se les ha aplicado el Stemmer.
-rutaColeccion = config['DEFAULT']['ruta_coleccion_stemmer']
+rutaColeccion = ruta_destino
 contenido = os.listdir(rutaColeccion)
 ruta_destino = config['DEFAULT']['ruta_coleccion_ficherosNormalizados']
 archivos = [nombre for nombre in contenido if isfile(join(rutaColeccion,nombre))] #Obtener los archivos de la carpeta
 archivos_frecuencias_normalizadas = []
 fich_pesosNorm = Ficheros_Pesos_Normalizados()
-for archivo in archivos:
-    tf_documental = fich_pesosNorm.normalizar_pesos_archivo(join(rutaColeccion,archivo))
-    
+
+start_time = time.time()
+idf_palabrasUnicas = fich_pesosNorm.crear_IDF_palabras(diccionario_palabras,total_lista_raices, len(archivos))
+tiempo_ejecucion2 = time.time() - start_time
+
+
+start_time = time.time()
+pesos_palabras_documento = fich_pesosNorm.pesos_palabras_documento(rutaColeccion,idf_palabrasUnicas, diccionario_archivos, dicc_palabras_invertido)
+pesos_palabras_documento_norm = fich_pesosNorm.normalizar_pesos_documento(pesos_palabras_documento, dicc_archivos_invertido)
+tiempo_ejecucion1 = time.time() - start_time
+
+rutaGuardado = config['DEFAULT']['ruta_diccionario_pesos_normalizados']
+tam_eedd_pesosNorm = fich_pesosNorm.guardarEEDD_pesosNorm(rutaGuardado, pesos_palabras_documento_norm)
+
+rutaGuardado = config['DEFAULT']['ruta_diccionario_idf_palabras']
+tam_eedd_IDF = fich_pesosNorm.guardarEEDD_IDF(rutaGuardado, idf_palabrasUnicas)
+
+dicc_pesosNorm = fich_pesosNorm.cargarEEDD_pesosNorm(rutaGuardado)
+
+
+documentacion_final.write("-------------- MEMORIA DE LA PRÁCTICA 1.5 --------------"+"\n")
+documentacion_final.write("Tiempo en segundos en calcular y generar la estructura de diccionario para los pesos normalizados (la seleccionada) -> "+str(tiempo_ejecucion1)+"\n")
+documentacion_final.write("Tiempo en segundos en calcular y generar la estructura de diccionario para los IDF (la seleccionada) -> "+str(tiempo_ejecucion2)+"\n")
+documentacion_final.write("El espacio en disco para guardar la estructura de pesos normalizados es de "+str(tam_eedd_pesosNorm)+" bytes.\n")
+documentacion_final.write("El espacio en disco para guardar la estructura de los IDF es de "+str(tam_eedd_IDF)+" bytes.\n")
+documentacion_final.write("Las caracteristicas de mi ordenador son:\n - Procesador: Inter(R) Core(TM) i7-8565U CPU @ 1.80GHz 1.99 GHz.\n - Memoria RAM: 7,82 GB utilizable.")
+
+
 #CERRAR EL DOCUMENTO DE LAS MEMORIAS
-#documentacion_final.close()
+documentacion_final.close()
