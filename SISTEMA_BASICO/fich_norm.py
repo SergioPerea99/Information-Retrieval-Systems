@@ -11,7 +11,6 @@ from os.path import join
 
 class Ficheros_Pesos_Normalizados(object):
     
-    #REPARADO
     def crear_IDF_palabras(self, dicc_palabras, total_lista_raices, num_documentos):
         idf_palabrasUnicas = {}
         for i in dicc_palabras: #Por cada palabra única
@@ -23,8 +22,8 @@ class Ficheros_Pesos_Normalizados(object):
         return idf_palabrasUnicas
     
     
-    #REPARADO
     def pesos_palabras_documento(self,ruta_archivos, idf_palabrasUnicas, dicc_archivos, dicc_palabras_invertido):
+        dicc_palabrasDoc_pesos_sin_norm = {}
         for id_archivo in dicc_archivos:
             fichero = open(join(ruta_archivos,dicc_archivos[id_archivo]),"r")
             lista_palabras = []
@@ -43,18 +42,42 @@ class Ficheros_Pesos_Normalizados(object):
                         max_apariciones = apariciones
                     lista_palabra_frecuencia.append(palabra_contador)
             
-            #Se saca el peso normalizado de la palabra en el archivo
-            dicc_palabrasDoc_pesos_sin_norm = {}
+            print(dicc_palabras_invertido)
             for i in lista_palabra_frecuencia:
                 i[1] = i[1]/max_apariciones #Esto es el tf(palabra,doc)
                 #Se saca el peso de los terminos sin normalizar
                 if i[0] in dicc_palabras_invertido:
                     w_palabra_doc = i[1] * idf_palabrasUnicas[dicc_palabras_invertido[i[0]]]
                     dicc_palabrasDoc_pesos_sin_norm[dicc_palabras_invertido[i[0]]] = {id_archivo : w_palabra_doc}
-        return dicc_palabrasDoc_pesos_sin_norm
         
-    #REPARADO
+        return dicc_palabrasDoc_pesos_sin_norm
+    
+    def pesos_palabras_consulta(self, idf_palabrasUnicas, consulta, dicc_palabras_invertido):
+        
+        #Se saca el numero de apariciones de la palabra en dicho archivo
+        lista_palabra_frecuencia = []
+        max_apariciones = -1
+        for i in consulta:
+            if i not in lista_palabra_frecuencia:
+                apariciones = consulta.count(i)
+                palabra_contador = [i, apariciones]
+                if max_apariciones < apariciones:
+                    max_apariciones = apariciones
+                lista_palabra_frecuencia.append(palabra_contador)
+        
+        #Se saca el peso normalizado de la palabra en el archivo
+        dicc_palabras_pesos_sin_norm = {}
+        for i in lista_palabra_frecuencia:
+            i[1] = i[1]/max_apariciones #Esto es el tf(palabra,doc)
+            #Se saca el peso de los terminos sin normalizar
+            if i[0] in dicc_palabras_invertido:
+                w_palabra_consulta = i[1] * idf_palabrasUnicas[dicc_palabras_invertido[i[0]]]
+                dicc_palabras_pesos_sin_norm[dicc_palabras_invertido[i[0]]] =  w_palabra_consulta
+        return dicc_palabras_pesos_sin_norm
+        
+    
     def normalizar_pesos_documento(self,pesos_palabras_documento, dicc_archivos_invertido):
+        dicc_pesos_palabrasDoc_norm = {}
         #Primero hago la sumatoria de pesos cuadráticos que hay en este documento
         for id_archivo in dicc_archivos_invertido: #Recorre los id de los archivos
             sumatoria = 0.0
@@ -63,11 +86,23 @@ class Ficheros_Pesos_Normalizados(object):
                     sumatoria = sumatoria + math.pow(pesos_palabras_documento[i][dicc_archivos_invertido[id_archivo]],2)
             denominador = math.sqrt(sumatoria)
             
-            dicc_pesos_palabrasDoc_norm = {}
             for i in pesos_palabras_documento:
                 if dicc_archivos_invertido[id_archivo] in pesos_palabras_documento[i]:
                     dicc_pesos_palabrasDoc_norm[i] = {dicc_archivos_invertido[id_archivo] : pesos_palabras_documento[i][dicc_archivos_invertido[id_archivo]] / denominador }
+        
         return dicc_pesos_palabrasDoc_norm
+    
+    def normalizar_pesos_consulta(self,pesos_palabras):
+        #Primero hago la sumatoria de pesos cuadráticos que hay en este documento
+        sumatoria = 0.0
+        for i in pesos_palabras: #Recorre los diccionarios de documentos por palabra
+            sumatoria = sumatoria + math.pow(pesos_palabras[i],2)
+        denominador = math.sqrt(sumatoria)
+        
+        dicc_pesos_palabras_norm = {}
+        for i in pesos_palabras:
+            dicc_pesos_palabras_norm[i] = pesos_palabras[i] / denominador 
+        return dicc_pesos_palabras_norm
     
     def guardarEEDD_pesosNorm(self,rutaGuardado, pesos_palabrasDoc_norm):
         with open(join(rutaGuardado,"dicc_pesosNormalizados.pkl"), "wb") as tf:
@@ -88,6 +123,7 @@ class Ficheros_Pesos_Normalizados(object):
         with open(join(rutaGuardado,"dicc_pesosNormalizados.pkl"), "rb") as tf:
             aux = pickle.load(tf)
         tf.close()
+        print(sorted(aux.items()))
         return aux
 
     def cargarEEDD_IDF(self,rutaGuardado):

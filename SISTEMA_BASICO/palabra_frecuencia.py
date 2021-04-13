@@ -66,8 +66,31 @@ class Pares_Palabra_Frecuencia:
         sizefile = os.stat( join(rutaGuardado,"dicc_palabras_frecuencia.pkl")).st_size
         return sizefile
     
+    def guardarEEDD_diccPalabras_invertidas(self,rutaGuardado):
+        with open(join(rutaGuardado,"dicc_palabras_invertidas.pkl"), "wb") as tf:
+            pickle.dump(self.dicc_palabras_invertida,tf)
+        tf.close()
+    
+    def guardarEEDD_diccDocumentos_invertidas(self,rutaGuardado):
+        with open(join(rutaGuardado,"dicc_documentos_invertidas.pkl"), "wb") as tf:
+            pickle.dump(self.dicc_archivos_invertida,tf)
+        tf.close()
+    
+    
     def cargarEEDD_palabrasFrecuencia(self,rutaGuardado):
         with open(join(rutaGuardado,"dicc_palabras_frecuencia.pkl"), "rb") as tf:
+            aux = pickle.load(tf)
+        tf.close()
+        return aux
+    
+    def cargarEEDD_diccPalabras_invertidas(self,rutaGuardado):
+        with open(join(rutaGuardado,"dicc_palabras_invertidas.pkl"), "rb") as tf:
+            aux = pickle.load(tf)
+        tf.close()
+        return aux
+    
+    def cargarEEDD_diccDocumentos_invertidas(self,rutaGuardado):
+        with open(join(rutaGuardado,"dicc_documentos_invertidas.pkl"), "rb") as tf:
             aux = pickle.load(tf)
         tf.close()
         return aux

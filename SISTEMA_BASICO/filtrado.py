@@ -18,7 +18,7 @@ class Filtrado(object):
             self.informacion = [self.nombre, self.fecha, self.fuente, self.cuerpo]
             self.doc_xml = True
         elif extension[len(extension)-1] == 'txt':
-            archivo = open(ruta,"r")
+            archivo = open(ruta,"r",encoding='utf8') #Necesaria la codificación para aceptar acentos
             self.informacion = []
             for linea in archivo:
                 self.informacion.append(linea)
@@ -53,7 +53,8 @@ class Filtrado(object):
                     cadena.append("\n")
                 else:
                     cadena.append(" ")
-        
+            if not self.doc_xml: #Entonces se trata de la consulta y se añadirá un salto de linea para diferenciar consultas
+                cadena.append("\n") #Así, intento evitar el reescribir código
         lista_palabras = ''.join(cadena)
         lista_palabras = lista_palabras.split(" ")
         
