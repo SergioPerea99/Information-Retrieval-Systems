@@ -3,6 +3,7 @@ from filtrado import Filtrado
 from stemmer import Stemmer
 from palabra_frecuencia import Pares_Palabra_Frecuencia
 from fich_norm import Ficheros_Pesos_Normalizados
+from buscador import Buscador
 from os.path import isfile,join
 from operator import itemgetter
 import os
@@ -16,7 +17,7 @@ config.read('conf.ini')
 #EJECUCION DE LA PRACTICA 1.1: Filtrado, Normalizacion y Tokenizacion.
 
 #---VARIABLES NECESARIAS
-
+'''
 rutaColeccion = config['DEFAULT']['ruta_coleccion_inicio']
 contenido = os.listdir(rutaColeccion)
 ruta_destino = config['DEFAULT']['ruta_coleccion_normalizada']
@@ -230,7 +231,8 @@ rutaGuardado = config['DEFAULT']['ruta_diccionario_idf_palabras']
 tam_eedd_IDF = fich_pesosNorm.guardarEEDD_IDF(rutaGuardado, idf_palabrasUnicas)
 
 dicc_pesosNorm = fich_pesosNorm.cargarEEDD_pesosNorm(rutaGuardado)
-
+dicc_IDF = fich_pesosNorm.cargarEEDD_IDF(rutaGuardado)
+print(dicc_pesosNorm)
 
 documentacion_final.write("-------------- MEMORIA DE LA PRÁCTICA 1.5 --------------"+"\n")
 documentacion_final.write("Tiempo en segundos en calcular y generar la estructura de diccionario para los pesos normalizados (la seleccionada) -> "+str(tiempo_ejecucion1)+"\n")
@@ -239,6 +241,17 @@ documentacion_final.write("El espacio en disco para guardar la estructura de pes
 documentacion_final.write("El espacio en disco para guardar la estructura de los IDF es de "+str(tam_eedd_IDF)+" bytes.\n")
 documentacion_final.write("Las caracteristicas de mi ordenador son:\n - Procesador: Inter(R) Core(TM) i7-8565U CPU @ 1.80GHz 1.99 GHz.\n - Memoria RAM: 7,82 GB utilizable.")
 
+'''
+#---------------------------------------------------------------------
+#EJECUCIÓN DE LA PRÁCTICA 1.6: Ficheros de pesos normalizados y no normalizados.
 
+fich_consultas = config['DEFAULT']['ruta_fich_consultas']
+num_doc_relevantes = 10
+buscador = Buscador(config, fich_consultas, num_doc_relevantes)
+
+fich_pesosNorm_offline = Ficheros_Pesos_Normalizados()
+rutaGuardado = config['DEFAULT']['ruta_diccionario_idf_palabras']
+indice_offline = fich_pesosNorm_offline.cargarEEDD_pesosNorm(rutaGuardado)
+print(indice_offline)
 #CERRAR EL DOCUMENTO DE LAS MEMORIAS
-documentacion_final.close()
+#documentacion_final.close()
