@@ -20,6 +20,7 @@ class Stopper(object):
             if not aniadir[0] in self.contenido_fichero:
                 limpiar_vacias.append(aniadir[0])
         fichero.close()
+        
         archivo = open(ruta_destino,"w")
         for i in limpiar_vacias:
             archivo.write(i+"\n")

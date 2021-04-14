@@ -17,7 +17,7 @@ config.read('conf.ini')
 #EJECUCION DE LA PRACTICA 1.1: Filtrado, Normalizacion y Tokenizacion.
 
 #---VARIABLES NECESARIAS
-
+'''
 rutaColeccion = config['DEFAULT']['ruta_coleccion_inicio']
 contenido = os.listdir(rutaColeccion)
 ruta_destino = config['DEFAULT']['ruta_coleccion_normalizada']
@@ -211,7 +211,7 @@ documentacion_final.write("Las caracteristicas de mi ordenador son:\n - Procesad
 #EJECUCIÓN DE LA PRÁCTICA 1.5: Ficheros de pesos normalizados y no normalizados.
 
 #Se parte de los archivos últimos recogidos; es decir, los archivos a los que se les ha aplicado el Stemmer.
-rutaColeccion = ruta_destino
+rutaColeccion = config['DEFAULT']['ruta_coleccion_stemmer']
 contenido = os.listdir(rutaColeccion)
 ruta_destino = config['DEFAULT']['ruta_coleccion_ficherosNormalizados']
 archivos = [nombre for nombre in contenido if isfile(join(rutaColeccion,nombre))] #Obtener los archivos de la carpeta
@@ -225,6 +225,7 @@ tiempo_ejecucion2 = time.time() - start_time
 
 start_time = time.time()
 pesos_palabras_documento = fich_pesosNorm.pesos_palabras_documento(rutaColeccion,idf_palabrasUnicas, diccionario_archivos, dicc_palabras_invertido)
+
 pesos_palabras_documento_norm = fich_pesosNorm.normalizar_pesos_documento(pesos_palabras_documento, dicc_archivos_invertido)
 tiempo_ejecucion1 = time.time() - start_time
 
@@ -236,7 +237,7 @@ tam_eedd_IDF = fich_pesosNorm.guardarEEDD_IDF(rutaGuardado, idf_palabrasUnicas)
 
 dicc_pesosNorm = fich_pesosNorm.cargarEEDD_pesosNorm(rutaGuardado)
 dicc_IDF = fich_pesosNorm.cargarEEDD_IDF(rutaGuardado)
-print(dicc_pesosNorm)
+
 
 documentacion_final.write("-------------- MEMORIA DE LA PRÁCTICA 1.5 --------------"+"\n")
 documentacion_final.write("Tiempo en segundos en calcular y generar la estructura de diccionario para los pesos normalizados (la seleccionada) -> "+str(tiempo_ejecucion1)+"\n")
@@ -244,7 +245,7 @@ documentacion_final.write("Tiempo en segundos en calcular y generar la estructur
 documentacion_final.write("El espacio en disco para guardar la estructura de pesos normalizados es de "+str(tam_eedd_pesosNorm)+" bytes.\n")
 documentacion_final.write("El espacio en disco para guardar la estructura de los IDF es de "+str(tam_eedd_IDF)+" bytes.\n")
 documentacion_final.write("Las caracteristicas de mi ordenador son:\n - Procesador: Inter(R) Core(TM) i7-8565U CPU @ 1.80GHz 1.99 GHz.\n - Memoria RAM: 7,82 GB utilizable.")
-
+'''
 #---------------------------------------------------------------------
 #EJECUCIÓN DE LA PRÁCTICA 1.6: Ficheros de pesos normalizados y no normalizados.
 
