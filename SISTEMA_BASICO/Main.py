@@ -196,10 +196,11 @@ tiempo_ejecucion = time.time() - start_time
 tam_eedd = pares_palabra_frecuencia.guardarEEDD_palabrasFrecuencia(rutaDiccionario)
 diccionarioPalabraFrec = pares_palabra_frecuencia.cargarEEDD_palabrasFrecuencia(rutaDiccionario)
 
-rutaGuardado = config['DEFAULT']['ruta_diccionario_palabras_invertidas']
+rutaGuardado = config['DEFAULT']['ruta_diccionarios_invertidos']
 pares_palabra_frecuencia.guardarEEDD_diccPalabras_invertidas(rutaGuardado)
 pares_palabra_frecuencia.guardarEEDD_diccDocumentos_invertidas(rutaGuardado)
-
+rutaGuardado = config['DEFAULT']['ruta_diccionario_archivos']
+pares_palabra_frecuencia.guardarEEDD_diccArchivos(rutaGuardado)
 
 documentacion_final.write("-------------- MEMORIA DE LA PRÁCTICA 1.4 --------------"+"\n")
 documentacion_final.write("Tiempo en segundos en calcular y generar la estructura de diccionario (la seleccionada) -> "+str(tiempo_ejecucion)+"\n")
@@ -245,10 +246,10 @@ documentacion_final.write("Tiempo en segundos en calcular y generar la estructur
 documentacion_final.write("El espacio en disco para guardar la estructura de pesos normalizados es de "+str(tam_eedd_pesosNorm)+" bytes.\n")
 documentacion_final.write("El espacio en disco para guardar la estructura de los IDF es de "+str(tam_eedd_IDF)+" bytes.\n")
 documentacion_final.write("Las caracteristicas de mi ordenador son:\n - Procesador: Inter(R) Core(TM) i7-8565U CPU @ 1.80GHz 1.99 GHz.\n - Memoria RAM: 7,82 GB utilizable.")
-'''
+
 #---------------------------------------------------------------------
 #EJECUCIÓN DE LA PRÁCTICA 1.6: Ficheros de pesos normalizados y no normalizados.
-
+'''
 fich_consultas = config['DEFAULT']['ruta_fich_consultas']
 num_doc_relevantes = 10
 buscador = Buscador(config, fich_consultas, num_doc_relevantes)

@@ -11,6 +11,7 @@ from palabra_frecuencia import Pares_Palabra_Frecuencia
 from fich_norm import Ficheros_Pesos_Normalizados
 from os.path import join
 import time
+import operator
 
 class Buscador(object):
     
@@ -21,6 +22,13 @@ class Buscador(object):
         self.doc_max = doc_max
         filtro = Filtrado(self.fich_consultas)
         ruta_destino = config['DEFAULT']['ruta_fich_consultas_modificadas']
+        
+        #Diccionario con la frase y la consulta
+        self.dicc_consultas = {}
+        cont = 1
+        for i in filtro.informacion:
+            self.dicc_consultas[cont] = i
+            cont += 1
         
         #Hace la parte de normalización
         lista_palabras = filtro.normalizacion_tokenizacion(ruta_destino)
@@ -53,12 +61,13 @@ class Buscador(object):
         rutaGuardado = self.config['DEFAULT']['ruta_diccionario_idf_palabras']
         indice_pesos_offline = fich_pesosNorm_online.cargarEEDD_pesosNorm(rutaGuardado)
         indice_idf_offline = fich_pesosNorm_online.cargarEEDD_IDF(rutaGuardado)
-        rutaGuardado = self.config['DEFAULT']['ruta_diccionario_palabras_invertidas']
+        rutaGuardado = self.config['DEFAULT']['ruta_diccionarios_invertidos']
         indice_dicc_palabras_invertidas = pares_palabra_frecuencia_online.cargarEEDD_diccPalabras_invertidas(rutaGuardado)
         indice_dicc_documentos_invertidas = pares_palabra_frecuencia_online.cargarEEDD_diccDocumentos_invertidas(rutaGuardado)
+        rutaGuardado = self.config['DEFAULT']['ruta_diccionario_archivos']
+        indice_dicc_documentos = pares_palabra_frecuencia_online.cargarEEDD_diccArchivos(rutaGuardado)
         
-        vector_similitudes_consultas_doc = []
-        similitud_docs_consulta = {}
+        #similitud_docs_consulta = {}
         cont = 1
         
         ruta_fichero_resultados = self.config['DEFAULT']['ruta_ficheros_consultas_resultados']
@@ -68,11 +77,11 @@ class Buscador(object):
             pesos_palabras_norm = fich_pesosNorm_online.normalizar_pesos_consulta(pesos_palabras)
             
             archivo = open(join(ruta_fichero_resultados,"consulta"+str(cont)+".txt"),"w")
-            cont += 1
+            
             #Calculo de la similitud de la consulta con los documentos de la colección
-            similitud_docs_consulta.clear()
-            cont2 = 0
-            max_similitud = 0
+            similitud_docs_consulta = {}
+
+
             start_time = time.time()
             for id_doc in indice_dicc_documentos_invertidas: #Por cada documento
                 sumatoria = 0.0
@@ -81,10 +90,24 @@ class Buscador(object):
                         sumatoria = sumatoria + (pesos_palabras_norm[indice_dicc_palabras_invertidas[id_palabra]] * indice_pesos_offline[indice_dicc_palabras_invertidas[id_palabra]][indice_dicc_documentos_invertidas[id_doc]])
                 
                 if sumatoria > 0:
+                    similitud_docs_consulta[indice_dicc_documentos_invertidas[id_doc]] = sumatoria
                     archivo.write(str(id_doc)+" --> similitud = "+str(sumatoria)+"\n")
             tiempo_ejecucion = time.time() - start_time
             archivo.write("------ TIEMPO EN SEGUNDOS EN CALCULAR LA SIMILITUD PARA LOS DOCUMENTOS = "+str(tiempo_ejecucion)+" ------\n")
             archivo.close()
+            
+            similitud_docs_consulta = sorted(similitud_docs_consulta.items(),reverse = True, key=operator.itemgetter(1))
+            #SALIDA POR PANTALLA DE LOS N DOCUMENTOS CON MAYOR SIMILITUD 
+            print("\nConsulta "+str(cont)+": "+self.dicc_consultas[cont])
+            #print(similitud_docs_consulta)
+            i = 0
+            for id_doc in similitud_docs_consulta:
+                if i < self.doc_max:
+                    print(str(id_doc[1])+" "+str(indice_dicc_documentos[id_doc[0]]))
+                else:
+                    break
+                i += 1
+            cont += 1
         
             
         

@@ -72,7 +72,7 @@ class Pares_Palabra_Frecuencia:
         tf.close()
     
     def guardarEEDD_diccArchivos(self,rutaGuardado):
-        with open(join(rutaGuardado,"dicc_palabras.pkl"), "wb") as tf:
+        with open(join(rutaGuardado,"dicc_archivos.pkl"), "wb") as tf:
             pickle.dump(self.dicc_archivos,tf)
         tf.close()
     
@@ -89,6 +89,18 @@ class Pares_Palabra_Frecuencia:
     
     def cargarEEDD_palabrasFrecuencia(self,rutaGuardado):
         with open(join(rutaGuardado,"dicc_palabras_frecuencia.pkl"), "rb") as tf:
+            aux = pickle.load(tf)
+        tf.close()
+        return aux
+    
+    def cargarEEDD_diccPalabras(self,rutaGuardado):
+        with open(join(rutaGuardado,"dicc_palabras.pkl"), "rb") as tf:
+            aux = pickle.load(tf)
+        tf.close()
+        return aux
+    
+    def cargarEEDD_diccArchivos(self,rutaGuardado):
+        with open(join(rutaGuardado,"dicc_archivos.pkl"), "rb") as tf:
             aux = pickle.load(tf)
         tf.close()
         return aux
