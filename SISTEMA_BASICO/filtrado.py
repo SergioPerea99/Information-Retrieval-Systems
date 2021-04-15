@@ -1,6 +1,6 @@
 from xml.dom import minidom
 from os.path import join
-import re
+
 
 class Filtrado(object):
 

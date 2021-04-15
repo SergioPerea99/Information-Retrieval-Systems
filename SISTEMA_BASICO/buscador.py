@@ -4,8 +4,8 @@ Created on Tue Apr 13 09:09:30 2021
 
 @author: Sergio Perea
 """
-from stopper import Stopper
 from filtrado import Filtrado
+from stopper import Stopper
 from stemmer import Stemmer
 from palabra_frecuencia import Pares_Palabra_Frecuencia
 from fich_norm import Ficheros_Pesos_Normalizados
@@ -21,7 +21,7 @@ class Buscador(object):
         self.fich_consultas = fich_consultas
         self.doc_max = doc_max
         filtro = Filtrado(self.fich_consultas)
-        ruta_destino = config['DEFAULT']['ruta_fich_consultas_modificadas']
+        ruta_destino = config['ONLINE']['ruta_fich_consultas_modificadas']
         
         #Diccionario con la frase y la consulta
         self.dicc_consultas = {}
@@ -31,12 +31,12 @@ class Buscador(object):
             cont += 1
         
         #Hace la parte de normalización
-        lista_palabras = filtro.normalizacion_tokenizacion(ruta_destino)
+        filtro.normalizacion_tokenizacion(ruta_destino)
         
         #Hace la parte de stopper
-        lista_stopword = config['DEFAULT']['ruta_lista_stopword']
+        lista_stopword = config['OFFLINE']['ruta_lista_stopword']
         vacias = Stopper(lista_stopword) #Crear el stopper
-        limpiar_vacias = vacias.eliminacion_vacias(ruta_destino,ruta_destino) #Eliminar palabra vacía
+        vacias.eliminacion_vacias(ruta_destino,ruta_destino) #Eliminar palabra vacía
         
         #Hace la parte de stemmer
         raices = Stemmer()
@@ -58,19 +58,18 @@ class Buscador(object):
     def procesar_pesos(self):
         pares_palabra_frecuencia_online = Pares_Palabra_Frecuencia()
         fich_pesosNorm_online = Ficheros_Pesos_Normalizados()
-        rutaGuardado = self.config['DEFAULT']['ruta_diccionario_idf_palabras']
+        rutaGuardado = self.config['OFFLINE']['ruta_coleccion_ficherosNormalizados']
         indice_pesos_offline = fich_pesosNorm_online.cargarEEDD_pesosNorm(rutaGuardado)
         indice_idf_offline = fich_pesosNorm_online.cargarEEDD_IDF(rutaGuardado)
-        rutaGuardado = self.config['DEFAULT']['ruta_diccionarios_invertidos']
+        rutaGuardado = self.config['OFFLINE']['ruta_diccionarios_invertidos']
         indice_dicc_palabras_invertidas = pares_palabra_frecuencia_online.cargarEEDD_diccPalabras_invertidas(rutaGuardado)
         indice_dicc_documentos_invertidas = pares_palabra_frecuencia_online.cargarEEDD_diccDocumentos_invertidas(rutaGuardado)
-        rutaGuardado = self.config['DEFAULT']['ruta_diccionario_archivos']
+        rutaGuardado = self.config['OFFLINE']['ruta_diccionario_archivos']
         indice_dicc_documentos = pares_palabra_frecuencia_online.cargarEEDD_diccArchivos(rutaGuardado)
         
-        #similitud_docs_consulta = {}
-        cont = 1
         
-        ruta_fichero_resultados = self.config['DEFAULT']['ruta_ficheros_consultas_resultados']
+        cont = 1
+        ruta_fichero_resultados = self.config['ONLINE']['ruta_ficheros_consultas_resultados']
         for consulta in self.lista_consultas:
             #Calculo de los pesos normalizados por consulta
             pesos_palabras = fich_pesosNorm_online.pesos_palabras_consulta(indice_idf_offline, consulta, indice_dicc_palabras_invertidas)
@@ -99,7 +98,7 @@ class Buscador(object):
             similitud_docs_consulta = sorted(similitud_docs_consulta.items(),reverse = True, key=operator.itemgetter(1))
             #SALIDA POR PANTALLA DE LOS N DOCUMENTOS CON MAYOR SIMILITUD 
             print("\nConsulta "+str(cont)+": "+self.dicc_consultas[cont])
-            #print(similitud_docs_consulta)
+            
             i = 0
             for id_doc in similitud_docs_consulta:
                 if i < self.doc_max:
