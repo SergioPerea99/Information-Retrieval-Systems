@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952011000600008</identifier>
+<datestamp>2012-02-20</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Abad,S.]]></dc:creator>
+<dc:creator><![CDATA[Sotomayor,G.]]></dc:creator>
+<dc:creator><![CDATA[Vega,A.]]></dc:creator>
+<dc:creator><![CDATA[Pérez de José,A.]]></dc:creator>
+<dc:creator><![CDATA[Verdalles,U.]]></dc:creator>
+<dc:creator><![CDATA[Jofré,R.]]></dc:creator>
+<dc:creator><![CDATA[López-Gómez,J.M.]]></dc:creator>
+<dc:subject><![CDATA[Ángulo de fase]]></dc:subject>
+<dc:subject><![CDATA[Bioimpedancia]]></dc:subject>
+<dc:subject><![CDATA[Nutrición]]></dc:subject>
+<dc:subject><![CDATA[Hemodiálisis]]></dc:subject>
+<dc:subject><![CDATA[Diálisis peritoneal]]></dc:subject>
+<dc:subject><![CDATA[Mortalidad]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.31 n.6 2011]]></dc:source>
+<dc:date>2011-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952011000600008</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[El ángulo de fase de la impedancia eléctrica es un predictor de supervivencia a largo plazo en pacientes en diálisis]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[The phase angle of the electrical impedance is a predictor of long-term survival in dialysis patients]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: La malnutrición calórico-proteica es un factor de riesgo de mortalidad en pacientes en diálisis, sin embargo, su valoración clínica no ha sido bien definida. La bioimpedancia eléctrica (BIE) es un procedimiento no invasivo y objetivo, cada vez más empleado en su valoración. Objetivo: El objetivo de este estudio es analizar la relación entre el ángulo de fase determinado por BIE a una frecuencia de 50 kHz (AF50) con otros parámetros de nutrición y valorar prospectivamente su capacidad como marcador pronóstico de mortalidad a largo plazo. Pacientes y métodos: Incluimos a 164 pacientes, 127 en hemodiálisis y 37 en diálisis peritoneal, a los que se les realiza un análisis de BIE al tiempo que se solicitan parámetros de inflamación y nutrición y se calcula el índice de comorbilidad de Charlson. Resultados: En el análisis de correlación lineal, encontramos que el AF50 tiene una asociación directa con la masa magra, con el agua intracelular, con el agua extracelular y con la ganancia de peso interdiálisis, mientras que se asocia de forma inversa con la edad, con la masa grasa y con el log PCR. Los pacientes con AF50 &gt;8º presentan un mejor estado nutricional, son más jóvenes y tienen una supervivencia significativamente mejor a los seis años de seguimiento. Entre los pacientes estudiados, tanto el AF50 como el resto de los parámetros de composición corporal son mejores en diálisis peritoneal que en hemodiálisis, pero estas diferencias pueden ser atribuidas a que los primeros son más jóvenes. En el análisis multivariable, sólo el AF50 <8º y la comorbilidad ajustada para la edad persisten como factores de riesgo independientes de mortalidad. Conclusiones: Concluimos que el AF50 tiene una buena correlación con los parámetros de nutrición y que es un buen marcador de supervivencia en pacientes en diálisis. No obstante, son necesarios estudios de intervención en los que se demuestre si la mejoría de los parámetros de BIE se acompaña de una mayor supervivencia.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: Protein-energy malnutrition is a risk factor for mortality in dialysis patients; however, its clinical assessment has not been well defined. Electrical bioimpedance (EBI) is a non-invasive and objective procedure, which is increasingly being used for this assessment. Objective: The aim of this study is to analyse the relationship between the phase angle determined by EBI at a frequency of 50kHz (AF50) and other nutritional parameters, and prospectively evaluate its ability as a marker for long-term mortality. Patients and methods: We included 164 patients (127 on haemodialysis and 37 on peritoneal dialysis) who underwent an EBI analysis while simultaneously determining inflammation and nutrition parameters. The Charlson comorbidity index was then calculated. Results: In the linear correlation analysis, we found that the AF50 had a direct association with lean mass, intracellular water, extracellular water and interdialytic weight gain, while having an inverse association with age and fat mass. Patients with AF50 &gt;8º had a better nutritional status, were younger and had significantly longer survival at the six-year follow-up. Among the patients studied, both the AF50 and the other body composition parameters were better in peritoneal dialysis than in haemodialysis, but these differences may be attributable to the fact that the first patients were younger. In the multivariate analysis, only the AF50 <8º and comorbidity adjusted for age persisted as independent risk factors for mortality. Conclusions: We conclude that AF50 has a good correlation with nutritional parameters and is a good marker of survival in dialysis patients. Nevertheless, intervention studies are needed to demonstrate if the improvement in EBI parameters is associated with better survival.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

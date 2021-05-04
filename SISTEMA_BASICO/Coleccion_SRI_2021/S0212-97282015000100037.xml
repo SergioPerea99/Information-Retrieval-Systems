@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0212-97282015000100037</identifier>
+<datestamp>2015-02-19</datestamp>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Garcia-Mas,Alexandre]]></dc:creator>
+<dc:creator><![CDATA[Fuster-Parra,Pilar]]></dc:creator>
+<dc:creator><![CDATA[Ponseti,Francisco Javier]]></dc:creator>
+<dc:creator><![CDATA[Palou,Pere]]></dc:creator>
+<dc:creator><![CDATA[Olmedilla,Aurelio]]></dc:creator>
+<dc:creator><![CDATA[Cruz,Jaume]]></dc:creator>
+<dc:subject><![CDATA[Ansiedad]]></dc:subject>
+<dc:subject><![CDATA[clima motivacional]]></dc:subject>
+<dc:subject><![CDATA[redes bayesianas]]></dc:subject>
+<dc:subject><![CDATA[probabilidades bayesianas]]></dc:subject>
+<dc:subject><![CDATA[autodeterminación]]></dc:subject>
+<dc:subject><![CDATA[orientación a metas]]></dc:subject>
+<dc:subject><![CDATA[deporte juvenil]]></dc:subject>
+<dc:subject><![CDATA[fútbol]]></dc:subject>
+<dc:publisher><![CDATA[Universidad de Murcia]]></dc:publisher>
+<dc:source><![CDATA[Anales de Psicología  v.31 n.1 2015]]></dc:source>
+<dc:date>2015-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-97282015000100037</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Análisis bayesiano de la motivación, el clima motivacional y la ansiedad en jóvenes jugadores de equipo]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[A Bayesian Analysis of the motivation, motivational climate and anxiety in young competitive team players]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[El objetivo de este estudio es analizar las relaciones entre la autodeterminación, la disposición de orientación a metas, y el clima motivacional percibido por jóvenes deportistas, así como su impacto sobre los componentes somáticos y cognitivo de la ansiedad competitiva, y sobre la aceptación del uso del engaño y la astucia en el deporte. Se administraron los instrumentos PMCSQ, TEOSQ, BRSQ, CDED y SAS-2 a 270 jugadores de fútbol, balonmano y baloncesto (Media de edad = 14.67; DT = 1.53). Las relaciones de dependencia e independencia probabilística de las variables estudiadas fueron establecidas mediante una red Bayesiana implementada con Netica y Tetrad IV, que fue validada. Posteriormente, se modificaron hipotéticamente los valores de probabilidad de algunas variables dependientes en la red Bayesiana para analizar la variación sobre las probabilidades de las variables independientes. Los resultados muestran diferentes relaciones de dependencia estadística entre la motivación autodeterminada y la motivación de logro, respecto de la ansiedad competitiva, y evidencian una controvertida relación entre los climas motivacionales percibidos y las orientaciones de tarea y de ego de los jugadores. Asimismo, se observa el papel residual de la ansiedad somática y el rol instrumental de la aceptación del engaño y la astucia.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[The aim of this study is to analyze the relationship between the self-determinated motivation, the goal orientation and the perceived motivational climate and their impact on the cognitive and somatic components of the competitive anxiety in young athletes, and their acceptance of the use of cheating and gamemanship in sport. We administered PMCSQ, TEOSQ, BRSQ, CDED and SAS- 2 to 270 football, handball and basketball players (Mean age = 14.67, SD = 1.53). Probabilistic relationships of dependence and independence of the variables were studied by a Bayesian network (BN), developed using Netica and Tetrad IV. After the validation of the BN, we instantiated hypothetical probability values of several dependent variables in order to analyze the variation of the probability of the independent variables. Results show different statistical dependence relationships between the self-determined motivation and achievement motivation, respect to the competitive anxiety, and also show a controversial relationship between the perceived motivational climate and the task and ego orientation of the players. It also shows the residual role of the somatic anxiety, and the instrumental role of the the use of cheating and gamemanship.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

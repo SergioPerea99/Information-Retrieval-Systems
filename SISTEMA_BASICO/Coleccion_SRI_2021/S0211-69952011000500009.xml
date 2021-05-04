@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952011000500009</identifier>
+<datestamp>2012-02-20</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[González-López,J.]]></dc:creator>
+<dc:creator><![CDATA[Tutor,J.C.]]></dc:creator>
+<dc:subject><![CDATA[Aclaramiento de digoxina]]></dc:subject>
+<dc:subject><![CDATA[Concentraciones predichas]]></dc:subject>
+<dc:subject><![CDATA[Ajuste de dosificación]]></dc:subject>
+<dc:subject><![CDATA[Tasa de filtración glomerular]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.31 n.5 2011]]></dc:source>
+<dc:date>2011-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952011000500009</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Eficiencia diagnóstica de la predicción de concentraciones de digoxina en función de la tasa de filtración glomerular mediante un modelo hiperbólico]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Diagnostic accuracy of a hyperbolic model in predicting digoxin concentrations based on glomerular filtration rates]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Objetivos: Los pacientes con insuficiencia renal presentan una prevalencia elevada de dosis inapropiadas y de concentraciones elevadas de digoxina, y se ha recomendado el ajuste de la dosificación en función de la tasa de filtración glomerular (TFG). El objetivo de nuestro estudio fue evaluar el grado de dependencia con respecto a la TFG del aclaramiento total (CL) de digoxina, y la eficiencia diagnóstica de un modelo predictivo para la concentración sérica de digoxina en el estado de equilibrio (Css) en función de la TFG estimada por la ecuación de Cockcroft-Gault. Métodos: En 400 pacientes ambulatorios tratados por vía oral con digoxina se determinaron las Css séricas (inmunoanálisis de polarización de fluorescencia, Abbott Laboratories), calculandose el CL total. La predicción de Css se hizo mediante un modelo hiperbólico desarrollado por Konishi, et al. (J Clin Pharm Ther 2002;27:257), y las constantes de la ecuación fueron modificadas para la población caucasiana. Resultados: Sólo el 26% de la variabilidad interindividual del CL de digoxina puede ser explicado por diferencias de la TFG, y este hecho constituye una seria limitación para los modelos predictivos derivados. Se obtuvo una eficiencia diagnóstica del 65% para los modelos predictivos original y modificado en la clasificación correcta de las Css predichas como subterapéuticas, terapéuticas o supraterapéuticas con respecto a las Css obtenidas. Conclusiones: La eficiencia diagnóstica obtenida en la predicción de las concentraciones séricas de digoxina en función de los valores estimados de TFG es inaceptable para el ajuste de la dosificación del fármaco en la práctica clínica.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: Inappropriate doses and high serum concentrations of digoxin are highly prevalent in patients with renal impairment, and the drug dosage adjustment according to the glomerular filtration rate (GFR) is recommended. The aim of our study was to evaluate the dependence degree of digoxin total clearance (CL) on GFR, and the diagnostic efficiency of a predictive model for serum digoxin steady-state concentrations (Css) from estimated GFR by Cockcroft-Gault formula. Methods: In 400 outpatients treated orally with digoxin, serum Css were determined (fluorescence polarization immunoassay from Abbott Laboratories), and total CL was calculated. The prediction of Css was carried out using a hyperbolic model developed by Konishi et al in Japan (J Clin Pharm Ther 2002;27:257), and the constants of the equation were modified for a Caucasian population. Results: Only 26% of the digoxin CL interindividual variability may be explained by differences in GFR, and this fact is a serious limitation for the derived predictive models. A 65% diagnostic efficiency was obtained for original and modified hyperbolic models in the correct classification of predicted Css as subtherapeutic, therapeutic or supratherapeutic with respect to obtained Css concentrations. Conclusions: The diagnostic efficiency obtained in the prediction of serum digoxin concentrations from estimated GFR values is unacceptable for the drug dosage adjustment in clinical practice.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

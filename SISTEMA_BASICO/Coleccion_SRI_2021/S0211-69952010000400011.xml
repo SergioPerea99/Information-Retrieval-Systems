@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952010000400011</identifier>
+<datestamp>2011-01-20</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Gómez Marcos,M.A.]]></dc:creator>
+<dc:creator><![CDATA[Rodríguez Sánchez,E.]]></dc:creator>
+<dc:creator><![CDATA[Recio Rodríguez,J.I.]]></dc:creator>
+<dc:creator><![CDATA[Martín Cantera,C.]]></dc:creator>
+<dc:creator><![CDATA[Ramos Blanes,R.]]></dc:creator>
+<dc:creator><![CDATA[García Ortiz,L.]]></dc:creator>
+<dc:subject><![CDATA[Creatinina]]></dc:subject>
+<dc:subject><![CDATA[Presión arterial]]></dc:subject>
+<dc:subject><![CDATA[Ecuaciones de estimación del filtrado glomerular]]></dc:subject>
+<dc:subject><![CDATA[Enfermedad renal]]></dc:subject>
+<dc:subject><![CDATA[diagnóstico]]></dc:subject>
+<dc:subject><![CDATA[Enfermedad renal]]></dc:subject>
+<dc:subject><![CDATA[epidemiología]]></dc:subject>
+<dc:subject><![CDATA[Calibración]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.30 n.4 2010]]></dc:source>
+<dc:date>2010-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952010000400011</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Diferencias de la ecuación CKD-EPI con la de MDRD para la estimación del filtrado glomerular en pacientes hipertensos]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Differences in the CKD-EPI equation with MDRD for the estimation the glomerular filtration in hypertensive patients]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Objetivo: Analizar las concordancias en el filtrado glomerular (FG) estimado con las ecuaciones de CKD-EPI y MDRD-IDMS en una cohorte de pacientes hipertensos. Métodos: Se incluyeron 478 hipertensos consecutivamente, edad media 57,58 años (DE = 12,34), el 68,3% hombres. La estimación del FG se realizó con las ecuaciones de MDRD-IDMS y CKD-EPI, valorando las concordancias entre ellas. Resultados: La estimación de FG con CKD-EPI fue 4,37 ml/min/1,73 m² (IC 95%, 3,73-4,19) superior al MDRD-IDMS en global y por sexos (hombres 3,99; mujeres 5,04). En menores de 65 años la diferencia fue mayor, 6,55 ml/min/1,73 m² (IC 95%, 5,95-7,15), tanto en hombres (6,07) como en mujeres (6,48). Sin embargo, en mayores de 65 años no se encontró diferencia significativa. El coeficiente de correlación intraclase fue 0,904 (IC 95%, 0,886-0,919), en hombres 0,897 y en mujeres 0,917, y el índice kappa fue 0,848 (IC 95%, 0,795-0,889), en hombres 0,845 y en mujeres 0,852. Conclusión: La ecuación de CKD-EPI estima un FG más alto en mayores de 65 años y reclasifica hacia estadio 1 a hipertensos catalogados en estadío 2 por MDRD-IDMS.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Objective: To analyze the agreement in glomerular filtration rate (GFR) estimated with CKD-EPI and MDRD-IDMS equations in a cohort of hypertensive patients. Methods: We included consecutively 478 hypertensive patients, 57.58 (SD: 12.34) aged, 68.3% males. The estimation of GFR was performed with MDRD-IDMS and CKD-EPI equations and we analyzed the agreement between them. Results: The estimation of GFR with CKD-EPI was 4.37 (95%:3.73-4.19) mL/min/1,73 m² higher than MDRD-IDMS, overall and by gender (males 3.99; females 5.04). In patients under 65 years the difference was greater, 6.55 (95%:5.95-7.15) mL/min/1.73 m² in both men 6.07 and women 6.48. However, we found no significant difference. Intraclass correlation coefficient was 0.904 (95%CI:0.886-0.919), 0.897 men and 0.917 women and Kappa index 0.848 (95% CI :0.795-0.889), 0.845 men and 0.852 women. Conclusion: CKD-EPI equation estimated a higher FG in hypertensive patients under 65 years and reclassified in stage 1 patients classified in stage 2 by MDRD-IDMS.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

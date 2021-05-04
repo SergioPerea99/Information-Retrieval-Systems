@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952011000600013</identifier>
+<datestamp>2012-03-06</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Caravaca,F.]]></dc:creator>
+<dc:creator><![CDATA[Villa,J.]]></dc:creator>
+<dc:creator><![CDATA[García de Vinuesa,E.]]></dc:creator>
+<dc:creator><![CDATA[Martínez del Viejo,C.]]></dc:creator>
+<dc:creator><![CDATA[Martínez Gallardo,R.]]></dc:creator>
+<dc:creator><![CDATA[Macías,R.]]></dc:creator>
+<dc:creator><![CDATA[Ferreira,F.]]></dc:creator>
+<dc:creator><![CDATA[Cerezo,I.]]></dc:creator>
+<dc:creator><![CDATA[Hernández-Gallego,R.]]></dc:creator>
+<dc:subject><![CDATA[Enfermedad renal crónica]]></dc:subject>
+<dc:subject><![CDATA[Fósforo sérico]]></dc:subject>
+<dc:subject><![CDATA[Proteinuria]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.31 n.6 2011]]></dc:source>
+<dc:date>2011-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952011000600013</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Asociación entre fósforo sérico y progresión de la enfermedad renal crónica avanzada]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Relationship between serum phosphorus and the progression of advanced chronic kidney disease]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: La hiperfosfatemia se ha relacionado con la velocidad de progresión de la enfermedad renal crónica (ERC), aunque todavía existen dudas sobre algunos aspectos de esta asociación. Objetivos: Establecer los determinantes de los niveles de fósforo sérico (P) en la ERC avanzada, con especial interés en aquellos con potencial influencia sobre la progresión de la ERC, y analizar la relación entre los niveles promediados de P sérico con las variaciones del filtrado glomerular (FG) durante el tiempo de seguimiento. Pacientes y métodos: Estudio prospectivo de observación que incluyó a 184 pacientes con ERC avanzada. La tasa de variación del filtrado glomerular (TFG) fue calculada como la pendiente de la recta resultante de la regresión lineal entre el FG y el tiempo de seguimiento, y expresada como ml/min/mes. La mediana de seguimiento fue de 303 días. La asociación entre la TFG y las covariables de estudio se analizó mediante regresión lineal múltiple. Resultados: Los mejores determinantes de los niveles de P sérico fueron, además del FG (beta = 0,477), el sexo femenino (beta = 0,106), el calcio sérico (beta = -0,274), la albúmina sérica (beta = -0,112), el bicarbonato sérico (beta = -0,182), la tasa de catabolismo proteico (beta = 0,144) y el tratamiento diurético (beta = 0,180). La TFG media ± desviación estándar (DE) fue -0,198 ± 0,376 ml/min/mes. Los mejores determinantes de la TFG fueron: proteinuria (beta = -0,462), P sérico (beta = -0,440) y FG basal (beta = -0,404). Los valores absolutos de excreción urinaria de P no se asociaron con el deterioro de la función renal, aunque sí lo hizo la excreción urinaria de P ponderada al FG. Conclusión: Los niveles de fósforo sérico se correlacionan fuertemente con la velocidad de progresión de la ERC.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: High serum phosphorus (P) has been shown to be associated with a more rapid decline of renal function in patients with chronic kidney disease (CKD). Objective: The aim of this study was to determine whether time-averaged serum P levels are associated with the progression of renal failure adjusted for other potential confounders. Patients and methods: A prospective observational study of 184 patients with pre-dialysis CKD, stages 3, 4 and 5 (mean GFR=15.2±5.6ml/min/1.73m²). The rate of decline in renal function was calculated as the slope of GFR. Median follow-up time was 303 days. Biochemical parameters were analysed as time-averaged concentrations. Multivariate linear regression analysis was used to assess the best determinants of serum P levels, and the relationship between the rate of decline of renal function and the study covariates. Results: The best determinants of serum P levels were: GFR (beta = 0.477), female sex (beta = 0.106), serum calcium (beta = -0.274), serum albumin (beta = -0.112), serum bicarbonate (beta = -0.182), protein catabolic rate (beta = 0.144), and use of diuretics (beta = 0.180). The mean ± standard deviation (SD) slope of GFR was -0.198±0.376ml/min/month. The best determinants of the slope of GFR were: proteinuria (beta = -0.462), serum P (beta = -0.440), and basal GFR (beta = -0.404). Total urinary P excretion was not significantly associated with the rate of decline of renal function. Conclusion: High serum P levels are strongly and independently associated with a more rapid decline of renal function in patients with advanced CKD.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

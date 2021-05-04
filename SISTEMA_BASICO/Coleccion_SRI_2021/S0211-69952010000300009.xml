@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952010000300009</identifier>
+<datestamp>2010-09-15</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Hernández Ocampo,José]]></dc:creator>
+<dc:creator><![CDATA[Torres Rosales,Aìda]]></dc:creator>
+<dc:creator><![CDATA[Rodríguez Castellanos,Francisco]]></dc:creator>
+<dc:subject><![CDATA[Tasa de filtración glomerular]]></dc:subject>
+<dc:subject><![CDATA[Depuración de inulina]]></dc:subject>
+<dc:subject><![CDATA[Depuración de tecnecio]]></dc:subject>
+<dc:subject><![CDATA[Depuración de creatinina]]></dc:subject>
+<dc:subject><![CDATA[Fórmula de Cockcroft]]></dc:subject>
+<dc:subject><![CDATA[Fórmula de Levey]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.30 n.3 2010]]></dc:source>
+<dc:date>2010-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952010000300009</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Comparación de cuatro métodos de medición de la tasa de filtración glomerular con depuración de inulina en individuos sanos y en pacientes con insuficiencia renal]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Comparison of four methods for measuring glomerular filtration rate by inulin clearance in healthy individuals and patients with renal failure]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción. La medición de la función renal es importante para el diagnostico y estratificación de las enfermedad renales. Varios métodos han sido empleados para predecir la tasa de filtración glomerular, sin embargo los resultados han sido variables según la población estudiada. En este estudio se compararon 4 métodos de medición de la función renal con la depuración de inulina. Métodos. Se realizó depuración de inulina, tecnecio y creatinina y se calculó la filtración glomerular con las fórmulas de Cockcroft-Gault y Levey en 51 sujetos con función renal estable. El análisis estadístico se realizó mediante el coeficiente de correlación de Pearson y con análisis de concordancia (método de Bland y Altman). Resultados. Se incluyeron 51 sujetos de los cuales 35 (68.6%) se encontraban con algún grado de insuficiencia renal. Los cuatro métodos evaluados mostraron una correlación significativa con la depuración de inulina. No obstante, todos mostraron considerable falta de concordancia, con límites inferiores que variaban desde 15 hasta 42 ml/min, para las comparaciones de inulina con tecnecio e inulina con la fórmula de Levey, respectivamente, y límites de concordancia superiores que podían ir desde 20 y hasta 56 ml/min, para las comparaciones de inulina con tecnecio e Inulina con la fórmula de Levey, respectivamente. Conclusión. La medición de la tasa de filtración glomerular efectuada a través de diferentes métodos muestra un amplio rango de variación al compararlos con la depuración de inulina, lo cual debe de considerarse en la práctica clínica diaria al evaluar la función renal.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background. A proper measurement of renal function is important for diagnosis and stratification of kidney disease. Several methods have been used to predict glomerular filtration rate, however the results have been variable depending on the population studied. We aimed to compare the performances of 4 glomerular filtration rate tests with inulin clearance in patients with chronic renal insufficiency and in healthy subjects. Methods. Inulin clearances performed in 51 individuals with stable renal function were selected. For each of them, we computed 4 estimates: the 24-hour creatinine clearance, technetium (99mTc-DTPA) clearance, Cockcroft-Gault and Levey formulas. Their respective performance was assessed by correlation (Pearson's correlation coefficient) and agreement (Bland and Altman method). Results. Each glomerular filtration rate test closely correlated with inulin clearance. Nevertheless, all GFR tests displayed considerable lack of agreement with lower limits ranging from 15 to 42 ml/min, for comparison with inulin-technetium and inulin with Levey formula, respectively and upper limits of agreement that could range from 20 to 56 ml/min, for comparison with inulin-technetium and inulin with Levey formula, respectively. Conclusion. The measurement of glomerular filtration rate determined via different methods shows a wide range of variation when compared with inulin clearance, which should be considered in daily clinical practice during the evaluation of renal function.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

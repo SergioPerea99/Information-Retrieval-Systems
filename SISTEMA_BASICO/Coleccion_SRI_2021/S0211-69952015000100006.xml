@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952015000100006</identifier>
+<datestamp>2015-03-03</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Maduell,Francisco]]></dc:creator>
+<dc:creator><![CDATA[Ojeda,Raquel]]></dc:creator>
+<dc:creator><![CDATA[Rodas,Lida]]></dc:creator>
+<dc:creator><![CDATA[Rico,Nayra]]></dc:creator>
+<dc:creator><![CDATA[Fontseré,Néstor]]></dc:creator>
+<dc:creator><![CDATA[Arias,Marta]]></dc:creator>
+<dc:creator><![CDATA[Vera,Manel]]></dc:creator>
+<dc:creator><![CDATA[Massó,Elisabeth]]></dc:creator>
+<dc:creator><![CDATA[Jiménez-Hernández,Mario]]></dc:creator>
+<dc:creator><![CDATA[Rossi,M. Florencia]]></dc:creator>
+<dc:creator><![CDATA[Bazán,Giannina]]></dc:creator>
+<dc:creator><![CDATA[Campistol,Josep M.]]></dc:creator>
+<dc:subject><![CDATA[Autosustitución]]></dc:subject>
+<dc:subject><![CDATA[Hemodiafiltración en línea (HDF-OL)]]></dc:subject>
+<dc:subject><![CDATA[Máquina de diálisis]]></dc:subject>
+<dc:subject><![CDATA[PTM]]></dc:subject>
+<dc:subject><![CDATA[Volumen convectivo]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.35 n.1 2015]]></dc:source>
+<dc:date>2015-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952015000100006</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Hemodiafiltración on-line con autosustitución: valoración de los cambios del flujo de sangre sobre el volumen convectivo y eficacia]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[On-line haemodiafiltration with auto-substitution: assessment of blood flow changes on convective volume and efficiency]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: La hemodiafiltración on-line (HDF-OL) es actualmente la técnica más efectiva y varios estudios aleatorizados y metaanálisis han visto una reducción de la mortalidad, observándose una asociación en relación directa con el volumen convectivo. El flujo de sangre (Qb) limita el flujo de infusión al 25-33 % y constituye el principal factor limitante para alcanzar un volumen de sustitución óptimo. Con la reciente incorporación de monitores con sistema de autosustitución, el objetivo del estudio fue valorar el efecto de las variaciones del Qb sobre el volumen convectivo y la capacidad depurativa. Material y métodos: Se incluyeron 23 pacientes, 17 varones y 6 mujeres, con una edad media de 65,5 ± 10 años, tiempo de diálisis 292,2 ± 15 min, que se encontraban en programa de HDF-OL con monitor 5008 Cordiax con autosustitución. Cada paciente fue analizado en cinco sesiones en las que solo se varió el Qb (250, 300, 350, 400 y 450 ml/min). En cada sesión se determinaron el volumen de sustitución, el volumen convectivo total y los parámetros de diálisis. Se determinó la concentración de urea (60 Da), creatinina (113 Da), &#946;2-microglobulina (11 800 Da), mioglobina (17 200 Da), prolactina (23 000 Da), &#945;1-microglobulina (33 000 Da) y &#945;1-glicoproteína ácida (40 000 Da) en plasma al inicio y al final de cada sesión para calcular el porcentaje de reducción de estos solutos. Resultados: La presión transmembrana fue inferior con Qb 250 ml/min. Se observó un aumento significativo del volumen convectivo con el incremento del Qb, 23,7, 26,9, 30,2, 32,8 y 35,2 l/sesión a 250, 300, 350, 400 y 450 ml/min, respectivamente (P < 0,001), representando un porcentaje de la sangre total depurada del 33,2, 31,2, 30,2, 28,7 y 27,3 %, respectivamente. Los porcentajes de reducción de urea y creatinina aumentaron progresivamente con el Qb, se observaron ligeras diferencias con la &#946;2-microglobulina y la mioglobina, y no se observaron cambios en las grandes moléculas. Conclusión: Por cada 50 ml/min de aumento del Qb el volumen convectivo aumenta entre 8 y 12 ml/min. El sistema de autosustitución potencia los Qb más bajos en el porcentaje del volumen convectivo respecto a la sangre total depurada. El Qb aumenta la capacidad depurativa de las moléculas pequeñas, favorece la de la &#946;2-microglobulina y la mioglobina, y no influye en moléculas de superior peso molecular.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: On-line haemodiafiltration (OL-HDF) is currently the most effective technique and several randomised studies and meta-analyses have seen a reduction in mortality and an association directly related with convective volume is observed. Blood flow (Qb) limits the infusion rate to 25-33 % and is the main limiting factor for reaching an optimum substitution volume. With the recent incorporation of monitors with auto-substitution systems, the aim of the study was to assess the effect of Qb variations on convective volume and purifying capacity. Material and Methods: 23 patients, 17 men and 6 women, were included, with an average age of 65.5 ±10 years, time on dialysis 292.2 ± 15 minutes, which were in the OL-HDF programme with the 5008 Cordiax monitor with auto-substitution. Each patient was analysed over 5 sessions in which only the Qb was changed (250, 300, 350, 400 and 450 ml/min). In each session the substitution volume, total convective volume and parameters of dialysis were measured. The concentration of urea (60 Da), creatinine (113 Da), &#946;2-microglobulin (11,800 Da), myoglobin (17,200 Da), prolactin (23,000 Da), &#945;1-microglobulin (33,000 Da) and &#945;1-acid glycoprotein (40,000 Da) in plasma was measured at the start and end of each session in order to calculate the percentage of reduction of these solutes. Results: The trans-membrane pressure was less, with Qb 250 ml/min. A significant increase in convective volume was observed with the increase in Qb, 23.7, 26.9, 30.2, 32.8 and 35.2 l/session to 250, 300, 350, 400 and 450 ml/min, respectively (P < 0.001), representing a percentage of total purified blood of 33.2, 31.2, 30.2, 28.7 and 27.3 % respectively. The percentages of reduction of urea and creatine progressively increased with Qb, slight differences were observed with &#946;2-microglobulin and myoglobin, and no changes were observed in the larger molecules. Conclusion: For each 50 ml/min increase in Qb, the convective volume increased by between 8 and 12 ml/min. The auto-substitution system strengthens the lowest Qbs in the percentage of convective volume with regards to total purified blood. Qb increases the purifying capacity of small molecules, favouring that of &#946;2-microglobulin and myoglobin, and does not influence molecules of a greater molecular weight.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

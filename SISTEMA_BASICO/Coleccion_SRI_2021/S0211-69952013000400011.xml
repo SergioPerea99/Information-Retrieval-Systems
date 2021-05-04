@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952013000400011</identifier>
+<datestamp>2013-07-02</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Ojeda,José M.]]></dc:creator>
+<dc:creator><![CDATA[Kohout,Isolda]]></dc:creator>
+<dc:creator><![CDATA[Cuestas,Eduardo]]></dc:creator>
+<dc:subject><![CDATA[Síndrome urémico hemolítico]]></dc:subject>
+<dc:subject><![CDATA[Deshidratación]]></dc:subject>
+<dc:subject><![CDATA[Función renal]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.33 n.3 2013]]></dc:source>
+<dc:date>2013-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952013000400011</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[La deshidratación al ingreso es un factor de riesgo para la recuperación incompleta de la función renal en niños con síndrome urémico hemolítico]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Dehydration upon admission is a risk factor for incomplete recovery of renal function in children with haemolytic uremic syndrome]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Antecedentes: El síndrome urémico hemolítico (SUH) es la causa más común de insuficiencia renal aguda y la segunda de insuficiencia renal crónica (IRC) durante la infancia. Los factores que condicionan la recuperación incompleta de la función renal antes del ingreso hospitalario han sido poco estudiados. Objetivos: Identificar en niños con SUH, antes de su internación, los factores de riesgo que determinan una recuperación incompleta de la función renal. Métodos: Estudio retrospectivo de caso control. Variables: edad, sexo, duración de la diarrea (D+), deposiciones con sangre, vómitos, fiebre, deshidratación, antibiótico en terapia previa y recuperación incompleta de la función renal definida como la presencia de proteinuria, hipertensión arterial, aclaramiento reducido de creatinina e IRC durante el seguimiento. Se incluyeron pacientes de ambos sexos, menores de 15 años, con SUH. Resultados: Se estudiaron 36 pacientes, 23 de ellos varones (65,3 %, intervalo de confianza [IC] 95 % 45,8-80,9). Con una media de edad de 2,5 ± 1,4 años. 21 requirieron diálisis (58 %, IC 95 % 40,8 a 75,8) y 13 (36,1 %, IC 95 % 19,0 a 53,1) no recuperaron por completo su función renal. En un modelo de análisis bivariado solo fue un factor de riesgo significativo la deshidratación definida como una pérdida de peso > de 5 % (odds ratio [OR] 5,3, IC 95 % 1,4 a 12,3; p 0,0220). En un modelo multivariado (regresión de Cox), fue marginalmente significativa la deshidratación (CR 95,823, IC 95 % 93,175 a 109,948; p = 0,085). Conclusiones: Los resultados obtenidos sugieren que la deshidratación previa a la internación puede constituir un factor que incrementa el riesgo de presentar una recuperación incompleta de la función renal a largo plazo en niños que padecieron SUH D+. Por ello, se recomienda una cuidadosa vigilancia del estado de hidratación en niños con riesgo de desarrollar SUH D+ durante los cuidados ambulatorios.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: Haemolytic uremic syndrome (HUS) is the most common cause of acute renal failure and the second leading cause of chronic renal failure in children. The factors that affect incomplete renal function recovery prior to hospital admission are poorly understood. Objective: To analyse the risk factors that determine incomplete recovery of renal function prior to hospitalisation in children with HUS. Method: A retrospective case-control study. Variables: age, sex, duration of diarrhoea, bloody stools, vomiting, fever, dehydration, previous use of antibiotics, and incomplete recovery of renal function (proteinuria, hypertension, reduced creatinine clearance, and chronic renal failure during follow-up). Patients of both sexes under 15 years of age were included. Results: Of 36 patients, 23 were males (65.3%; 95%CI: 45.8 to 80.9), with an average age of 2.5±1.4 years. Twenty-one patients required dialysis (58%; 95% CI: 40.8 to 75.8), and 13 (36.1%; 95% CI: 19.0 to 53.1) did not recover renal function. In the bivariate model, the only significant risk factor was dehydration (defined as weight loss >5%) [(OR: 5.3; 95% CI: 1.4 to 12.3; P=.0220]. In the multivariate analysis (Cox multiple regression), only dehydration was marginally significant (HR: 95.823; 95% CI: 93.175 to 109.948; P=.085). Conclusions: Our data suggest that dehydration prior to admission may be a factor that increases the risk of incomplete recovery of renal function during long-term follow-up in children who develop HUS D+. Consequently, in patients with diarrhoea who are at risk of HUS, dehydration should be strongly avoided during outpatient care to preserve long-term renal function. These results must be confirmed by larger prospective studies.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

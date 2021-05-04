@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952013000400007</identifier>
+<datestamp>2013-07-02</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Julián-Mauro,Juan C.]]></dc:creator>
+<dc:creator><![CDATA[Cuervo,Jesús]]></dc:creator>
+<dc:creator><![CDATA[Rebollo,Pablo]]></dc:creator>
+<dc:creator><![CDATA[Callejo,Daniel]]></dc:creator>
+<dc:subject><![CDATA[Terapia renal sustitutiva]]></dc:subject>
+<dc:subject><![CDATA[Diálisis]]></dc:subject>
+<dc:subject><![CDATA[Costes indirectos]]></dc:subject>
+<dc:subject><![CDATA[Situación laboral]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.33 n.3 2013]]></dc:source>
+<dc:date>2013-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952013000400007</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Situación laboral y costes indirectos en pacientes con insuficiencia renal: diferencias entre distintas modalidades de tratamiento renal sustitutivo]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Employment status and indirect costs in patients with renal failure: differences between different modalities of renal replacement therapy]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Antecedentes: Existen datos sobre una diferente situación laboral entre pacientes bajo diferentes modalidades de tratamiento renal sustitutivo (TRS). Objetivos: Comparar los costes indirectos por morbilidad en TRS: hemodiálisis (HD) en centro especializado, diálisis peritoneal automatizada (DPA), diálisis peritoneal continua ambulatoria (DPCA) y trasplante renal (TX). Métodos: Análisis de costes indirectos por morbilidad en TRS siguiendo la teoría del capital humano. Se incluyeron 243 pacientes en edad laboral (32 DPCA, 46 DPA, 83 HD y 82 TX) evaluados en 8 centros. Se estimaron el coste por pérdida de productividad laboral (CPPL) para el año 2009, los años de vida laboral potencialmente perdidos hasta la jubilación (AVLP) y el coste total de CPPL hasta la edad de jubilación (CPPL total) ajustados por edad y sexo. Las diferencias en costes se contrastaron mediante remuestreo con 1.000 simulaciones de las diferencias siguiendo el método simple corregido de los percentiles. Resultados: No se encontraron diferencias significativas en edad o sexo entre grupos. El CPPL (2009) en HD (6547  [intervalo de confianza (IC) al 95%: 5727-7366 ]) fue significativamente mayor (p < 0,001) que en TX (5079  [IC 95%: 4127-6030 ]) o DPA (4359  [IC 95%: 3064-5655 ]), pero no que en DPCA (5785  [IC 95 %: 4302-7269 ]). Los AVLP fueron: HD 12,58 años (IC 95%: 10,42-14,73); TX 10,05 años (IC 95%: 7,45-12,65); DPA 6,09 años (IC 95%: 3,43-8,74); DPCA 10,69 años (IC 95%: 6,14-15,23). Las partidas medias del CPPL total también fueron más altas en la HD que en el TX, la DPA o la DPCA en todos los escenarios contemplados. Conclusiones: El TX y, en especial, la DPA son las estrategias de TRS con menor impacto en costes indirectos asociados a morbilidad, presentando mayores tasas de ocupación y requiriendo menores recursos de prestaciones por incapacidad laboral.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: There is evidence of a different employment status between patients undergoing different modalities of renal replacement therapy (RRT). Objectives: The present study aims to compare the indirect costs associated with morbidity in the following RRT alternatives: haemodialysis in a specialised center (HD), automated peritoneal dialysis (APD), continuous ambulatory peritoneal dialysis (CAPD), and kidney transplant (TX). Method: We analysed indirect costs following the Human Capital Theory. In total, 243 patients of working age were included (32 CAPD, 46 APD, 83 HD, and 82 TX) from 8 hospitals. The potentially productive years of life lost (PPYL), the costs of lost labor productivity (LLPc) for the year 2009, and the total cost of PPYL (PPYLtc) until age of retirement were estimated. All estimations were adjusted by age and sex. Non-parametric analysis (bootstrap confidence intervals of differences in costs calculated following the simple bias-corrected percentile method -1,000 estimates-) was computed to highlight differences in costs. Results: No significant differences were found in age or sex between groups. In 2009, LLPc for HD (6547; 95% CI: 5727-7366) was significantly higher (P<.001) than for TX (5079; 95% CI: 4127-6030) or APD (4359; 95% CI: 3064-5655), but not CAPD (5785; 95% CI: 4302-7269). PPYL values were: HD: 12.58 years, 95% CI: 10.42-14.73; TX: 10.05, 95% CI: 7.45-12.65; APD: 6.09, 95% CI: 3.43-8.74; CAPD: 10.69, 95% CI: 6.14-15.23. PPYLtc was higher in HD than in TX, APD or CAPD in all scenarios tested. Conclusions: TX are the modalities of RRT with the lowest impact on indirect costs due to morbidity, resulting in higher rates of employment than HD and requiring less disability benefits.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

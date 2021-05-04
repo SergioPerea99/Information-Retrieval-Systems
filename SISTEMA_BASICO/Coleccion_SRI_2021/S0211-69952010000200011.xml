@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952010000200011</identifier>
+<datestamp>2010-08-31</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Hernández Jaras,Julio]]></dc:creator>
+<dc:creator><![CDATA[Rico Salvador,I.]]></dc:creator>
+<dc:creator><![CDATA[Torregrosa de Juan,E.]]></dc:creator>
+<dc:creator><![CDATA[Pons Prades,R.]]></dc:creator>
+<dc:creator><![CDATA[Rius Peris,A.]]></dc:creator>
+<dc:creator><![CDATA[Fenollosa Segarra,M.A.]]></dc:creator>
+<dc:creator><![CDATA[Sánchez Canel,J.J.]]></dc:creator>
+<dc:creator><![CDATA[Carbajo Mateo,T.]]></dc:creator>
+<dc:subject><![CDATA[Aproximación de Stewart-Fencl]]></dc:subject>
+<dc:subject><![CDATA[Acidosis]]></dc:subject>
+<dc:subject><![CDATA[Hemodiafiltración]]></dc:subject>
+<dc:subject><![CDATA[Anion gap]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.30 n.2 2010]]></dc:source>
+<dc:date>2010-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952010000200011</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[¿Mejora la aproximación físico-química de Stewart-Fencl la valoración del equilibrio ácido-base en pacientes estables en hemodiafiltración?]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Does Stewart-Fencl approach improve the evaluation of acid-base status in stable patients on hemodiafiltration?]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: la evaluación del equilibrio ácido-base se basa en la ecuación de Henderson-Hasselbach. En 1983, P. Stewart desarrolló un análisis cuantitativo del equilibrio ácido-base en el que muestra un sistema con unas variables independientes entre las que se incluyen pCO2, diferencia iónica fuerte medida (SIDm), es decir, la diferencia entre la suma de cationes fuertes (Na+, K+, Ca++, Mg++) y la suma de aniones fuertes (Cl-, lactato) y la concentración total de todos los aniones débiles no volátiles (ATot), cuyos principales representantes son el fósforo inorgánico (P-) y la albúmina (Albúm.-). El objetivo de este estudio es evaluar desde ambas perspectivas el equilibrio ácido-base en pacientes en hemodiafiltración (HDF) crónica. Material y métodos: se estudian 35 pacientes (24 hombres y 11 mujeres, con una edad media de 67,2 ± 15,7 años y con un peso seco de 72,8 ± 19,2 kg. La duración media de la hemodiálisis (HD) fue de 253,6 ± 40,5 minutos. Se analizan los parámetros gasométricos (pH, pCO2, HCO3- y exceso de bases) y Na+, K+, Cl-, Ca++, Mg++ y lactato. Se calcularon la SIDm, la SIDe mediante la fórmula de Figge (1.000 x 2,46-11 x pCO2 /[10 - pH] + Albúm. g/dl x [0,123 x pH -0,631] + P en mmol/l x [0,309 x pH -0,469)] y gap del SID (SIDm-SIDe). Resultados: el pH pre-HD fue de 7,36 ± 0,08 y el pH post-HD de 7,44 ± 0,08 (p <0,001). No se apreciaron diferencias significativas entre pCO2 pre y post-HD. El HCO3 - y el exceso de bases se incrementaron durante la sesión (p <0,001). La SIDm descendió de manera significativa de 46,2 ± 2,9 preHD a 45 ± 2,3 post-HD (p <0,05). Por el contrario, la SIDe se elevó de 38,5 ± 3,8 a 42,9 ± 3,1 (p <0,001). El anion gap descendió de 18,6 ± 3,8 pre-HD a 12,8 ± 2,8 Eq/l post-HD (p <0,001) y el gap del SID de 7,6 ± 3 a 2,1 ± 2 (p <0,001). Se apreció una correlación entre el anion gap y el gap-SID tanto antes como después de la HDF. Asimismo, se apreció una correlación significativa entre el &#8710; exceso de bases y &#8710; del gap-SID. Conclusión: en conclusión, la aproximación físico-química de Stewart-Fencl no mejora la valoración del equilibrio ácido-base en pacientes en HDF crónica. En presencia de normocloremia la SIDm no refleja el proceso alcalinizante de la sesión de hemodiálisis. Bajo esta perspectiva, la sesión de hemodiálisis se concibe como una retirada de aniones inorgánicos no metabolizables, en especial el sulfato. El espacio dejado por estos aniones es reemplazado por OH- y secundariamente por HCO3-. La única ventaja vendría dada por una mejor valoración de los aniones no medidos mediante elgap del SID, sin el efecto de la albúmina y el fosfato.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: The traditional evaluation of acid-base status relies on the Henderson-Hasselbach equation. In 1983, an alternative approach, based on physical and chemical principles was proposed by P. Stewart. In this approach, plasma pH is determined by 3 independent variables: pCO2, Strong Ion Difference (SIDm), which is the difference between the strong cations (Na+, K+, Ca++, Mg++) and the strong anions (Cl-, lactate) and total plasma concentration of nonvolatile weak acids (ATot), mainly inorganic phosphate and albumin. Bicarbonate is considered a dependent variable. The aim of this study was to evaluate the acid-base status using both perspectives, physical chemical and traditional approach. Material and methods: we studied 35 patients (24 male; 11 female) on hemodiafiltration, mean age was 67.2 ± 15.7, 8 ± 19.2 kg. We analyzed plasma chemistry including pH, pCO2, HCO3-, base excess and Na+, K+, Cl-, Ca++, Mg++, lactate and SIDm. The SID estimated (SIDe) was calculated by Figge's formula (1,000 x 2.46-11 x pCO2/[10 - pH] + Album g/dl x [0.123 x pH -0.631] + P in mmol/l0 x [0.309 x pH -0.469]) and Gap of the SID as the difference SIDm-SIDe. Results: pH preHD was 7.36 ± 0.08 and pH post-HD 7.44 ± 0.08 (p <0.001). There was no significant differences between pCO2 pre- and post-HD. HCO3- and base excess increased during the session (p <0.001). SIDm decreased from 46.2 ± 2.9 pre-HD to 45 ± 2.3 mEq/l post-HD (p <0.05). On the opposite, SIDe increased from 38.5 ± 3.8 to 429 ± 3.1 mEq/l (p <0.001). The Gap Anion descended from 18.6 ± 3.8 pre-HD to 12.8 ± 2.8 mEq/l post-HD (p <0.001) and the Gap of the SID 7.6 ± 3 to 2.1 ± 2 (p <0.001). Anion Gap correlated with the Gap-SID so much pre-HDF as pos-HDF. &#8710; Base excess correlated only with &#8710; of the Gap SID. Conclusion: Stewart-Fencl's approach does not improve characterization of acid-base status in patients on chronic HDF. In presence of normocloremia the SIDm does not reflect the alkalinizing process of the session of hemodialysis. According this approach, hemodialysis therapy can be viewed as a withdrawal of inorganic anions, especially the sulphate. These anions are replaced by OH- and secondarily for HCO3-. The approach only improves the evaluation of unmeasured anions by the Gap of the SID, without the effect of albumin and phosphate.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

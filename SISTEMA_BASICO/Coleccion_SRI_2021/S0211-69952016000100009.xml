@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952016000100009</identifier>
+<datestamp>2016-03-31</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Martínez Fernández,Gonzalo]]></dc:creator>
+<dc:creator><![CDATA[Ortega Cerrato,Agustín]]></dc:creator>
+<dc:creator><![CDATA[Vara Iniesta,Lourdes de la]]></dc:creator>
+<dc:creator><![CDATA[Oliver Galera,Eva]]></dc:creator>
+<dc:creator><![CDATA[Gómez Roldán,Carmen]]></dc:creator>
+<dc:creator><![CDATA[Pérez Martínez,Juan]]></dc:creator>
+<dc:subject><![CDATA[Diálisis peritoneal]]></dc:subject>
+<dc:subject><![CDATA[Bioimpedancia espectroscópica]]></dc:subject>
+<dc:subject><![CDATA[Fórmula de Watson]]></dc:subject>
+<dc:subject><![CDATA[Volumen corporal total]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.36 n.1 2016]]></dc:source>
+<dc:date>2016-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952016000100009</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Comparación entre bioimpedancia espectroscópica y fórmula de Watson para medición de volumen corporal en pacientes en diálisis peritoneal]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Comparison of bioimpedance spectroscopy and the Watson formula for measuring body volume in patients on peritoneal dialysis]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: Conocer el volumen corporal total (V) es fundamental en los pacientes en diálisis peritoneal (DP). Habitualmente calculado mediante fórmula de Watson, el empleo de bioimpedancia espectroscópica (BIS), cada vez está más generalizado. Frecuentemente, al medir el V con ambos métodos surgen amplias diferencias. Objetivo: Evaluar si aparecen diferencias entre ambas formas de medir el V en una unidad de DP y analizar qué factores clínicos se asocian a estas diferencias. Métodos: Estudio observacional. Se incluyó a 74 pacientes en DP. Medimos el V empleando BIS (Vbis) y fórmula de Watson (Vw); se recogieron 271 mediciones por cada método. Calculamos diferencia entre volúmenes en cada medición y los clasificamos en 2 grupos: diferencia &#8805;10% o <10% de Vbis. Evaluamos la presencia de una serie de parámetros clínicos en nuestros pacientes. Analizamos si existen diferencias entre Vbis y Vw (de Student). Valoramos si existe asociación entre las diferencias entre volúmenes y la presencia de los parámetros clínicos analizados (chi cuadrado). Resultados: V fue 2,15 l mayor medido con fórmula de Watson que con BIS. El 58,67% de las mediciones tenían diferencia entre Vw y Vbis &#8805;10%. Aparecen diferencias significativas al comparar la presencia de diferencia entre volúmenes y la presencia o no de diabetes (p = 0,03), hipertensión (p = 0,036), hipoalbuminemia (p < 0,01), hipoprealbuminemia (p < 0,01), bajo ángulo de fase a 50 Hz (p < 0,01), proteína C reactiva elevada (p < 0,01), obesidad (p = 0,027), exceso de grasa corporal (p < 0,01), E/I ratio (cociente entre agua extracelular y agua intracelular)&#8805;1 (p < 0,01) y diuresis residual (p = 0,029). Conclusiones: Existen diferencias en el V de los pacientes de una unidad de DP según sea calculado por fórmula de Watson o por BIS. La presencia de hipertensión, diabetes, hipoalbuminemia, obesidad, malnutrición, inflamación, E/I ratio &#8805;1 y la ausencia de diuresis residual se asocia con la aparición de estas diferencias.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: Knowing total body volume (V) is crucial in patients on peritoneal dialysis (PD). It is usually calculated by the Watson anthropometric formula, although the use of bioimpedance spectroscopy (BIS) is becoming increasingly widespread. Measuring V with both methods can at times produce quite different results. Objective: We aimed to identify differences between the 2 forms of measuring volume in a PD unit and determine which clinical factors are associated with these differences. Methods: Ours is an observational study of 74 patients on PD. We measured V using BIS (Vbis) and the Watson formula (Vw); 271 measurements were made with each method. We calculated the difference between Vbis and Vw in each patient and classified them into 2 groups: Difference between volumes &#8805;10% or <10% Vbis. We assessed the presence of several clinical parameters in our patients. We assessed whether there were any differences between Vbis and Vw (Student t-test). We determined whether there was any association between the difference in volumes and the presence of the clinical parameters analysed (chi square test). Results: V was 2.15 l higher measured by the Watson formula than with BIS (P<.01). In 58.67% of the measurements, the difference between Vbis and Vw was &#8805;10%. Significant differences were found when comparing the presence of difference between volumes and the presence or not of diabetes mellitus (DM) (p=0,03), hypertension (HTN) (p=0,036), hypoalbuminemia (p<0,01), hypoprealbuminemia (p<0,01), low phase angle at 50 Hz (p<0,01), high C reactive protein (p<0,01), obesity (p=0,027), E/I ratio (ratio between extracellular and intracellular water) &#8805;1 (p<0.01) and residual diuresis (p=0.029). Conclusions: There are significant differences in the V of PD Unit patients when obtained by Watson formula or by BIS. A difference between the measurements is associated with the presence of DM, HTN, hypoalbuminaemia, obesity, malnutrition, inflammation, E/I ratio &#8805;1 and the absence of residual diuresis.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

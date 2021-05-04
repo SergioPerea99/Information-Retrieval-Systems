@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952014000500005</identifier>
+<datestamp>2014-11-11</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Vega,Almudena]]></dc:creator>
+<dc:creator><![CDATA[Quiroga,Borja]]></dc:creator>
+<dc:creator><![CDATA[Abad,Soraya]]></dc:creator>
+<dc:creator><![CDATA[Ruiz,Caridad]]></dc:creator>
+<dc:creator><![CDATA[López-Gómez,Juan M.]]></dc:creator>
+<dc:subject><![CDATA[Bioimpedancia]]></dc:subject>
+<dc:subject><![CDATA[Hemodiálisis]]></dc:subject>
+<dc:subject><![CDATA[Inflamación]]></dc:subject>
+<dc:subject><![CDATA[Sobrehidratacion]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.34 n.5 2014]]></dc:source>
+<dc:date>2014-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952014000500005</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Estudio de sobrehidratación en los pacientes en diálisis y su relación con la inflamación]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Study on overhydration in dialysis patients and its association with inflammation]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Antecedentes: Los pacientes con enfermedad renal crónica en tratamiento en hemodiálisis (HD) están sometidos a variaciones constantes en su estado de hidratación que pueden repercutir en su supervivencia. Objetivos: Analizar el estado de hidratación y composición corporal en los pacientes en HD y su asociación con parámetros de inflamación. Métodos: Se incluyeron 128 pacientes prevalentes en HD en situación de estabilidad. Se analizó la composición corporal mediante bioimpedancia espectroscópica y el estado inflamatorio mediante parámetros analíticos. Resultados: Los pacientes con mayor tejido magro presentaron mayor agua intracelular (p = 0,02) y extracelular (p = 0,001). No hubo asociación entre el tejido graso y la hidratación. La sobrehidratación media fue de 7,5 %. Encontramos una asociación entre sobrehidratación ajustada al agua extracelular (OH/AEC) mayor del 15 % similar a 10 %. Ambas se asociaron con niveles bajos de prealbúmina (p = 0,001 y p = 0,05, respectivamente) y a niveles bajos de tejido graso (p = 0,001 y p = 0,05, respectivamente). Conclusiones: La hiperhidratación definida como OH/AEC mayor de 10 % y mayor de 15 % se asocia a disminución de prealbúmina y de tejido graso. Proponemos disminuir el límite de hiperhidratación medido por bioimpedancia a OH/AEC mayor de 10 %.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: Patients with chronic kidney disease receiving haemodialysis (HD) have permanent variations in hydration status that may affect their survival. Objectives: To analyse hydration status and body composition in patients on haemodialysis and its relation to inflammation. Methods: We included 128 prevalent clinically stable patients on haemodialysis. We analysed body composition using spectroscopic bioimpedance and inflammation using blood parameters. Results: Patients with higher lean tissue had less intracellular (p=0.02) and extracellular water (p = 0.001). We did not find association with fat tissue and hydration. Mean overhydration was 7.5 %. We found an association between overhydration adjusted to extracellular water (OH/ECW) higher than 15 % similar to 10 %. They were both associated with low prealbumin levels (p = 0.001 and p = 0.05 respectively) and low levels of fat tissue (p = 0.001 and p = 0.05 respectively). Conclusions: Overhydration defined as OH/ECW higher than 10 % and 15 % are related to low prealbumin levels and low fat tissue. We suggest decreasing the overhydration limit measured by bioimpedance to OH/ECW higher than 10 %.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

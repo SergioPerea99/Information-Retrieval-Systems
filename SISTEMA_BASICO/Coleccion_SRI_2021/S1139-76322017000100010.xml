@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S1139-76322017000100010</identifier>
+<datestamp>2017-09-01</datestamp>
+<setSpec>1139-7632</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Castellar Reche,MA]]></dc:creator>
+<dc:creator><![CDATA[Iglesias Gómez,C]]></dc:creator>
+<dc:subject><![CDATA[Manifestaciones neurológicas]]></dc:subject>
+<dc:subject><![CDATA[Enfermedad celíaca]]></dc:subject>
+<dc:subject><![CDATA[Cefalea]]></dc:subject>
+<dc:publisher><![CDATA[Asociación Española de Pediatría de Atención Primaria]]></dc:publisher>
+<dc:source><![CDATA[Pediatría Atención Primaria  v.19 n.73 2017]]></dc:source>
+<dc:date>2017-03-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1139-76322017000100010</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Cefalea como manifestación inicial de enfermedad celíaca]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Headache as initial manifestation of celiac disease]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Resumen: La celiaquía es una enfermedad inmunomediada desencadenada tras la ingesta de gluten en individuos genéticamente predispuestos. Puede manifestarse con clínica gastrointestinal o extradigestiva. Presentamos el caso de un preescolar de tres años con cefalea de un mes de evolución, diaria, sin signos de gravedad en las características del dolor ni en la exploración neurológica. Se realiza un análisis con resultado normal, excepto ferropenia. A los dos meses, dada la persistencia de la cefalea, se remite a Neuropediatría (resonancia magnética nuclear cerebral normal) y se realiza un nuevo control analítico, en el cual se constata IgA antitransglutaminasa superior a 128 UI/ml. Posteriormente se procede a realizar una biopsia, confirmándose la presencia de atrofia vellositaria Marsh tipo II-III, y a la tipificación HLA de baja resolución, obteniéndose un haplotipo DQ2 de susceptibilidad celíaca en cis. Tras la retirada del gluten de la dieta se produjo la desaparición de la clínica. Dicha entidad ha de tenerse en cuenta en aquellos casos con cefalea rebelde a tratamiento, a través de la realización de la serología específica, la genética y la biopsia intestinal, esta última solo en los casos necesarios.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Abstract: Celiac disease is an immune-mediated disorder due to gluten ingestion in genetically predisposed individuals. It can be shown with gastrointestinal or extra digestive symptoms, as headache. We report the case of a 3-year-old child who had presented a one-month history of daily headache, without severity or neurological complications. We detected low iron level in blood tests, so we prescribed an oral iron treatment. Two months after, the headache persisted, so we sent child to the Neurological Paediatrics Unit (the magnetic resonance study was normal). A new blood test was performed with 128 IU/ml IgA anti-transglutaminase antibodies level. Afterwards, an intestinal biopsy was performed, confirming the presence of Marsh type I-II villous atrophy, and a HLA low resolution typing which showed a celiac cis susceptibility DQ2 haplotype. After the withdrawal of gluten from the diet, the symptoms disappeared. In conclusion, headaches are possible atypical presentations of celiac disease in children, so we must consider this disorder in patients that suffer persistent headache.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

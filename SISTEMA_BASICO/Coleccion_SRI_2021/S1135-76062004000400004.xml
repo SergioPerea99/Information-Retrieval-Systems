@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S1135-76062004000400004</identifier>
+<datestamp>2008-12-02</datestamp>
+<setSpec>1135-7606</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Crespillo,M.]]></dc:creator>
+<dc:creator><![CDATA[Paredes,M.]]></dc:creator>
+<dc:creator><![CDATA[Arimany,J.]]></dc:creator>
+<dc:creator><![CDATA[Guerrero,L.]]></dc:creator>
+<dc:creator><![CDATA[Valverde,JL.]]></dc:creator>
+<dc:subject><![CDATA[ADN mitocondrial]]></dc:subject>
+<dc:subject><![CDATA[PCR]]></dc:subject>
+<dc:subject><![CDATA[Restos Humanos]]></dc:subject>
+<dc:subject><![CDATA[Medicina Forense]]></dc:subject>
+<dc:subject><![CDATA[Guerra Civil Española]]></dc:subject>
+<dc:subject><![CDATA[Identificación]]></dc:subject>
+<dc:publisher><![CDATA[Asociación de Médicos Forenses de Andalucía]]></dc:publisher>
+<dc:source><![CDATA[Cuadernos de Medicina Forense  n.38 2004]]></dc:source>
+<dc:date>2004-10-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1135-76062004000400004</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Guerra Civil Española (1936-1939): identificación de restos humanos procedentes de fosas comunes en Cataluña mediante análisis de ADN Mitocondrial. A propósito de un caso]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Spanish Civil War (1936-1939): identification of human remains from mass graves in Catalonia using mitochondrial DNA analysis. A case report]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[La identificación de personas desaparecidas durante la Guerra Civil española se ha convertido en un tema de interés social. El presente trabajo describe la identificación del primer cadáver exhumado en Cataluña procedente de una fosa común de la guerra civil. Como técnicas confirmativas a la metodología clásica empleada en la identificación de restos humanos (antropométricas, fórmula del análisis dental...) la ciencia forense encuentra en el análisis del ADN una herramienta útil. La identificación se llevó a cabo analizando la región de control del ADN mitocondrial debido a la antigüedad de los restos humanos (aproximadamente 65 años) y a que la única muestra de referencia disponible procedía de un lejano pariente materno (sobrina). Los productos de secuenciación fueron analizados utilizando un ABI PRISM 310 (AB). Tras cumplir con todos los requisitos de aceptación de las secuencias y descartada la posible presencia de contaminaciones eventuales, se observó una total coincidencia entre las secuencias del ADNmt del fémur y la muestra de referencia aportada por el familiar. La secuencia obtenida era 16298C, 263G, 315.1C y después de consultar una base de datos de 2192 individuos caucásicos esta secuencia fue observada una vez, de modo que la frecuencia de esta secuencia es de 0.0013. Los resultados obtenidos apoyan el hecho de que cuando los análisis convencionales de ADN nuclear son inviables el análisis de ADNmt se convierte en una útil y poderosa herramienta.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[The identification of missing people during the Spanish civil war has become a subject of social interest. The present work describes the identification of the first corpse from a mass grave exhumed in Catalonia. As confirmatory technique to the classic methodology used in the identification of human skeletal remains (anthropometrics, dental charts...) forensic science finds in the DNA analysis an useful tool. The identification was carried out analyzing the control region of mitochondrial DNA due to the antiquity of the human remains (approximately 65 years) and because the only available sample of reference came from a distant maternal relative (niece). The sequencing products were analyzed using the genetic analyzer ABI PRISM 310 (AB). After fulfilling all the requirements of acceptance of the sequences and eliminated the possible presence of contaminations, a match was observed between the mtDNA sequences obtained for both samples, femur and the sample of reference contributed by the relative. The obtained sequence was 16298C, 263G, 315.1C and only one ocurrence of this sequence was observed in a database of 2192 Caucasian individuals (frequency 0,0013). The obtained results support the fact that when conventional nuclear DNA typing is not possible the analysis of mtDNA becomes an useful and powerful tool.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

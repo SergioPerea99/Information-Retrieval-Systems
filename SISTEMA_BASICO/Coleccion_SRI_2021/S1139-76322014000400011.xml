@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S1139-76322014000400011</identifier>
+<datestamp>2015-02-17</datestamp>
+<setSpec>1139-7632</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Gimeno Díaz de Atauri,A.]]></dc:creator>
+<dc:creator><![CDATA[Modesto i Alapont,V.]]></dc:creator>
+<dc:subject><![CDATA[Varicela]]></dc:subject>
+<dc:subject><![CDATA[Vacunas]]></dc:subject>
+<dc:subject><![CDATA[Hospitalización]]></dc:subject>
+<dc:subject><![CDATA[Herpes zóster]]></dc:subject>
+<dc:subject><![CDATA[España]]></dc:subject>
+<dc:subject><![CDATA[Epidemiología]]></dc:subject>
+<dc:publisher><![CDATA[Asociación Española de Pediatría de Atención Primaria]]></dc:publisher>
+<dc:source><![CDATA[Pediatría Atención Primaria  v.16 n.63 2014]]></dc:source>
+<dc:date>2014-09-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1139-76322014000400011</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[La vacunación rutinaria del virus varicela-zóster reduce la incidencia de varicela grave, sin alterar las hospitalizaciones por herpes zóster]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[The varicella vaccination programme decreases the rate of pediatric severe varicella, but it does not change herpes zoster related hospitalizations]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Se ha publicado recientemente un artículo sobre el impacto de las distintas estrategias de vacunación en España¹. Los autores concluyen que en España las infecciones graves por varicela han disminuido desde la puesta en marcha del programa de vacunación rutinaria en 2006. Esta disminución ha sido significativamente mayor en las comunidades autónomas que se decidieron por la estrategia de vacunar con dos dosis a todos los niños de 15-18 meses, frente a las que optaron por vacunar solo a los adolescentes susceptibles. Esta diferente estrategia no ha afectado a la tasa de hospitalización por herpes zóster, que ha ido incrementándose ligeramente, principalmente en los mayores de 84 años. Tras la lectura crítica de dicho artículo, se puede concluir que, efectivamente, la incidencia de varicela grave se reduce con la vacunación de los adolescentes (de 10 a 14 años) sanos susceptibles y que este beneficio se duplica con la estrategia de vacunar a todos los niños de 15-18 meses de edad. Aunque no queda demostrada una relación causal con la vacunación, la incidencia global de herpes zóster grave sigue una tendencia de incremento progresivo, sobre todo en los ancianos. Por este motivo, la eficiencia social de la vacunación universal de los lactantes aún está por establecer.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[In a recently published study ob the impact of different varicella vaccination strategies in Spain¹, the authors conclude that severe varicella infections have decreased since routine varicella vaccination in Spain (2006). This decrease was significantly higher in regions including the vaccine at 15-18 months of age compared with those vaccinating only susceptible adolescents. The hospitalization rate related to herpes zoster slightly increased (mainly in the >84 age group). No significant differences were found in herpes zoster hospitalization rates regarding the varicella vaccination strategies among regions. After the critical appraisal of this study, it can be said that the incidence of severe varicella is actually reduced with varicella vaccination of susceptible adolescents. This benefit doubles vaccinating children at 15-18 months of age. The incidence of severe zoster is steadily growing, especially in the elderly. Although there is no evidence of a causal link with the vaccine, this issue is essential to establish the varicella vaccination social cost-effectiveness.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

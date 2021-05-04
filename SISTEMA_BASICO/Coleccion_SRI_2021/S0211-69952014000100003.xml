@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952014000100003</identifier>
+<datestamp>2014-03-12</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Tavira,Beatriz]]></dc:creator>
+<dc:creator><![CDATA[Díaz-Corte,Carmen]]></dc:creator>
+<dc:creator><![CDATA[Coronel,Diego]]></dc:creator>
+<dc:creator><![CDATA[Ortega,Francisco]]></dc:creator>
+<dc:creator><![CDATA[Coto,Eliecer]]></dc:creator>
+<dc:subject><![CDATA[Citocromo P450]]></dc:subject>
+<dc:subject><![CDATA[Farmacocinética]]></dc:subject>
+<dc:subject><![CDATA[Farmacogenética]]></dc:subject>
+<dc:subject><![CDATA[Trasplante renal]]></dc:subject>
+<dc:subject><![CDATA[Tacrolimus]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.34 n.1 2014]]></dc:source>
+<dc:date>2014-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952014000100003</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Farmacogenética del tacrolimus: ¿del laboratorio al paciente?]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Pharmacogenetics of tacrolimus: from bench to bedside?]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[El tacrolimus (Tac) es un inmunosupresor ampliamente usado para prevenir el rechazo en el trasplante renal. Los pacientes reciben una dosis inicial estándar y se miden los niveles sanguíneos, con ajuste de la dosis hasta alcanzar una concentración dentro del rango aceptado. Existe una gran variabilidad interindividual en las dosis necesarias para alcanzar ese nivel diana en sangre, y muchos pacientes requieren varias modificaciones de la dosis hasta alcanzarlo. Uno de los principales determinantes de estas diferencias es un polimorfismo del gen CYP3A5 que determina que alrededor del 80 % de los caucásicos sean metabolizadores lentos y requieran dosis menores que los metabolizadores rápidos. Se ha propuesto que los pacientes trasplantados reciban dosis iniciales de Tac con base en el genotipo CYP3A5. Para que este procedimiento fuese aceptado por los clínicos, deberían demostrarse sus ventajas frente al procedimiento actual, más allá de un menor tiempo para alcanzar la dosis óptima. Por ejemplo, menor tasa de nefrotoxicidad y rechazo o menor coste por necesitar, entre otros, menos modificaciones de la dosis de Tac y menos terapia de inducción con anticuerpos.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Tacrolimus (FK-506) is an immunosuppressant widely used to prevent kidney transplant rejection. Patients receive an initial standard dose and tacrolimus levels are measured in blood. If necessary, the dose is adjusted to reach a blood concentration within the accepted range. There is great interindividual variability in the dose required to achieve the target blood level, and many patients require multiple modifications of the dose to reach the range. One of the main determinants of these differences is a CYP3A5 gene polymorphism that determines that about 80% of Caucasians are poor metabolisers and require lower doses compared to the extensive metabolisers. It has been proposed that transplanted patients could receive an initial Tacrolimus dose based on the CYP3A5 genotype. This could reduce the time to achieve the optimal blood level, reducing the number of dose modifications. However, to be accepted by clinicians and translated to the clinical practice this adapted dose procedure should give additional advantages such as a significant reduction of the rates of nephrotoxicity and rejection, or a lower cost due to less dose modifications of Tacrolimus and less antibody induction therapy.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

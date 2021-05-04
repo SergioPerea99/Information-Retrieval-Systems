@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0212-97282013000100008</identifier>
+<datestamp>2014-07-29</datestamp>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Sanz,Jesús]]></dc:creator>
+<dc:creator><![CDATA[García-Vera,María Paz]]></dc:creator>
+<dc:subject><![CDATA[Depresión]]></dc:subject>
+<dc:subject><![CDATA[BDI-II]]></dc:subject>
+<dc:subject><![CDATA[diagnóstico]]></dc:subject>
+<dc:subject><![CDATA[estructura factorial]]></dc:subject>
+<dc:subject><![CDATA[pacientes psicopatológicos]]></dc:subject>
+<dc:publisher><![CDATA[Universidad de Murcia]]></dc:publisher>
+<dc:source><![CDATA[Anales de Psicología  v.29 n.1 2013]]></dc:source>
+<dc:date>2013-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-97282013000100008</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Rendimiento diagnóstico y estructura factorial del Inventario de Depresión de Beck-II (BDI-II)]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Diagnostic performance and factorial structure of the Beck Depression Inventory-Second Edition (BDI-II).]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Este estudio tenía dos objetivos. Primero, analizar el rendimiento diagnóstico de la versión española del Inventario de Depresión de Beck-II (BDI-II) en una muestra de pacientes con trastornos psicológicos y, segundo, examinar si las soluciones unifactoriales y bifactoriales del BDI-II encontradas previamente en muestras similares son replicables y, de ser así, analizar la contribución relativa del factor general y de los dos factores específicos a la varianza del BDI-II. El BDI-II, junto con el módulo de los trastornos del estado de ánimo de la Entrevista Clínica Estructurada para los Trastornos del Eje I del DSM-IV (SCID-I VC) y un listado de cotejo de síntomas depresivos completado por el clínico, fueron aplicados a una muestra española de 322 pacientes adultos ambulatorios con diversos trastornos psicológicos. Tomando como criterio el diagnóstico clínico basado en la SCID-I VC y el listado de cotejo de síntomas depresivos, el BDI-II demostró un rendimiento diagnóstico aceptable para discriminar entre pacientes con trastorno depresivo mayor y pacientes sin depresión. Los análisis factoriales indicaron que el BDI-II mide una dimensión general de depresión compuesta por dos factores relacionados (somático y cognitivo), pero estos factores apenas explicaban varianza adicional más allá de la puntuación global.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[This study had to aims. The first aim was to analyze the diagnostic performance of the Spanish version of the Beck Depression Inventory-Second Edition (BDI-II) in a sample of patients with psychological disorders. The second aim was to examine whether the one- and two-factor solutions previously found for the BDI-II in similar samples are replicable, and, if it is so, to analyze the independent contribution of the general factor and the two specific factors to the variance of the BDI-II. The BDI-II, along with the mood disorder module of the Structured Clinical Interview for DSM-IV Axis I disorders, Clinical Version (SCID-I VC) and a clinician-administered checklist for depressive symptoms, were administered to a Spanish sample of 322 adult outpatients with a variety of psychological disorders. Taking as a criterion the clinical diagnosis based on the SCID-I VC and the checklist for depressive symptoms, the BDI-II showed an acceptable diagnostic performance to discriminate between patients with major depressive disorder and those without depression. Factor analyses suggested that the BDI-II assess a general depression dimension composed of two related factors (somatic and cognitive symptoms), but these factors hardly explained any additional variance beyond accounted for by the full-scale score.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

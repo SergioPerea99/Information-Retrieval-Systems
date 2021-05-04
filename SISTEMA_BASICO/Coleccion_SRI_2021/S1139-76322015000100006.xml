@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S1139-76322015000100006</identifier>
+<datestamp>2015-05-06</datestamp>
+<setSpec>1139-7632</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Domínguez Aurrecoechea,B.]]></dc:creator>
+<dc:creator><![CDATA[Sánchez Echenique,M.]]></dc:creator>
+<dc:creator><![CDATA[Ordóñez Alonso,M. A.]]></dc:creator>
+<dc:creator><![CDATA[Pérez Candás,J. I.]]></dc:creator>
+<dc:creator><![CDATA[Delfrade Osinaga,J.]]></dc:creator>
+<dc:subject><![CDATA[Asturias]]></dc:subject>
+<dc:subject><![CDATA[Nutrición]]></dc:subject>
+<dc:subject><![CDATA[Obesidad]]></dc:subject>
+<dc:subject><![CDATA[Sobrepeso]]></dc:subject>
+<dc:subject><![CDATA[Talla baja]]></dc:subject>
+<dc:subject><![CDATA[España]]></dc:subject>
+<dc:subject><![CDATA[Infantil]]></dc:subject>
+<dc:publisher><![CDATA[Asociación Española de Pediatría de Atención Primaria]]></dc:publisher>
+<dc:source><![CDATA[Pediatría Atención Primaria  v.17 n.65 2015]]></dc:source>
+<dc:date>2015-03-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1139-76322015000100006</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Estado nutricional de la población infantil en Asturias (Estudio ESNUPI-AS): delgadez, sobrepeso, obesidad y talla baja]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Nutritional status of children population in Asturias (SNUPI-AS study): thinness, overweight, obesity and stunting]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Objetivos: valorar el estado de nutrición de los niños menores de quince años del Principado de Asturias, identificando los que tienen parámetros alterados, por exceso o defecto, y devolver la información obtenida a pediatras y gestores. Métodos: estudio descriptivo transversal retrospectivo. Población diana: menores de 15 años de Asturias nacidos entre 1995 y 2012. Fuente de datos: historia clínica informatizada de Atención Primaria. Variables: último peso y talla registrados, fecha de medida y de nacimiento, sexo, y códigos de área, zona básica y pediatra del niño. Indicadores calculados: peso/edad; talla/edad; índice de masa corporal (IMC)/edad y peso/longitud (< cinco años). Patrones de comparación utilizados: estándares de la Organización Mundial de la Salud (OMS) y se han utilizado los softwares ANTHRO y ANTHRO PLUS. Se calcularon para cada niño la desviación estándar (DE) según edad y sexo para el IMC/edad, talla/edad y peso/edad; (Z-standard) y las prevalencias de cada variable ajustadas por edad y sexo. Resultados y conclusiones: se obtuvo una base neta con 89 989 registros: el 50,98% niños y el 49,02% niñas. Presentaron baja talla el 1,8%, normopeso el 66,56%, sobrepeso el 22,5%, obesidad el 10,9%, obesidad grave el 1,9% y delgadez el 1,1%. Por sexos, la tasa de obesidad es mayor en niños (12,4) que en niñas (9,2). Por edades, la tasa de exceso de peso fue mayor en los niños de entre 10 y 14 años (41,9). Los niños de entre cinco y nueve años presentaron las mayores tasas de obesidad (15,1) y obesidad grave (3,7). Las diferencias de prevalencia de exceso de peso entre las 68 zonas básicas estudiadas llegan hasta 20 puntos; su conocimiento permitirá establecer las zonas prioritarias de intervención.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Objectives: toassess the nutritional status of children under fifteen years old of the Principality of Asturias, identifying those parameters altered by excess or defect and to return the information obtained to pediatricians and managers. Methods: retrospective cross-sectional descriptive study. Target population: children under 15 years old of Asturias born between 1995 and 2012. Data source: computerized records at primary care clinic. Variables: last recorded weight and size, extent and date of birth, gender, and codes: area, base area and pediatrician. Indicators calculated: weight/age; size/age; body mass index (BMI)/age and weight/length (<five years). Patterns used for comparison: WHO standards and used the software ANTHRO and ANTHRO PLUS. The standard deviation (SD) by age and sex for BMI/age, height/age and weight/age, (Z-standard) and the prevalence of each variable adjusted for age and sex were calculated for each child. Results and conclusions: a net basis with 89,989 records was obtained: 50.98% boys and 49.02% girls. They presented stunting 1.8%; 66.56% normal weight; 22.5% overweight; 10.9% obese; severe obesity 1.9% and 1.1% thinness. By gender, the rate of obesity is higher in boys (12.4) than girls (9.2). By age, the rate of overweight was higher in children between 10 and 14 years (41.9). Children between 5 and 9 years had the highest rate of obesity (15.1) and severe obesity (3.7). The differences in prevalence of overweight among 68 basic areas studied reach 20 points; knowledge will establish priority areas for intervention.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

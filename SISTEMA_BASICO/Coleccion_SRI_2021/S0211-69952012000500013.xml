@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952012000500013</identifier>
+<datestamp>2012-07-10</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Rosa-Diez,Guillermo]]></dc:creator>
+<dc:creator><![CDATA[Greloni,Gustavo]]></dc:creator>
+<dc:creator><![CDATA[Crucelegui,María]]></dc:creator>
+<dc:creator><![CDATA[Bedini-Roca,Mariela]]></dc:creator>
+<dc:creator><![CDATA[Heredia-Martínez,Agustina]]></dc:creator>
+<dc:creator><![CDATA[Coli,M. Luisa]]></dc:creator>
+<dc:creator><![CDATA[Giannasi,Sergio]]></dc:creator>
+<dc:creator><![CDATA[San-Román,Eduardo]]></dc:creator>
+<dc:creator><![CDATA[Pizarro,Rodolfo]]></dc:creator>
+<dc:creator><![CDATA[Belzitti,César]]></dc:creator>
+<dc:creator><![CDATA[Algranati,Salomón]]></dc:creator>
+<dc:creator><![CDATA[Heguilen,Ricardo]]></dc:creator>
+<dc:subject><![CDATA[Insuficiencia renal aguda]]></dc:subject>
+<dc:subject><![CDATA[Lesión renal aguda]]></dc:subject>
+<dc:subject><![CDATA[Dosis de diálisis]]></dc:subject>
+<dc:subject><![CDATA[Dialisancia iónica]]></dc:subject>
+<dc:subject><![CDATA[Hemodiálisis intermitente]]></dc:subject>
+<dc:subject><![CDATA[Hemodiálisis extendida]]></dc:subject>
+<dc:subject><![CDATA[Dosis de diálisis prescrita]]></dc:subject>
+<dc:subject><![CDATA[Dosis de diálisis administrada]]></dc:subject>
+<dc:subject><![CDATA[RIFLE]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.32 n.3 2012]]></dc:source>
+<dc:date>2012-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952012000500013</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Factores determinantes de una baja dosis de hemodiálisis establecida por dialisancia iónica en pacientes críticos con insuficiencia renal aguda]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Factors determining a low dose of haemodialysis as measured by ionic dialysance in critical patients with acute kidney injury]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: En la insuficiencia renal aguda (IRA), la dosis administrada no suele controlarse y se estima que resulta inferior a la prescrita. Objetivo: Evaluar la diferencia entre la dosis prescrita y la dosis administrada en pacientes con IRA en Unidades de Cuidados Intensivos (UCI), así como los factores que la determinan, utilizando la determinación del Kt por dialisancia iónica. Material y método: Se incluyeron 394 terapias de reemplazo renal (TRR) en 105 pacientes adultos, con IRA oligúrica ingresados en UCI, con requerimiento de TRR , tratados con hemodiálisis intermitente (HDI) y/o extendida (HDE). Las TRR fueron realizadas con un monitor de aclaramiento on line (OCM®, Fresenius) para la determinación del Kt. Se registraron las características de los pacientes, la prescripción y el desarrollo de TRR. Todas estas variables fueron incluidas en un modelo uni y multivariado, teniendo como variable dependiente la incapacidad de lograr la dosis umbral u objetivo (DU). Resultados: Edad 66 ± 15 años, 37% del sexo femenino, etiología más frecuente: sepsis (70%), hipotensión y/o requerimientos de inotrópicos (71%), asistencia respiratoria mecánica (70%); el índice de severidad individualizado promedio fue de 0,7 ± 0,26. Se efectuaron 201 HDI y 193 HDE, la vía de acceso vascular más frecuente fue la femoral (79%). El Kt prescrito fue de 53,5 ± 14 litros, y un 21% de las prescripciones estaban por debajo de DU. En el 61% no se logró el nivel de cumplimiento de la DU (31 ± 8 litros), vs. 56 ± 12 litros en el subgrupo que logró el nivel de cumplimiento. El Kt obtenido por las HDE fue significativamente mayor (46 ± 16 litros vs. 33 ± 9 litros en HDI). En el análisis univariado, el nivel de cumplimiento insuficiente estuvo relacionado con la edad (> 65 años), el sexo (masculino), la presencia de hipotensión intradiálisis, no lograr el flujo de sangre prescrito, la inversión de las ramas del catéter y la HDI. Las mismas variables estuvieron independientemente relacionadas en el modelo multivariado, con excepción de la edad y el género. Conclusiones: La dosis de diálisis administrada fue significativamente inferior a la prescrita. Las HDE exhibieron un Kt más cercano a DU y significativamente mayor que las HDI. El funcionamiento adecuado del acceso vascular, sin la necesidad de inversión de las ramas del catéter, y el hecho de evitar la inestabilidad hemodinámica durante la TRR constituyen dos de los factores más importantes para lograr la DU, particularmente en ancianos y varones. Debe prescribirse y controlarse la dosis de diálisis en pacientes críticos con IRA.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: Estimating the dialysis dose is a requirement commonly used to assess the quality of renal replacement therapy (RRT) in patients with chronic kidney disease (CKD). In patients with acute kidney injury (AKI), this value is not always evaluated and it has been estimated that the prescribed dose is seldom obtained. Reports addressing this issue in AKI individuals are scarce and most have not included an adequate number of patients or treatments, nor were patients treated with extended therapies. Kt values obtained by the ionic dialysance method have been validated for the evaluation of the dialysis dose and it has also been shown that, compared with Kt/V, this is the most sensitive strategy for revealing inadequate dialysis treatment in critically ill AKI individuals. The main aim of this study was to assess the difference between the prescribed and the administered dialysis dose in critically ill AKI patients, and to evaluate what factors determine this gap using Kt values assessed through ionic dialisance. Material and Method: Data from 394 sessions of renal replacement therapy in 105 adult haemodialysis (HD) patients with oliguric acute kidney injury and admitted to ICU were included in this analysis. RRT was carried out with Fresenius 4008E dialysis machines equipped with on-line clearance monitoring (OCM® Fresenius), which use non-invasive techniques to monitor the effective ionic dialysance, equivalent to urea clearance. The baseline characteristics of the study population as well as the prescription and outcome of RRT were analysed. These variables were included in a multivariate model in which the dependent variable was the failure to obtain the threshold dose (TD). Results: The main baseline characteristics of the study population/treatments were: age 66±15 years, 37% female, most frequent cause of AKI: sepsis (70%). Low BP and/or vasoactive drug requirement (71%), mechanical ventilation (70%) and average individual severity index: 0.7±0.26. Two hundred and one intermittent HD (IHD) and 193 extended HD (EHD) sessions were performed; the most frequently used temporary vascular access was the femoral vein catheter (79%). Prescribed Kt was 53.5±14L and 21% of prescriptions fell below the TD. Sixty-one percent of treatments did not fulfill the TD (31±8L) compared with 56±12L obtained in the subgroup that achieved the target. Compared to IHD, EHD provided a significantly larger Kt (46±16L vs 33L±9L). Univariate analysis showed that inadequate compliance was associated with age (>65y), male gender, intra-dialytic hypotension, low Qb, catheter line reversal, and IHD. The same variables with the exception of age and gender were independently associated in the multivariate analysis. Conclusions: The dialysis dose obtained was significantly lower than that prescribed. EHD achieved values closer to the prescribed KT and significantly higher than in IHD. Ionic Kt measurement facilitates monitoring and allows HD treatments to be extended based upon a previously established TD. Besides the chosen strategy to dispense the dose of dialysis, a well-functioning vascular access allowing for optimal blood flow and other approaches aimed at avoiding hemodynamic instability during RRT are the most important factors to achieve TD, mainly in elderly male patients. The dialysis dose should be prescribed and monitored for all critically ill AKI patients.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

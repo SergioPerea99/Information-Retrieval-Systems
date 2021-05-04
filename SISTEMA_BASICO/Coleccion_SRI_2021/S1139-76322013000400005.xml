@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S1139-76322013000400005</identifier>
+<datestamp>2013-11-04</datestamp>
+<setSpec>1139-7632</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Pérez Cid,L.]]></dc:creator>
+<dc:creator><![CDATA[San José Valiente,B.]]></dc:creator>
+<dc:creator><![CDATA[Quintero Calcaño,V.]]></dc:creator>
+<dc:creator><![CDATA[Díaz López,G.]]></dc:creator>
+<dc:creator><![CDATA[Mesa Guzmán,J.]]></dc:creator>
+<dc:creator><![CDATA[Cañete Díaz,A.]]></dc:creator>
+<dc:creator><![CDATA[Tagarro García,A.]]></dc:creator>
+<dc:subject><![CDATA[Sibilancias recurrentes]]></dc:subject>
+<dc:subject><![CDATA[Bronquiolitis]]></dc:subject>
+<dc:subject><![CDATA[Virus respiratorio sincitial]]></dc:subject>
+<dc:subject><![CDATA[Asma]]></dc:subject>
+<dc:subject><![CDATA[Atopia]]></dc:subject>
+<dc:publisher><![CDATA[Asociación Española de Pediatría de Atención Primaria]]></dc:publisher>
+<dc:source><![CDATA[Pediatría Atención Primaria  v.15 n.59 2013]]></dc:source>
+<dc:date>2013-09-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1139-76322013000400005</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[La bronquiolitis grave en lactantes menores de seis meses es un factor de riesgo para las sibilancias recurrentes]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Severe bronchiolitis in infants under six months is a major risk factor for recurrent wheezing]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción y objetivos: diversos factores de riesgo se han asociado con las sibilancias recurrentes después de la bronquiolitis aguda (BA). El objetivo es conocer los factores de riesgo asociados con las sibilancias recurrentes en lactantes (menores de seis meses) previamente sanos hospitalizados con BA en nuestro medio. Material y métodos: estudio observacional, retrospectivo desde enero de 2009 hasta diciembre 2010. Se incluyeron 80 pacientes. Resultados: la media de edad de los niños fue de 69±42 (rango 7-180) días. En el análisis crudo de riesgo relativo (RR) se obtuvo un aumento del RR de sibilancias recurrentes en los pacientes que acudían la guardería (p=0,03; RR: 1,9; intervalo de confianza del 95% [IC 95%]: 1,1 a 3,3), aquellos con hermanos mayores (p=0,03; RR: 2,2; IC 95%: 0,9 a 5,1), pacientes con necesidad de sistemas de alto flujo humidificado y calentado (p=0,05; RR: 2,1; IC 95%: 1,3 a 3,6), ingresados en Cuidados Intensivos (p=0,01; RR: 2,5; IC 95%: 1,06 a 3,08), y con ventilación mecánica (p=0,05; RR: 2,7; IC 95%: 2,0 a 3,7). Tras el análisis multivariante, la asistencia a guardería (odds ratio [OR]: 6,06; IC 95%: 1,4 a 25; p=0,013) y tener hermanos mayores (OR: 4,1; IC 95%: 1,1 a 14,5; p=0,029) resultaron ser factores de riesgo independientes para las sibilancias recurrentes. Conclusiones: la asistencia a la guardería y tener hermanos mayores se asociaron de forma independiente con el diagnóstico de sibilancias recurrentes. Se sugiere que la gravedad de la bronquiolitis es un factor de riesgo notable para desarrollar sibilancias recurrentes un año después de la BA.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: several individual and epidemiological risk factors have been associated with recurrent wheezing after acute bronchiolitis (AB). Few research studies focus on very young infants under six months old. Objectives: to find what risk factors are associated with recurrent wheezing in young infants (<6 month-old) hospitalized with moderate to severe acute bronchiolitis (AB) at our setting. Material and methods: a prospective-retrospective, observational study was designed and carried out from January 2009 to December 2011 in a secondary care hospital. Eighty previously healthy patients aged 7-180 days, hospitalized with a first episode of acute moderate AB, were studied. Results: the mean age of infants was 69±42 (range 7-180) days. Crude analysis of relative risk (RR) for recurrent wheezing showed an increased RR in males (p=0.05, RR=1.7 CI 95%: 0.9-3.1), patients in daycare (p=0.03, RR=1.9 CI 95%: 1.1-3.3), with elder siblings (p=0.03, RR=2.2 CI 95%: 0.9-5.1), high-flow therapy (p=0.05, RR=2.1 CI 95%: 1.3-3.6), critical care (p=0.01, RR=2.5 CI 95%: 1.6-3.8), and mechanical ventilation (p=0.05, RR=2.7 CI 95%: 2.0-3.7). After multivariate analysis, daycare attention (OR: 6.06, CI 95%: 1.4-25; p=0.013) and having elder siblings (OR: 4.1, CI 95% 1.1-14.5, p=0.029) were found to be independent risk factors for recurrent wheezing. Conclusions: daycare attendance and having elder siblings were independently associated with recurrent wheezing. We suggest that severity of bronchiolitis (needing PICU, high flow therapy and mechanical ventilation) is a remarkable risk factor for recurrent wheezing one year after AB.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>
