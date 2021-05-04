@@ -33,11 +33,10 @@ class Filtrado(object):
             archivo = open(join(ruta,nombre_archivo[len(nombre_archivo)-1]) +".txt","w")
         else:
             archivo = open(ruta,"w")
-            
+    
+        
         no_borrar = ['-','_',' ']
         cadena = []
-        num_tokens = 0
-        
         cont = 0
         for i in self.informacion:
             aux = i
@@ -58,6 +57,7 @@ class Filtrado(object):
         lista_palabras = ''.join(cadena)
         lista_palabras = lista_palabras.split(" ")
         
+        num_tokens = 0
         i = 0
         while i < len(lista_palabras):
             if lista_palabras[i] != '':

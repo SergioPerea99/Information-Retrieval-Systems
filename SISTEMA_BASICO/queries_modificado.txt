@@ -18,3 +18,8 @@ enfermedad
 respiratoria
 infecciosa
 intestinal
+
+vaso
+
+técnica
+pf

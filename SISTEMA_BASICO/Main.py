@@ -14,11 +14,11 @@ config = configparser.ConfigParser()
 config.read('conf.ini')
 
 ejecucion_offline = False
-#---------------------------------------------------------------------
-#EJECUCION DE LA PRACTICA 1.1: Filtrado, Normalizacion y Tokenizacion.
 
 
 if ejecucion_offline:
+    #---------------------------------------------------------------------
+    #EJECUCION DE LA PRACTICA 1.1: Filtrado, Normalizacion y Tokenizacion.
     #---VARIABLES NECESARIAS
     rutaColeccion = config['OFFLINE']['ruta_coleccion_inicio']
     contenido = os.listdir(rutaColeccion)
