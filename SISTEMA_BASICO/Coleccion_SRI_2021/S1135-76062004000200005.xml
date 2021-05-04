@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S1135-76062004000200005</identifier>
+<datestamp>2009-11-20</datestamp>
+<setSpec>1135-7606</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Arroyo,A.]]></dc:creator>
+<dc:creator><![CDATA[Carbone,MT.]]></dc:creator>
+<dc:creator><![CDATA[Ordóñez,J.]]></dc:creator>
+<dc:subject><![CDATA[bioquímica postmortem]]></dc:subject>
+<dc:subject><![CDATA[analisis postmortem]]></dc:subject>
+<dc:subject><![CDATA[medicina forense]]></dc:subject>
+<dc:publisher><![CDATA[Asociación de Médicos Forenses de Andalucía]]></dc:publisher>
+<dc:source><![CDATA[Cuadernos de Medicina Forense  n.36 2004]]></dc:source>
+<dc:date>2004-04-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1135-76062004000200005</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Bioquímica postmortem: comparación de tres métodos de análisis]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Post-mortem biochemistry: a comparison of three analytical methods]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[La tanatoquimia es una rama auxiliar importante en medicina forense aunque tiene sus limitaciones. Se ha enfatizado el examen de fluidos que no se alteran con tanta rapidez como la sangre después de la muerte. El humor vítreo, líquido pericárdico, líquido cefalorraquídeo o líquido sinovial se han utilizado con estos fines. Objetivos: comparar los valores de colesterol en sangre, glucosa y potasio en humor vítreo y creatincinasa en líquido pericárdico en tres analizadores y métodos diferentes a fin de validar dos de ellos para análisis postmortem. El tercero se tomó como método de referencia. Material y Métodos: estudio observacional analítico de muestras procedentes de 55 cadáveres que ingresaron para autopsia judicial en el Instituto Anatómico Forense de Barcelona. Los análisis se realizaron en los Analizadores Spotchem EZ (química seca) y Spotchem EL (potenciometría de electrodo ión selectivo, Menarini Diagnostics) y Reflotron (química seca, Roche Diagnostics). Como método de referencia se analizaron las muestras en varios multianalizadores: Hitachi 911, Cobas Integra 800 (ambos de Roche Diagnostic y Vitros 250 Johnson-Johnson). Resultados: se hallaron diferencias significativas entre los valores de colesterol del método de referencia y los dos ensayados. Los valores de potasio presentaron diferencias significativas entre el método de referencia y el de Reflotron pero no entre el valor de referencia y el de Spotchem EZ con r = 0,852. No pudieron evaluarse los valores de glucosa ni de CK por dispersión de valores y dificultad de medición en los dos analizadores ensayados. Conclusiones: los resultados obtenidos con estos dos métodos de química seca, no validados por el fabricante para ensayos postmortem, no permiten considerar su utilidad en el medio forense aunque su utilidad en la práctica clínica está ampliamente documentada.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Thanatochemistry is an important procedure in forensic medicine. Emphasis has been upon fluids that do not alter as quickly as blood, after death. Vitreous humor, spinal fluid, pericardic fluid and sinovial fluid have been used. Aims: to compare values of cholesterol in blood, glucose and potassium in vitreous humor and creatinkinase in pericardial fluid. The data were obtained from three different methods and analyzers, the third of which was considered as the reference method. Materials and methods: samples were obtained from 55 corpses in the Pathology department of the Legal Medicine Institute in Barcelona. Analyzers were: Spotchem EZ (Lab. Menarini) dry-chemistry method, Spotchem EL (Lab. Menarini) ion selective potenciometry for potassium and Reflotron (Lab. Roche) dry-chemistry method. The reference method analizers were Hitachi 911, Cobas Integra 800 and Vitros 259. Results: significative differences were found in cholesterol values between the dry chemistry methods and the reference method as well as potassium values between the dry chemistry method and the reference method. No differences were found between the potassium ion selective potenciometry method and the reference method. Glucose and creatinkinase results were not considered because of great dispersion values. Conclusions: results obtained with the dry-chemistry methods do not allow consideration of its usefullness in forensic practice.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952010000100008</identifier>
+<datestamp>2010-05-19</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[López-Gómez,Juan M.]]></dc:creator>
+<dc:creator><![CDATA[Martín de Francisco,A.L.]]></dc:creator>
+<dc:creator><![CDATA[Montenegro,J.]]></dc:creator>
+<dc:creator><![CDATA[Santiago,C. de]]></dc:creator>
+<dc:creator><![CDATA[Vera,M.]]></dc:creator>
+<dc:creator><![CDATA[Donapetry,C.]]></dc:creator>
+<dc:creator><![CDATA[Villaverde,M.]]></dc:creator>
+<dc:subject><![CDATA[Anemia]]></dc:subject>
+<dc:subject><![CDATA[Darbepoetina alfa]]></dc:subject>
+<dc:subject><![CDATA[Frecuencia de administración]]></dc:subject>
+<dc:subject><![CDATA[Hemoglobina]]></dc:subject>
+<dc:subject><![CDATA[Diálisis peritoneal]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.30 n.1 2010]]></dc:source>
+<dc:date>2010-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952010000100008</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Evolución del índice de resistencia a darbepoetina alfa en pacientes dializados que cambian de administración semanal a quincenal en la práctica clínica]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Evolution of the darbepoetin alpha resistance index in patients on dialysis who change from weekly to fortnightly treatments in clinical practice]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Antecedentes: Diversos estudios han demostrado la eficacia de darbepoetina alfa (DA) administrada quincenalmente (C2S), lo que permite simplificar el tratamiento para la anemia, pero faltan datos acerca de la evolución del índice de resistencia (IRE) tras el espaciamiento desde una frecuencia semanal (CS) en la práctica clínica. Material y métodos: Estudio observacional, multicéntrico, retrospectivo, con 16 semanas de seguimiento, en pacientes dializados estables convertidos de DA CS a C2S. El espaciamiento se realizó según ficha técnica (duplicación de dosis semanal). El cálculo del IRE fue: dosis DA (&micro;g/sem.kg*200)/Hb (g/dl). Se analizó la evolución del IRE mediante un ANOVA multivariado de medidas repetidas, ajustando por variables confusoras. Resultados: Se reclutaron 202 pacientes (137 en hemodiálisis [HD], DA intravenosa, y 65 con diálisis peritoneal [DP], DA subcutánea). La edad media (DE) fue 66 (17) años, y el 61% eran hombres. Se apreció una gran variabilidad intercentro en el IRE basal (coeficiente de variación del 88%, p <0,001 para diferencias entre centros). En el análisis univariado los factores predictores de IRE elevado fueron un bajo nivel de albúmina, la HD, o los antecedentes de enfermedad cardiovascular. Durante el seguimiento, el IRE aumentó ligeramente en los pacientes con HD (9,3 [8,4] basal frente a 11,1 [7,3] a 16 semanas; p <0,05), y se mantuvo estable en los pacientes con DP (6,8 [4,6] frente a 6,7 [4,0], respectivamente; NS). En el análisis multivariado, tras ajustar por los niveles de albúmina y el centro, el IRE global no presentó cambios significativos (media [IC 95%] basal de 10,0 [8,7-11,4] frente a 10,5 [9,3-11,8] a las 16 semanas, cambio ajustado de +0,5 [-0,67; 1,67]; NS). Conclusiones: La conversión de frecuencia semanal a quincenal de DA logró mantener el IRE, con independencia del tipo de diálisis. El análisis multivariado refleja que, una vez ajustado por las variables centro y estado de inflamación/nutricional del paciente, no hay cambios en el IRE en las primeras 16 semanas tras el espaciamiento.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: Darbepoetin alfa (DA) administered every-other-week (Q2W) is efficacious and safe for the treatment of anaemia in patients undergoing dialysis. There are no data available regarding the evolution of erythropoietic resistance index (ERI) after conversion from weekly (QW) to Q2W administration of DA in clinical practice. Material and methods: Multicenter, observational, retrospective, 16-weeks study, which included stable patients undergoing dialysis who were converted from DA QW to DA Q2W in clinical practice. Conversion was done according to product specifications (duplicating QW dose). The ERI to DA was calculated by dividing the weekly DA dose per kilogram of weight (&micro;g/wk.kg)*200 by the Hb level (g/dL). ERI evolution with time was evaluated by multivariate repeated measures ANOVA, adjusting for significant covariates. Results: A total of 202 patients were included (137 patients undergoing haemodialysis [HD], intravenous (IV) DA, and 65 patients receiving peritoneal dialysis [PD], subcutaneous DA). Mean (SD) age was 66 (17) years; 61% of patients were men. Large intercentre variability was observed for the ERI at conversion time (coefficient of variation of 88%, p <0.001 for differences between centres). In the univariate analysis, predictor factors for high baseline ERI were low albumin level (r = -0.29; p =0.001), HD (mean ERI of 9.3 [8.4] vs 6.8 [4.6] for PD; p = 0.005), or previous cardiovascular disease (9.9 [8.7] vs 7.4 [6.3] for patients without history; p =0.025). During the follow up, the ERI was slightly increased in HD patients (9.3 [8.4] at conversion vs 11.1 [7.3] at 16 weeks; p <0.05), and remained stable in PD patients (6.8 [4.6] vs 6.7 [4.0], respectively; NS). In the multivariate analysis, there were no significant differences in ERI during the 16 weeks post-conversion after adjusting for albumin levels and centre (adjusted baseline mean [95% CI] of 10.0 [8.7-11.4] vs 10.5 [9.3-11.8] at 16 weeks, adjusted change of +0.5 [-0.67; 1.67] ; NS). After 16 weeks, only 7 patients (3.5%) had discontinued Q2W administration. Conclusions: Extension from weekly to once every-other-week darbepoetin alfa allows to simplify anaemia treatment without increasing the resistance index, regardless of dialysis type. The multivariate analysis shows that, after adjusting by center and inflammation/nutritional status, there were no changes in the response to darbepoetin alfa during the first 16 weeks after conversion in clinical practice.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952011000400008</identifier>
+<datestamp>2011-11-24</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Portolés,J.]]></dc:creator>
+<dc:creator><![CDATA[Moreno,F.]]></dc:creator>
+<dc:creator><![CDATA[López-Sánchez,P.]]></dc:creator>
+<dc:creator><![CDATA[Mancha,J.]]></dc:creator>
+<dc:creator><![CDATA[Gómez,M.]]></dc:creator>
+<dc:creator><![CDATA[Corchete,E.]]></dc:creator>
+<dc:creator><![CDATA[Peso,G. del]]></dc:creator>
+<dc:creator><![CDATA[Bajo,M.A.]]></dc:creator>
+<dc:creator><![CDATA[Llópez-Carratalá,R.]]></dc:creator>
+<dc:creator><![CDATA[Fernández-Perpén,A.]]></dc:creator>
+<dc:subject><![CDATA[Diálisis peritoneal]]></dc:subject>
+<dc:subject><![CDATA[Trasplante renal]]></dc:subject>
+<dc:subject><![CDATA[Mortalidad]]></dc:subject>
+<dc:subject><![CDATA[Supervivencia]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.31 n.4 2011]]></dc:source>
+<dc:date>2011-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952011000400008</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Diálisis peritoneal y trasplante: Experiencia de Grupo Centro de Diálisis Peritoneal (GCDP) en un camino de doble sentido]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Peritoneal dialysis and kidney transplant: A two-way ticket in an integrated renal replacement therapy model]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: Los pacientes trasplantados eligen diálisis peritoneal (DP) en menor proporción que los incidentes. Objetivo: Describir la supervivencia en técnica de los postrasplantados (post-TX) y estudiar los factores predictores de transferencia a hemodiálisis (HD). Método: Estudio observacional, multicéntrico de incidentes (2003-2010). Variable principal: Paso a HD. Comparación post-TX frente a DP-de novo. Pacientes: 906 pacientes (54,8 años, 64,9% hombres) de 19 centros, con seguimiento hasta siete años, un 8,4% receptores de trasplante. Etiologías: glomerulonefritis 25,4%, nefropatía diabética 16,7%, vascular 10,7%, intersticial 13,6%, poliquistosis renal 11,2%. Comorbilidad: índice de Charlson 5,1 (desviación estándar, DE = 2,4), el 21,6% con diabetes mellitus (DM), el 24,0% con evento cardiovascular previo. El 71,6% inician en diálisis peritoneal continua ambulatoria (DPCA) y el resto en automática. Al mes de inicio, la función renal (FR) es 7,3 (DE = 3,8) ml/min, Kt/V 2,6 (DE = 0,7), y el ClCr 96,3 (DE = 35,3) l/semana x 1,72 m². Resultados: El mantenimiento en técnica estimado por KM es de 1,85 años, con un intervalo de confianza (IC) al 95% de [1,68-2,02] para la salida por cualquier causa y de 5,46 años [4,42-6,50] para transferencia a HD. Durante el seguimiento fueron sometidos a trasplante 306 pacientes (0,49 trasplantes por año en lista) y pasaron a HD 154. El mejor modelo de regresión de Cox para paso a HD incluye: DM con Hazard ratio (HR) 1,69 [1,19-2,40], trasplante previo: 1,63 [1,01-2,63] y edad 1,01 [1,00-1,02]. Los post-TX son más jóvenes (43,8 frente a 55,3 años) y con menos comorbilidad (DM 18,4 frente al 21,9%; CV 15,8 frente al 24,7%). Sin embargo, presentan menos FR al inicio, 5,10 frente a 7,46 ml/min, y mayor pérdida de FR. Los pacientes post-TX pasan a HD en mayor proporción (28,9 frente al 15,8%; p <0,006). Limitaciones: Estudio observacional, ausencia de protocolo común para paso a HD. Conclusión: La DP parece ser una buena técnica inicial por su baja mortalidad y alta tasa de trasplantes. Aunque el riesgo de paso a HD es mayor en los post-TX, el tiempo que pasan en DP es suficiente para considerarla como una buena opción de diálisis.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: Peritoneal dialysis (PD) seems to be a good option to initiate renal replacement therapy (RRT), but patients with graft failure choose PD less frequently than incident patients (de novo). Objective: To describe patient movements between PD and kidney transplantation (TX) and risk factors for failure of the PD technique. Method: Multicentre observational study of patients starting PD between 2003 and 2009 with follow-up until January 2010. Survival analysis based on switching from PD to HD as an event using Kaplan-Meier (KM) and forward, stepwise Cox proportional hazards models. Hazard ratio and 95% confidence intervals (HR [CI]) are shown. Main variable: Switch from PD to HD. Two-group comparison: PD post transplant (post-TX) patients (76) compared to pure incident PD (de novo-PD) patients (830). Patients: 906 PD patients from 19 public hospitals with a mean age of 54.8 years (64.9% male); main ESRD aetiology: glomerulonephritis (25.4%), diabetes (16.7%), vascular-ischaemic (10.7%), interstitial (13.6%) and polycystic (11.2%). Comorbidity conditions: Charlson Index 5.1 (SD 2.4); 21.6% diabetes mellitus (DM), 24.0% cardiovascular (CV) events. Results: Mean follow-up period on PD: 1.85 years (95% CI [1.68-2.02 years]). KM estimation for switching to HD due to PD failure was 5.46 years [4.42-6.50 years]. At the end of follow-up, 88 patients had died, 154 had been transferred to HD and 306 had received a graft (annual rate for patients on waiting list: 0.49 TX per year on PD). The best Cox multivariate model for switching from PD to HD includes: post-TX (HR: 1.63 [1.01-2.63]), DM (HR: 1.69 [1.19-2.40]) and age (1.01 [1.00-1.02]) per year. Post-TX patients were younger (43.8 years vs 55.3 years) and with less comorbidity conditions than de novo-PD patients (DM 18.4% vs 21.9%; CV 15.8% vs 24.7%). However post-TX patients had worse clinical evolution with a rapid decline of renal function (&Delta;-3.88 vs -1.8ml/min per year); a higher admission rate (0.9 vs 0.62 per year) but similar peritonitis rate (0.45 vs 0.53 episodes per year). They also needed to be transferred to HD more frequently (28.9% vs 15.8%; P<.006) and needed more time to TX (4.8 years vs 1.7 years, Kaplan-Meier). Consequently, time spent on PD was higher in the post-TX group (2.8 vs 1.8 year). Limitations: Observational study with absence of a standard protocol to switch PD-HD. Conclusion: PD seems to be a good first choice technique due to low mortality and high TX ratio in our area. A previous graft failure is associated with a higher rate of PD-failure but time spent on PD is enough to consider this technique as a good option.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

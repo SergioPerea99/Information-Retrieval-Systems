@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952015000400002</identifier>
+<datestamp>2016-03-02</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Zurriaga,Óscar]]></dc:creator>
+<dc:creator><![CDATA[López-Briones,Carmen]]></dc:creator>
+<dc:creator><![CDATA[Martín Escobar,Eduardo]]></dc:creator>
+<dc:creator><![CDATA[Saracho-Rotaeche,Ramón]]></dc:creator>
+<dc:creator><![CDATA[Moina Eguren,Íñigo]]></dc:creator>
+<dc:creator><![CDATA[Pallardó Mateu,Luis]]></dc:creator>
+<dc:creator><![CDATA[Abad Díez,José María]]></dc:creator>
+<dc:creator><![CDATA[Sánchez Miret,José Ignacio]]></dc:creator>
+<dc:subject><![CDATA[Códigos]]></dc:subject>
+<dc:subject><![CDATA[Enfermedad renal primaria]]></dc:subject>
+<dc:subject><![CDATA[Semántica]]></dc:subject>
+<dc:subject><![CDATA[Adaptación]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.35 n.4 2015]]></dc:source>
+<dc:date>2015-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952015000400002</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Adaptación en español del nuevo sistema de codificación de enfermedad renal primaria de la European Renal Association-European Dialysis and Transplant Association (ERA-EDTA)]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[A Spanish version for the new ERA-EDTA coding system for primary renal disease]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Antecedentes: La European Renal Association-European Dialysis and Transplant Association (ERA-EDTA) ha publicado, en lengua inglesa, una nueva lista de códigos de enfermedad renal primaria (ERP), con el fin de solventar los problemas detectados en la "Lista de diagnóstico renal primario" que se venía utilizando desde hacía más de 40 años. Objetivos: En el seno del Registro Español de Enfermos Renales (REER) se consideró conveniente traducir y adaptar los términos, definiciones y notas de los nuevos códigos de la ERA-EDTA para facilitar su uso por parte de quienes usan como lengua de trabajo el español. Métodos: Se realizó un proceso de traducción profesional y adaptación terminológica que contó con la participación de nefrólogos bilingües con varias fases de contraste del resultado de la traducción, en las que se revisaron los códigos, literales, definiciones y criterios diagnósticos y se marcaron los acuerdos y discrepancias surgidos para cada término. Finalmente se acordó la versión aceptada por la mayoría de los revisores. Resultados: El acuerdo en la primera fase de revisión fue amplio, con solo 5 puntos de discrepancia que se acordaron en la fase final. Conclusiones: La traducción y adaptación al español representa una mejora para la introducción y uso del nuevo sistema de codificación de ERP, ya que puede contribuir a reducir el tiempo dedicado a la codificación y también el período de adaptación de los profesionales a los nuevos códigos.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: The European Renal Association and the European Dialysis and Transplant Association (ERA-EDTA) have issued an English-language new coding system for primary kidney disease (PKD) aimed at solving the problems that were identified in the list of "Primary renal diagnoses" that has been in use for over 40 years. Purpose: In the context of Registro Español de Enfermos Renales (Spanish Registry of Renal Patients, &#091;REER&#093;), the need for a translation and adaptation of terms, definitions and notes for the new ERA-EDTA codes was perceived in order to help those who have Spanish as their working language when using such codes. Methods: Bilingual nephrologists contributed a professional translation and were involved in a terminological adaptation process, which included a number of phases to contrast translation outputs. Codes, paragraphs, definitions and diagnostic criteria were reviewed and agreements and disagreements aroused for each term were labelled. Finally, the version that was accepted by a majority of reviewers was agreed. Results: A wide agreement was reached in the first review phase, with only 5 points of discrepancy remaining, which were agreed on in the final phase. Conclusions: Translation and adaptation into Spanish represent an improvement that will help to introduce and use the new coding system for PKD, as it can help reducing the time devoted to coding and also the period of adaptation of health workers to the new codes.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

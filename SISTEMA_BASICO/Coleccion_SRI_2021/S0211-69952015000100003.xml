@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952015000100003</identifier>
+<datestamp>2015-02-28</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Hernández,Domingo]]></dc:creator>
+<dc:creator><![CDATA[Castro-de la Nuez,Pablo]]></dc:creator>
+<dc:creator><![CDATA[Muriel,Alfonso]]></dc:creator>
+<dc:creator><![CDATA[Ruiz-Esteban,Pedro]]></dc:creator>
+<dc:creator><![CDATA[Alonso,Manuel]]></dc:creator>
+<dc:subject><![CDATA[Mortalidad]]></dc:subject>
+<dc:subject><![CDATA[Comorbilidad]]></dc:subject>
+<dc:subject><![CDATA[Diálisis]]></dc:subject>
+<dc:subject><![CDATA[Lista de espera]]></dc:subject>
+<dc:subject><![CDATA[Trasplante renal]]></dc:subject>
+<dc:subject><![CDATA[Riesgo competitivo]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.35 n.1 2015]]></dc:source>
+<dc:date>2015-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952015000100003</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Mortalidad en lista de espera para trasplante renal]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Mortality on a renal transplantation waiting list]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[El trasplante renal (Tx) representa el tratamiento de elección para los pacientes con enfermedad renal crónica avanzada (ERC), pero la escasez de órganos disponibles para aquellos con gran comorbilidad puede incrementar significativamente la mortalidad en enfermos candidatos a Tx. Esto constituye un problema sanitario preocupante, dado el incremento de los pacientes incidentes y prevalentes con ERC, especialmente de aquellos con ERC secundaria a entidades de gran comorbilidad como la diabetes y la hipertensión arterial. Asimismo, este hecho puede incrementar el número de pacientes en lista de espera (LE) y disparar sus cifras de mortalidad. Por tanto, actualmente resulta pertinente identificar las causas de muerte y los factores de riesgo de mortalidad en esta población, conocer las barreras que limitan el acceso al Tx y aplicar modelos predictivos de mortalidad en aras de mejorar los resultados de estos enfermos en términos de supervivencia. En esta revisión sobre la mortalidad de los pacientes en LE se abordarán los siguientes aspectos: 1) la magnitud de este problema y la importancia de algunos datos epidemiológicos; 2) los factores de riesgo de mortalidad en estos enfermos y las barreras que existen para el acceso al Tx que pudieran incrementar la mortalidad en esta población; 3) evaluación del riesgo de muerte de los pacientes en diálisis a partir de la comorbilidad; y 4) valoración de la mortalidad en LE mediante análisis de regresión de riesgos competitivos y la generación de un modelo de riesgo compuesto, incluyendo la comorbilidad y otros factores urémicos.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Renal transplantation (Tx) represents the treatment of choice for patients with advanced chronic kidney disease (ACKD), but the shortage of available organs for those with a high level of comorbidity can significantly increase mortality in patients who are candidates for Tx. This constitutes a worrying health care problem, given the increase in incident and prevalent patients with ACKD, and is especially concerning amongst those with ACKD that is secondary to conditions with a high level of comorbidity, such as diabetes or arterial hypertension. In addition, this can increase the number of patients on the waiting list (WL) and cause the rapid raising of mortality figures. Therefore, nowadays it is relevant to identify the causes of death and the mortality risk factors in this population, to know the barriers that limit access to Tx and to apply predictive mortality models, with the aim of improving survival rates from these illnesses. In this review on the mortality of the patients on the WL, the following aspects will be addressed: 1) the magnitude of this problem and the importance of certain epidemiological data; 2) the mortality risk factors in these patients and the barriers that exist against access to Tx, which could increase mortality rates amongst this population; 3) evaluation of the risk of death in patients on dialysis from comorbidity; 4) assessment of mortality on the WL, via regression analysis of competitive risks, and the generation of a compound risk model, which includes comorbidity and other uraemic factors.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

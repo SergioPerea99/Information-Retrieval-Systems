@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0212-97282016000100012</identifier>
+<datestamp>2016-04-28</datestamp>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Sánchez-Santillán,Miguel]]></dc:creator>
+<dc:creator><![CDATA[Paule-Ruiz,M. Puerto]]></dc:creator>
+<dc:creator><![CDATA[Cerezo,Rebeca]]></dc:creator>
+<dc:creator><![CDATA[Álvarez-García,Víctor]]></dc:creator>
+<dc:subject><![CDATA[E-learning]]></dc:subject>
+<dc:subject><![CDATA[hipermedia adaptativa]]></dc:subject>
+<dc:subject><![CDATA[aprendizaje autorregulado]]></dc:subject>
+<dc:subject><![CDATA[entornos virtuales de aprendizaje]]></dc:subject>
+<dc:subject><![CDATA[educación superior]]></dc:subject>
+<dc:publisher><![CDATA[Universidad de Murcia]]></dc:publisher>
+<dc:source><![CDATA[Anales de Psicología  v.32 n.1 2016]]></dc:source>
+<dc:date>2016-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-97282016000100012</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[MeL: modelo de adaptación dinámica del proceso de aprendizaje en eLearning]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[MeL: a dynamic adaptive model of the learning process in eLearning]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[En nuestra vida diaria hemos integrado progresivamente el uso de Internet. Esta incorporación también se ha producido en todos los niveles educativos, donde los entornos virtuales de aprendizaje son el medio utilizado, por profesores, estudiantes e instituciones, para el manejo y la distribución de experiencias educativas. Sin embargo, tal y como están diseñados estos sistemas, hacen que los estudiantes tengan dificultades para desplegar sus habilidades metacognitivas, además de provocar una sobrecarga cognitiva debido a una mala organización de los contenidos y de la navegación. Es necesario, por tanto, incluir en las plataformas de aprendizaje un mecanismo que permita la adaptación de estos sistemas a las características, necesidades y contexto del estudiante con el objetivo de optimizar el proceso de enseñanza-aprendizaje. En este trabajo se describe un modelo de adaptación para Learning Management Systems (LMSs) que utilizando variables centrales en el proceso de aprendizaje permite aplicar reglas adaptativas a los distintos tipos de contenidos y conocimientos que se han de transmitir o adquirir. A nivel aplicado, el modelo obtenido permite desarrollar cursos adaptados que dan soporte y promueven el aprendizaje y la autorregulación dentro de los entornos de aprendizaje virtuales.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[The use of the Internet has been progressively integrated into our daily lives. This has also been true for all levels of education, where virtual learning environments have been the means by which teachers, students and educational institutions managed and distributed educational experiences. However, the present design of these systems make students have difficulties in deploying their meta-cognitive skills, in addition to producing a cognitive overload due to an inadequate content organization and navigation. Thus, it is necessary to provide learning platforms with a process that allows for the adaptation of these systems to students' characteristics, needs and context in order to enhance the teaching-learning process. This paper describes an adaptive model for Learning Management Systems (LMSs) that using variables central to the learning process allows for the application of adaptive rules to the different types of contents and knowledge to be transferred and acquired. In practice, the resulting model allows to develop adaptive courses that support and promote learning and self-regulation in virtual learning environments.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

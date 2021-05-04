@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S1135-76062003000300001</identifier>
+<datestamp>2004-03-31</datestamp>
+<setSpec>1135-7606</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Ortega Pérez,A.]]></dc:creator>
+<dc:subject><![CDATA[Aspiración]]></dc:subject>
+<dc:subject><![CDATA[cocaína]]></dc:subject>
+<dc:subject><![CDATA[farmacocinética]]></dc:subject>
+<dc:subject><![CDATA[inhalación]]></dc:subject>
+<dc:subject><![CDATA[inyección]]></dc:subject>
+<dc:subject><![CDATA[peritación]]></dc:subject>
+<dc:subject><![CDATA[semi-vida]]></dc:subject>
+<dc:subject><![CDATA[variaciones]]></dc:subject>
+<dc:publisher><![CDATA[Asociación de Médicos Forenses de Andalucía]]></dc:publisher>
+<dc:source><![CDATA[Cuadernos de Medicina Forense  n.33 2003]]></dc:source>
+<dc:date>2003-07-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1135-76062003000300001</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[¿Estaba intoxicado por cocaína este individuo? (I): estimaciones basadas en la farmacocinética de la droga]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Was this individual poisoned by cocaine? (I): estimations based on the pharmacokinetic of the drug]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[La cocaína tiene mucho interés para los médicos forenses a causa de la frecuencia de su uso, de su toxicidad y de su implicación en hechos violentos. Con el fin de ayudar a dictaminar si existió una intoxicación por la droga se exponen los datos disponibles sobre su farmacocinética. La droga puede absorberse por varias vías, alcanzando concentraciones sanguíneas apreciables casi inmediatamente y las concentraciones máximas en pocos minutos o en una hora, según la vía. La cocaína tiene una semivida en la sangre de entre 40 y 90 minutos, según los estudios, de forma que desaparece de esta en pocas horas. Sin embargo, puede detectarse en la orina durante 24 horas o más. Las correlaciones entre cocaína sanguínea y cocaína cerebral o biliar pueden ayudar a estimar la dosis tomada y el tiempo transcurrido desde la administración. Según los datos disponibles, las concentraciones de cocaína halladas al analizar la sangre o los tejidos son tan variadas que por sí mismas no son concluyentes para determinar si una persona estaba intoxicada o no. En el artículo se aportan algunas sugerencias para aumentar los datos disponibles y para mejorar la estimación y la calidad de la peritación.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Cocaine is of considerable interest to forensic doctors, because it is widely used, is very toxic and is frequently implicated in acts of violence. To help the expert witness decide on cocaine intoxication the available pharmacokinetic data are summarized here. The drug can be absorbed through different routes. Measurable blood concentrations are reached almost immediately with maximum concentrations within minutes, or within an hour depending on the route of administration. Depending on the study from which the data are drawn, the half-life of cocaine appears to be between 40 and 90 minutes. The substance disappears from the blood over several hours, but can be detected in urine for 24 hours or more. The correlations between blood cocaine con-centrations and those in the brain or bile can help estimate the dose absorbed and the time elapsed since its intake. In short, current data suggest that the concentrations of cocaine observed are so variable that by themselves no definite conclusions can be drawn regarding an individual's intoxication based merely on the concentration of cocaine noted in one sample. In this present communication some suggestions are provided for increasing the available data and for improving the estimation as well as the quality of the clinical judgement.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

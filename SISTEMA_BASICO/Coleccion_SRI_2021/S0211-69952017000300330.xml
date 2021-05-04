@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952017000300330</identifier>
+<datestamp>2017-10-30</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Yepes Delgado,Carlos Enrique]]></dc:creator>
+<dc:creator><![CDATA[Pérez Dávila,Sara]]></dc:creator>
+<dc:creator><![CDATA[Montoya Jaramillo,Marcela]]></dc:creator>
+<dc:creator><![CDATA[Orrego Orozco,Beatriz Elena]]></dc:creator>
+<dc:subject><![CDATA[Fallo renal crónico]]></dc:subject>
+<dc:subject><![CDATA[Terapia de reemplazo renal]]></dc:subject>
+<dc:subject><![CDATA[Insuficiencia renal terminal]]></dc:subject>
+<dc:subject><![CDATA[Evaluación de efectividad de intervenciones]]></dc:subject>
+<dc:subject><![CDATA[Servicios preventivos de salud]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.37 n.3 2017]]></dc:source>
+<dc:date>2017-06-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952017000300330</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Progreso de estadio y requerimiento de terapia de reemplazo renal en un programa de protección renal en Colombia. Estudio de cohorte]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Stage progression and need for renal replacement therapy in a renal protection programme in Colombia. A cohort study]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Resumen  Antecedentes: Debido a la carga global de la enfermedad renal crónica (ERC), la Organización Mundial de la Salud fomentó programas de protección renal (PPR) para impactar en su incidencia con medidas de prevención y control.  Objetivos: Evaluar la efectividad de un PPR en Colombia sobre el progreso de estadio en ERC y el requerimiento de terapia de reemplazo renal (TRR).  Métodos: Estudio analítico de seguimiento a 2 cohortes de pacientes con diagnóstico de ERC, que compara el comportamiento de indicadores clínicos y de deterioro renal entre pacientes expuestos a un PPR versus el tratamiento convencional (TC). Como tamaño de muestra se tuvo en cuenta el censo de la población de ambas aseguradoras. Se calculó la tasa de incidencia, la supervivencia (Kaplan Meier) y la influencia de la exposición al PPR sobre los desenlaces entre PPR y TC mediante un análisis multivariado (Cox).  Resultados: Los pacientes expuestos al PPR se demoraron más en hacer el primer progreso de estadio y en requerir TRR. La tasa de incidencia para progreso es mayor en TC (0,050; IC 95%: 0,040-0,064) que en PPR (0,034: IC 95%: 0,030-0,039). Razón de tasas de incidencia: 1,480 (IC 95%: 1,21-1,90). El riesgo instantáneo de progreso fue menor en PPR (HR: 0,855; IC 95%: 0,74-0,98), al igual que el riesgo de requerir TRR (HR: 0,797; IC 95%: 0,606-1,049).  Conclusiones: El PPR representa una estrategia de prevención secundaria en ERC que impacta en el progreso de estadio y requerimiento de TRR. La captación temprana de pacientes mejora dichos desenlaces.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Abstract  Background: Due to the global burden represented by chronic kidney disease (CKD), the World Health Organization encouraged the implementation of renal protection programmes (RPP) to affect its incidence through prevention and control measures.  Objectives: To assess the effectiveness of a Colombian RPP in terms of its effect on the stage progression of CKD and the need for renal replacement therapy (RRT).  Methods: An analytical study that monitored 2 cohorts of patients diagnosed with CKD. The study compares the behaviour of clinical and renal impairment indicators from patients exposed to a RPP with that of patients following conventional treatment (CT). The population of both intervention groups was considered when determining the sample size. The incidence rate was calculated as well as patient survival (Kaplan Meier). In addition, a multivariate analysis (Cox) was used to calculate the influence that exposure to the RPP had on the outcomes of the patients following the RPP and those following CT.  Results: The patients exposed to the RPP took longer to advance to the next CKD stage and require RRT. The incidence rate for progression is higher for the patients following CT (0.050, IC 95%: 0.040-0.064) compared to those in the RPP (0.034, IC 95%: 0.030-0.039). The ratio of incidence rates was 1.480 (IC 95% 1.21-1.90). The hazard of progression was lower for the RPP (HR: 0.855, IC 95%: 0.74- 0.98), as was the hazard of requiring RRT (HR: 0.797, IC 95%: 0.606-1.049).  Conclusions: The RPP is a secondary prevention strategy against CKD which has an effect on the stage progression of CKD and the need for RRT. Early patient detection has a positive effect on the outcomes studied.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

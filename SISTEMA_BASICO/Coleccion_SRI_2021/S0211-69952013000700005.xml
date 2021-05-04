@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952013000700005</identifier>
+<datestamp>2014-01-08</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Sequera,Patricia de]]></dc:creator>
+<dc:creator><![CDATA[Albalate,Marta]]></dc:creator>
+<dc:creator><![CDATA[Pérez-García,Rafael]]></dc:creator>
+<dc:creator><![CDATA[Corchete,Elena]]></dc:creator>
+<dc:creator><![CDATA[Puerta,Marta]]></dc:creator>
+<dc:creator><![CDATA[Ortega,Mayra]]></dc:creator>
+<dc:creator><![CDATA[Alcázar,Roberto]]></dc:creator>
+<dc:creator><![CDATA[Talaván,Tamar]]></dc:creator>
+<dc:creator><![CDATA[Ruiz-Álvarez,María J.]]></dc:creator>
+<dc:subject><![CDATA[Hemodiafiltración]]></dc:subject>
+<dc:subject><![CDATA[Hemodiálisis]]></dc:subject>
+<dc:subject><![CDATA[Posdilucional]]></dc:subject>
+<dc:subject><![CDATA[Mixta]]></dc:subject>
+<dc:subject><![CDATA[Volumen convectivo]]></dc:subject>
+<dc:subject><![CDATA[Toxinas urémicas]]></dc:subject>
+<dc:subject><![CDATA[Beta2 microglobulina]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.33 n.6 2013]]></dc:source>
+<dc:date>2013-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952013000700005</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Comparación de la eficacia de dos modalidades de hemodiafiltración en línea: mixta frente a posdilucional]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[A comparison of the effectiveness of two online haemodiafiltration modalities: mixed versus post-dilution]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: La hemodiafiltración (HDF) con altos volúmenes de reinfusión es la técnica más eficaz en la depuración de toxinas urémicas. Existen distintas modalidades dependiendo del lugar donde se administra el volumen de sustitución en el circuito extracorpóreo: predilucional, mixta o mid-dilucional y posdilucional, en las que la infusión se realiza pre, de forma simultánea pre y pos, y posdilucional, respectivamente. Objetivo: Comparar la depuración de moléculas pequeñas, medianas y unidas a proteínas y el volumen convectivo administrado en HDF en línea (HDF-OL) con infusión posdilucional y mixta (pre-posdilucional). Material y métodos: Estudio prospectivo, aleatorizado y cruzado, comparando HDF-OL posdilucional y mixta. Los pacientes (n = 8) fueron asignados aleatoriamente para recibir 6 sesiones en cada técnica. Se realizaron 89 sesiones, de las cuales 68 fueron a tiempo programado (TP) y 21 a tiempo efectivo (TE). Se determinaron los porcentajes de reducción (RR) de distintas sustancias y los volúmenes de infusión. El estudio de los RR se realizó con TE. Resultados: El KT obtenido fue mayor con HDF-OL posdilucional [68 (8,1) frente a 64,9 (8,8) litros] (p = 0,009) cuando los pacientes se dializaron a TP. Esta diferencia desaparecía cuando la diálisis se realizaba a TE. La diferencia entre el TP-TE fue mayor en la HDF mixta con respecto a la HDF posdilucional [10,3 (7,4) frente a 6,5 (3,1) minutos, p = 0,02]. No encontramos diferencias en los RR de las sustancias analizadas. Conclusión: La HDF-OL mixta no es inferior a la posdilucional ni en la depuración de moléculas pequeñas y medianas ni en las unidas a proteínas a igual TE.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: Haemodiafiltration (HDF) with high reinfusion volumes is the most effective technique for clearing uraemic toxins. There are various modalities depending on the location where the replacement volume is administered in the extracorporeal circuit: pre-dilution, mixed or mid-dilution and post-dilution, in which the infusion is carried out pre-dilution, pre- and post-dilution simultaneously and post-dilution, respectively. Objective: Compare the clearance of small, medium-sized and protein-bound molecules and the convective volume administered in online HDF (OL-HDF) in post-dilution and mixed (pre-post-dilution) infusion. Material and method: A prospective, randomised, crossover study comparing post-dilution and mixed OL-HDF. Patients (n=8) were randomly assigned to receive 6 sessions in each technique. We conducted 89 sessions, of which 68 were at a scheduled time (ST) and 21 at an effective time (ET). We determined the reduction rate (RR) percentages for various substances and the infusion volumes. The RR study was performed using ET. Results: The KT value obtained was greater with post-dilution OL-HDF [68 (8.1) compared to 64.9 (8.8) litres] (P=.009) when patients were dialysed at ST. This difference disappeared when dialysis was performed at ET. The difference between ST and ET was greater in mixed HDF than in post-dilution HDF [10.3 (7.4) compared to 6.5 (3.1) minutes, P=.02]. We found no differences in the RR of the substances analysed. Conclusion: Mixed OL-HDF is not inferior to post-dilution OL-HDF either in the clearance of small and medium-sized molecules or in the clearance of protein-bound molecules at the same ET.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

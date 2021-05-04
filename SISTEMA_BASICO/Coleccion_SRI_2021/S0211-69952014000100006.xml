@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952014000100006</identifier>
+<datestamp>2014-03-12</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Segarra,Alfons]]></dc:creator>
+<dc:creator><![CDATA[Jatem,Elías]]></dc:creator>
+<dc:creator><![CDATA[Quiles,M. Teresa]]></dc:creator>
+<dc:creator><![CDATA[Arbós,M. Antonia]]></dc:creator>
+<dc:creator><![CDATA[Ostos,Helena]]></dc:creator>
+<dc:creator><![CDATA[Valtierra,Naiara]]></dc:creator>
+<dc:creator><![CDATA[Carnicer,Clara]]></dc:creator>
+<dc:creator><![CDATA[Agraz,Irene]]></dc:creator>
+<dc:creator><![CDATA[Salcedo,M. Teresa]]></dc:creator>
+<dc:subject><![CDATA[suPAR]]></dc:subject>
+<dc:subject><![CDATA[Glomeruloesclerosis focal y segmentaria]]></dc:subject>
+<dc:subject><![CDATA[Síndrome nefrótico]]></dc:subject>
+<dc:subject><![CDATA[Enfermedad de cambios mínimos]]></dc:subject>
+<dc:subject><![CDATA[Glomerulonefritis membranosa]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.34 n.1 2014]]></dc:source>
+<dc:date>2014-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952014000100006</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Valor diagnóstico de los niveles séricos del receptor soluble de la uroquinasa en adultos con síndrome nefrótico idiopático]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Diagnostic value of soluble urokinase-type plasminogen activator receptor serum levels in adults with idiopathic nephrotic syndrome]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: Estudios recientes sugieren que los niveles del receptor soluble de la uroquinasa (suPAR) podrían ser útiles para diferenciar la glomeruloesclerosis focal y segmentaria (GFS) idiopática de otras glomerulopatías causantes de síndrome nefrótico, pero estos datos no han sido confirmados en estudios independientes. El objetivo de nuestro estudio es analizar si los niveles circulantes de suPAR son útiles para identificar la enfermedad renal primaria en enfermos afectos de síndrome nefrótico secundario a GFS, enfermedad por cambios mínimos o nefropatía membranosa (NM) idiopática. Métodos: Se realizaron mediciones de niveles de suPAR circulante en el momento del diagnóstico en 60 pacientes con síndrome nefrótico secundario a GFS, enfermedad por cambios mínimos (ECM) y NM. Se analizaron las correlaciones entre niveles de suPAR y variables demográficas, clínicas y bioquímicas. La sensibilidad y la especificidad de suPAR para diferenciar a los enfermos con GFS se analizaron mediante curvas ROC. Resultados: Tras ajustar por edad y función renal, los niveles de suPAR fueron significativamente más elevados en enfermos con GFS que en ECM (p < 0,001), pero no hubo diferencias entre GFS y NM (p = 0,12). Un valor de suPAR &#8805; 3452 pg/ml tuvo una sensibilidad del 73,7 % y una especificidad del 72,5 %, con un área bajo la curva (ABC) de 0,782 ± 0,124, p = 0,001, para identificar a los enfermos con GFS. Tras excluir a los enfermos con NM, un valor &#8805; 3531 pg/ml tuvo una especificidad del 99,93 % para diferenciar entre ECM y GFS. Conclusiones: Los valores de suPAR por sí solos no diferencian entre los tres tipos de glomerulopatía. Sin embargo, tras excluir el diagnóstico de NM, un nivel de suPAR &gt; 3531 pg/ml podría tener una elevada especificidad (pero baja sensibilidad) para el diagnóstico de GFS.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: Recent studies suggest that soluble urokinase-type plasminogen activator receptor (suPAR) levels could be useful for distinguishing idiopathic focal segmental glomerulosclerosis (FSGS) from other glomerulopathies that cause nephrotic syndrome, but these data have not been confirmed in independent studies. The objective of our study is to analyse whether circulating levels of suPAR are useful for identifying primary kidney disease in patients with nephrotic syndrome secondary to FSGS, minimal change disease or idiopathic membranous nephropathy (MN). Methods: We measured circulating suPAR at diagnosis in 60 patients with nephrotic syndrome secondary to FSGS, minimal change disease (MCD) and membranous nephropathy (MN). The correlations between suPAR levels and demographic, clinical and biochemical variables were analysed. The sensitivity and specificity of suPAR in distinguishing FSGS patients were analysed by ROC curves. Results: After adjusting for age and renal function, suPAR levels were significantly higher in patients with FSGS than in those with MCD (p<.001), but there were no differences between FSGS and MN (P=.12). A suPAR value &#8805;3452pg/ml had a sensitivity of 73.7% and a specificity of 72.5%, with an area under the curve (AUC) of 0.782±0.124, p=.001, for identifying patients with FSGS. After excluding patients with MN, a value &#8805;3531pg/ml had a specificity of 99.93% for distinguishing between MCD and FSGS. Conclusions: suPAR values alone do not distinguish between the three types of glomerulopathy. Nevertheless, after excluding the diagnosis of MN, a suPAR level &gt;3531pg/ml could have a high specificity (but a low sensitivity) in the diagnosis of FSGS.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

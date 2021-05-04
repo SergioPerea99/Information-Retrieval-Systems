@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952013000600012</identifier>
+<datestamp>2013-11-07</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Pérez-Gómez,M. Vanessa]]></dc:creator>
+<dc:creator><![CDATA[Ortiz-Arduán,Alberto]]></dc:creator>
+<dc:creator><![CDATA[Lorenzo-Sellares,Víctor]]></dc:creator>
+<dc:subject><![CDATA[Albuminuria]]></dc:subject>
+<dc:subject><![CDATA[Calcitriol]]></dc:subject>
+<dc:subject><![CDATA[Enfermedad renal crónica]]></dc:subject>
+<dc:subject><![CDATA[Nefropatía diabética]]></dc:subject>
+<dc:subject><![CDATA[Paricalcitol]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.33 n.5 2013]]></dc:source>
+<dc:date>2013-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952013000600012</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Vitamina D y proteinuria: revisión crítica de las bases moleculares y de la experiencia clínica]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Vitamin D and proteinuria: a critical review of molecular bases and clinical experience]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[La proteinuria es el principal predictor de progresión de la enfermedad renal crónica. Los fármacos que bloquean el eje renina-angiotensina-aldosterona (RAA) reducen la proteinuria y retrasan la progresión de la enfermedad. Sin embargo, su efecto es subóptimo, y la proteinuria residual persiste como predictor relevante de deterioro renal. La vitamina D tiene efectos pleiotrópicos que podrían impactar en estos parámetros. En este trabajo revisamos críticamente las bases moleculares y experimentales que sugieren un efecto antiproteinúrico de la activación del receptor de vitamina D (VDR), así como la evidencia disponible sobre su efecto antiproteinúrico en la práctica clínica. En modelos animales se ha observado un efecto antiproteinúrico de la activación del VDR, que podría deberse a una acción protectora directa sobre el podocito u otros efectos pleiotrópicos que frenen la activación del sistema RAA, la inflamación y la fibrosis. Los ensayos clínicos se han realizado en general en pacientes con déficit o insuficiencia de vitamina D y el mayor de ellos (VITAL) no demostró que el paricalcitol mejorara el objetivo primario del estudio (descenso del cociente albúmina creatinina urinario). En este sentido, la información disponible es insuficiente para aconsejar el empleo de la vitamina D nativa o de activadores del VDR como fármacos antiproteinúricos renoprotectores más allá del ámbito experimental. Dos ensayos clínicos españoles y uno italiano intentan aclarar cuál es el efecto del paricalcitol y la vitamina D sobre la proteinuria residual en diversas circunstancias clínicas (PALIFE, NEFROVID y PROCEED).]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Proteinuria is the main predictor of chronic kidney disease progression. Drugs that block the renin-angiotensin-aldosterone system (ARBs) reduce proteinuria and slow down the progression of the disease. However, their effect is suboptimal, and residual proteinuria persists as an important predictor of renal impairment. Vitamin D has pleiotropic effects that could have an impact on these parameters. In this study, we critically review the molecular and experimental bases that suggest an antiproteinuric effect of vitamin D receptor (VDR) activation and the available evidence on its antiproteinuric effect in clinical practice. In animal models, we have observed the antiproteinuric effect of VDR activation, which could be due to direct protective action on the podocyte or other pleiotropic effects that slow down RAA system activation, inflammation and fibrosis. Clinical trials have generally been conducted in patients with a vitamin D deficiency or insufficiency and the main trial (VITAL) did not demonstrate that paricalcitol improved the study's primary endpoint (decrease in the urine albumin to creatinine ratio). In this sense, the information available is insufficient to advise the use of native vitamin D or VDR activators as renoprotective antiproteinuric drugs beyond the experimental level. Two Spanish clinical trials and one Italian trial attempted to determine the effect of paricalcitol and vitamin D on residual proteinuria in various clinical circumstances (PALIFE, NEFROVID and PROCEED).]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

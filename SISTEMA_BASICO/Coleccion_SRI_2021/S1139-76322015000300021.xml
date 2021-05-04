@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S1139-76322015000300021</identifier>
+<datestamp>2015-09-14</datestamp>
+<setSpec>1139-7632</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Pérez-Moneo Agapito,B.]]></dc:creator>
+<dc:creator><![CDATA[Ruiz-Canela Cáceres,J.]]></dc:creator>
+<dc:subject><![CDATA[Factores de riesgo]]></dc:subject>
+<dc:subject><![CDATA[Infecciones urinarias]]></dc:subject>
+<dc:subject><![CDATA[Reflujo vesicoureteral]]></dc:subject>
+<dc:subject><![CDATA[Cicatriz renal]]></dc:subject>
+<dc:subject><![CDATA[Ácido dimercaptosuccínico de Tc99m]]></dc:subject>
+<dc:publisher><![CDATA[Asociación Española de Pediatría de Atención Primaria]]></dc:publisher>
+<dc:source><![CDATA[Pediatría Atención Primaria  v.17 n.66 2015]]></dc:source>
+<dc:date>2015-06-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1139-76322015000300021</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[¿Qué marcadores son útiles como predictores de cicatrices renales en niños con infección urinaria?]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[What markers are useful as predictors of renal scarring in children with urinary tract infection?]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Tras una infección urinaria la aparición de cicatrices renales puede ocurrir entre el 10 y el 15% de los casos y tradicionalmente se ha relacionado con diferentes factores como alteraciones en la ecografía o con reflujo vesicoureteral significativo. El estudio que valoramos es un metaanálisis con datos de pacientes individuales, cuyo objetivo es analizar estos factores de riesgo y desarrollar un modelo de predicción clínica con una muestra significativa. Este estudio tiene algunas debilidades metodológicas, pero los resultados de la revisión sistemática evaluada están correctamente sintetizados y descritos. Las conclusiones están justificadas y son útiles. Con los datos del estudio, solo tres variables clínicas servirían como marcadores de cicatrices renales: las alteraciones en la ecografía, la presencia de fiebre > 39 °C y un germen diferente al Escherichia coli en el cultivo obtenido de forma apropiada. No obstante, por las mencionadas limitaciones, debería comprobarse en un estudio prospectivo. La cistouretrografía miccional seriada (CUMS), según este estudio y las recomendaciones de las guías de práctica clínica, solo debería realizarse en un pequeño subgrupo de pacientes, cuando esté indicado.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[After a urinary tract infection (UTI), the risk of renal scarring can occur from 10 to 15% of cases and has traditionally been related to different factors such as changes in the ultrasound or significant vesicoureteral reflux. The study we evaluate is a meta-analysis of individual patient data, which aims to analyze these risk factors and develop a clinical prediction model with a significant sample. This study has some methodological weaknesses, but the results of the systematic review evaluated are successfully synthesized and described. The conclusions are justified and useful. With the survey data only three clinical variables serve as markers of renal scarring: abnormal ultrasound, the presence of fever > 39 °C and a different seed to Escherichia coli culture obtained in an appropriate manner. Nevertheless, due to its limitations, these findings should be checked in a prospective study. The voiding cystourethrogram, according to this study and recommendations of clinical practice guidelines should only be performed on a small subset of patients, when indicated.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

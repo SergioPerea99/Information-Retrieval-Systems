@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952013000200013</identifier>
+<datestamp>2013-04-23</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Yuste,Claudia]]></dc:creator>
+<dc:creator><![CDATA[Abad,Soraya]]></dc:creator>
+<dc:creator><![CDATA[Vega,Almudena]]></dc:creator>
+<dc:creator><![CDATA[Barraca,Daniel]]></dc:creator>
+<dc:creator><![CDATA[Bucalo,Laura]]></dc:creator>
+<dc:creator><![CDATA[Pérez-de José,Ana]]></dc:creator>
+<dc:creator><![CDATA[López-Gómez,Juan M.]]></dc:creator>
+<dc:subject><![CDATA[Bioimpedancia espectroscópica]]></dc:subject>
+<dc:subject><![CDATA[Nutrición]]></dc:subject>
+<dc:subject><![CDATA[Hemodiálisis]]></dc:subject>
+<dc:subject><![CDATA[Parámetros analíticos]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.33 n.2 2013]]></dc:source>
+<dc:date>2013-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952013000200013</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Valoración del estado nutricional en pacientes en hemodiálisis]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Assessment of nutritional status in haemodialysis patients]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[La malnutrición es un problema frecuente y un factor de riesgo de mortalidad en pacientes en hemodiálisis. Sin embargo, no existe un consenso para evaluarla. Objetivo: Evaluar la relación entre el estado nutricional medido por bioimpedancia espectroscópica (BIS) y los parámetros analíticos nutricionales, así como la evolución nutricional, valorada como sus modificaciones, en un año. Métodos: Estudio prospectivo observacional de 124 pacientes en hemodiálisis (edad 61,2 [±15,8] años, varones 62,9 %, diabéticos 33,1 %). Los parámetros analíticos nutricionales y la BIS se realizaron basalmente y al año. Resultados: El índice de masa magra (IMM) basal (medio 13,3 ± 3,6 kg/m²) se correlaciona de forma directa con el sexo masculino (p =0,01) e inversamente con la edad (p = 0,006). Basalmente el índice de masa grasa (IMG) (medio 11,2 ± 6,1 kg/m²)se correlaciona de forma directa con el índice de masa corporal (p < 0,001) y el sexo femenino (p = 0,004). No encontramos asociación con la comorbilidad o los parámetros inflamatorios. No observamos correlación entre las modificaciones de masa magra o masa grasa con las modificaciones de parámetros nutricionales. Los pacientes con ganancia de IMM (&gt; 0 kg/m²) presentan albúmina sérica basal más baja (p = 0,017), menor IMM basal (p < 0,001) y mayor IMG basal (p = 0,027). Los pacientes con pérdida de IMG (< 0 kg/m²) presentan menores cifras de tensión arterial sistólica(p = 0,04). Conclusión: La valoración del estado nutricional mediante parámetros analíticos no presenta una buena relación con los parámetros de composición corporal ni con sus modificaciones.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Malnutrition is a common problem and a risk factor of mortality in haemodialysis patients. However, there is no consensus for its assessment. Objective: To assess the relationship between nutritional status, measured by bioimpedance spectrometry (BIS), and laboratory markers of nutritional status, as well as nutritional evolution and its changes after 1 year. Methods: We performed an observational prospective study on 124 haemodialysis patients (aged 61.2 [±15.8] years, 2.9% were males, 33.1% were diabetic. Laboratory markers of nutritional status and BIS were implemented at baseline and after one year. Results: At baseline, lean mass index (LMI) (13.3 [±3.6] Kg/m²) was inversely correlated with age (P=.006), and directly with male gender (P=.01). At baseline, the fat mass index (FMI) (mean 11.2 ± 6.1kg/m²) correlates directly with the body mass index (P<.001) and the female gender (P=.004). We found no association with comorbidity or inflammatory markers. We did not observe any correlation between lean mass or fat mass modifications and nutritional marker modifications. Patients with LMI gain (&gt;0kg/m²) have lower baseline serum albumin (P=.017), lower baseline LMI (P<.001) and higher baseline FMI (P=.027). Patients with FMI loss (<0kg/m²) have lower systolic blood pressure (P=.04). Conclusions: Assessment of nutritional status through laboratory parameters does not have a good correlation with body composition parameters or with their modifications.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>
