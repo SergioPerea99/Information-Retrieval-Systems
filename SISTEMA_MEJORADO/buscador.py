@@ -99,7 +99,7 @@ class Buscador(object):
             
             similitud_docs_consulta = sorted(similitud_docs_consulta.items(),reverse = True, key=operator.itemgetter(1))
             #SALIDA POR PANTALLA DE LOS N DOCUMENTOS CON MAYOR SIMILITUD 
-            archivo2.write("Consulta "+str(cont)+": "+self.dicc_consultas[cont]+"\n")
+            archivo2.write("Consulta: "+self.dicc_consultas[cont]+"\n")
             #print("\nConsulta "+str(cont)+": "+self.dicc_consultas[cont])
             
             i = 0

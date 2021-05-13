@@ -242,7 +242,7 @@ else:
     config.read('conf.ini')
     
     ruta_fichero_consultas = config['ONLINE']['ruta_fich_consultas']
-    archivo = open(ruta_fichero_consultas,"w")
+    archivo = open(ruta_fichero_consultas,"w", encoding='utf8')
     archivo.write(str(buscador_input["name"].value)+"\n")
     archivo.close()
     
@@ -255,9 +255,27 @@ else:
     archivos = [join(rutaColeccion,nombre) for nombre in contenido]
     
     for consulta in archivos:
-        fichero = open(consulta,"r")
+        fichero = open(consulta,"r",encoding='utf8')
+        i = 0
         for linea in fichero:
-            print("""<p class="text-center">%s</p>""" % (linea))
+            if i == 0:
+                print("""<div class="container">
+                      <form id="survey-form">
+                      <div class="form-group">
+                      <p id="description" class="description text-center">%s</p>
+                      </div>        
+                      </form>
+                      </div>""" % (linea))
+            else:
+                if linea != '\n':
+                    print("""<div class="container">
+                          <form id="survey-form">
+                          <div class="form-group">
+                          <p class="text-center">%s</p>
+                          </div>        
+                          </form>
+                          </div>""" % (linea))
+            i += 1
         fichero.close()
    
     

@@ -11,7 +11,6 @@ print("Content-Type: text/html")
 print()
 
 
-
 print("""<div class="container">
   <header class="header">
     <h1 id="title" class="text-center">COLECCIÓN SciELO.</h1>
@@ -19,7 +18,7 @@ print("""<div class="container">
       REVISTAS CIENTÍFICAS ESPAÑOLAS DE CIENCIAS DE LA SALUD.
     </p>
   </header>
-  <form id="survey-form" method="post" action="obtener_datos.py">
+  <form id="survey-form" method="post" action="obtener_datos.py accept-charset="UTF-8">
     <div class="form-group">
       <label id="name-label" for="name"></label>
       <input
