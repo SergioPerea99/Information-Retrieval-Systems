@@ -20,6 +20,39 @@ from os.path import join
 print("Content-Type: text/html")
 print()
 print("<html>")
+
+
+print("""<style type="text/css">
+  form {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+form input {
+  width: 90%;
+  height: 30px;
+  margin: 0.5rem;
+}
+
+form button {
+  padding: 0.5em 1em;
+  border: none;
+  background: rgb(100, 200, 255);
+  cursor: pointer;
+}
+  </style>""")
+
+print("""
+    <head><title>SERGCHING</title></head>
+    <form method="post" action="obtener_datos.py">
+        <input name="name" type="text" /> <button>BUSCAR</button>  <br />
+    </form>""")
+
 buscador_input = cgi.FieldStorage()
 
 if "name" not in buscador_input:
@@ -50,4 +83,8 @@ else:
             print("<p>%s</p>" % (linea))
         fichero.close()
    
+    
+
+  
 print("</html>")
+
