@@ -250,11 +250,15 @@ if ejecucion_offline:
     
 #---------------------------------------------------------------------
 #EJECUCIÓN DE LA PRÁCTICA 1.6: Ficheros de pesos normalizados y no normalizados.
-
 fich_consultas = config['ONLINE']['ruta_fich_consultas']
 num_doc_relevantes = config['ONLINE']['num_doc_relevantes']
 num_doc_relevantes = int(num_doc_relevantes)
 buscador = Buscador(config, fich_consultas, num_doc_relevantes)
 buscador.procesar_pesos()
+
+
+
+
+
 
 

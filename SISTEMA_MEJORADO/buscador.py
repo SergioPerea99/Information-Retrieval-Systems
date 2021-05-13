@@ -70,12 +70,14 @@ class Buscador(object):
         
         cont = 1
         ruta_fichero_resultados = self.config['ONLINE']['ruta_ficheros_consultas_resultados']
+        ruta_fichero_resultados_ordenados = self.config['ONLINE']['ruta_ficheros_consultas_resultados_ordenados']
         for consulta in self.lista_consultas:
             #Calculo de los pesos normalizados por consulta
             pesos_palabras = fich_pesosNorm_online.pesos_palabras_consulta(indice_idf_offline, consulta, indice_dicc_palabras_invertidas)
             pesos_palabras_norm = fich_pesosNorm_online.normalizar_pesos_consulta(pesos_palabras)
             
             archivo = open(join(ruta_fichero_resultados,"consulta"+str(cont)+".txt"),"w")
+            archivo2 = open(join(ruta_fichero_resultados_ordenados,"consulta"+str(cont)+".txt"),"w")
             
             #Calculo de la similitud de la consulta con los documentos de la colección
             similitud_docs_consulta = {}
@@ -97,12 +99,14 @@ class Buscador(object):
             
             similitud_docs_consulta = sorted(similitud_docs_consulta.items(),reverse = True, key=operator.itemgetter(1))
             #SALIDA POR PANTALLA DE LOS N DOCUMENTOS CON MAYOR SIMILITUD 
-            print("\nConsulta "+str(cont)+": "+self.dicc_consultas[cont])
+            archivo2.write("Consulta "+str(cont)+": "+self.dicc_consultas[cont]+"\n")
+            #print("\nConsulta "+str(cont)+": "+self.dicc_consultas[cont])
             
             i = 0
             for id_doc in similitud_docs_consulta:
                 if i < self.doc_max:
-                    print(str(id_doc[1])+" "+str(indice_dicc_documentos[id_doc[0]]))
+                    archivo2.write(str(id_doc[1])+" "+str(indice_dicc_documentos[id_doc[0]])+"\n")
+                    #print(str(id_doc[1])+" "+str(indice_dicc_documentos[id_doc[0]]))
                 else:
                     break
                 i += 1
