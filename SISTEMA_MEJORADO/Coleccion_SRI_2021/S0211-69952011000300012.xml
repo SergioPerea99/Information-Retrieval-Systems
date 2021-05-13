@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952011000300012</identifier>
+<datestamp>2011-11-15</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Serra,N.]]></dc:creator>
+<dc:creator><![CDATA[Oliveras,A.]]></dc:creator>
+<dc:creator><![CDATA[Bergoñon,S.]]></dc:creator>
+<dc:creator><![CDATA[Sans,L.]]></dc:creator>
+<dc:creator><![CDATA[Cobos,A.]]></dc:creator>
+<dc:creator><![CDATA[Martínez,P.]]></dc:creator>
+<dc:creator><![CDATA[Artigas,R.]]></dc:creator>
+<dc:creator><![CDATA[Poch,E.]]></dc:creator>
+<dc:subject><![CDATA[Hipertensión arterial]]></dc:subject>
+<dc:subject><![CDATA[Diabetes mellitus tipo 2]]></dc:subject>
+<dc:subject><![CDATA[Presión arterial]]></dc:subject>
+<dc:subject><![CDATA[Tratamiento]]></dc:subject>
+<dc:subject><![CDATA[Control de la hipertensión arterial]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.31 n.3 2011]]></dc:source>
+<dc:date>2011-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952011000300012</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Factores asociados al control de la presión arterial en pacientes con diabetes tratados en unidades de nefrología: Estudio PRESDIAB]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Factors associated with blood pressure control in diabetic patients treated in nephrology units: PRESDIAB Study]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Fundamento y objetivo: La mayoría de pacientes hipertensos no alcanza los objetivos de control de la presión arterial (PA), especialmente si son diabéticos. El objetivo del estudio fue evaluar el porcentaje de control estricto de la PA definida como PA <130/80 mmHg e identificar factores asociados al mismo en pacientes diabéticos tipo 2 (DM2) tratados en unidades de nefrología. Pacientes y método: Estudio observacional y transversal, en el que se incluyeron 526 pacientes con DM2 e hipertensión arterial (HTA). Se recogieron datos demográficos, antropométricos, hábitos tóxicos, antecedentes de enfermedad cardiovascular (ECV), medidas de PA, función renal, control glicémico, perfil lipídico y tratamiento farmacológico, entre otros. Resultados: La edad media (DE) fue de 66 (10,6) años, con un 61% de hombres, un 12,8% de fumadores, un 39,4% con antecedentes de ECV, un 72% con hipercolesterolemia, y 44% con obesidad. El porcentaje de control estricto de la PA (<130/80 mmHg) fue del 17,5% (intervalo de confianza [IC] 95%: 14,3-21,0), mientras que un 36,9% tenían la PA por debajo de 140/85 mmHg. Un 71,1% de pacientes recibía dos o más tratamientos antihipertensivos. Diversos factores se asociaron con falta de control estricto de la PA, de los cuales, tras análisis de regresión logística, destacaban los valores de colesterol LDL (odds ratio [OR] 0,55; IC 95%: 0,41-0,75 para un aumento de 1 DE). Conclusiones: En pacientes con DM2 atendidos en unidades de nefrología, el porcentaje del control estricto de la PA es inferior al 20% en la clínica. Los niveles de colesterol parece el principal factor asociado con el control insuficiente de PA en la población estudiada.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background and objective: Most hypertensive patients do not reach target blood pressure (BP), especially if they are diabetic. The objective of the study is to assess the percentage of tight BP control, defined as BP<130/80mm Hg and identify factors associated with it in diabetic type 2 (DM2) patients treated in nephrology units. Patients and methods: Observational and cross-sectional study; we included 526 patients with DM2 and arterial hypertension (AHT). We collected data on: demographics, anthropometrics, harmful habits, history of cardiovascular disease (CVD), blood pressure, kidney function, glycaemic control, lipid profile, and drug treatment, among others. Results: The mean age (SD) was 66 (10.6) years, 61% were male, 12.8% were smokers, 39.4% had a history of CVD, 72% had hypercholesterolemia, and 44% were obese. Seventeen point five percent of patients had tight BP control (<130/80mm Hg) (95% confidence interval [CI]:14.3-21.0), while 36.9% had BP below 140/85mm Hg. Seventy-one percent of patients were prescribed two or more anti-hypertensive treatments. Several factors are associated with tight BP control not being achieved, and the logistic regression analysis revealed that LDL cholesterol levels were significantly associated (odds ratio [OR] 0.55; 95% CI:0.41-0.75 for one standard deviation increase). Conclusions: Of the DM2 patients that attended the nephrology units, less than 20% achieved a tight BP control. Cholesterol levels seem to be the main factor associated with unsatisfactory BP control within our study population.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

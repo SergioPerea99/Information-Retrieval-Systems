@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952016000300011</identifier>
+<datestamp>2017-10-19</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Lobo-Rodríguez,Carmen]]></dc:creator>
+<dc:creator><![CDATA[García-Pozo,Ana M.]]></dc:creator>
+<dc:creator><![CDATA[Gadea-Cedenilla,Carmen]]></dc:creator>
+<dc:creator><![CDATA[Moro-Tejedor,M. Nieves]]></dc:creator>
+<dc:creator><![CDATA[Pedraz Marcos,Azucena]]></dc:creator>
+<dc:creator><![CDATA[Tejedor-Jorge,Alberto]]></dc:creator>
+<dc:subject><![CDATA[Hiponatremia]]></dc:subject>
+<dc:subject><![CDATA[Anciano]]></dc:subject>
+<dc:subject><![CDATA[Accidentes por caídas]]></dc:subject>
+<dc:subject><![CDATA[Factores de riesgo]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.36 n.3 2016]]></dc:source>
+<dc:date>2016-06-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952016000300011</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Prevalencia de hiponatremia en pacientes mayores de 65 años que sufren una caída intrahospitalaria]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Prevalence of hyponatraemia in patients over the age of 65 who have an in-hospital fall]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Resumen  Fundamento y objetivo: La hiponatremia es el trastorno electrolítico más frecuente. Algunos estudios afirman que aumenta la morbimortalidad. Existen nuevas líneas de investigación que buscan la relación entre hiponatremia y caídas.  Objetivo: Determinar si la hiponatremia es un factor relacionado con las caídas en ancianos hospitalizados.  Método: Diseño observacional analítico de casos y controles.  Población de estudio: Se consideraron casos los pacientes mayores de 65 años que experimentaron una caída durante su ingreso en unidades de hospitalización del Hospital General Universitario Gregorio Marañón de Madrid. Los controles fueron pacientes que no experimentaron caída, pareados según las variables: unidad, edad, periodo de ingreso, género y Downton. El tamaño fue de 206 sujetos.  Recogida de datos: Se estudiaron factores sociodemográficos, las variables incluidas en la ficha de registro de caídas y escala de Downton, y el sodio sérico. Se consideró hiponatremia Na+ &lt; 135 mmol/l.  Análisis: Se realizó un análisis descriptivo para valorar la homogeneidad de la muestra, un análisis analítico utilizando el test chi cuadrado, calculando la OR y un análisis multivariante con regresión logística.  Resultados: De 103 casos, 61 eran hombres (50,4%) y 42 mujeres (49,4%). En 29 se detectó hiponatremia; la relación con las caídas fue p: 0,002. La OR ajustada fue de 3,708 (1,6-8,3), IC 95%. Se identificaron como factores de riesgo para las caídas: hiponatremia y déficits sensoriales en extremidades.  Conclusiones: Dado que la hiponatremia puede considerarse un factor de riesgo de caídas, sería importante valorar la inclusión de la determinación de sodio sérico dentro de las estrategias de prevención de caídas en ancianos.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Abstract  Background and aim: Hyponatraemia is the most common electrolyte disorder. Some studies have found that it increases morbidity and mortality. There are new lines of research that are investigating the link between hyponatraemia and patient falls.  Aim: To determine if hyponatraemia is associated with falls in elderly hospitalised patients.  Methods: Design observational, analytical, case-control study.  Study population: Patients older than 65 years who had fallen during their hospitalisation at Gregorio Marañón Hospital (Madrid) were considered cases. Patients who did not fall were considered to be controls, paired according to the following variables: hospital ward, age, length of hospital stay, gender and Downton fall risk index. The sample size was 206 subjects.  Data collection: Socio-demographic factors, variables included in the falls record sheet, Downton fall risk index and sodium levels were studied (hyponatraemia was considered Na+ &lt; 135 mmol/l).  Analysis: A descriptive analysis was performed to determine the sample homogeneity. The OR was calculated, and an analytical analysis using Chi-square test and a multivariate logistic regression analysis were also performed.  Results: Of 103 cases recruited, 61 were men (50.4%) and 42 were women (49.4%). Hyponatraemia was detected in 29 cases with an association with falls of P: 0.002. The adjusted OR was 3.708 (1.6-8.3), 95% CI. Risk factors for falls were identified as hyponatraemia and limb sensory deficits.  Conclusions: Given that hyponatraemia could be considered a risk factor for falls, the inclusion of the determination of sodium level would be important for fall prevention strategies in the elderly.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952011000600009</identifier>
+<datestamp>2012-02-20</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Teruel Briones,J.L.]]></dc:creator>
+<dc:creator><![CDATA[Gomis Couto,A.]]></dc:creator>
+<dc:creator><![CDATA[Sabater,J.]]></dc:creator>
+<dc:creator><![CDATA[Fernández Lucas,M.]]></dc:creator>
+<dc:creator><![CDATA[Rodríguez Mendiola,N.]]></dc:creator>
+<dc:creator><![CDATA[Villafruela,J.J.]]></dc:creator>
+<dc:creator><![CDATA[Quereda,C.]]></dc:creator>
+<dc:subject><![CDATA[Filtrado glomerular]]></dc:subject>
+<dc:subject><![CDATA[Ecuación CKD-EPI]]></dc:subject>
+<dc:subject><![CDATA[Ecuación MDRD]]></dc:subject>
+<dc:subject><![CDATA[Ecuación de Cockroft-Gault]]></dc:subject>
+<dc:subject><![CDATA[Insuficiencia renal crónica]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.31 n.6 2011]]></dc:source>
+<dc:date>2011-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952011000600009</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Validación de la fórmula Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) en la insuficiencia renal crónica avanzada]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Validation of the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation in advanced chronic renal failure]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: La ecuación clásica Modification of Diet in Renal Disease (MDRD) subestima el filtrado glomerular en los valores más altos. Para aumentar su concordancia en los estadios 1 y 2 de la enfermedad renal crónica se ha establecido una nueva fórmula: la ecuación Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI). Objetivo: El objetivo del presente estudio es comprobar si la nueva ecuación es mejor que la MDRD en la estimación del filtrado glomerular en la insuficiencia renal crónica avanzada, en una población como la nuestra que tiene unas características antropométricas distintas de las de la población norteamericana. Material y métodos: En 89 pacientes con enfermedad renal crónica en estadios 4 y 5, hemos estudiado el grado de concordancia entre el filtrado glomerular medido como la media de los aclaramientos de urea y creatinina (AclUrCr) y el estimado por las ecuaciones MDRD, CKD-EPI y Cockcroft-Gault (CG). La concentración de creatinina corresponde a creatinina estandarizada. La variabilidad de cada una de las ecuaciones fue estudiada mediante la diferencia relativa (diferencia absoluta con el AclUrCr expresada como porcentaje de la media entre el AclUrCr y la ecuación analizada). Resultados: El filtrado glomerular medido por el AclUrCr y el estimado por las ecuaciones MDRD, CKD-EPI y CG fue respectivamente de 14,5 ± 5,5, 14,3 ± 5,5, 13,6 ± 5,4 y 16,8 ± 6,5 ml/min/1,73 m². No hay diferencia estadísticamente significativa del AclUrCr con la ecuación MDRD, pero sí con la ecuación CPK-EPI (p <0,01) y con la ecuación CG (p <0,001). La variabilidad de las diferentes ecuaciones con respecto al AclUrCr fue de 16 ± 12,2%, 16,7 ± 12,1% y 22 ± 15,6%, para las ecuaciones MDRD, CKD-EPI y CG, respectivamente (p <0,01 entre la ecuación CG y las dos ecuaciones previas). El porcentaje de mediciones que se encontraban dentro del 30% por encima o por debajo del valor conseguido con el método de referencia fue del 85% de las realizadas con la ecuación MDRD, del 88% con la ecuación CKD-EPI y del 70% de las realizadas con la ecuación CG. La variabilidad de las ecuaciones MDRD y CKD-EPI no se ve influida por el sexo, ni se correlacionó con la edad, el índice de masa corporal ni con el filtrado glomerular medido como AclUrCr. Por el contrario, la variabilidad de la ecuación CG era menor en hombres (19,3 ± 15,1 frente a 27,3 ± 15,5%; p <0,05) y tenía una correlación negativa con la edad (r = -0,24; p <0,05) y con el filtrado glomerular (r = -0,23; p <0,05), y positiva con el índice de masa corporal (r = 0,37; p <0,001). Conclusiones: Podemos concluir que en nuestra población con insuficiencia renal crónica avanzada, la ecuación CKD-EPI tiene una equivalencia con el filtrado glomerular medido como la media de los aclaramientos de urea y creatinina, similar al de la ecuación MDRD. Con la creatinina estandarizada, la ecuación CG pierde concordancia y su utilización debe ser reconsiderada.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: The aim of this work was to study the accuracy of the CKD-EPI equation to estimate the glomerular filtrate in patients with advanced chronic renal failure. Objective: We compared the estimations of Modification of Diet in Renal Disease (MDRD), Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) and Cockcroft-Gault (CG) equations to a glomerular filtration rate measured as the arithmetic mean of the urea and creatinine clearances (ClUrCr). Material and methods: The study was made in 89 nondialyzed patients with chronic renal disease in stage 4 or 5. Serum creatinine values were recalibrated to standardized creatinine measurements. In each patient, the difference between each estimating equation and the measured glomerular filtration rate was calculated. The absolute difference expressed as a percentage of the measured glomerular filtration rate indicates the intermethod variability. Results: Overall, the glomerular filtration rate measured as the ClUrCr was 14.5 ± 5.5 ml/min/1.73 m²; and the results of the estimating equations were: MDRD 14.3 ± 5.5 (p = NS); CKD-EPI 13.6 ± 5.4 (p <0.01) and CG 16.8 ± 6.5 ml/min/1.73 m² (p <0.001). The variability of the estimating equations was 16 ± 12.2%, 16.7 ± 12,1% and 22 ± 15.6% (p <0.05), for MDRD, CKD-EPI and CG. The percentage of estimates within 30% above or below the measured glomerular filtration rate was 85% for MDRD, 88% for CKD-EPI and 70% for CG. The CG variability, but not MDRD variability or CKD-EPI variability, was influenced by gender (19.3 ± 15.1% in males vs 27.3 ± 15.5% in females, p <0.05) and showed a negative correlation with the glomerular filtration rate (r = -0. 23, p <0.05) and the age (r = -0.24, p <0.05) and positive correlation with the body mass index (r = 0.37, p <0.001). In patients with chronic renal disease in stage 5, the variability of the different estimating equations was similar. Conclusions: We conclude that in our population with advanced chronic renal failure, the CKD-EPI equation is as accuracy as the MDRD equation. With standardized creatinine the CG equation has a lower accuracy and its utilization may be reconsiderated.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

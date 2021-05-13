@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952010000200013</identifier>
+<datestamp>2010-07-14</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Rosa Diez,Guillermo Javier]]></dc:creator>
+<dc:creator><![CDATA[Bevione,P.]]></dc:creator>
+<dc:creator><![CDATA[Crucelegui,M.S.]]></dc:creator>
+<dc:creator><![CDATA[Bratti,G.]]></dc:creator>
+<dc:creator><![CDATA[Bonfanti,W.]]></dc:creator>
+<dc:creator><![CDATA[Varela,F.]]></dc:creator>
+<dc:creator><![CDATA[Algranati,S.]]></dc:creator>
+<dc:creator><![CDATA[Giannasi,S.]]></dc:creator>
+<dc:creator><![CDATA[San Román,E.]]></dc:creator>
+<dc:creator><![CDATA[Heguilen,R.]]></dc:creator>
+<dc:creator><![CDATA[Greloni,G.]]></dc:creator>
+<dc:subject><![CDATA[Insuficiencia renal aguda]]></dc:subject>
+<dc:subject><![CDATA[Dosis de diálisis]]></dc:subject>
+<dc:subject><![CDATA[Kt. Kt/V]]></dc:subject>
+<dc:subject><![CDATA[Porcentaje de reducción de urea]]></dc:subject>
+<dc:subject><![CDATA[Dialisancia iónica]]></dc:subject>
+<dc:subject><![CDATA[OCM]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.30 n.2 2010]]></dc:source>
+<dc:date>2010-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952010000200013</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[La determinación del Kt por dialisancia iónica es una herramienta útil para la evaluación de la dosis de diálisis en pacientes críticos]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Measuring Kt by ionic dialysance is a useful tool for assessing dialysis dose in critical patients]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Objetivo: Evaluar la determinación de Kt (KtOCM) por dialisancia iónica en los pacientes sometidos a terapia de reemplazo renal (TRR) por insuficiencia renal aguda (IRA) atendidos en una unidad de cuidados intensivos (UCI), comparándola con el Kt obtenido mediante el cálculo del índice de remoción de urea obtenido por recogida del dializado (Kturea). Materiales y métodos: Se incluyeron 18 pacientes adultos, con IRA oligúrica ingresados en la UCI, con requerimiento de TRR, tratados con hemodiálisis intermitente y/o diálisis extendida. Las TRR fueron realizadas con equipos Fresenius 4008E equipados con un monitor de aclaramiento "on-line" (OCM Fresenius). La determinación de KtOCM fue realizada automáticamente por el monitor. Se efectuaron la correlación y la comparación entre KtOCM y Kturea utilizando el análisis de correlación de Spearman y el test de la t, respectivamente. Resultados: Sobre 35 tratamientos efectuados, la media de KtOCM no fue estadísticamente diferente de la del Kturea (34,9 &plusmn; 10,69 frente a 32,78 &plusmn; 11,31; NS). Se obtuvo una importante correlación y una relación lineal significativa entre los dos métodos (r = 0,87; p <0,001; intervalo de confianza [IC] 95%, 0,76-0,94%). Conclusiones: La determinación del Kt por dialisancia iónica es un método simple para estimar la dosis de diálisis en pacientes críticos y es una herramienta útil para monitorizar y ajustar las TRR en tiempo real de acuerdo con una dosis objetivo.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Aim: To evaluate the Kt assessed through ionic dializance (KtOCM) in UCI patients undergoing renal replacement therapy for acute kidney injury, comparing the results with those obtained through the urea removal rate method determined by dialyzate collection (Kturea). Material and methods: 18 adult UCI staying individuals suffering from renal replacement therapy requiring oliguric acute kidney injury were included in this study. RRT consisted in intermitent or extended hemodialysis performed through a Fresenius 4008E dialysis machine equiped with an on-line clearance monitor (OCM Fresenius). The KtOCM results were provided automatically. The Spearman correlation test was used to assess the relationship between the two exploratory methods and the Student's t test to compare the results obtained by the KtOCM and the Kturea. Results: 35 treatments were analyzed. There were not statistically significant differences between the results form the KtOCM and the Kturea (34.9 &plusmn; 10.69 vs 32.78 &plusmn; 11.31, p = NS). A remarkable association was find between both methods (r = 0.87; 95CI, 0.76-0.94; p <0.001). Conclusions: The assessment of Kt through ionic dialyzance is a simple method to estimate the dose of dialysis in critically ill patients and is and useful tool to monitor and adjust the RRT in real time according to a target dose.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

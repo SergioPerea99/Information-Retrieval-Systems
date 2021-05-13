@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952010000300010</identifier>
+<datestamp>2010-09-15</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Molina Núñez,Manuel]]></dc:creator>
+<dc:creator><![CDATA[Roca Meroño,S.]]></dc:creator>
+<dc:creator><![CDATA[Alcorcón Jiménez,R.M. de]]></dc:creator>
+<dc:creator><![CDATA[García Hernández,M.A.]]></dc:creator>
+<dc:creator><![CDATA[Jimeno Griñó,C.]]></dc:creator>
+<dc:creator><![CDATA[Álvarez Fernández,G.M.]]></dc:creator>
+<dc:creator><![CDATA[Navarro Parreño,M.J.]]></dc:creator>
+<dc:creator><![CDATA[Pérez Silva,F.M.]]></dc:creator>
+<dc:subject><![CDATA[Adecuación]]></dc:subject>
+<dc:subject><![CDATA[Kt]]></dc:subject>
+<dc:subject><![CDATA[Dosis de diálisis]]></dc:subject>
+<dc:subject><![CDATA[Indicadores de calidad]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.30 n.3 2010]]></dc:source>
+<dc:date>2010-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952010000300010</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Cálculo del Kt como indicador de calidad en el área de adecuación en hemodiálisis]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Kt calculation as a quality indicator of haemodialysis adequacy]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[La dosis de diálisis es un marcador de diálisis adecuada, y el Kt/V es el indicador más frecuentemente utilizado. La medición de la dosis con Kt permite una mejor discriminación en la adecuación e identifica a un porcentaje de pacientes que quizás no alcanzarían una dosis adecuada para su género o superficie corporal, pese a que el Kt/V supere el mínimo establecido. El propósito de este estudio fue evaluar el Kt como indicador de dosis de diálisis en población prevalente en hemodiálisis, con el objetivo de que más del 85% de los pacientes alcancen un Kt óptimo según el género (cuando su valor es superior a 50 l en varones y 45 l en mujeres) o la superficie corporal. En todos los pacientes (129 de media) se determina el valor promedio del Kt de tres sesiones consecutivas, con periodicidad bimensual, durante los 14 meses de duración del estudio. Al inicio, el 93,2% de los pacientes presentaban un Kt/V mayor de 1,3, frente al 58% con Kt óptimo por género. En el cuarto mes, el 85% de los pacientes alcanzaban el Kt objetivo por género, frente a un 68% según la superficie corporal. A partir del sexto mes y hasta el final, más del 85% de los pacientes alcanzaban el Kt prescrito por superficie corporal (p <0,001), con un incremento del Kt (p <0,001) de 5,4 l entre el inicio y el final del estudio. Se incrementó el flujo sanguíneo en 34,14 ml/min (p <0,001), el tiempo efectivo en 8,04 minutos (p <0,001), el 24,1% de pacientes con un dializador de mayor superficie (p <0,001) y el 56,8% de tratados con hemodiafiltración on-line (p <0,001). Concluimos que, pese a que el Kt se muestra más exigente que el Kt/V, su uso como indicador de calidad de dosis de diálisis es compatible con los estándares de calidad más ambiciosos.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[The haemodialysis dose is a good marker of dialysis adequacy, and we usually monitor it with Kt/V measure. The dialysis dose monitored with Kt allows a better discrimination, detecting a percentage of the patients that perhaps do not get an adequate dose for their gender or body surface area after treatment with a minimum recommended dose of Kt/V. The objective of this study was to evaluate Kt as a clinical indicator referred to dialysis adequacy in the haemodialysis population. The aim was that more than 85% of the patients would achieve the recommended Kt target for their gender (at least 50 litres in men and 45 litres in women), or their body surface area. In each of the patients (mean 129) the Kt mean value was determined for three consecutive dialysis sessions, one every two months, during the follow-up period (14 months). At the beginning, the Kt/V value was on target (> 1.3) in 93.2% of the patients, but only in 58% according to Kt measure for their gender. After 4 months, we observed that 85% of patients' Kt target increased for their gender, but only 68% did if we used the Kt individualised for their body surface area. From month 6 to the end of the follow-up period, more than 85% of patients obtained an adequate Kt for their body surface area (p < 0.001). A significant increase of Kt mean (5.4 litres) was observed at the end of the study (p < 0.001). The usual dialysis prescription parameters were modified increasing blood flow rate (34.14ml/min, p < 0.001), session effective duration (8.04 minutes, p < 0.001), dialyser surface area (24.1% of patients changed from helixone 1.3 to 1.6m², p < 0.001) and haemodialysis modality (56.8% of patients changed from conventional haemodialysis to on-line haemodiafiltration, p < 0.001). We conclude that monitoring dialysis dose with Kt is a good clinical measure of adequacy, and using it as a quality indicator can be done in line with the more demanding quality standards.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

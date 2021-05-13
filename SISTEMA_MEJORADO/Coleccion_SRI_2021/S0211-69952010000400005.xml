@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952010000400005</identifier>
+<datestamp>2011-01-20</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Durán,C.E.]]></dc:creator>
+<dc:creator><![CDATA[Torregrosa,J.V.]]></dc:creator>
+<dc:creator><![CDATA[Canalejo,A.]]></dc:creator>
+<dc:creator><![CDATA[Almadén,Y.]]></dc:creator>
+<dc:creator><![CDATA[Campistol,J.M.]]></dc:creator>
+<dc:creator><![CDATA[Rodríguez Portillo,M.]]></dc:creator>
+<dc:subject><![CDATA[Hiperparatiroidismo secundario]]></dc:subject>
+<dc:subject><![CDATA[Set-point de calcio]]></dc:subject>
+<dc:subject><![CDATA[Ciclo celular]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.30 n.4 2010]]></dc:source>
+<dc:date>2010-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952010000400005</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Dinámica in vitro de la secreción de hormona paratiroidea regulada por calcio y efecto sobre el ciclo celular: adenoma frente a hiperplasia paratiroidea]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[In vitro dynamics of parathyroid hormone secretion regulated by calcium and effects on the cell cycle: parathyroid hyperplasia versus adenoma]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Objetivo: Comparar in vitro la dinámica de la secreción de hormona paratiroidea (PTH) regulada por calcio y su relación con el ciclo celular en adenomas frente a hiperplasia de paratiroides. Material y métodos: Ocho adenomas de paratiroides y 23 glándulas hiperplásicas procedentes de 8 pacientes con hiperparatiroidismo primario y 7 pacientes con hiperparatiroidismo secundario, respectivamente. Para el estudio de la dinámica de secreción, pequeños fragmentos de tejido paratiroideo se transfirieron secuencialmente a intervalos de una hora a pocillos con concentraciones variables de calcio: 0,4, 0,6, 0,8, 1,0, 1,25, y 1,35 o 1,5 mM. Se determinaron las concentraciones de iPTH en el medio. Células paratiroides se aislaron sin el uso de enzimas y el ciclo celular paratiroideo se analizó por el método de Vindelov. El núcleo se adquirió por citometría de flujo y se analizó usando un software CELLFIT. Resultados: En los tejidos paratiroideos de las glándulas hiperplásicas, el aumento del calcio extracelular produjo una disminución de la secreción de PTH manifestada con valores de calcio de 0,8 mM y una inhibición máxima de secreción de PTH con un calcio de 1,25 mM. Por el contrario, en los tejidos de los adenomas de paratiroides se requirieron concentraciones de Ca de 1,2 mM para provocar una mínima disminución de la secreción de PTH. En los adenomas no hubo correlación entre las fases del ciclo celular y la calcemia o el set point , en las hiperplasias hubo una correlación significativa entre el porcentaje de células en fase G0/G1 con el set point (r = 0,914; p <0,005) y el calcio sérico basal (r = 0,862; p <0,02). Conclusiones: La regulación de la secreción de PTH por el calcio extracelular in vitro es menos sensible en adenomas que en glándulas hiperplásicas paratiroideas. En hiperplasia paratiroidea la proliferación celular parece estar regulada por la concentración de calcio extracelular (a mayor calcemia menor proliferación).]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Aim: To compare the dynamics of calcium-regulated PTH secretion in vitro from adenomatous versus hyperplastic glands and to investigate the relationship between the parathyroid cell cycle and the calcium-regulated PTH secretion in these glands. Materials and methods: A total of 31 parathyroid glands (8 adenomatous and 23 hyperplastic) from 8 patients with primary hyperparathyroidism and 7 with secondary hyperparathyroidism respectively were studied. For the evaluation of calcium-regulated PTH secretion, small parathyroid pieces of 1 mm were sequentially transferred to wells with varying Ca concentrations: 0.4, 0.6, 0.8, 1, 1.25 and 1.35 or 1.5 mM. PTH concentrations were determined in the medium. For the parathyroid cell cycle studies, parathyroid cells were isolated without the use of enzymes and cell cycle was analyzed using the method described by Vindelov. The nuclei were acquired by flow cytometer and analyzed using the CELLFIT software. Results: In parathyroid tissues from hyperplastic glands, the increase in extracellular calcium produced a decrease in PTH secretion which was apparent with a calcium level as low as 0.8 mM and the maximal inhibition of PTH secretion was obtained with a calcium of 1.25 mM, by the contrary, adenomatous glands required a calcium of 1.2 mM to produce a minimal decrease in PTH secretion. In hyperplastic parathyroid glands but not in parathyroid adenomas there was a significant correlation between the percentage of cells in G0/G1 phase with the set point (r = 0.914; P <0.005) and the basal serum Ca (r = 0.862; P <0.02). Conclusions: The control of the extracellular calcium-PTH release in vitro is less sensitive in parathyroid adenomas than hyperplasic parathyroid glands. In parathyroid hyperplasia the cell proliferation may be regulated by the extracellular calcium concentration (higher calcemia less proliferation).]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

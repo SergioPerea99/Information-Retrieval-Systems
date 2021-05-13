@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952014000500006</identifier>
+<datestamp>2014-11-11</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[López-Guerra,Eduardo A.]]></dc:creator>
+<dc:creator><![CDATA[Rodríguez-García,Víctor H.]]></dc:creator>
+<dc:creator><![CDATA[Rodríguez-Castellanos,Francisco E.]]></dc:creator>
+<dc:subject><![CDATA[Hiperfosfatemia]]></dc:subject>
+<dc:subject><![CDATA[Diálisis peritoneal]]></dc:subject>
+<dc:subject><![CDATA[Aclaramiento de creatinina]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.34 n.5 2014]]></dc:source>
+<dc:date>2014-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952014000500006</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Determinación del transporte peritoneal de fósforo como herramienta para el control del fósforo sérico]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Determination of peritoneal phosphate transport as a tool for controlling serum phosphorus]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: La hiperfosfatemia (fósforo sérico &#8805; 5,5 mg/dl) es un factor independiente de mortalidad en la población en diálisis. Comparamos el transporte peritoneal de fósforo, creatinina y urea para demostrar diferencias y señalar la relevancia de estos parámetros en el control del fósforo sérico. Material y métodos: Se incluyeron 60 pacientes en diálisis peritoneal y se determinó el índice dializante/plasma de fósforo (D/P P) y creatinina (D/P Cr), el aclaramiento semanal de fósforo (AclP) y creatinina (AclCr), Kt/V de urea semanal y la excreción peritoneal de fósforo (ExP). Resultados: El D/P P fue superior en pacientes con normofosfatemia, comparados con los que presentaron hiperfosfatemia, 0,61 ± 0,13 frente a 0,54 ± 0,10 (p = 0,035). Se observó una adecuada correlación entre el D/P P y el D/P Cr, r = 0,90, p < 0,05, pero una pobre concordancia entre ambos, con un límite inferior de -0,17 (-0,24 a -0,09 IC 95 %) y límite superior de 0,47 (0,39-0,54 IC 95 %) para el D/P Cr respecto al D/P P. El AclP tuvo una adecuada correlación con el D/P P en pacientes con Kt/V &#8805; 1,7 (r = 0,384, p = 0,04) y en anúricos (r = 0,392, p = 0,04), pero no con el D/P Cr. Hubo una pobre concordancia del AclCr respecto al AclP con límite inferior de -13,54 l/sem/1,73 m² SC (-21,68 a -5,4 IC 95 %) y límite superior de 58,98 l/sem/1,73 m² SC (50,84-67,12 IC 95 %). La ExP total se relacionó con el AclP (r = 0,643, p < 0,05), mientras que no lo hizo con el AclCr (r = 0,222, p = 0,23). Mediante el método CHAID se realizó un árbol de clasificación del transporte de fósforo con base en su D/P, obteniendo 5 nodos (&#8804; 0,5, 0,51-0,55, 0,56-0,66, 0,67-0,76, &gt; 0,76), mostrando diferencias estadísticamente significativas entre nodos para niveles séricos de fósforo, AclP total y peritoneal, así como Kt/V de urea semanal. Conclusiones: Las mediciones de D/P P y AclP no concuerdan con las mediciones de D/P Cr y AclCr, respectivamente, por lo que su determinación es una herramienta clínica para el control del nivel de fósforo sérico.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: Hyperphosphataemia (serum phosphorus &#8805;5.5mg/dl) is an independent mortality factor for the dialysis population. We compared phosphorus, creatinine and urea peritoneal transport to demonstrate differences and indicate the relevance of these parameters in the control of serum phosphorus. Material and method: We included 60 patients on peritoneal dialysis and determined the dialysate/plasma phosphorus (D/P P) and creatinine (D/P Cr) ratios, weekly creatinine clearance (CrCl) and phosphorus clearance (PCl), weekly Kt/V of urea, and peritoneal phosphorus excretion (PEx). Results: D/P P was higher in patients with normal phosphataemia, compared with those who were hyperphosphataemic 0.61±0.13 versus 0.54±0.10 (p=.035). We observed an adequate correlation between D/P P and D/P Cr, r=0.90, p<.05, but poor concordance between both, with a lower limit of -0.17 (-0.24 to -0.09 95% CI) and an upper limit of 0.47 (0.39-0.54 95% CI) for D/P Cr with respect to D/P P. PCl had an adequate correlation with D/P P in patients with a Kt/V &#8805;1.7 (r=0.384, p=.04) and in anuric patients (r=0.392, p=.04), but not with D/P Cr. There was poor concordance of the CrCl with respect to PCl with a lower limit of -13.54l/week/1.73m² BSA (-21.68 to -5.4 95% CI) and an upper limit of 58.98l/week/1.73m² BSA (50.84-67.12 95% CI). Total PEx was related to PCl (r=0.643, p<.05), while it was not related to CrCl (r=0.222, p=.23). Using the CHAID method, we created a classification tree for phosphorus transport based on its D/P, obtaining 5 nodes (&#8804;0.5, 0.51-0.55, 0.56-0.66, 0.67-0.76, &gt;0.76), with statistically significant differences between nodes for serum phosphorus, total and peritoneal PCl and weekly Kt/V of urea. Conclusions: D/P P and PCl are not concordant with D/P Cr and CrCl respectively and therefore their determination is a clinical tool to control serum phosphorus levels.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

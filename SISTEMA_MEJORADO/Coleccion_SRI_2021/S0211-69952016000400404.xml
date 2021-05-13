@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952016000400404</identifier>
+<datestamp>2017-10-19</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Caravaca,Francisco]]></dc:creator>
+<dc:creator><![CDATA[Chávez,Edgar]]></dc:creator>
+<dc:creator><![CDATA[Alvarado,Raúl]]></dc:creator>
+<dc:creator><![CDATA[García-Pino,Guadalupe]]></dc:creator>
+<dc:creator><![CDATA[Luna,Enrique]]></dc:creator>
+<dc:subject><![CDATA[Enfermedad renal crónica]]></dc:subject>
+<dc:subject><![CDATA[Prediálisis]]></dc:subject>
+<dc:subject><![CDATA[Muerte cardíaca súbita]]></dc:subject>
+<dc:subject><![CDATA[Mortalidad]]></dc:subject>
+<dc:subject><![CDATA[Riesgo cardiovascular]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.36 n.4 2016]]></dc:source>
+<dc:date>2016-08-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952016000400404</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Muerte súbita en pacientes con enfermedad renal crónica avanzada]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Sudden cardiac death in non-dialysis chronic kidney disease patients]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Resumen  Antecedentes: Una alta proporción de fallecimientos en pacientes tratados mediante diálisis ocurre de forma súbita e inesperada. La incidencia de muerte súbita (MS) en pacientes con enfermedad renal crónica (ERC) en estadios prediálisis es menos conocida.  Objetivos: Determinar la incidencia y factores asociados a la MS en una cohorte de 1.078 pacientes con ERC avanzada.  Métodos: Estudio de cohortes prospectivo y de observación, que incluyó a pacientes con ERC estadio 4-5 prediálisis. La asociación entre las variables basales y la MS fue analizada mediante modelos de regresión de Cox y de competencia de riesgo (Fine y Gray). Los datos demográficos, clínicos, la medicación y los parámetros bioquímicos basales de potencial interés fueron incluidos como covariables en el análisis predictivo.  Resultados: Durante el periodo de estudio (mediana de seguimiento 12 meses), fallecieron 210 pacientes (19%) y de forma súbita 34 casos (16% total de muertes). Las tasas de incidencia de muerte por cualquier causa y de MS fueron: 113 (IC 95%: 99-128) y 18 (IC 95%: 13-26) eventos por 1.000 pacientes/año, respectivamente. Mediante análisis de regresión de Cox, la edad, el índice de comorbilidad y el tratamiento con antiagregantes plaquetarios fueron las covariables que se asociaron significativamente con MS. Esta última covariable mostró un efecto beneficioso sobre el desarrollo de MS. En los modelos de regresión por competencia de riesgo, en los que el evento competidor fue la muerte no súbita por cualquier causa, solo la edad y el índice de comorbilidad se asociaron significativamente con la MS.  Conclusiones: La MS es relativamente frecuente en pacientes con ERC prediálisis. La MS se asoció significativamente con la edad y la comorbilidad, y varios datos indirectos de este estudio muestran que un infradiagnóstico o infratratamiento de la enfermedad cardiovascular podría predisponer a un mayor riesgo de MS.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Abstract  Background: A relatively high proportion of deaths in dialysis patients occur suddenly and unexpectedly. The incidence of sudden cardiac death (SCD) in non-dialysis advanced chronic kidney disease (CKD) stages has been less well investigated.  Objective: This study aims to determine the incidence and predictors of SCD in a cohort of 1078 patients with CKD not yet on dialysis.  Methods: Prospective observational cohort study, which included patients with advanced CKD not yet on dialysis (stage 4-5). The association between baseline variables and SCD was assessed using Cox and competing-risk (Fine and Grey) regression models. Demographic, clinical information, medication use, and baseline biochemical parameters of potential interest were included as covariates.  Results: During the study period (median follow-up time 12 months), 210 patients died (19%), and SCD occurred in 34 cases (16% of total deaths). All-cause mortality and SCD incidence rates were 113 (95% CI: 99-128), and 18 (95% CI: 13-26) events per 1000 patients/year, respectively. By Cox regression analysis, covariates significantly associated with SCD were: Age, comorbidity index, and treatment with antiplatelet drugs. This latter covariate showed a beneficial effect over the development of SCD. By competing-risk regression, in which the competing event was non-sudden death from any cause, only age and comorbidity index remained significantly associated with SCD.  Conclusions: SCD is relatively common in non-dialysis advanced CKD patients. SCD was closely related to age and comorbidity, and some indirect data from this study suggest that unrecognised or undertreated cardiovascular disease may predispose to a higher risk of SCD.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

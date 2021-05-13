@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952012000600013</identifier>
+<datestamp>2012-10-23</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Gràcia-Garcia,Sílvia]]></dc:creator>
+<dc:creator><![CDATA[Montañés-Bermúdez,Rosario]]></dc:creator>
+<dc:creator><![CDATA[Morales-García,Luis J.]]></dc:creator>
+<dc:creator><![CDATA[Díez-de los Ríos,M. José]]></dc:creator>
+<dc:creator><![CDATA[Jiménez-García,Juan Á.]]></dc:creator>
+<dc:creator><![CDATA[Macías-Blanco,Carlos]]></dc:creator>
+<dc:creator><![CDATA[Martínez-López,Rosalina]]></dc:creator>
+<dc:creator><![CDATA[Ruiz-Altarejos,Joaquín]]></dc:creator>
+<dc:creator><![CDATA[Ruiz-Martín,Guadalupe]]></dc:creator>
+<dc:creator><![CDATA[Sanz-Hernández,Sonia]]></dc:creator>
+<dc:creator><![CDATA[Ventura-Pedret,Salvador]]></dc:creator>
+<dc:subject><![CDATA[Ecuaciones de estimación del filtrado glomerular]]></dc:subject>
+<dc:subject><![CDATA[MDRD]]></dc:subject>
+<dc:subject><![CDATA[MDRD-IDMS]]></dc:subject>
+<dc:subject><![CDATA[Encuesta]]></dc:subject>
+<dc:subject><![CDATA[Informe de laboratorio]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.32 n.4 2012]]></dc:source>
+<dc:date>2012-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952012000600013</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Estado actual de la implementación de las ecuaciones de estimación del filtrado glomerular en los laboratorios españoles]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Current use of equations for estimating glomerular filtration rate in Spanish laboratories]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: En el año 2006, la Sociedad Española de Bioquímica Clínica y Patología Molecular (SEQC) y la Sociedad Española de Nefrología (S.E.N.) elaboraron un documento de consenso para facilitar el diagnóstico y seguimiento de la enfermedad renal crónica mediante la incorporación de la estimación del filtrado glomerular (FG) en los informes del laboratorio. La implementación y adhesión a las recomendaciones de dicho documento son desconocidas. Métodos: Encuesta dirigida a los laboratorios clínicos españoles realizada durante el período 2010-11, a través del correo electrónico o de contacto telefónico a los laboratorios participantes en el Programa de Garantía Externa de la Calidad de la SEQC, laboratorios de los hospitales incluidos en el Catálogo Nacional de Hospitales 2010, laboratorios de Atención Primaria y laboratorios privados. Resultados: 281 laboratorios respondieron a la encuesta. El 88,2% informaban la estimación del FG: el 61,9% mediante la ecuación MDRD y el 31,6% mediante la ecuación MDRD-IDMS. El 42,5% de los laboratorios aportaban el FG siempre que se solicitaba la medida de creatinina plasmática, y el resto sólo tras solicitud expresa de éste o asociado a perfiles analíticos. El 50,6% informaban cualquier valor de FG, mientras que el 46,2% sólo con el valor exacto los filtrados inferiores a 60 ml/min/1,73 m². En el 56,3% de los casos, el valor del filtrado se acompañaba de un comentario interpretativo de éste. Conclusiones: Aunque un elevado porcentaje de laboratorios de nuestro país ha implementado el FG en sus informes, su uso no está generalizado, y aspectos como el tipo de ecuación utilizada y la correcta expresión de los resultados del FG no siempre están acordes a las recomendaciones existentes.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: In 2006 the Spanish Society of Clinical Biochemistry and Molecular Pathology (SEQC) and the Spanish Society of Nephrology (S.E.N.) developed a consensus document in order to facilitate the diagnosis and monitoring of chronic kidney disease with the incorporation of equations for estimating glomerular filtration rate (eGFR) into laboratory reports. The current national prevalence of eGFR reporting and the degree of adherence to these recommendations among clinical laboratories is unknown. Methods: We administered a national survey in 2010-11 to Spanish clinical laboratories. The survey was through e-mail or telephone to laboratories that participated in the SEQC's Programme for External Quality Assurance, included in the National Hospitals Catalogue 2010, including both primary care and private laboratories. Results: A total of 281 laboratories answered to the survey. Of these, 88.2% reported on the eGFR, with 61.9% reporting on the MDRD equation and 31.6% using the MDRD-IDMS equation. A total of 42.5% of laboratories always reported serum creatinine values, and other variables only when specifically requested. Regarding the way results were presented, 46.2% of laboratories reported the exact numerical value only when the filtration rate was below 60mL/min/1.73m², while 50.6% reported all values regardless. In 56.3% of the cases reporting eGFR, an interpretive commentary of it was enclosed. Conclusions: Although a high percentage of Spanish laboratories have added eGFR in their reports, this metric is not universally used. Moreover, some aspects, such as the equation used and the correct expression of eGFR results, should be improved.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

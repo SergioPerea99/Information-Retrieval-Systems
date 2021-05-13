@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952010000200007</identifier>
+<datestamp>2010-07-14</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Montañés Bermúdez,Rosario]]></dc:creator>
+<dc:creator><![CDATA[Bover Sanjuán,J.]]></dc:creator>
+<dc:creator><![CDATA[Oliver Samper,A.]]></dc:creator>
+<dc:creator><![CDATA[Ballarín Castán,J.A.]]></dc:creator>
+<dc:creator><![CDATA[Gràcia García,S.]]></dc:creator>
+<dc:subject><![CDATA[Ecuaciones de estimación del filtrado glomerular]]></dc:subject>
+<dc:subject><![CDATA[Filtrado glomerular]]></dc:subject>
+<dc:subject><![CDATA[MDRD-IDMS]]></dc:subject>
+<dc:subject><![CDATA[CKD-EPI]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.30 n.2 2010]]></dc:source>
+<dc:date>2010-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952010000200007</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Valoración de la nueva ecuación CKD-EPI para la estimación del filtrado glomerular]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Assessment of the new CKD-EPI equation to estimate the glomerular filtration rate]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: Recientemente el grupo CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration) ha publicado una nueva ecuación de estimación del filtrado glomerular (FG) desarrollada a partir de una población de 8.254 individuos a los que se midió el FG mediante aclaramiento de iotalamato (media 68 ml/min/1,73 m², DE 40 ml/min/1,73 m²), y que incluye como variables la creatinina sérica, la edad, el sexo y la raza, con distintas versiones en función de la etnia, el sexo y el valor de la creatinina. La ecuación de CKD-EPI mejoró los resultados en cuanto a exactitud y precisión de la ecuación de elección actual MDRD-IDMS (Modification of Diet in Renal Disease-Isotopic Dilution Mass Spectrometry) en especial para valores de FG superior a 60 ml/min/1,73 m² en un grupo de 3.896 individuos. Material y métodos: el objetivo de nuestro estudio fue comparar los valores de FG estimado utilizando la nueva ecuación de CKD-EPI frente a MDRD-IDMS en una amplia cohorte de 14.427 pacientes (5.234 mujeres y 9.193 hombres) y analizar las repercusiones que el uso de CKD-EPI tendría a la hora de clasificar a la población en distintos estadios de enfermedad renal crónica (ERC) en función de su FG. Resultados: la media del FG estimado fue 0,6 ml/min/1,73 m² más alto por CKD-EPI que por MDRDIDMS en el grupo total, 1,9 ml/min/1,73 m² más alto en el grupo de mujeres y 0,2 ml/min/1,73 m² más bajo para los hombres. El porcentaje de concordancias en cuanto a asignación de estadio de ERC por ambas ecuaciones osciló entre el 79,4% para el estadio de ERC 3A y el 98,6% para el estadio de ERC 5. Para individuos de edad inferior a 70 años, un 18,9 y un 24% asignados por MDRD-IDMS a estadios de ERC 3B y ERC 3A fueron reclasificados como ERC 3A y ERC 2 por CKD-EPI, respectivamente. Para los mismos estadios en el grupo de mujeres de menos de 70 años, el porcentaje de casos reclasificados por CKD-EPI ascendió hasta el 34,4 y el 33,4%, respectivamente. Conclusiones: la nueva ecuación de estimación del FG CKD-EPI reclasifica hacia estadios de valor de FG superior un importante número de individuos, en especial mujeres de edad inferior a 70 años, catalogados como ERC 3 por MDRD-IDMS.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: A recent report by the CKD-EPI Chronic Kidney Disease Epidemiology Collaboration) group describes a new equation to estimate the glomerular filtration rate (GFR). This equation has been developed from a population of 8,254 subjects who had the GFR measured by iothalamate clearance (mean 68 ml/min/1.73 m², SD 40 ml/min/1.73 m²). It includes variables such as serum creatinine, age, sex and race with different formula according to race, sex and creatinine value. The CKD-EPI equation improved the accuracy and precision results of the current first-choice MDRD-IDMS (Modification of Diet in Renal Disease-Isotopic Dilution Mass Spectrometry) formula, specially for GFR >60 ml/min/1.73 m² in a group of 3,896 subjects. Methods: The goal of our study was to compare the estimated GFR by using the new equation CKD-EPI with MDRD-IDMS in a wide cohort of 14,427 patients (5,234 women and 9,193 men), and to analyze the impact of the new CKD-EPI formula on the staging of patients with CKD. Results: Mean estimated GFR was 0.6 ml/min/1.73 m² higher with CKD-EPI as compared to MDRD-IDMS for the whole group, 1.9 ml/min/1.73 m² higher for women and 0.2 ml/min/1.73 m² lower for men. The percentage of CKD staging concordancy between equations varied from 79.4 % for stage 3A and 98.6% for stage 5. For those patients younger than 70 years, 18.9 % and 24 % MDRD-IDMS stages 3B and 3A were reclasified as CKD 3A and 2 by CKDEPI, respectively. For the same stages in the group younger than 70 years, the percentage of reclasified patients increased up to 34.4% and 33.4%, respectively. Conclusion: The new CKD-EPI equation to estimate the GFR reclasifies an important number of patients to higher CKD stages (higher GFR), specially younger women, clasified as CKD stage 3 by MDRD-IDMS.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

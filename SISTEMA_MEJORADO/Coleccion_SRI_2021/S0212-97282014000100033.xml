@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0212-97282014000100033</identifier>
+<datestamp>2014-10-01</datestamp>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Aizpurua,Alaitz]]></dc:creator>
+<dc:creator><![CDATA[García-Bajos,Elvira]]></dc:creator>
+<dc:creator><![CDATA[Migueles,Malen]]></dc:creator>
+<dc:subject><![CDATA[Memoria de sucesos]]></dc:subject>
+<dc:subject><![CDATA[envejecimiento]]></dc:subject>
+<dc:subject><![CDATA[testigos]]></dc:subject>
+<dc:subject><![CDATA[atribución de la fuente]]></dc:subject>
+<dc:subject><![CDATA[juicios Recordar/Saber/Adivinar]]></dc:subject>
+<dc:subject><![CDATA[falsas memorias]]></dc:subject>
+<dc:publisher><![CDATA[Universidad de Murcia]]></dc:publisher>
+<dc:source><![CDATA[Anales de Psicología  v.30 n.1 2014]]></dc:source>
+<dc:date>2014-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-97282014000100033</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[¿Quién hizo qué?: diferencias entre adultos jóvenes y mayores en la memoria para un atraco]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Who did what?: differences between younger and older adults in memory for a robbery]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[La probabilidad de que una persona mayor tenga que declarar como testigo o víctima de un atraco o un suceso similar aumenta en función de la esperanza de vida de la población. Por ello, resulta relevante conocer si las personas mayores producen testimonios menos exactos que los jóvenes, así como determinar cuáles son las circunstancias en las que pueden ser más proclives a cometer errores. En este estudio utilizamos una prueba de reconocimiento para analizar la memoria para las acciones de un atraco en adultos jóvenes y mayores. Aunque no hubo diferencias en los aciertos, las personas mayores cometieron una proporción superior de falsas alarmas y resultaron menos exactas que los jóvenes en el reconocimiento de las acciones del suceso. Además, las personas mayores tuvieron más dificultades que los jóvenes a la hora determinar el autor de las acciones correctamente reconocidas como pertenecientes al atraco. Por lo tanto, los déficits de las personas mayores en el control del origen de la información que recuerdan podrían ayudar a explicar la menor exactitud de su memoria para el suceso, un hallazgo especialmente relevante al tomar declaración a una persona de edad avanzada.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Due to the increased life expectancy of the older population, there is a growing probability for an elderly person to testify as an eyewitness or a victim of a robbery or a similar crime. However, little is known about aging effects on testimony accuracy and about circumstances in which older adults would be more prone to memory errors than younger adults. In this study older and younger adults' memory for actions of a robbery was examined with a recognition test. Although no differences were found in hits, the older adults had a higher proportion of false alarms and showed less accurate recognition than younger adults. In addition, the older adults were less able to attribute actions that occurred during the robbery to their correct sources. Thus, sourcememory deficits may contribute to explam older adults' less accurate recognition, a fmding that should be taken into account in reallife eyewitness situations where an elderly person is involved.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952013000500010</identifier>
+<datestamp>2013-09-30</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Mora-Gutiérrez,José M.]]></dc:creator>
+<dc:creator><![CDATA[Ferrer-Nadal,Asunción]]></dc:creator>
+<dc:creator><![CDATA[García-Fernández,Nuria]]></dc:creator>
+<dc:subject><![CDATA[Hemodiálisis]]></dc:subject>
+<dc:subject><![CDATA[Anemia]]></dc:subject>
+<dc:subject><![CDATA[Pentoxifilina]]></dc:subject>
+<dc:subject><![CDATA[Inflamación]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.33 n.4 2013]]></dc:source>
+<dc:date>2013-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952013000500010</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Efecto de la pentoxifilina en la anemia de pacientes en hemodiálisis: estudio retrospectivo observacional de casos y controles]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Effect of pentoxifylline on anaemia control in haemodialysis patients: retrospective observational case-control study]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción y objetivos: El tratamiento de la anemia en hemodiálisis (HD) con hierro y agentes estimulantes de la eritropoyesis (AEE) no siempre consigue un control adecuado de esta, habiéndose relacionado con la inflamación. El efecto antiinflamatorio de la pentoxifilina (PTX) podría resultar beneficioso en estos casos. El objetivo fue estudiar el posible efecto de la PTX en la anemia de pacientes en hemodiálisis. Pacientes y métodos: Estudio observacional retrospectivo de 18 casos (reciben PTX) y 18 controles (sin PTX, emparejados por edad y sexo) en HD (Clínica Universidad de Navarra). Cuatro pacientes tomaban PTX por vasculopatía y 14 por anemia resistente (definición: hemoglobina [Hb] < 11 g/dl en los últimos 3 meses a pesar de dosis altas de AEE y saturación de transferrina &gt; 20 %). Hb, dosis de MIRCERA® y proteína C reactiva fueron recogidas antes del tratamiento con PTX (basal), a los 3 meses y al final del seguimiento. Resultados: En los pacientes con PTX hubo aumento de la Hb (p < 0,001) en 3 meses y descenso de las dosis de AEE al final del estudio (p = 0,002). Las diferencias basales en Hb (menor en casos) (p < 0,001) y en dosis de AEE (mayor en casos) (p = 0,006) entre grupos desaparecieron a los 3 meses. Al final del estudio 11/18 (61,1 %) de los tratados con PTX tenían Hb en rango deseado y recibían dosis de AEE equiparables al control. Conclusiones: PTX en dosis de 800 mg/día mejora significativamente y a corto plazo (3 meses) la Hb de pacientes en HD (respuesta en torno al 61 %) y permite la reducción de dosis de AEE a medio-largo plazo. El efecto se mantiene en el tiempo y el tratamiento es bien tolerado.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction and objectives: Treatment with iron and erythropoiesis-stimulating agent (ESA) does not lead to optimal control of anaemia in some hemodialysis patients, which has been associated with inflammation. Pentoxifylline (PTX) may provide benefits in these cases due to its antiinflammatory properties. We studied the possible effect of PTX on anaemia control in hemodialysis patients. Patients and Method: Retrospective observational case-control study including 18 cases (treated with PTX) and 18 controls (without PTX matched by age and gender) in HD (Clínica Universidad de Navarra). Four patients received PTX due to vasculopathy and 14 patients due to resistent anaemia (which was defined as hemoglobin (Hb) <11g/dL in the last three months despite high doses of ESA and transferrin saturation of &gt;20%). Hb, MIRCERA® dose and C-reactive protein were registered at baseline (before starting PTX treatment), after 3 months and at the end of the study. Results: Patients receiving PTX had higher Hb levels (p<0.001) in the third month and lower ESA requirements at the end of the follow-up (p=0.002). The baseline differences between groups in terms of Hb levels (lowest of all cases) (p<0.001) and ESA dosage (highest of all cases) (p=0.006), disappeared at 3 months. At the end of the study, 11 of 18 (61,1%) treated patients with PTX maintained adequate Hb levels and received doses of ESA comparable with those of controls. Conclusions: In HD patients, PTX treatment (800mg per day) improves hemoglobin levels (~61% response) in the short-term (3 months) and reduces the required ESA dose in the long term. This effect is sustained over time and does not entail any side effects.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

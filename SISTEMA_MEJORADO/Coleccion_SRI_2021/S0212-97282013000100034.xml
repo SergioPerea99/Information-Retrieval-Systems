@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0212-97282013000100034</identifier>
+<datestamp>2014-07-29</datestamp>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Cuesta,Marcelino]]></dc:creator>
+<dc:creator><![CDATA[Fonseca-Pedrero,Eduardo]]></dc:creator>
+<dc:creator><![CDATA[Vallejo,Guillermo]]></dc:creator>
+<dc:creator><![CDATA[Muñiz,José]]></dc:creator>
+<dc:subject><![CDATA[Valores perdidos]]></dc:subject>
+<dc:subject><![CDATA[fiabilidad]]></dc:subject>
+<dc:subject><![CDATA[personalidad]]></dc:subject>
+<dc:subject><![CDATA[imputación]]></dc:subject>
+<dc:publisher><![CDATA[Universidad de Murcia]]></dc:publisher>
+<dc:source><![CDATA[Anales de Psicología  v.29 n.1 2013]]></dc:source>
+<dc:date>2013-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-97282013000100034</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Datos perdidos y propiedades psicométricas en los tests de personalidad]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Missing data and psychometric properties of personality tests]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Se investigó la influencia que tienen los valores perdidos sobre la estimación de las propiedades psicométricas de los tests de personalidad. Se ha utilizado un enfoque aplicado, simulando situaciones que puedan tener relevancia cara a la práctica profesional. Se diseñaron dos estudios de simulación a partir de datos reales obtenidos de la aplicación de la prueba ESQUIZO-Q que evalúa esquizotipia. En el primero de ellos se utilizó una muestra de 3056 personas y en el segundo una de 200; en ambos casos se emplearon cuatro niveles de pérdida de respuestas y ocho procedimientos de imputación de los valores perdidos. Se estudió su influencia sobre las estimaciones del coeficiente &#945; de Cronbach, la estructura factorial de la prueba y la ordenación de las puntuaciones en el cuestionario. Los resultados apuntan a que en presencia de niveles bajos de valores perdidos, incluso los métodos más simples, ofrecen soluciones muy razonables desde el punto de vista práctico. Desde la perspectiva más estadística el procedimiento de Expectación-Maximización (EM) es el que presenta un mejor comportamiento global en los diferentes criterios manejados. Destaca también el pobre comportamiento de los métodos de sustitución por el valor anterior o posterior de cara a mantener la estructura factorial de los datos.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[The aim of this study was to analyze the influence of missing values on the psychometric properties of personality tests. An applied approach was used, trying to simulate conditions similar to those found in the professional practice. Two simulation studies were designed, based on actual data from the administration of ESQUIZO-Q test, which assesses schizotypy. In the first study a large sample was used (N=3056), and in the second one a smaller sample (N=200) was analyzed. In both cases four levels of missing values, and eight procedures for handling missing values were simulated. The influence of these conditions on the estimates of Cronbach's &#945;, the factor structure of the test, and the arrangement of test scores were analyzed. The results suggest that in the presence of low levels of missing values, even the simplest imputation methods offer appropriate solutions from a applied point of view. From a statistical perspective the Expectation-Maximization (EM) method is the one with a better overall performance in the different criteria handled. Also noteworthy is the poor performance of replacement procedures when using the value of the previous or posterior item in order to maintain the factor structure of the data.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

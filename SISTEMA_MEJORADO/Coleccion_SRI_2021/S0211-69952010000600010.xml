@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952010000600010</identifier>
+<datestamp>2011-04-25</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Caravaca,F.]]></dc:creator>
+<dc:creator><![CDATA[Cerezo,I.]]></dc:creator>
+<dc:creator><![CDATA[Macías,R.]]></dc:creator>
+<dc:creator><![CDATA[García de Vinuesa,E.]]></dc:creator>
+<dc:creator><![CDATA[Martínez del Viejo,C.]]></dc:creator>
+<dc:creator><![CDATA[Villa,J.]]></dc:creator>
+<dc:creator><![CDATA[Martínez Gallardo,R.]]></dc:creator>
+<dc:creator><![CDATA[Ferreira,F.]]></dc:creator>
+<dc:creator><![CDATA[Hernández-Gallego,R.]]></dc:creator>
+<dc:subject><![CDATA[Enfermedad renal crónica]]></dc:subject>
+<dc:subject><![CDATA[Mortalidad]]></dc:subject>
+<dc:subject><![CDATA[Progresión insuficiencia renal]]></dc:subject>
+<dc:subject><![CDATA[Resistencia insulina]]></dc:subject>
+<dc:subject><![CDATA[Riesgo cardiovascular]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.30 n.6 2010]]></dc:source>
+<dc:date>2010-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952010000600010</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Resistencia a la insulina en la enfermedad renal crónica: características clínicas asociadas y significado pronóstico]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Insulin resistance in chronic kidney disease: its clinical characteristics and prognostic significance]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: La resistencia a la insulina (RI) es una alteración prevalente en los pacientes con enfermedad renal crónica (ERC). Su relación con la morbilidad cardiovascular (CV) y la mortalidad en la ERC ha sido poco estudiada. Objetivos: Los objetivos de este estudio fueron determinar la relación de la RI con la progresión de la ERC, el desarrollo de nuevos eventos CV y la mortalidad por cualquier causa en pacientes con ERC prediálisis. Material y métodos: Estudio de cohorte prospectivo observacional en el que se incluyeron 365 pacientes no diabéticos (63 &plusmn; 16 años, 169 mujeres) con un filtrado glomerular <30 ml/min. El grado de RI fue estimado mediante el parámetro "Homeostasis Model Assessment" (HOMA). Los sucesos evolutivos analizados fueron: progresión de ERC (entrada en diálisis o duplicar creatinina sérica inicial), desarrollo de nuevos procesos CV, o la mortalidad por cualquier causa. Resultados: Los pacientes con valores HOMA en el tercil inferior (<3,13) mostraron una progresión más lenta de la ERC en un modelo de regresión de Cox ajustado a edad, sexo, filtrado glomerular basal, índice de masa corporal y proteinuria, (razón de riesgo = 0,72; p = 0,03). Durante el período total de seguimiento 51 pacientes desarrollaron nuevos eventos CV y 103 fallecieron. Los valores HOMA no se relacionaron con el desarrollo de nuevos eventos CV ni con la mortalidad en modelos no ajustados o ajustados a edad, sexo, índice de comorbilidad, albúmina sérica y proteína C reactiva. Conclusiones: En conclusión, la progresión de la ERC fue más lenta en pacientes con los valores HOMA más bajos, aunque este parámetro no fue capaz de predecir el desarrollo de nuevos eventos cardiovasculares o la mortalidad.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: Insulin resistance (IR) increases significantly the risk for cardiovascular disease (CV) in the general population. IR is a common metabolic disorder in patients with chronic kidney disease (CKD). However, the influence of IR on the evolution of CKD patients has scarcely been studied. Objective: This study aims to determine whether IR is associated with the progression of CKD, the development of new CV events, or all-cause mortality of non-diabetic patients with CKD stage 4 or 5 not yet on dialysis. Material and methods: The study group consisted of 365 non-diabetic patients (63 ± 16 year, 169 females) with GFR <30 ml/min. The degree of IR was estimated by the Homeostasis Model Assessment parameter (HOMA). The outcome measures were: progression of CKD (composite of initiation of dialysis or doubling of baseline serum creatinine level), new cardiovascular events, and all-cause mortality. Unadjusted and multivariable-adjusted relative risks were calculated for HOMA either as a continuous or qualitative variable (tertiles), using Cox proportional hazards models. Results: Mean HOMA value (± SD) was 4.28 &plusmn; 2.07. HOMA values correlated significantly with body mass index (beta = 0.37; p <0.0001), plasma triglycerides (beta = 0.22; p <0.0001), plasma albumin (beta = 0.19; p = 0.007), and serum phosphate (beta = 0.17; p = 0.031). Progression of CKD was observed in 234 patients (64%) with a median follow-up of 542 days. Patients with HOMA values in the lower tertile (<3.13) showed a slower progression of CKD than that of the rest of study patients (log rank 4.16, p <0.05). In adjusted models for age, sex, baseline GFR, body mass index, and proteinuria, HOMA values in the lower tertile entered as an independent variable in the best predictive equation for progression of CKD (HR 0.72, p <0.03). Fifty-one patients developed a new CV event and 103 patients died during the study period (median followup of 1,103 days). HOMA did not relate to the development of new CV events or all-cause mortality in unadjusted or adjusted models for age, sex, comorbid index, plasma albumin, and C-reactive protein. Conclusions: In conclusion, progression of renal disease was slower in those non-diabetic CKD patients with low HOMA values; however, HOMA values did not relate to the development of new CV events or all-cause mortality.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

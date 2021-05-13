@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952010000300013</identifier>
+<datestamp>2010-09-15</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Maduell Canals,Francisco]]></dc:creator>
+<dc:creator><![CDATA[Arias,M.]]></dc:creator>
+<dc:creator><![CDATA[Garro Martínez,J.]]></dc:creator>
+<dc:creator><![CDATA[Vera,M.]]></dc:creator>
+<dc:creator><![CDATA[Fontseré,N.]]></dc:creator>
+<dc:creator><![CDATA[Barros,X.]]></dc:creator>
+<dc:creator><![CDATA[Massó,E.]]></dc:creator>
+<dc:creator><![CDATA[Martina,M.N.]]></dc:creator>
+<dc:creator><![CDATA[Sentis,A.]]></dc:creator>
+<dc:creator><![CDATA[Durán,C.]]></dc:creator>
+<dc:creator><![CDATA[Bergada,E.]]></dc:creator>
+<dc:creator><![CDATA[Cases,A.]]></dc:creator>
+<dc:creator><![CDATA[Campistol,J.M.]]></dc:creator>
+<dc:subject><![CDATA[Alarmas intradiálisis]]></dc:subject>
+<dc:subject><![CDATA[Automatización]]></dc:subject>
+<dc:subject><![CDATA[Flujo de infusión]]></dc:subject>
+<dc:subject><![CDATA[Hemodiafiltración on-line posdilucional]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.30 n.3 2010]]></dc:source>
+<dc:date>2010-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952010000300013</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Pauta de infusión manual automatizada: una forma práctica de prescribir la hemodiafiltración on-line posdilucional]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Guidelines for automated manual infusion: a practical way of prescribing postdilution on-line haemodiafiltration]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[La hemodiafiltración on-line (HDF-OL) posdilucional es la modalidad más eficaz para obtener la máxima depuración de toxinas urémicas, con un flujo de infusión (Qi) recomendable del 25% del flujo sanguíneo y con el principal inconveniente de provocar alarmas por hemoconcentración a lo largo de la sesión. Recientes avances técnicos permiten la prescripción automática del Qi si se especifican los valores del hematocrito y de las proteínas totales. Como no es posible disponer en cada sesión de estos valores, una forma práctica de pautar la HDF-OL posdilucional es realizar una prescripción automática ajustando el hematocrito y las proteínas totales para obtener al inicio de la sesión la prescripción manual prescrita, a la que llamaremos prescripción manual automatizada. El objetivo del estudio fue comparar la pauta convencional de Qi manual respecto a la manual automatizada. Se incluyeron 30 pacientes (16 varones y 14 mujeres), de 59,9 &plusmn; 15 años de edad, en programa de hemodiálisis durante 50,1 &plusmn; 67 meses. Cada paciente recibió cuatro sesiones de HDF-OL, dos con Qi manual (monitores 4008-S y 5008) y dos con Qi manual automatizada (M-A), una con Qi igual a la manual y otra incrementando el Qi 20 ml/min (M-A+20). El resto de parámetros de diálisis no variaron: filtro de helixona, tiempo de diálisis 266 &plusmn; 39 minutos, flujo de sangre 420 &plusmn; 36 ml/min. En cada sesión se recogieron el Kt, la recirculación y las alarmas. No se observaron diferencias significativas en el índice de recirculación ni en la dosis de diálisis medida con el Kt. El volumen total de infusión fue de 24,9 &plusmn; 4 l (4008S), 23,4 &plusmn; 4 l (5008) con Qi manual, 23,6 &plusmn; 4 l (M-A) y 25,8 &plusmn; 5 l (M-A+20). En sólo el 14% de los pacientes no hubo incidencias. El número de alarmas fue significativamente superior con la prescripción manual, 55 alarmas con 4008 y 40 con 5008, respecto a la M-A (11, p <0,01) y M-A+20 (16 alarmas). Concluimos que la prescripción del Qi manual automatizada es una forma práctica de prescribir la HDF-OL posdilucional consiguiendo el mismo volumen convectivo y la misma eficacia, con una importante reducción de las alarmas intradiálisis, lo que permite un incremento del Qi un 20% sin aumento del número de alarmas.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Post-dilution on-line hemodiafiltration (OL-HDF) is the most efficient infusion mode to obtain maximum clearances of uremic toxins, with a recommended manual infusion flow (Qi) of 25% of the blood flow with the main limitation that causes alarms by hemoconcentration throughout the session. Recent technical advances allow automatic prescription of Qi if hematocrit and total protein (TP) values are specified. As these analytical results are not possible to obtain in each dialysis session, a practical way to prescribe Qi is to make an automatic prescription adjusting the hematocrit and total protein values at the beginning of the session to obtain the manual prescription required and we will call it automatic-manual prescription. The aim of this study was to compare manual Qi with automatic-manual Qi in postdilution OL-HDF. 30 patients (16 men and 14 women), 59.9 &plusmn; 15 years old, in hemodialysis program for 50.1 &plusmn; 67 months were included. Every patient underwent four OL-HDF sessions, two with manual Qi (4008-S and 5008 monitors) and two with automatic-manual Qi (A-M), one with the same Qi and one with manual Qi +20 (A-M+20). The same usual dialysis parameters were maintained: helixone dialyzer, dialysis time of 266 &plusmn; 39 minutes, blood flow of 420 &plusmn; 36. Recirculation, Kt and intradialysis alarms were measured at each session. No significant differences in the fistula recirculation or dialysis dose measured using Kt. Total infusion volume was 24.9 &plusmn; 4 (4008S), 23.4 &plusmn; 4 L (5008) with manual Qi, 23.6 &plusmn; 4 L (A-M) Qi (NS) and 25.8 &plusmn; 5 L (A-M+20). Only 14% of patients had no incidents. The number of alarms was significantly higher with manual prescription 55 alarms with 4008 and 40 with 5008 vs. AM (11) p <0.01) and A-M+20 (16 alarms) We concluded that automatic-manual Qi is a practical way for post-dilutional OL-HDF prescription where the same efficiency and total reinfusion volume with an important reduction of intradialysis alarms are obtained, allowing to rise Qi by 20% without increasing intradialysis alarms.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

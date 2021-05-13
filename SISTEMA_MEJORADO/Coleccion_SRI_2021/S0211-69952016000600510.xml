@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952016000600510</identifier>
+<datestamp>2017-10-19</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Caravaca-Fontán,Fernando]]></dc:creator>
+<dc:creator><![CDATA[Gonzales-Candia,Boris]]></dc:creator>
+<dc:creator><![CDATA[Luna,Enrique]]></dc:creator>
+<dc:creator><![CDATA[Caravaca,Francisco]]></dc:creator>
+<dc:subject><![CDATA[25-hidroxi-colecalciferol]]></dc:subject>
+<dc:subject><![CDATA[Enfermedad renal crónica]]></dc:subject>
+<dc:subject><![CDATA[Proteinuria]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.36 n.5 2016]]></dc:source>
+<dc:date>2016-10-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952016000600510</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Importancia relativa de los factores determinantes de los niveles séricos de 25-hidroxi-colecalciferol en la enfermedad renal crónica]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Relative importance of the determinants of serum levels of 25-hydroxy vitamin D in patients with chronic kidney disease]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Resumen  Introducción: El origen de la carencia de vitamina D en la enfermedad renal crónica (ERC) parece multifactorial, pero es incierta la importancia relativa de cada uno de sus potenciales determinantes.  Objetivos: Determinar los factores asociados a los niveles de 25-hidroxi-colecalciferol (25OHD) y su importancia relativa en una cohorte de pacientes con ERC prediálisis.  Material y métodos: Se incluyeron pacientes incidentes en una consulta de ERC, excluyendo a aquellos que recibían suplementos de vitamina D o anticonvulsivantes. Además de los datos demográficos y clínicos, se analizó la influencia de la actividad física, estación del año de la extracción, y tratamiento con estatinas, antiangiotensina e inhibidores de la xantino-oxidasa. Para la estimación de la importancia relativa se utilizó el método de ponderación relativa de Johnson, expresando los resultados como porcentajes de contribución al R múltiple.  Resultados: Se estudiaron 397 pacientes, de los cuales 30 fueron excluidos. La concentración media de 25OHD fue de 13,7 ± 7,4 ng/ml, presentando unos niveles inferiores a 20 ng/ml el 81% de los pacientes. Por regresión lineal múltiple y ponderación relativa, los principales determinantes de unos niveles más bajos de 25OHD fueron por orden de importancia: una mayor proteinuria (28,5%), mayor edad (21,4%), disminución de la actividad física (19,4%), sexo femenino (19,3%), y menor bicarbonato sérico (11,4%).  Conclusión: La magnitud de la proteinuria y la edad son los factores con mayor importancia relativa como determinantes de los niveles de 25OHD en la ERC.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Abstract  Introduction: The cause of vitamin D deficiency in chronic kidney disease (CKD) is probably multi-factorial; however, the relative importance of each potential determinant is uncertain.  Aims: To determine factors associated with serum levels of 25-hydroxy vitamin D (25OHD) and their relative importance in a cohort of pre-dialysis CKD patients.  Material and methods: Incident patients admitted to a CKD outpatient clinic were included. Those who were receiving vitamin D supplements or anticonvulsants were excluded. In addition to demographic and clinical data, information about outdoor physical activity, season of blood collection, prescription of statins, anti-angiotensin drugs and xanthine-oxidase inhibitors were included as potential determinants. Johnson's relative weights analysis was used to estimate the relative importance of each potential determinant and the results were expressed as percentage contribution to multiple R.  Results: The study group consisted of 397 patients, 30 of whom were excluded. The mean serum level of 25OHD was 13.7 ± 7.4 ng/ml, and 81% of patients had serum levels lower than 20 ng/ml. By multiple linear regression and relative weights analyses, the best determinants of low serum 25OHD levels and their relative importance were: higher proteinuria (28.5%), old age (21.4%), low physical activity (19.4%), female gender (19.3%) and low serum bicarbonate levels (11.4%).  Conclusions: Proteinuria and age are the determinants with the highest relative importance for predicting 25OHD levels in CKD patients.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

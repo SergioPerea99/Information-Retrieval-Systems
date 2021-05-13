@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952011000600011</identifier>
+<datestamp>2012-02-20</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Ortega Suárez,F.J.]]></dc:creator>
+<dc:creator><![CDATA[Sánchez Plumed,J.]]></dc:creator>
+<dc:creator><![CDATA[Pérez Valentín,M.A.]]></dc:creator>
+<dc:creator><![CDATA[Pereira Palomo,P.]]></dc:creator>
+<dc:creator><![CDATA[Muñoz Cepeda,M.A.]]></dc:creator>
+<dc:creator><![CDATA[Lorenzo Aguiar,D.]]></dc:creator>
+<dc:subject><![CDATA[Trasplante renal]]></dc:subject>
+<dc:subject><![CDATA[Inmunosupresión]]></dc:subject>
+<dc:subject><![CDATA[Adherencia]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.31 n.6 2011]]></dc:source>
+<dc:date>2011-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952011000600011</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Validación del cuestionario simplificado de adherencia a la medicación (SMAQ) en pacientes con trasplante renal en terapia con tacrolimus]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Validation on the simplified medication adherence questionnaire (SMAQ) in renal transplant patients on tacrolimus]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Antecedentes: La falta de adherencia a la medicación inmunosupresora se asocia con la pérdida de injerto y con la muerte. El cuestionario simplificado de adherencia a la medicación (SMAQ) es un instrumento de evaluación de adherencia corto y fiable. Objetivo: Validación de una versión del cuestionario SMAQ, adaptado para evaluación de pacientes trasplantados, en una muestra de receptores de trasplante renal. Métodos: Estudio observacional, longitudinal prospectivo en 150 pacientes mayores de edad, con injerto renal de al menos un año de evolución, en terapia con tacrolimus. Se recogieron datos sociodemográficos y clínicos básicos. Los pacientes completaron el cuestionario SMAQ dos veces (administrado por médico/personal de enfermería) y la escala Morisky-Green. Se estudiaron los descriptivos de los parámetros recogidos y las características psicométricas del cuestionario (fiabilidad y validez). Resultados: La edad media de la muestra fue de 50,63 años (12,44), el 60,42% fueron hombres. El 20,14% de los pacientes presentaron concentraciones de tacrolimus subtarget (<5 ng/ml) y el 13,48% variaciones injustificadas en los niveles de inmunosupresor. Según el cuestionario SMAQ, el 39,01/41,84% de los pacientes eran no cumplidores (administración médico/personal de enfermería), el 22,38% según Morisky-Green. El coeficiente kappa para reproducibilidad interobservadores fue 0,821 (p <0,001). La V de Cramer para validez convergente fue 0,516 (p <0,001). La clasificación según SMAQ se asoció con las variaciones injustificadas en los niveles de tacrolimus. En la predicción de niveles de tacrolimus (target frente a sub-target), SMAQ comparado con Morisky-Green, clasificó mejor a los pacientes y presentó una mayor sensibilidad y una menor especificidad. Conclusiones: El cuestionario presenta buenas características psicométricas. Una mayor sensibilidad permite una mejor detección de pacientes no cumplidores para un mejor seguimiento.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: Non-adherence to immunosuppressive medication is associated with graft loss and death. The simplified medication adherence questionnaire (SMAQ) is a short and reliable instrument for assessing adherence to medication. Objective: Validation of a version of the SMAQ instrument adapted for use in transplant patients in a sample of kidney graft receptors. Methods: Observational, longitudinal prospective study in 150 renal transplant patients on tacrolimus, over 18 years old, who had received a graft at least one year before. Basic sociodemographic and clinical data were recorded; patients completed the SMAQ twice (administered by doctor/nurse) and self-administered the Morisky-Green scale. The analysis database included 144 patients that met selection criteria and that provided the required data. Descriptive characteristics for all recorded parameters and psychometric characteristics of the questionnaire (reliability and validity) were studied. Results: Mean age in the sample was 50.63 (12.44) years, 60.42% were men. Some 20.14% of patients had sub-target tacrolimus levels (<5ng/ml), and unjustified variations in immunosuppressive drug levels were reported for 13.48%. Regarding SMAQ results, 39.01%/41.84% of patients were non-adherent (doctor/nurse administration); 22.38% according to the Morisky-Green scale. Interobserver agreement (kappa) was 0.821 (P<.001). The Cramer's-V statistic for convergent validity was 0.516 (P<.001). SMAQ scores were associated with unjustified variations in tacrolimus levels. In the prediction of tacrolimus levels (target vs subtarget), SMAQ compared to Morisky-Green provided a better classification of patients, with greater sensitivity and lower specificity. Conclusion: The questionnaire provides good levels of validity and interobserver agreement. An enhanced sensitivity is advantageous to better detect non-adherent patients for a better follow-up.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

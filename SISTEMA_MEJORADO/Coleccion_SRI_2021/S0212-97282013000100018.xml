@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0212-97282013000100018</identifier>
+<datestamp>2014-07-29</datestamp>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Casas,Ferran]]></dc:creator>
+<dc:creator><![CDATA[Fernández-Artamendi,Sergio]]></dc:creator>
+<dc:creator><![CDATA[Montserrat,Carme]]></dc:creator>
+<dc:creator><![CDATA[Bravo,Amaia]]></dc:creator>
+<dc:creator><![CDATA[Bertrán,Irma]]></dc:creator>
+<dc:creator><![CDATA[Valle,Jorge F. del]]></dc:creator>
+<dc:subject><![CDATA[Bienestar subjetivo]]></dc:subject>
+<dc:subject><![CDATA[adolescencia]]></dc:subject>
+<dc:subject><![CDATA[PWI]]></dc:subject>
+<dc:subject><![CDATA[SWLS]]></dc:subject>
+<dc:subject><![CDATA[satisfacción vital]]></dc:subject>
+<dc:subject><![CDATA[bienestar personal]]></dc:subject>
+<dc:subject><![CDATA[análisis factorial confirmatorio]]></dc:subject>
+<dc:subject><![CDATA[modelos de ecuaciones estructurales]]></dc:subject>
+<dc:publisher><![CDATA[Universidad de Murcia]]></dc:publisher>
+<dc:source><![CDATA[Anales de Psicología  v.29 n.1 2013]]></dc:source>
+<dc:date>2013-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-97282013000100018</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[El bienestar subjetivo en la adolescencia: estudio comparativo de dos Comunidades Autónomas en España]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Adolescents' subjective well-being: a comparative study between two Autonomous Communities in Spain]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Se analiza la comparabilidad interlingüística e intercultural del bienestar subjetivo durante la adolescencia, a partir de dos muestras de Asturias y de Cataluña de entre 15 y 18 años. Se utilizan como indicadores psicosociales de bienestar tres escalas: La SWLS de Diener, Emmons, Larsen y Smith (1985), escala libre de contexto (context free), el PWI de Cummins, Eckersley, van Pallant, Vugt y Misajon (2003), que evalúa el bienestar personal por ámbitos, y una escala de ítem único sobre satisfacción global con la vida (Overall Life Satisfaction = OLS). Utilizando modelos de Análisis Factorial Confirmatorio, el PWI muestra un buen ajuste para ambas muestras, avalando la comparabilidad de los resultados entre ambas poblaciones. Sus puntuaciones globales resultan más altas entre los adolescentes asturianos que entre los catalanes, igual que la OLS. La SWLS muestra un mal ajuste con los términos constantes restringidos, que añadido al hecho que el alpha de Cronbach aumentaría si el ítem 5 fuera suprimido, abunda en la idea que esta escala funciona de manera distinta en contextos socio-culturales diferentes y mantiene abiertas las dudas sobre si es apropiada su utilización como instrumento comparativo entre poblaciones de características lingüísticas y/o socioculturales distintas.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[In two samples of 15 to 18 year-olds adolescents from Asturias and Catalonia inter-linguistic and intercultural comparability of subjective well-being is analysed. Three scales have been used as psychosocial indicators of well-being: The SWLS of Diener, Emmons, Larsen y Smith (1985), a context free scale, the PWI of Cummins, Eckersley, van Pallant, Vugt y Misajon (2003), which evaluates personal well-being based on life domains, and a single-item scale on Overall Life Satisfaction (OLS). Using Confirmatory Factor Analysis models, the PWI shows good fit for both samples, supporting the comparability of results between the two populations. Overall scores are higher among Asturian adolescents than among Catalan's, like OLS. The SWLS shows bad fit when intercepts are restricted. That fact, added to that Cronbach alpha would increase if item 5 is deleted, gives support to the idea that this scale functions differently in diverse socio-cultural contexts. These results raise doubts about its appropriateness as comparative instrument to be used with populations with different linguistic and/or sociocultural characteristics.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

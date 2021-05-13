@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952014000400006</identifier>
+<datestamp>2014-09-29</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Caravaca,Francisco]]></dc:creator>
+<dc:creator><![CDATA[Alvarado,Raúl]]></dc:creator>
+<dc:creator><![CDATA[García-Pino,Guadalupe]]></dc:creator>
+<dc:creator><![CDATA[Martínez-Gallardo,Rocío]]></dc:creator>
+<dc:creator><![CDATA[Luna,Enrique]]></dc:creator>
+<dc:subject><![CDATA[Mortalidad]]></dc:subject>
+<dc:subject><![CDATA[Diálisis]]></dc:subject>
+<dc:subject><![CDATA[Inhibidores de la enzima de conversión de la angiotensina]]></dc:subject>
+<dc:subject><![CDATA[Prediálisis]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.34 n.4 2014]]></dc:source>
+<dc:date>2014-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952014000400006</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[¿Qué intervenciones terapéuticas durante el estadio prediálisis de la enfermedad renal crónica se asocian a una mejor supervivencia en diálisis?]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[During the pre-dialysis stage of chronic kidney disease, which treatment is associated with better survival in dialysis?]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: El cuidado especializado de los pacientes en estadios avanzados de la enfermedad renal crónica (ERC) se asocia a una mejor supervivencia en diálisis, pero se desconoce qué tratamientos favorecen específicamente esta evolución. Objetivos: Analizar las intervenciones terapéuticas habituales en el estadio de ERC avanzada y establecer cuáles de ellas se asocian a una mejor supervivencia en diálisis y su relación con las causas de muerte. Material y métodos: Estudio de cohortes, prospectivo y de observación, que incluyó a 591 pacientes que iniciaron diálisis (491 hemodiálisis y 100 diálisis peritoneal), que habían sido controlados previamente en la consulta de ERC. Las intervenciones terapéuticas analizadas fueron: tratamientos antihipertensivos, estatinas, antiagregantes plaquetarios, inhibidores de la xantina-oxidasa, corrección de la acidosis metabólica, tratamiento con captores de fósforo (cálcicos o no), vitamina D (calcitriol o paricalcitol), eritropoyetina y disponibilidad de fístula arterio-venosa interna (FAVI). La asociación independiente de cada uno de estos tratamiento con la mortalidad en diálisis fue analizada mediante modelos de regresión de Cox con ajuste a edad, sexo, tiempo de seguimiento prediálisis, función renal al inicio de diálisis, comorbilidad, albumina sérica y proteína C reactiva, y con estratificación al tipo de diálisis. Resultados: Con una mediana de seguimiento de 28 meses, la cifra total de fallecidos fue de 191 (32 %). En los modelos multivariantes se observó que, además de la edad, el índice de comorbilidad y la albúmina sérica, el tratamiento prediálisis con inhibidores de la enzima de conversión y/o antagonistas de los receptores de la angiotensina, la corrección de la acidosis con bicarbonato sódico y la FAVI al inicio de la hemodiálisis se asociaron de forma significativa con una mejor supervivencia en diálisis. No se observaron diferencias en las causas de muerte entre los diferentes tratamientos analizados. Conclusión: Estos resultados sugieren un posible beneficio diferido de algunos tratamientos en estadios prediálisis sobre la evolución en diálisis. Además, el inicio de hemodiálisis sin una FAVI, y por tanto la necesidad de utilización de catéteres endovenosos, empeora el pronóstico de estos pacientes.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: Specialised care of patients in advanced stages of chronic kidney disease (CKD) is associated with better survival in dialysis, but it is not known which treatments specifically favour this outcome. Objectives: To analyse normal treatment in advanced stages of CKD and establish which treatments are associated with better survival in dialysis as well as their relationship with causes of death. Material and method: Cohort, prospective observational study of 591 patients who started dialysis (491 haemodialysis and 100 peritoneal dialysis), who had previously been monitored in the CKD clinic. The treatments analysed were: antihypertensive treatments, statins, antiplatelet drugs, xanthine oxidase inhibitors, correction of metabolic acidosis, treatment with (calcium or non-calcium) phosphate binders, vitamin D (calcitriol or paricalcitol), erythropoietin and the availability of an internal arteriovenous fistula (IAVF). The independent association of each of these treatments with mortality in dialysis was analysed using Cox regression models adjusted for age, sex, pre-dialysis monitoring time, renal function at the start of dialysis, comorbidity, serum albumin and C-reactive protein, and with stratification of the type of dialysis. Results: With a median follow-up period of 28 months, the total number of patients who died was 191 (32%). In the multivariate models, we observed that, in addition to age, the comorbidity index, serum albumin, pre-dialysis treatment with angiotensin-converting-enzyme inhibitors and/or angiotensin receptor blockers, correction of acidosis with sodium bicarbonate and IAVF at the start of haemodialysis were significantly associated with better survival in dialysis. We did not observe differences in causes of death between the different treatments analysed. Conclusion: These results suggest a potential delayed benefit of some treatments in pre-dialysis stages on the outcome of dialysis. Furthermore, beginning dialysis without an IAVF, resulting in the need for intravenous catheters, worsens prognosis in these patients.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

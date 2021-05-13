@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952011000600015</identifier>
+<datestamp>2012-02-20</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Muñoz de Bustillo,E.]]></dc:creator>
+<dc:creator><![CDATA[Borrás,F.]]></dc:creator>
+<dc:creator><![CDATA[Gómez-Roldán,C.]]></dc:creator>
+<dc:creator><![CDATA[Pérez-Contreras,F.J.]]></dc:creator>
+<dc:creator><![CDATA[Olivares,J.]]></dc:creator>
+<dc:creator><![CDATA[García,R.]]></dc:creator>
+<dc:creator><![CDATA[Miguel,A.]]></dc:creator>
+<dc:subject><![CDATA[Diálisis peritoneal]]></dc:subject>
+<dc:subject><![CDATA[Peritonitis]]></dc:subject>
+<dc:subject><![CDATA[Supervivencia de los pacientes]]></dc:subject>
+<dc:subject><![CDATA[Supervivencia técnica]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.31 n.6 2011]]></dc:source>
+<dc:date>2011-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952011000600015</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Impacto de las peritonitis en la supervivencia a largo plazo de los pacientes en diálisis peritoneal]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Impact of peritonitis on long-term survival of peritoneal dialysis patients]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Antecedentes: El impacto de cada episodio de peritonitis sobre la supervivencia a largo plazo de los pacientes en diálisis peritoneal (DP) está por definir. Objetivos: Establecer el riesgo que supone para la supervivencia de los pacientes y de la técnica de DP cada episodio de peritonitis. Pacientes: 1.515 pacientes incluidos en el registro Levante desde el uno de enero de 1993 hasta el 31 de diciembre de 2005. Métodos: Análisis retrospectivo de un registro multicéntrico mediante regresión de Cox para variables cambiantes en el tiempo. Resultados: Se analizaron 1609 episodios de peritonitis en 716 pacientes (47,2%). En el análisis univariante cada peritonitis tratada ambulatoriamente se asoció a un aumento de la mortalidad (hazard ratio [HR] 1,99; p <0,001) que fue mayor para los episodios que requirieron hospitalización (HR 3,62; p <0,001). La mortalidad aumentó con cada episodio sucesivo en el mismo paciente. El análisis multivariante confirmó la asociación de cada peritonitis con una menor supervivencia a largo plazo (HR 2,01; p <0,001), con un riesgo diferente para episodios por grampositivos, gramnegativos y hongos (HR 1,73, 2,43 y 5,71, respectivamente; p <0,001). Otras variables asociadas con la mortalidad fueron la edad, una función renal residual escasa, la ausencia de acceso vascular y la comorbilidad. Las peritonitis fueron la única variable independiente asociada al fracaso de la técnica (HR 1,29; p <0,001), con un riesgo diferente para episodios por grampositivos, gramnegativos y hongos (HR 1,25, 1,30 y 3,03, respectivamente) (p <0,001). Conclusiones: Los episodios de peritonitis influyen de forma negativa en la supervivencia a largo plazo de los pacientes en DP.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: The impact of each episode of peritonitis on long-term survival of peritoneal dialysis (PD) patients has yet to be defined. Objectives: To determine the risk that each episode of peritonitis poses for patient survival and for the PD technique. Patients: 1515 patients included in the Levante registry from 1 January 1993 to 31 December 2005. Methods: Retrospective analysis of a multicentre registry using Cox regression for time-dependent variables. Results: We analysed 1609 episodes of peritonitis in 716 patients (47.2%). In the univariate analysis, each case of peritonitis treated in the outpatient unit was associated with an increase in mortality (hazard ratio [HR] 1.99, P<.001), which was greater for episodes that required hospitalisation (HR 3.62, P<.001). Mortality increased with each successive episode in the same patient. Multivariate analysis confirmed the association of each case of peritonitis with lower long-term survival (HR 2.01, P<.001), with a different risk for episodes due to gram-positive and gram-negative bacteria and fungi (HR 1.73, 2.43 and 5.71, respectively; P<.001). Other variables associated with mortality were age, low residual renal function, absence of vascular access and comorbidity. Peritonitis was the only independent variable associated with technique failure (HR 1.29, P<.001), with a different risk for episodes due to gram-positive and gram-negative bacteria and fungi (HR 1.73, 2.43 and 5.71, respectively; P<.001). Conclusions: Episodes of peritonitis negatively influence long-term survival of patients on PD.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952014000500007</identifier>
+<datestamp>2014-11-11</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Arreola-Guerra,José M.]]></dc:creator>
+<dc:creator><![CDATA[Rincón-Pedrero,Rodolfo]]></dc:creator>
+<dc:creator><![CDATA[Cruz-Rivera,Cristino]]></dc:creator>
+<dc:creator><![CDATA[Belmont-Pérez,Teresa]]></dc:creator>
+<dc:creator><![CDATA[Correa-Rotter,Ricardo]]></dc:creator>
+<dc:creator><![CDATA[Niño-Cruz,José A.]]></dc:creator>
+<dc:subject><![CDATA[Fórmulas de cálculo de la función renal]]></dc:subject>
+<dc:subject><![CDATA[CKD-EPI]]></dc:subject>
+<dc:subject><![CDATA[MDRD]]></dc:subject>
+<dc:subject><![CDATA[Índice de masa corporal]]></dc:subject>
+<dc:subject><![CDATA[Función renal normal]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.34 n.5 2014]]></dc:source>
+<dc:date>2014-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952014000500007</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Funcionamiento de las fórmulas MDRD-IDMS y CKD-EPI, en individuos mexicanos con función renal normal]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Performance of MDRD-IDMS and CKD-EPI equations in Mexican individuals with normal renal function]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Antecedentes: El funcionamiento de las fórmulas para la estimación de tasa de filtrado glomerular (TFG) CKD-EPI y MDRD en pacientes de origen hispano con función renal normal tiene pocos antecedentes y en México requiere validación. Material y métodos: Se incluyeron individuos mexicanos, adultos y previamente sanos. Se recabaron variables clínicas y se determinó el nivel de creatinina sérica para calcular las fórmulas CKD-EPI y MDRD-IDMS. Este resultado fue comparado con el estándar de referencia (TFG medida con Tc99DTPA). Se evaluaron otras variables clínicas que afectaran el funcionamiento de la fórmula CKD-EPI. Resultados: Se incluyeron 97 individuos voluntarios sanos, 55 varones y 42 mujeres; edad promedio 35 años (18 a 73). La creatinina media fue de 0,76 mg/dl (± 0,18). El funcionamiento de CKD-EPI fue significativamente mejor que el de MDRD-IDMS en todas las comparaciones (sesgo, correlación y exactitud). La diferencia entre los sesgos de las fórmulas fue 6,08 ml/min/1,73 m² (IC 95 % 2,58 a 9,58) (p < 0,001). Las personas con índice de masa corporal (IMC) mayor de 25 kg/m² presentaron un mejor funcionamiento que el grupo con menor IMC (diferencia de medias 7,39 ml/min/1,73 m²; IC 95 % 1,17 a 13,6; p < 0,02). Ambas fórmulas sobrestimaron la TFG. El IMC se asoció significativamente con el funcionamiento de la fórmula CKD-EPI (&#946; 0,82; IC 95 % 0,085 a 1,56; p = 0,029). Conclusiones: En individuos adultos mexicanos sanos la fórmula CKD-EPI predice mejor la TFGm que la fórmula MDRD-IDMS. El IMC se asocia de manera significativa al funcionamiento de la fórmula CKD-EPI, siendo mejor en aquellos con IMC superior a 25 kg/m². Ambas fórmulas sobrestiman la TFGm.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: The performance of the CKD-EPI and MDRD formulae for estimating glomerular filtration rate (GFR) in patients of Hispanic origin with normal renal function has been poorly explored and requires validation in Mexico. Material and method: We included previously healthy Mexican adults. We obtained clinical variables and determined serum creatinine to calculate the CKD-EPI and MDRD-IDMS formulae. These results were compared with the gold standard (GFR measured by Tc99DTPA). We evaluated other clinical variables that could affect the performance of the CKD-EPI formula. Results: A total of 97 healthy volunteers were included, 55 males and 42 females; the mean age was 35.8 years old (18 to 73). Mean creatinine was 0.76mg/dl (±0.18). CKD-EPI performance was significantly better than MDRD-IDMS in all comparisons (bias, correlation and accuracy). The bias difference between the formulae was 6.08ml/min/1.73m² (95% CI 2.58 to 9.58) (p<.001). Individuals with a body mass index (BMI) above 25kg/m² displayed a better performance than the group with a lower BMI (difference of means 7.39ml/min/1.73m²; 95% CI 1.17 to 13.6 p<.02). Both formulae overestimated the GFR. BMI was significantly associated with the performance of the CKD-EPI formula (&#946; 0.82; 95% CI 0.085 to 1.56 p=.029). Conclusions: In healthy Mexican adults, the CKD-EPI formula is a better predictor of the mGFR than the MDRD-IDMS formula. BMI is significantly associated with the performance of the CKD-EPI formula and is better in those with a BMI greater than 25kg/m². Both formulae overestimate mGFR.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

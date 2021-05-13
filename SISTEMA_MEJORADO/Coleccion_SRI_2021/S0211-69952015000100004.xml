@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952015000100004</identifier>
+<datestamp>2015-03-03</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Bover,Jordi]]></dc:creator>
+<dc:creator><![CDATA[Egido,Jesús]]></dc:creator>
+<dc:creator><![CDATA[Fernández-Giráldez,Elvira]]></dc:creator>
+<dc:creator><![CDATA[Praga,Manuel]]></dc:creator>
+<dc:creator><![CDATA[Solozábal-Campos,Carlos]]></dc:creator>
+<dc:creator><![CDATA[Torregrosa,José V.]]></dc:creator>
+<dc:creator><![CDATA[Martínez-Castelao,Alberto]]></dc:creator>
+<dc:subject><![CDATA[Enfermedad renal crónica]]></dc:subject>
+<dc:subject><![CDATA[Vitamina D]]></dc:subject>
+<dc:subject><![CDATA[Receptores de vitamina D]]></dc:subject>
+<dc:subject><![CDATA[Calcitriol]]></dc:subject>
+<dc:subject><![CDATA[Paricalcitol]]></dc:subject>
+<dc:subject><![CDATA[Fósforo]]></dc:subject>
+<dc:subject><![CDATA[Calcificación vascular]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.35 n.1 2015]]></dc:source>
+<dc:date>2015-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952015000100004</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Vitamina D, receptor de la vitamina D e importancia de su activación en el paciente con enfermedad renal crónica]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Vitamin D, vitamin D receptor and the importance of its activation in patients with chronic kidney disease]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[El déficit de vitamina D se asocia a distintas patologías, siendo especialmente significativa con la morbimortalidad en pacientes con enfermedad renal crónica (ERC). La pérdida progresiva de la función renal conduce a una reducción de calcitriol y alteración de la homeostasis de calcio, fósforo, FGF-23 y PTH, entre otros, los cuales influyen a su vez sobre la activación del receptor de vitamina D (RVD) y el desarrollo de hiperparatiroidismo secundario (HPS). El RVD media las acciones biológicas tanto de la vitamina D como de sus análogos sintéticos, actuando sobre distintos genes; existe una estrecha asociación entre niveles bajos de calcitriol y la prevalencia del HPS. Así, la activación de los RVD y la restricción de fósforo, entre otros, desempeñan un papel importante en el tratamiento de la «alteración óseo-mineral asociada a la ERC». La Sociedad Española de Nefrología, dada la uniforme e importante asociación con mortalidad y niveles altos de fósforo, aconseja su normalización, así como la de los niveles de calcidiol. Igualmente considera que, aparte de la utilización de activadores selectivos/no selectivos de RVD para la prevención y tratamiento del HPS, se podría asegurar la activación de los RVD en pacientes en diálisis, con vitamina D nativa o incluso bajas dosis de paricalcitol, independientemente de la PTH, dado que algunos estudios de cohortes y un metaanálisis reciente han observado una asociación entre el tratamiento con vitamina D activa y la disminución de la mortalidad en pacientes con ERC. En general, se considera que es razonable utilizar toda esta información para individualizar la toma de decisiones.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Vitamin D deficiency has been linked to many different pathologies, especially with morbimortality in patients with chronic kidney disease. The progressive loss of renal function leads to calcitriol deficiency and homeostatic changes in calcium, phosphorus, FGF-23 and PTH, among others. All these changes can also influence vitamin D receptor (VDR) activation and the development of secondary hyperparathyroidism (SHPT). The biologic actions of both vitamin D and its synthetic analogues are mediated by binding to the same VDR, acting on different genes. There is a narrow relationship between low levels of calcitriol and SHPT. The combined approach of VDR activation and phosphate restriction, among others, plays an important role in the early treatment of the chronic kidney disease-mineral and bone disorder (CKD-MBD). The Spanish Society of Nephrology, in order to reduce the uniform and significant association with CKD-associated mortality, calcidiol and high phosphate levels suggests normalization of phosphate as well as calcidiol levels in both CKD and dialysis patients. Moreover, it considers that, in addition to selective/non selective activation of VDR for the prevention and treatment of SHPT, VDR could be activated in dialysis patients by native vitamin D or even low paricalcitol doses, independently of PTH levels, as some cohort studies and a recent metaanalysis have found an association between treatment with active vitamin D and decreased mortality in patients with CKD. In general it is considered reasonable to use all this information to individualise decision making.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

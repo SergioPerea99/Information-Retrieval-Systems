@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952014000100009</identifier>
+<datestamp>2014-03-12</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Pérez de José,Ana]]></dc:creator>
+<dc:creator><![CDATA[Verdalles-Guzmán,Úrsula]]></dc:creator>
+<dc:creator><![CDATA[Abad,Soraya]]></dc:creator>
+<dc:creator><![CDATA[Vega,Almudena]]></dc:creator>
+<dc:creator><![CDATA[Reque,Javier]]></dc:creator>
+<dc:creator><![CDATA[Panizo,Nayara]]></dc:creator>
+<dc:creator><![CDATA[Rincón,Abrahan]]></dc:creator>
+<dc:creator><![CDATA[Yuste,Claudia]]></dc:creator>
+<dc:creator><![CDATA[Arroyo,David]]></dc:creator>
+<dc:creator><![CDATA[López-Gómez,Juan M.]]></dc:creator>
+<dc:subject><![CDATA[Síndrome metabólico]]></dc:subject>
+<dc:subject><![CDATA[Eventos cardiovasculares]]></dc:subject>
+<dc:subject><![CDATA[Bioimpedancia]]></dc:subject>
+<dc:subject><![CDATA[Índice de conicidad]]></dc:subject>
+<dc:subject><![CDATA[Índice de tejido graso]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.34 n.1 2014]]></dc:source>
+<dc:date>2014-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952014000100009</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[El síndrome metabólico se asocia con eventos cardiovasculares en hemodiálisis]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Metabolic syndrome is associated with cardiovascular events in haemodialysis]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Antecedentes: El síndrome metabólico (SM) es un factor de riesgo cardiovascular y de mortalidad en la población general y en pacientes con enfermedad renal crónica. Sin embargo, apenas se ha estudiado en pacientes en hemodiálisis (HD). Objetivos: El objetivo del estudio es analizar el efecto del SM sobre la aparición de eventos cardiovasculares en HD. El objetivo secundario es determinar la influencia del índice de tejido graso y del índice de conicidad en los eventos cardiovasculares. Métodos: Estudio prospectivo en el que se incluyeron 100 pacientes en HD. El tiempo de seguimiento es de 3 años. Se recogieron eventos cardiovasculares y mortalidad. Se definió SM según los criterios de ATPIII e IDF. Resultados: La prevalencia del SM definido por ATPIII es 32 % y por IDF 29 %. La concordancia entre las dos definiciones es elevada (índice kappa 0,79, intervalo de confianza 95 % 0,65-0,92). El riesgo de desarrollar un evento cardiovascular es mayor en pacientes con SM (log rank 6,185, p = 0,013), con índice de tejido graso mayor 11,5 kg/m² (log rank 10,220, p = 0,001) y con índice de conicidad mayor 1,2 (log rank 6,393, p = 0,011). En el análisis de Cox, ajustado a la edad y sexo, los pacientes con SM tienen el doble de riesgo de ingresar por un evento cardiovascular (odds ratio 1,93, 1,022-3,6, p = 0,043). La mortalidad fue 35 % en los 3 años de seguimiento sin diferencias entre los grupos con y sin SM. Conclusiones: El SM es una patología muy prevalente en pacientes en HD y su presencia duplica el riesgo de hospitalización por eventos cardiovasculares a corto plazo.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: Metabolic syndrome (MS) is a cardiovascular risk factor and is associated with mortality in the general population and in patients with chronic kidney disease. However, few studies have been carried out in patients on haemodialysis (HD). Objectives: The objective of the study is to analyse the effect of MS on the occurrence of cardiovascular events in HD. The secondary objective is to determine the influence of the fat tissue index and conicity index on cardiovascular events. Methods: A prospective study including 100 patients on HD. The follow-up period was 3 years. Cardiovascular events and mortality were recorded. MS was defined in accordance with ATPIII and IDF criteria. Results: MS prevalence as defined by the ATPIII was 32%, and by the IDF, 29%. The concordance between the two definitions was high (kappa index 0.79, 95% confidence interval 0.65 to 0.92). The risk of cardiovascular events was higher in patients with MS (Log Rank 6.185, p = 0.013), with a fat tissue index greater than 11.5 kg/m² (log rank 10.220, p=.001) and a conicity index greater than 1.2 (log rank 6.393, p=.011). In the Cox analysis, adjusted for age and sex, patients with MS had twice the risk of being admitted due to a cardiovascular event (odds ratio 1.93, 1.022 to 3.6, p=.043). Mortality was 35% in the 3 year follow-up period with no differences between the groups with and without MS. Conclusions: MS is a very prevalent disease in HD patients and its presence doubles the risk of hospitalisation due to cardiovascular events in the short term.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>
