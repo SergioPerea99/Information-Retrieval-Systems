@@ -13,7 +13,7 @@ import configparser
 config = configparser.ConfigParser()
 config.read('conf.ini')
 
-ejecucion_offline = True
+ejecucion_offline = False
 
 
 if ejecucion_offline:
@@ -197,6 +197,12 @@ if ejecucion_offline:
     tiempo_ejecucion = time.time() - start_time
     tam_eedd = pares_palabra_frecuencia.guardarEEDD_palabrasFrecuencia(rutaDiccionario)
     diccionarioPalabraFrec = pares_palabra_frecuencia.cargarEEDD_palabrasFrecuencia(rutaDiccionario)
+    
+    #Pr2: Crear y guardar el diccionario de ficheros con cada una de las palabras que lo forman y su frecuencia.
+    rutaColeccion = ruta_destino
+    pares_palabra_frecuencia.crearEEDD_documentosFrecuenciaPalabras(rutaColeccion)
+    rutaDiccionario = config['OFFLINE']['ruta_almacen_documentos_frecuencia_palabras']
+    pares_palabra_frecuencia.guardarEEDD_documentosFrecuenciaPalabras(rutaDiccionario)
     
     rutaGuardado = config['OFFLINE']['ruta_diccionarios_invertidos']
     pares_palabra_frecuencia.guardarEEDD_diccPalabras_invertidas(rutaGuardado)

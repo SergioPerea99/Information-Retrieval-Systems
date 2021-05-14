@@ -18,6 +18,7 @@ class Pares_Palabra_Frecuencia:
         self.dicc_palabrasFrec_archivos = {}
         self.dicc_palabras_invertida = {}
         self.dicc_archivos_invertida = {}
+        self.dicc_archivosFrec_palabras = {}
         
     #Creación de diccionario de palabras únicas
     def dicc_terminos(self, lista_palabras_unicas):
@@ -59,12 +60,34 @@ class Pares_Palabra_Frecuencia:
             archivo.close()
         return self.dicc_palabrasFrec_archivos
     
+    #Pr2: Creación de por cada documento, las palabras y su frecuencia de aparición
+    def crearEEDD_documentosFrecuenciaPalabras(self, ruta_coleccion):
+        for key_fichero in self.dicc_archivos:
+            archivo = open(join(ruta_coleccion,self.dicc_archivos[key_fichero]),"r")
+            for linea in archivo:
+                clavePalabra = self.dicc_palabras_invertida[linea.strip()]
+                if key_fichero in self.dicc_archivosFrec_palabras: #Comprobar si existe el fichero en el dicc  
+                    if clavePalabra in self.dicc_archivosFrec_palabras[key_fichero]: #Comprobar si existe ya una aparicion de la palabra en dicho fichero
+                        self.dicc_archivosFrec_palabras[key_fichero][clavePalabra] = self.dicc_archivosFrec_palabras[key_fichero][clavePalabra] + 1 #Incrementar en 1 su aparicion en cierto caso
+                    else:
+                        self.dicc_archivosFrec_palabras[key_fichero][clavePalabra] = 1
+                else:
+                    self.dicc_archivosFrec_palabras[key_fichero] = {clavePalabra: 1}
+            archivo.close()
+        return self.dicc_archivosFrec_palabras
+                
     def guardarEEDD_palabrasFrecuencia(self,rutaGuardado):
         with open(join(rutaGuardado,"dicc_palabras_frecuencia.pkl"), "wb") as tf:
             pickle.dump(self.dicc_palabrasFrec_archivos,tf)
         tf.close()
         sizefile = os.stat( join(rutaGuardado,"dicc_palabras_frecuencia.pkl")).st_size
         return sizefile
+    
+    def guardarEEDD_documentosFrecuenciaPalabras(self,rutaGuardado):
+        with open(join(rutaGuardado,"dicc_documentos_frecuencia.pkl"), "wb") as tf:
+            pickle.dump(self.dicc_archivosFrec_palabras,tf)
+        tf.close()
+        
     
     def guardarEEDD_diccPalabras(self,rutaGuardado):
         with open(join(rutaGuardado,"dicc_palabras.pkl"), "wb") as tf:
@@ -92,6 +115,13 @@ class Pares_Palabra_Frecuencia:
             aux = pickle.load(tf)
         tf.close()
         return aux
+    
+    def cargarEEDD_documentosFrecuenciaPalabras(self,rutaGuardado):
+        with open(join(rutaGuardado,"dicc_documentos_frecuencia.pkl"), "rb") as tf:
+            aux = pickle.load(tf)
+        tf.close()
+        return aux
+    
     
     def cargarEEDD_diccPalabras(self,rutaGuardado):
         with open(join(rutaGuardado,"dicc_palabras.pkl"), "rb") as tf:

@@ -1,5 +1,5 @@
 -------------- MEMORIA DE LA PRÁCTICA 1.1 --------------
-El programa ha tardado 6.803594589233398 segundos en ejecutarse.
+El programa ha tardado 2.984574794769287 segundos en ejecutarse.
 Total de archivos procesados -> 1000.
 Total de tokens -> 276271 :: Tokens/archivo -> 276.271.
 Número MÍNIMO de palabras una vez normalizado y tokenizado -> 141
@@ -21,13 +21,13 @@ Número MÁXIMO de palabras ÚNICAS una vez extraidas sus raices de los documentos 
 Número MEDIO de palabras ÚNICAS de los documentos en la colección -> 105.685
 Las 5 palabras más frecuentes -> [(('pacient', 2356), 0.13562053879806585), (('estudio', 1235), 0.07109141146672807), (('año', 1172), 0.06746488602348608), (('renal', 1150), 0.0661984803131476), (('resultado', 1008), 0.058024407091871975)]
 -------------- MEMORIA DE LA PRÁCTICA 1.4 --------------
-Tiempo en segundos en calcular y generar la estructura de diccionario (la seleccionada) -> 1.5477118492126465
+Tiempo en segundos en calcular y generar la estructura de diccionario (la seleccionada) -> 0.29512619972229004
 El espacio en disco para guardar la estructura es de 640601 bytes.
 Las caracteristicas de mi ordenador son:
  - Procesador: Inter(R) Core(TM) i7-8565U CPU @ 1.80GHz 1.99 GHz.
  - Memoria RAM: 7,82 GB utilizable.-------------- MEMORIA DE LA PRÁCTICA 1.5 --------------
-Tiempo en segundos en calcular y generar la estructura de diccionario para los pesos normalizados (la seleccionada) -> 3.869271755218506
-Tiempo en segundos en calcular y generar la estructura de diccionario para los IDF (la seleccionada) -> 26.755934476852417
+Tiempo en segundos en calcular y generar la estructura de diccionario para los pesos normalizados (la seleccionada) -> 5.601117134094238
+Tiempo en segundos en calcular y generar la estructura de diccionario para los IDF (la seleccionada) -> 43.7208046913147
 El espacio en disco para guardar la estructura de pesos normalizados es de 1380504 bytes.
 El espacio en disco para guardar la estructura de los IDF es de 208286 bytes.
 Las caracteristicas de mi ordenador son:

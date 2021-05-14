@@ -257,6 +257,9 @@ if "name" in buscador_input:
     buscador = Buscador(config,ruta_fichero_consultas,5)
     buscador.procesar_pesos()
     
+    lista_palabras_consulta_primaria = buscador.getListaConsulta()
+    buscador.pseudoalimentacion_prf(5,5)
+    
     rutaColeccion = config['ONLINE']['ruta_ficheros_consultas_resultados_ordenados']
     contenido = os.listdir(rutaColeccion)
     
@@ -273,7 +276,7 @@ if "name" in buscador_input:
                 print("""<div class="container">
                       <form id="survey-form">
                       <div class="form-group">
-                      <p id="description" class="description text-center">%s</p>
+                      <h1 id="description" class="description text-center">%s</h1>
                       </div>        
                       </form>
                       </div>""" % (linea))
@@ -289,16 +292,11 @@ if "name" in buscador_input:
                     print("""<h1>%s</h1></a>"""  % (linea))
                 
                 if (i-1)%3 == 2:
-                    #Cuerpo del documento... 
-                    #Se va a mostrar la parte con mayor relevancia según la consulta
+                    #Cuerpo del documento... Se va a mostrar la parte con mayor relevancia según la consulta
                     pesosPalabrasConsulta = buscador.getPesosPalabrasConsulta()
-                    #(str(pesosPalabrasConsulta))
                     
-                    #PROBLEMA: LA PALABRA VIENE YA CON EL STEMMER HECHO !!!
-                    #SOLUCIÓN: HACER COMPROBACIÓN DE SI LA CADENA DE CARACTERES ES LA MISMA A LA QUE HAYA EN LA LISTA (CUERPO DE TODO EL DOC).
-                    
+                
                     lista_contenido = linea.split(" ")
-                    #print(lista_contenido)
                     
                     lista_posiciones_palabra = []
                     
@@ -317,19 +315,20 @@ if "name" in buscador_input:
                     min_distancias = 10000
                     pos_solucion = -1
                     while(j < len(lista_posiciones_palabra)-1):
-                        if lista_posiciones_palabra[j][0] not in lista_posiciones_palabra[j+1][0]: #Encuentra 2 términos distintos...
-                            dif =  lista_posiciones_palabra[j+1][1] - lista_posiciones_palabra[j][1]
-                            if dif < min_distancias: #Encontrar 2 términos distintos a la menor distancia posible...
-                                pos_solucion = lista_posiciones_palabra[j][1] #Nos quedamos con la posición más baja que será la que va antes del posterior término diferente
-                                min_distancias = dif
+                        for palabra_consulta_primaria in lista_palabras_consulta_primaria:
+                            if lista_posiciones_palabra[j][0]in palabra_consulta_primaria: #Encuentra una palabra que sea igual a una de las palabras de la primera consulta...
+                                pos_solucion = lista_posiciones_palabra[j][1] #Al encontrar aunque sea una vez una palabra de la primera consulta, entonces de inicio posicionar la solución ahí
+                                if lista_posiciones_palabra[j][0] not in lista_posiciones_palabra[j+1][0]: #Encuentra 2 términos distintos...
+                                    dif =  lista_posiciones_palabra[j+1][1] - lista_posiciones_palabra[j][1]
+                                    if dif < min_distancias: #Encontrar 2 términos distintos a la menor distancia posible...
+                                        pos_solucion = lista_posiciones_palabra[j][1] #Nos quedamos con la posición más baja que será la que va antes del posterior término diferente
+                                        min_distancias = dif
                             
                         j += 1
                     
                     if pos_solucion == -1: #En caso de no haber encontrado 2 términos distintos, añadir la posición de la primera palabra encontrada.
                         pos_solucion = lista_posiciones_palabra[0][1] 
                     
-                    #print(pesosPalabrasConsulta)
-                    #print(pos_solucion)
                     
                     #AHORA, MOSTRAR EL CONTENIDO ENTRE UN INTERVALO DONDE LA MITAD SEA EL POS_SOLUCION...
                     palabras_negrita = {contenido[0]: "" for contenido in pesosPalabrasConsulta}
@@ -345,8 +344,10 @@ if "name" in buscador_input:
                         negrita = False
                         for pal_negrita in palabras_negrita:
                             if pal_negrita in lista_contenido[poss]:
-                                negrita = True
-                                print("""<b>%s </b>""" % (lista_contenido[poss])) 
+                                for palabra_consulta_primaria in lista_palabras_consulta_primaria:
+                                    if pal_negrita in palabra_consulta_primaria:
+                                        negrita = True
+                                        print("""<b>%s </b>""" % (lista_contenido[poss])) 
                         if not negrita:
                             print("""%s """ % (lista_contenido[poss]))
                         poss += 1
