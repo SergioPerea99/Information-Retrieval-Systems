@@ -322,26 +322,35 @@ if "name" in buscador_input:
                             if dif < min_distancias: #Encontrar 2 términos distintos a la menor distancia posible...
                                 pos_solucion = lista_posiciones_palabra[j][1] #Nos quedamos con la posición más baja que será la que va antes del posterior término diferente
                                 min_distancias = dif
+                            
                         j += 1
                     
-                    print(pos_solucion)
+                    if pos_solucion == -1: #En caso de no haber encontrado 2 términos distintos, añadir la posición de la primera palabra encontrada.
+                        pos_solucion = lista_posiciones_palabra[0][1] 
+                    
+                    #print(pesosPalabrasConsulta)
+                    #print(pos_solucion)
                     
                     #AHORA, MOSTRAR EL CONTENIDO ENTRE UN INTERVALO DONDE LA MITAD SEA EL POS_SOLUCION...
+                    palabras_negrita = {contenido[0]: "" for contenido in pesosPalabrasConsulta}
                     poss = pos_solucion - 10
                     if poss < 0: 
                         poss = 0 
-                    linea = "..."
-                    while poss < (pos_solucion+10):
-                        linea += lista_contenido[poss]+" "
+                    max_pos = pos_solucion + 10
+                    if max_pos >= len(lista_contenido):
+                        max_pos = len(lista_contenido)-1
+                    
+                    print("""<p class="text-center">...""")
+                    while poss < max_pos:
+                        negrita = False
+                        for pal_negrita in palabras_negrita:
+                            if pal_negrita in lista_contenido[poss]:
+                                negrita = True
+                                print("""<b>%s </b>""" % (lista_contenido[poss])) 
+                        if not negrita:
+                            print("""%s """ % (lista_contenido[poss]))
                         poss += 1
-                    linea += "..."
-                    
-                    
-                    print("""
-                          <p class="text-center">%s</p>
-                          </div>
-                          </form>
-                          </div>)""" % (linea))      
+                    print("""...</p></div></form></div>)""")
             i += 1
         fichero.close()
    
