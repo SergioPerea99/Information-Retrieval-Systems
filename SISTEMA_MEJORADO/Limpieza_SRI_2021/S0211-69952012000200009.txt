@@ -20,7 +20,7 @@ servicios
 de
 nefrología
 de
-perú
+peru
 2012-01-01
 nefrología
 madrid
@@ -37,7 +37,7 @@ un
 problema
 de
 salud
-pública
+publica
 un
 diagnóstico
 precoz
@@ -110,7 +110,7 @@ en
 centros
 hospitalarios
 de
-perú
+peru
 fueron
 incluidos
 pacientes

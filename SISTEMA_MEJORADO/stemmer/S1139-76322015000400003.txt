@@ -103,7 +103,7 @@ inicio
 relacion
 sexual
 completa
-sitúa
+situa
 15
 16
 año
@@ -111,6 +111,7 @@ año
 mayoría
 declaran
 utilizan
+algun
 método
 anticonceptivo
 relacion

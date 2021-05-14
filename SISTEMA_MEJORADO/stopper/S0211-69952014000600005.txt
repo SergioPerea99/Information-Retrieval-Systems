@@ -117,7 +117,7 @@ acompaña
 descenso
 tensión
 arterial
-número
+numero
 antihipertensivos
 aht
 consumo
@@ -157,7 +157,7 @@ similar
 índice
 tejido
 magro
-albúmina
+albumina
 aquellos
 reduce
 hiperhidratación
@@ -173,7 +173,7 @@ tensión
 arterial
 anemia
 menor
-número
+numero
 aht
 agentes
 estimulantes

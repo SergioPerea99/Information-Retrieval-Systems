@@ -101,7 +101,7 @@ y
 análisis
 de
 regresión
-múltiple
+multiple
 resultados
 los
 pacientes

@@ -92,7 +92,7 @@ hecho
 puede
 incrementar
 el
-número
+numero
 de
 pacientes
 en

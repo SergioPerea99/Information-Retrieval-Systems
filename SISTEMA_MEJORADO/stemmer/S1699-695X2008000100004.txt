@@ -33,12 +33,12 @@ observacion
 longitudin
 emplazamiento
 colegio
-público
+publico
 urbano
 zona
 básica
 salud
-número
+numero
 1
 albacet
 participant
@@ -82,6 +82,7 @@ talla
 imc
 perímetro
 abdomin
+segun
 edad
 sexo
 fundación

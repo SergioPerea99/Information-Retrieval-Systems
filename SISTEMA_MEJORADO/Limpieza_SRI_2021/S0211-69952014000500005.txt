@@ -150,7 +150,7 @@ con
 niveles
 bajos
 de
-prealbúmina
+prealbumina
 p
 0001
 y
@@ -188,7 +188,7 @@ asocia
 a
 disminución
 de
-prealbúmina
+prealbumina
 y
 de
 tejido

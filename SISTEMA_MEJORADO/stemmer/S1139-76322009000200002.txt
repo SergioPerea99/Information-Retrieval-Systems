@@ -149,6 +149,7 @@ telefónica
 pacient
 entrevistado
 presentó
+algun
 episodio
 broncoespasmo
 alta

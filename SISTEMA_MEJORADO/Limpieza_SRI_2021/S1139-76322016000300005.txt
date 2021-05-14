@@ -73,7 +73,7 @@ de
 pediatras
 del
 servicio
-público
+publico
 de
 salud
 del
@@ -100,7 +100,7 @@ y
 meses
 se
 compararon
-número
+numero
 medio
 de
 visitas
@@ -134,7 +134,7 @@ no
 hf
 resultados
 el
-número
+numero
 medio
 de
 visitas

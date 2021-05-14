@@ -92,7 +92,7 @@ de
 140
 mgdl
 el
-número
+numero
 total
 de
 pacientes
@@ -254,7 +254,7 @@ pacientes
 el
 3
 por
-algún
+algun
 problema
 biliar-pancreático
 28

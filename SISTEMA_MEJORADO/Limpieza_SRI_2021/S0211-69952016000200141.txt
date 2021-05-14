@@ -95,7 +95,7 @@ con
 contraste
 en
 un
-único
+unico
 hospital
 durante
 18
@@ -104,7 +104,7 @@ los
 pacientes
 fueron
 clasificados
-según
+segun
 el
 origen
 cardiogénico

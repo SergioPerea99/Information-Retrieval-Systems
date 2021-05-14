@@ -16,7 +16,7 @@ n40
 objetivo
 1-
 determinar
-número
+numero
 caso
 suicidio
 consumado
@@ -83,7 +83,7 @@ significación
 preestablecido
 p005
 resultado
-número
+numero
 suicidio
 92
 suicidan
@@ -141,7 +141,7 @@ domicilio
 4603
 mujer
 vía
-pública
+publica
 3448
 p0006
 hombr
@@ -196,6 +196,7 @@ suicidars
 domicilio
 dejar
 constancia
+algun
 documento
 mujer
 intento
@@ -211,7 +212,7 @@ asegurar
 fallar
 precipitación
 vía
-pública
+publica
 consideramo
 incremento
 edad

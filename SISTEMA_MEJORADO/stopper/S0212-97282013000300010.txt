@@ -2,7 +2,7 @@ análisis
 proyectos
 investigación
 financiación
-pública
+publica
 psicología
 deporte
 2013-10-01
@@ -137,7 +137,7 @@ deporte
 modalidad
 psicología
 deporte
-número
+numero
 proyectos
 salud
 calidad

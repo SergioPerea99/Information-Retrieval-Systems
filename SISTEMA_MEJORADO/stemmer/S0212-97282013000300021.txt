@@ -20,7 +20,7 @@ biosoci
 cloning
 mostrado
 cuestionario
-útile
+util
 predicción
 conducta
 especialment

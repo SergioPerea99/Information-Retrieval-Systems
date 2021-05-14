@@ -54,10 +54,12 @@ masa
 corpor
 imc
 valorado
+segun
 curva
 percentil
 edad
 sexo
+segun
 resultado
 niño
 clasificado
@@ -69,6 +71,7 @@ igualment
 individuo
 ordenado
 grupo
+segun
 diagnóstico
 médico
 psicológico

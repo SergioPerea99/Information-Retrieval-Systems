@@ -120,6 +120,7 @@ recibida
 efecto
 secundario
 relevant
+ningun
 caso
 precisó
 suspend

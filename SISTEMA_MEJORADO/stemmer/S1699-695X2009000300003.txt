@@ -1,7 +1,7 @@
 tipo
 asistencia
 sanitaria
-pública
+publica
 privada
 elegida
 funcionario
@@ -108,7 +108,7 @@ profesor
 universitario
 eligen
 asistencia
-pública
+publica
 177
 porcentaj
 resto
@@ -142,7 +142,7 @@ elegir
 forma
 definitiva
 asistencia
-pública
+publica
 serían
 desaparición
 lista
@@ -156,14 +156,14 @@ acomet
 entidad
 privada
 aumentar
-número
+numero
 especialista
 cualificación
 aspecto
 negativo
 destacan
 asistencia
-pública
+publica
 lentitud
 masificación
 aspecto

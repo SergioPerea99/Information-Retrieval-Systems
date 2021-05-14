@@ -100,7 +100,7 @@ dilema
 morales-personal
 generaron
 menor
-número
+numero
 eleccion
 utilitarista
 juicio
@@ -124,7 +124,7 @@ emocion
 postulándos
 instrumento
 potencialment
-útil
+util
 evaluación
 poblacion
 problema

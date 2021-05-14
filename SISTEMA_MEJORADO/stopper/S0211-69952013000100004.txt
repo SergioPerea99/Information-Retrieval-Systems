@@ -69,6 +69,7 @@ crónica
 terminal
 elevada
 mortalidad
+ultimos
 años
 establecido
 papel
@@ -82,7 +83,7 @@ endotelial
 pacientes
 shua
 caracterización
-múltiples
+multiples
 mutaciones
 polimorfismos
 genes

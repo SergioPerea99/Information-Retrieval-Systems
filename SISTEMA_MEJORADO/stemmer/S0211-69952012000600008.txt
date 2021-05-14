@@ -173,8 +173,8 @@ p
 001
 marcador
 nutricional
-prealbúmina
-albúmina
+prealbumina
+albumina
 proteína
 total
 creatinina

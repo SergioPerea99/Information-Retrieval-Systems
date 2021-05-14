@@ -87,7 +87,7 @@ familiar
 do
 comienzo
 fiebre
-útil
+util
 prevenir
 recurrencias
 comentario

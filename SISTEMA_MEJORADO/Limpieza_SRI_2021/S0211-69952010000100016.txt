@@ -59,7 +59,7 @@ factores
 tradicionales
 es
 poco
-útil
+util
 en
 esta
 población

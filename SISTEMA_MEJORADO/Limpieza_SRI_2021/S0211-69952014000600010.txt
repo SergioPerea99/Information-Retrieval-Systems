@@ -236,7 +236,7 @@ de
 la
 muestra
 obtenida
-según
+segun
 los
 criterios
 de

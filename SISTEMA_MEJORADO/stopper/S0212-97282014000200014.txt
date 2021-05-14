@@ -24,6 +24,7 @@ argumento
 estabilidad
 temporal
 medida
+ultimos
 años
 autores
 defienden
@@ -37,7 +38,7 @@ ci
 niños
 pequeños
 arroja
-número
+numero
 importante
 falsos
 positivos

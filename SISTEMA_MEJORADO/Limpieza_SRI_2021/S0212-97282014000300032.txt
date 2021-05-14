@@ -89,7 +89,7 @@ a
 prueba
 estas
 relaciones
-múltiples
+multiples
 se
 ha
 utilizado
@@ -173,7 +173,7 @@ normas
 sociales
 estos
 factores
-actúan
+actuan
 como
 una
 protección

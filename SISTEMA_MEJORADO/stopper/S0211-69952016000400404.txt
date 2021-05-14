@@ -1,5 +1,5 @@
 muerte
-súbita
+subita
 pacientes
 enfermedad
 renal
@@ -21,11 +21,11 @@ tratados
 diálisis
 ocurre
 forma
-súbita
+subita
 inesperada
 incidencia
 muerte
-súbita
+subita
 ms
 pacientes
 enfermedad
@@ -94,7 +94,7 @@ fallecieron
 pacientes
 19
 forma
-súbita
+subita
 34
 casos
 16
@@ -129,6 +129,7 @@ covariables
 asociaron
 significativamente
 ms
+ultima
 covariable
 mostró
 efecto
@@ -142,7 +143,7 @@ riesgo
 evento
 competidor
 muerte
-súbita
+subita
 causa
 edad
 índice

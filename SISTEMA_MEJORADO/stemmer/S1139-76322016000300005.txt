@@ -41,7 +41,7 @@ consulta
 33
 pediatra
 servicio
-público
+publico
 salud
 principado
 asturia
@@ -58,7 +58,7 @@ programada
 24
 mese
 compararon
-número
+numero
 medio
 visita
 servicio
@@ -78,7 +78,7 @@ hiperfrecuentador
 hf
 hf
 resultado
-número
+numero
 medio
 visita
 consulta

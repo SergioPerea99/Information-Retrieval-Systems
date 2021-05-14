@@ -161,7 +161,7 @@ sexo
 creatinina
 plasmática
 cociente
-albúminacreatinina
+albuminacreatinina
 en
 orina
 simple
@@ -233,7 +233,7 @@ la
 prevalencia
 de
 erc
-según
+segun
 criterios
 kdoqi
 fue

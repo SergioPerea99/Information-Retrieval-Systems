@@ -79,7 +79,7 @@ tratamiento
 inhibidor
 mtor
 fármaco
-actúa
+actua
 inmunosupresor
 reductor
 tumor

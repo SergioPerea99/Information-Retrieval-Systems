@@ -61,7 +61,7 @@ prueba
 imagen
 anatomopatológica
 complicacion
-quirúrgica
+quirurgica
 resultado
 82
 pacient
@@ -71,6 +71,7 @@ relación
 151
 hombremuj
 varió
+segun
 franja
 edad
 hallando
@@ -140,6 +141,7 @@ fiebr
 alta
 corta
 evolución
+ultima
 triplica
 riesgo
 perforación

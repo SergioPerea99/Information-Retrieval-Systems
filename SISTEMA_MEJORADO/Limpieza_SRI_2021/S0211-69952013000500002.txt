@@ -259,7 +259,7 @@ en
 la
 actualidad
 hay
-múltiples
+multiples
 vías
 de
 estudio
@@ -350,6 +350,6 @@ por
 hoy
 este
 desafío
-continúa
+continua
 plenamente
 vigente

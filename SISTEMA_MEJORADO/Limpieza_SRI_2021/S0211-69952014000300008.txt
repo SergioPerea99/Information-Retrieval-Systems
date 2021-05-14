@@ -49,7 +49,7 @@ limitaciones
 por
 la
 variabilidad
-según
+segun
 el
 método
 empleado
@@ -86,7 +86,7 @@ riñón
 varía
 su
 proporción
-según
+segun
 el
 estadio
 de
@@ -166,7 +166,7 @@ eclia
 y
 por
 el
-único
+unico
 método
 pth
 de

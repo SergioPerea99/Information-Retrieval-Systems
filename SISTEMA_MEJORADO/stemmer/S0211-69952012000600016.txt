@@ -119,7 +119,7 @@ sodio-fosfato
 iic
 napi-i
 localizado
-túbulo
+tubulo
 proxim
 hhrh
 transmit

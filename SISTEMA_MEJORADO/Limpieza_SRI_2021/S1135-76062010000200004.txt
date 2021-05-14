@@ -15,7 +15,7 @@ un
 caso
 de
 muerte
-súbita
+subita
 juvenil
 2010-09-01
 cuadernos
@@ -43,7 +43,7 @@ occidentales
 frecuentemente
 la
 muerte
-súbita
+subita
 e
 inesperada
 debida
@@ -148,7 +148,7 @@ caso
 de
 una
 muerte
-súbita
+subita
 en
 una
 mujer
@@ -193,7 +193,7 @@ la
 pared
 aórtica
 como
-único
+unico
 hallazgo
 de
 interés

@@ -154,7 +154,7 @@ pronóstico
 del
 paciente
 método
-búsqueda
+busqueda
 bibliográfica
 y
 reuniones

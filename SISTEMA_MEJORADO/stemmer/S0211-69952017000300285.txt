@@ -45,6 +45,7 @@ método
 población
 pacient
 prevalent
+algun
 tr
 2012
 669
@@ -130,7 +131,7 @@ respectivament
 cost
 pacienteaño
 considerando
-número
+numero
 pacientesaño
 proporcionado
 subprograma

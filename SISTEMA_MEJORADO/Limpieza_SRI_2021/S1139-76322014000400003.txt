@@ -31,7 +31,7 @@ cuerpo
 extraño
 de
 los
-últimos
+ultimos
 12
 años
 valorando
@@ -182,7 +182,7 @@ de
 evolución
 y
 el
-número
+numero
 de
 broncoscopias
 necesarias
@@ -233,7 +233,7 @@ lo
 largo
 de
 estos
-últimos
+ultimos
 años
 siendo
 máxima

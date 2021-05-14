@@ -43,7 +43,7 @@ hospital
 universitario
 infantil
 niño
-jesús
+jesus
 de
 madrid
 en
@@ -193,7 +193,7 @@ fiebre
 en
 el
 domicilio
-número
+numero
 total
 de
 neutrófilos
@@ -223,7 +223,7 @@ de
 bronquiolitis
 no
 existe
-ningún
+ningun
 dato
 clínico
 que

@@ -37,7 +37,7 @@ rango
 nefrótico
 y
 que
-según
+segun
 algunos
 trabajos
 previos
@@ -187,7 +187,7 @@ ellos
 307
 como
 el
-único
+unico
 medicamento
 inmunosupresor
 3
@@ -263,7 +263,7 @@ pronóstico
 a
 largo
 plazo
-aún
+aun
 no
 se
 conoce

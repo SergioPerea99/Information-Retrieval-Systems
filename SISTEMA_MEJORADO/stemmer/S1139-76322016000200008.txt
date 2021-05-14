@@ -1,4 +1,4 @@
-búsqueda
+busqueda
 activa
 niño
 mejora
@@ -22,7 +22,7 @@ cs
 fuensanta
 valencia
 españa
-búsqueda
+busqueda
 activa
 pacient
 incorrectament
@@ -59,7 +59,7 @@ estudio
 rechazaron
 vacunado
 intervencion
-búsqueda
+busqueda
 activa
 grupo
 intervención
@@ -99,7 +99,7 @@ reducción
 riesgo
 absoluto
 rra
-número
+numero
 necesario
 tratar
 nnt
@@ -139,7 +139,7 @@ ic
 95
 090-543
 efecto
-búsqueda
+busqueda
 activa
 3
 6
@@ -168,7 +168,7 @@ nnt
 133
 respectivament
 conclusion
-búsqueda
+busqueda
 activa
 resultó
 eficaz

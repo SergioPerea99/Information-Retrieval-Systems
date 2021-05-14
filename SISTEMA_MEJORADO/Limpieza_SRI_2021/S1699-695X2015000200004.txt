@@ -116,7 +116,7 @@ dentales
 forma
 tamaño
 y
-número
+numero
 los
 datos
 fueron
@@ -247,7 +247,7 @@ periodontal
 también
 entre
 esta
-última
+ultima
 y
 el
 cepillado

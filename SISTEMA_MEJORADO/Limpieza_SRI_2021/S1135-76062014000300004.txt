@@ -63,7 +63,7 @@ observar
 este
 problema
 es
-aún
+aun
 mayor
 en
 los
@@ -79,7 +79,7 @@ la
 identificación
 debe
 realizarse
-únicamente
+unicamente
 a
 través
 de
@@ -173,7 +173,7 @@ a
 partir
 de
 una
-única
+unica
 pieza
 conocida
 las

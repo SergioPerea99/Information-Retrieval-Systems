@@ -45,7 +45,7 @@ complicaciones
 a
 largo
 plazo
-continúan
+continuan
 siendo
 un
 área
@@ -229,7 +229,7 @@ de
 mlmin173
 m2
 en
-ningún
+ningun
 otro
 paciente
 la

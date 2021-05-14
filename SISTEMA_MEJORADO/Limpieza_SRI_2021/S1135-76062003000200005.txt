@@ -50,11 +50,11 @@ poder
 objetivar
 incrementos
 del
-número
+numero
 de
 incidencias
 en
-algún
+algun
 período
 como
 los

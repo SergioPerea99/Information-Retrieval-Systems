@@ -167,7 +167,7 @@ del
 año
 2008
 el
-número
+numero
 de
 pacientes
 atendidos
@@ -185,7 +185,7 @@ pacientes
 al
 mes
 el
-número
+numero
 total
 de
 intervenciones

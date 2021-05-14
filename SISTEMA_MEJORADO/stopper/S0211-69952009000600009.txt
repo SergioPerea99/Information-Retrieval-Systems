@@ -1,5 +1,5 @@
 peritonitis
-fúngica
+fungica
 diálisis
 peritoneal
 continua
@@ -15,7 +15,7 @@ n6
 2009
 antecedentes
 peritonitis
-fúngica
+fungica
 complicación
 infrecuente
 grave
@@ -42,7 +42,7 @@ retrospectivamente
 10
 casos
 peritonitis
-fúngica
+fungica
 analizando
 factores
 predisponentes
@@ -67,7 +67,7 @@ cultivo
 microbiológico
 resultados
 peritonitis
-fúngica
+fungica
 representó
 36
 peritonitis
@@ -121,7 +121,7 @@ famata
 fusarium
 oxysporum
 1
-antifúngicos
+antifungicos
 utilizados
 tratamiento
 fluconazol
@@ -135,7 +135,7 @@ b
 intravenosa
 consecuencia
 infección
-fúngica
+fungica
 8
 pacientes
 transferidos
@@ -157,13 +157,13 @@ presentaron
 riesgo
 desarrollar
 peritonitis
-fúngica
+fungica
 c
 parapsilosis
 patógeno
 frecuente
 tratamiento
-antifúngico
+antifungico
 retirada
 catéter
 peritoneal

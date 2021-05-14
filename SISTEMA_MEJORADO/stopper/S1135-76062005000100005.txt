@@ -47,7 +47,7 @@ varones
 587
 años
 mujeres
-número
+numero
 suicidios
 585
 producen

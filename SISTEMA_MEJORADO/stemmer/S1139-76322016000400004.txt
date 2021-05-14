@@ -2,6 +2,7 @@ variabilidad
 peso
 recién
 nacido
+segun
 paí
 origen
 materno
@@ -39,7 +40,7 @@ incluy
 recién
 nacido
 gestación
-única
+unica
 controlada
 término
 madr
@@ -60,7 +61,7 @@ recién
 nacido
 pretérmino
 gestación
-múltipl
+multipl
 muerto
 anteparto
 nacer
@@ -86,6 +87,7 @@ resultado
 peso
 medio
 nacer
+segun
 origen
 madr
 bolivia

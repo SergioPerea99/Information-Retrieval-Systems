@@ -85,7 +85,7 @@ resultado
 porcentaj
 contribución
 r
-múltipl
+multipl
 resultado
 estudiaron
 397
@@ -107,7 +107,7 @@ ngml
 pacient
 regresión
 lineal
-múltipl
+multipl
 ponderación
 relativa
 principal

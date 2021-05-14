@@ -121,7 +121,7 @@ respectivament
 mayor
 nivel
 acido
-úrico
+urico
 p
 0041
 colesterol

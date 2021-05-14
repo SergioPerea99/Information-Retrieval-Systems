@@ -69,7 +69,7 @@ cari
 cepillado
 dental
 consumo
-azúcar
+azucar
 empleo
 colutorio
 fluorado
@@ -100,7 +100,7 @@ inmigrant
 índice
 cod
 media
-número
+numero
 pieza
 dentaria
 temporal
@@ -112,7 +112,7 @@ año
 índice
 caod
 media
-número
+numero
 pieza
 dentaria
 definitiva
@@ -131,7 +131,7 @@ día
 correctament
 consumo
 ocasion
-azúcar
+azucar
 comida
 367
 219597

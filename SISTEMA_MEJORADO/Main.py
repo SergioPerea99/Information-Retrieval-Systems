@@ -13,7 +13,7 @@ import configparser
 config = configparser.ConfigParser()
 config.read('conf.ini')
 
-ejecucion_offline = False
+ejecucion_offline = True
 
 
 if ejecucion_offline:
@@ -203,6 +203,8 @@ if ejecucion_offline:
     pares_palabra_frecuencia.guardarEEDD_diccDocumentos_invertidas(rutaGuardado)
     rutaGuardado = config['OFFLINE']['ruta_diccionario_archivos']
     pares_palabra_frecuencia.guardarEEDD_diccArchivos(rutaGuardado)
+    rutaGuardado = config['OFFLINE']['ruta_diccionario_palabras']
+    pares_palabra_frecuencia.guardarEEDD_diccPalabras(rutaGuardado)
     
     documentacion_final.write("-------------- MEMORIA DE LA PRÁCTICA 1.4 --------------"+"\n")
     documentacion_final.write("Tiempo en segundos en calcular y generar la estructura de diccionario (la seleccionada) -> "+str(tiempo_ejecucion)+"\n")

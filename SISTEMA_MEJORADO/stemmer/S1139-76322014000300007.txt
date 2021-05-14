@@ -94,7 +94,7 @@ score
 gaslini
 herramienta
 imperfecta
-útil
+util
 sencilla
 detectar
 caso

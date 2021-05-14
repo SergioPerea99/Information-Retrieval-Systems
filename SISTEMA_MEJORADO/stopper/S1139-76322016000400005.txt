@@ -103,7 +103,7 @@ ponderal
 necesitaba
 mejorar
 dieta
-número
+numero
 participantes
 normopeso
 seguían
@@ -120,6 +120,7 @@ estadísticamente
 significativa
 estado
 ponderal
+segun
 percentil
 peso
 características

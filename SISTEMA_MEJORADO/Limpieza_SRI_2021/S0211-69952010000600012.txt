@@ -51,7 +51,7 @@ la
 aenp
 se
 revisaron
-número
+numero
 de
 presentaciones
 centros
@@ -60,7 +60,7 @@ y
 con
 el
 mayor
-número
+numero
 de
 comunicaciones
 forma
@@ -74,7 +74,7 @@ elegidos
 resultados
 en
 los
-últimos
+ultimos
 20
 años
 91
@@ -157,7 +157,7 @@ póster
 es
 un
 método
-útil
+util
 para
 las
 presentaciones
@@ -172,7 +172,7 @@ enfermedad
 glomerular
 en
 la
-última
+ultima
 década
 han
 aparecido

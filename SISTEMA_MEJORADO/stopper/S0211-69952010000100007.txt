@@ -15,10 +15,11 @@ v30
 n1
 2010
 introducción
+ultimos
 años
 mantenido
 estable
-número
+numero
 pacientes
 lista
 espera
@@ -83,7 +84,7 @@ acondicionamiento
 basado
 inmunoadsorción
 específica
-número
+numero
 sesiones
 necesarias
 conseguir
@@ -115,7 +116,7 @@ semanas
 valoración
 inmunológica
 médica
-quirúrgica
+quirurgica
 habitual
 programa
 trasplante
@@ -189,7 +190,7 @@ paciente
 requirió
 sesión
 inmunoadsorción
-única
+unica
 incompatibilidad
 anti-b
 requirió
@@ -230,7 +231,7 @@ mantuvo
 estable
 largo
 seguimiento
-únicamente
+unicamente
 registró
 pérdida
 injerto

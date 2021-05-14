@@ -145,7 +145,7 @@ desviación
 estándar
 4349
 y
-ningún
+ningun
 factor
 se
 asoció
@@ -248,7 +248,7 @@ a
 los
 cinco
 meses
-ningún
+ningun
 factor
 se
 asoció

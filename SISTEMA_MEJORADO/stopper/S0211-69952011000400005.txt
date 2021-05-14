@@ -41,7 +41,7 @@ año
 trasplante
 proteinuria
 deber
-múltiples
+multiples
 causas
 incluyen
 enfermedad
@@ -56,7 +56,7 @@ fármacos
 inhibidores
 m-tor
 enfermedad
-túbulo-intersticial
+tubulo-intersticial
 injerto
 discrepancia
 funcional

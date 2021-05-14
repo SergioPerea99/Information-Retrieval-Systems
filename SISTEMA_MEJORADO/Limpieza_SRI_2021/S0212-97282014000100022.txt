@@ -166,7 +166,7 @@ del
 apego
 actual
 por
-último
+ultimo
 se
 encontraron
 asociaciones
@@ -189,7 +189,7 @@ experiencia
 relacional
 y
 en
-algún
+algun
 caso
 con
 la

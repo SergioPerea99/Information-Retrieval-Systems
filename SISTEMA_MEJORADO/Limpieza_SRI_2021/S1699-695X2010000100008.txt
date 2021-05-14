@@ -119,13 +119,13 @@ como
 eventos
 principales
 el
-número
+numero
 de
 caídas
-número
+numero
 de
 fracturas
-número
+numero
 de
 tropiezos
 y
@@ -201,7 +201,7 @@ significativas
 en
 cuanto
 al
-número
+numero
 de
 tropiezos
 16
@@ -228,7 +228,7 @@ las
 diferencias
 en
 el
-número
+numero
 de
 pérdidas
 de
@@ -266,7 +266,7 @@ chi
 probablemente
 disminuye
 el
-número
+numero
 de
 caídas
 la
@@ -274,7 +274,7 @@ incidencia
 de
 fracturas
 el
-número
+numero
 de
 tropiezos
 y

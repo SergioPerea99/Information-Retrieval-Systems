@@ -189,7 +189,7 @@ título
 anticuerpo
 inicio
 tratamiento
-útil
+util
 estimar
 período
 tiempo

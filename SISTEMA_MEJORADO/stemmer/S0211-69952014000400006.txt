@@ -138,7 +138,7 @@ observó
 edad
 índice
 comorbilidad
-albúmina
+albumina
 sérica
 tratamiento
 prediálisi

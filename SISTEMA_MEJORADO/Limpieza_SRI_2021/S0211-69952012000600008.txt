@@ -320,8 +320,8 @@ p
 los
 marcadores
 nutricionales
-prealbúmina
-albúmina
+prealbumina
+albumina
 proteínas
 totales
 creatinina

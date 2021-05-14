@@ -167,7 +167,7 @@ con
 estatinas
 a
 un
-número
+numero
 de
 personas
 excesivo
@@ -178,7 +178,7 @@ avanzadas
 abandonar
 la
 estrategia
-según
+segun
 objetivos
 de
 colesterol

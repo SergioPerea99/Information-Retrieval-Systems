@@ -20,6 +20,7 @@ n5
 antecedent
 certificación
 biobanco
+segun
 norma
 iso
 90012008
@@ -49,7 +50,7 @@ muestra
 pacient
 renal
 aumento
-número
+numero
 año
 2009
 12
@@ -124,14 +125,14 @@ proceso
 aumentar
 significativament
 200
-número
+numero
 muestra
 procesada
 mejorar
 25
 proceso
 aumento
-número
+numero
 muestra
 procesada
 directament

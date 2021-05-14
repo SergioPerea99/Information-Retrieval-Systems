@@ -181,7 +181,7 @@ interdialítica
 ultrafiltración
 total
 glucemia
-albúmina
+albumina
 y
 creatinina
 séricas

@@ -16,7 +16,7 @@ n68
 introducción
 realiza
 revisión
-número
+numero
 trastorno
 neurodesarrollo
 población
@@ -36,7 +36,7 @@ genético
 materi
 método
 realiza
-búsqueda
+busqueda
 caso
 programa
 historia

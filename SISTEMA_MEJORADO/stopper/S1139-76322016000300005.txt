@@ -41,7 +41,7 @@ consultas
 33
 pediatras
 servicio
-público
+publico
 salud
 principado
 asturias
@@ -58,7 +58,7 @@ programadas
 24
 meses
 compararon
-número
+numero
 medio
 visitas
 servicios
@@ -78,7 +78,7 @@ hiperfrecuentadores
 hf
 hf
 resultados
-número
+numero
 medio
 visitas
 consultas

@@ -31,6 +31,7 @@ visto
 variar
 calcemia
 prehemodiálisi
+ultimo
 año
 95-105
 84-95
@@ -78,7 +79,7 @@ sometió
 sesion
 hemodiálisi
 variando
-únicament
+unicament
 concentración
 ca
 baño
@@ -108,6 +109,7 @@ relacionada
 dividieron
 pacient
 subgrupo
+segun
 nivel
 calcemia
 prediálisi

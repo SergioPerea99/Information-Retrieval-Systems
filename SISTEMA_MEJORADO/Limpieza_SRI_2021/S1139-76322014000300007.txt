@@ -169,7 +169,7 @@ que
 aunque
 imperfecta
 es
-útil
+util
 y
 sencilla
 para

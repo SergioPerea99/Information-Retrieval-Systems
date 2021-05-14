@@ -268,7 +268,7 @@ ha
 comunicado
 y
 el
-único
+unico
 que
 incluye
 diferentes
@@ -353,7 +353,7 @@ necesario
 ajustar
 las
 dosis
-según
+segun
 el
 grado
 de

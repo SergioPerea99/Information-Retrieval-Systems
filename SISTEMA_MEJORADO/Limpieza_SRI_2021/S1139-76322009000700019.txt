@@ -98,7 +98,7 @@ del
 sns
 siendo
 el
-último
+ultimo
 descrito
 en
 el

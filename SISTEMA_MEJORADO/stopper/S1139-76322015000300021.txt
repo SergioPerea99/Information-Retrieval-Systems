@@ -1,5 +1,5 @@
 marcadores
-útiles
+utiles
 predictores
 cicatrices
 renales
@@ -59,7 +59,7 @@ sintetizados
 descritos
 conclusiones
 justificadas
-útiles
+utiles
 datos
 estudio
 variables
@@ -92,6 +92,7 @@ cistouretrografía
 miccional
 seriada
 cums
+segun
 estudio
 recomendaciones
 guías

@@ -64,7 +64,7 @@ procedente
 de
 una
 fosa
-común
+comun
 de
 la
 guerra
@@ -99,7 +99,7 @@ del
 adn
 una
 herramienta
-útil
+util
 la
 identificación
 se
@@ -129,7 +129,7 @@ y
 a
 que
 la
-única
+unica
 muestra
 de
 referencia
@@ -254,7 +254,7 @@ se
 convierte
 en
 una
-útil
+util
 y
 poderosa
 herramienta

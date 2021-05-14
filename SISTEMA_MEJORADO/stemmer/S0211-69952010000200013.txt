@@ -3,7 +3,7 @@ kt
 dialisancia
 iónica
 herramienta
-útil
+util
 evaluación
 dosi
 diálisi
@@ -55,7 +55,7 @@ incluyeron
 pacient
 adulto
 ira
-oligúrica
+oligurica
 ingresado
 uci
 requerimiento
@@ -138,7 +138,7 @@ diálisi
 pacient
 crítico
 herramienta
-útil
+util
 monitorizar
 ajustar
 trr

@@ -129,7 +129,7 @@ anemia
 análisi
 regresión
 lineal
-múltipl
+multipl
 factor
 explicaban
 icch

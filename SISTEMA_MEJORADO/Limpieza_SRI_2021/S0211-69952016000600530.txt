@@ -125,7 +125,7 @@ clasificaron
 de
 forma
 retrospectiva
-según
+segun
 las
 clasificaciones
 rifle
@@ -145,7 +145,7 @@ pacientes
 que
 desarrolló
 fra
-según
+segun
 cada
 clasificación
 fue
@@ -213,7 +213,7 @@ que
 se
 puede
 clasificar
-según
+segun
 los
 distintos
 métodos

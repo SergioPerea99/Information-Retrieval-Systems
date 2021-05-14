@@ -19,7 +19,7 @@ baja
 incidencia
 rendimiento
 pobr
-número
+numero
 elevado
 falso
 positivo

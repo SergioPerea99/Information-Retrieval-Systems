@@ -55,7 +55,7 @@ y
 tratamiento
 que
 difiere
-según
+segun
 sea
 el
 origen

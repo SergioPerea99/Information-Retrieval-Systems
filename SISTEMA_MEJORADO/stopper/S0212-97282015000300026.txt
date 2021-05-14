@@ -54,6 +54,7 @@ dt
 años
 clasificaron
 familias
+segun
 estilo
 educativo
 autorizativo

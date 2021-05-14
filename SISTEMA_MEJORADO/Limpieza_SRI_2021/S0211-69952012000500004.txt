@@ -118,7 +118,7 @@ en
 parafina
 podría
 ser
-útil
+util
 en
 el
 diagnóstico
@@ -219,7 +219,7 @@ y
 21
 con
 nm
-ningún
+ningun
 depósito
 de
 c4d
@@ -288,7 +288,7 @@ es
 una
 herramienta
 muy
-útil
+util
 en
 el
 diagnóstico

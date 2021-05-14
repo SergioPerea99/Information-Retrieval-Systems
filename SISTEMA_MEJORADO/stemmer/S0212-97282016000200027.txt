@@ -87,7 +87,7 @@ instrumento
 eefa
 contrastaron
 instrumento
-evalúan
+evaluan
 autoestima
 satisfacción
 vital

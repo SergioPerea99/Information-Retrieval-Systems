@@ -8,7 +8,7 @@ iónica
 es
 una
 herramienta
-útil
+util
 para
 la
 evaluación
@@ -89,7 +89,7 @@ pacientes
 adultos
 con
 ira
-oligúrica
+oligurica
 ingresados
 en
 la
@@ -232,7 +232,7 @@ y
 es
 una
 herramienta
-útil
+util
 para
 monitorizar
 y

@@ -57,7 +57,7 @@ longitudinal
 emplazamiento
 un
 colegio
-público
+publico
 urbano
 de
 la
@@ -65,7 +65,7 @@ zona
 básica
 de
 salud
-número
+numero
 1
 de
 albacete
@@ -149,7 +149,7 @@ imc
 y
 perímetro
 abdominal
-según
+segun
 edad
 y
 sexo

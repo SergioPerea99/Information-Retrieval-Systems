@@ -111,7 +111,7 @@ de
 dm
 10
 pacientes
-según
+segun
 ayunas
 exclusivamente
 394

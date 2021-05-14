@@ -92,7 +92,7 @@ de
 una
 escala
 que
-evalúa
+evalua
 la
 identificación
 de
@@ -155,7 +155,7 @@ de
 problemas
 personales
 estas
-últimas
+ultimas
 presentan
 además
 una

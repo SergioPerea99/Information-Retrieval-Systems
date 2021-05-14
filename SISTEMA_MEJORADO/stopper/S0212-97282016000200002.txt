@@ -88,6 +88,7 @@ ambas
 dimensiones
 diferenciando
 relación
+segun
 informador
 dimensión
 clínica

@@ -58,7 +58,7 @@ el
 de
 causalidad
 este
-último
+ultimo
 es
 el
 objeto
@@ -140,7 +140,7 @@ de
 estímulos
 ambientales
 que
-actúan
+actuan
 sobre
 él
 lo
@@ -207,7 +207,7 @@ consistentes
 respuestas
 comportamentales
 esperadas
-según
+segun
 dicha
 interacción
 en

@@ -77,7 +77,7 @@ octava
 semana
 nevirapina
 -dosis
-única-
+unica-
 sd-nvp
 intraparto
 linfocitos
@@ -217,4 +217,4 @@ integrados
 instituciones
 sanitarias
 sector
-público
+publico

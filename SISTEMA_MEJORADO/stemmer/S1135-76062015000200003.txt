@@ -78,7 +78,7 @@ secuela
 país
 utilizaron
 motor
-búsqueda
+busqueda
 pubm
 medlin
 googl

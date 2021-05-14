@@ -92,7 +92,7 @@ evaluado
 ofrec
 comportamiento
 acept
-únicament
+unicament
 consiguen
 resultado
 acept

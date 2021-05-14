@@ -168,7 +168,7 @@ trabajo
 hospital
 de
 referencia
-número
+numero
 de
 residentes
 que
@@ -266,7 +266,7 @@ la
 necesidad
 de
 que
-algún
+algun
 pediatra
 colaborador
 en

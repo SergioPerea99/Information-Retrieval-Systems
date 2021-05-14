@@ -23,6 +23,7 @@ bebé
 niño
 pequeño
 riesgo
+ultimo
 ingieran
 dicho
 alimento

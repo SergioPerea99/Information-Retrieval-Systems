@@ -43,7 +43,7 @@ en
 valladolid
 la
 prevalencia
-según
+segun
 los
 datos
 de

@@ -24,7 +24,7 @@ metatarsiano
 producida
 tracción
 repetida
-músculo
+musculo
 peroneo
 later
 corto
@@ -65,7 +65,7 @@ metatarsiano
 enfermedad
 iselin
 afectación
-núcleo
+nucleo
 osificación
 suel
 oblicua

@@ -94,6 +94,7 @@ recidiva
 septiembr
 2015
 aparec
+ningun
 caso
 mese
 finalizada
@@ -127,7 +128,7 @@ relación
 multidisciplinar
 colegio
 salud
-pública
+publica
 atención
 primaria
 clave

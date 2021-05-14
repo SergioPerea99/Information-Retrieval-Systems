@@ -125,10 +125,10 @@ bioquímico
 concentracion
 elevada
 ácido
-úrico
+urico
 triglicérido
 transaminasa
-glutámico-pirúvica
+glutámico-piruvica
 ferritina
 proteína
 c

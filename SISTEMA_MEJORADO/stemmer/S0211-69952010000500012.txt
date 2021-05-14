@@ -57,7 +57,7 @@ variabl
 interé
 nutricion
 creatinina
-albúmina
+albumina
 transferrina
 npna
 alta
@@ -170,7 +170,7 @@ plusmn
 mgdl
 p
 0001
-albúmina
+albumina
 alta
 370
 plusmn
@@ -203,13 +203,13 @@ r
 p
 005
 menor
-albúmina
+albumina
 ingreso
 r
 039
 p
 0012
-albúmina
+albumina
 r
 027
 p
@@ -226,7 +226,7 @@ p
 0002
 bajo
 ingreso
-albúmina
+albumina
 baja
 ingreso
 correlacionaron

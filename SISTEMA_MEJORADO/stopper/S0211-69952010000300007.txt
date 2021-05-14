@@ -140,7 +140,7 @@ fav-prot
 frente
 262
 menor
-número
+numero
 cat
 electivos
 3220
@@ -169,7 +169,7 @@ obtenidos
 centros
 sistema
 sanitaria
-público
+publico
 necesario
 revaluación
 modelos

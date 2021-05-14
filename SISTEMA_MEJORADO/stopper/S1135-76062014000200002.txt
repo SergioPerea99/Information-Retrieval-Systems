@@ -68,7 +68,7 @@ tir
 convertido
 herramienta
 complementaria
-útil
+util
 evaluación
 procesos
 dolorosos
@@ -85,7 +85,7 @@ manifestada
 pacientes
 aplicaciones
 médicas
-múltiples
+multiples
 uso
 regulado
 estandarizado
@@ -111,7 +111,7 @@ identificación
 alteraciones
 equilibrio
 térmico
-músculos
+musculos
 masticatorios
 paciente
 refería

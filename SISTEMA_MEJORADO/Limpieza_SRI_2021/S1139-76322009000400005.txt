@@ -189,7 +189,7 @@ sdq-padres
 es
 un
 instrumento
-útil
+util
 en
 atención
 primaria

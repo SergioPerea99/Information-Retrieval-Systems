@@ -29,7 +29,7 @@ curso
 clínico
 respuesta
 tratamiento
-únicos
+unicos
 evidencias
 disponibles
 actualidad
@@ -70,6 +70,7 @@ lectinas
 relacionado
 peor
 pronóstico
+ultima
 afirmación
 requiere
 confirmada

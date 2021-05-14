@@ -86,7 +86,7 @@ en
 mujeres
 el
 mayor
-número
+numero
 de
 suicidios
 585

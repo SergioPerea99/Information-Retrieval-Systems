@@ -219,7 +219,7 @@ alcanzar
 diferencias
 significativas
 el
-número
+numero
 total
 de
 patologías
@@ -285,7 +285,7 @@ presencia
 de
 infecciones
 la
-albúmina
+albumina
 en
 la
 primera
@@ -294,7 +294,7 @@ de
 hospitalización
 fue
 diferente
-según
+segun
 la
 patología
 del
@@ -315,7 +315,7 @@ la
 variación
 de
 la
-albúmina
+albumina
 y
 creatinina
 antes
@@ -327,7 +327,7 @@ hospitalización
 no
 fue
 diferente
-según
+segun
 las
 patologías
 observamos
@@ -338,7 +338,7 @@ haber
 presentado
 un
 mayor
-número
+numero
 de
 patologías
 durante
@@ -349,7 +349,7 @@ una
 mayor
 estancia
 menor
-albúmina
+albumina
 inicial
 y
 mayores
@@ -419,7 +419,7 @@ la
 estancia
 y
 del
-número
+numero
 de
 patologías
 sufridas
@@ -433,7 +433,7 @@ motivo
 de
 hospitalización
 la
-albúmina
+albumina
 se
 reduce
 de
@@ -450,6 +450,6 @@ complicarse
 con
 un
 mayor
-número
+numero
 de
 patologías

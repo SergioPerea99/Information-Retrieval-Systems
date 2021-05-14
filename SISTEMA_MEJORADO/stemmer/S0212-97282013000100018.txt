@@ -48,13 +48,13 @@ pallant
 vugt
 misajon
 2003
-evalúa
+evalua
 bienestar
 person
 ámbito
 escala
 ítem
-único
+unico
 satisfacción
 global
 vida

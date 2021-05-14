@@ -37,10 +37,11 @@ optimismo
 disposicion
 guarda
 relación
-número
+numero
 ingreso
 hospitalario
 presentado
+ultimo
 año
 enfermo
 renal
@@ -60,6 +61,7 @@ variabl
 ingreso
 ingreso
 hospitalario
+ultimo
 año
 optimismopesimismo
 disposicion

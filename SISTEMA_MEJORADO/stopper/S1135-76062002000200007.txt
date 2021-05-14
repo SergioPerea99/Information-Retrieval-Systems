@@ -4,7 +4,7 @@ indeterminada
 propósito
 caso
 muerte
-súbita
+subita
 adolescente
 portador
 tumoración
@@ -22,7 +22,7 @@ presentamos
 caso
 muerte
 inesperada
-súbita
+subita
 acaecida
 sujeto
 19
@@ -97,7 +97,7 @@ mortal
 plaguicidas
 3
 muerte
-súbita
+subita
 cardiaca
 investigación
 químico-toxicológica
@@ -134,7 +134,7 @@ intestinales
 pudiesen
 justificar
 muerte
-súbita
+subita
 causa
 digestiva
 causa

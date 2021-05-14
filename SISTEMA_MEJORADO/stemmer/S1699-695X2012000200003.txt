@@ -71,6 +71,7 @@ variabl
 analizada
 tipo
 hipotiroidismo
+ultima
 dosi
 prescrita
 nivel

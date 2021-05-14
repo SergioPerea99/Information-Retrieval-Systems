@@ -6,6 +6,7 @@ clínica
 aclaran
 confunden
 repercusión
+segun
 guía
 práctica
 clínica
@@ -26,6 +27,7 @@ antihipertensivo
 hipolipemiant
 prevención
 primaria
+segun
 recomendacion
 guía
 práctica
@@ -78,6 +80,7 @@ correcta
 indicación
 tratamiento
 valorada
+segun
 criterio
 grupo
 papp
@@ -102,6 +105,7 @@ score
 441
 mediana
 2
+segun
 recomendacion
 papp
 399
@@ -127,6 +131,7 @@ kappa
 082
 tratamiento
 hipolipemiant
+segun
 recomendacion
 papp
 debería
@@ -134,6 +139,7 @@ recibirlo
 85
 frent
 212
+segun
 recomendacion
 score-ceipc
 índice

@@ -124,7 +124,7 @@ ingresado
 médica
 37
 área
-quirúrgica
+quirurgica
 194
 pacient
 disponía
@@ -137,11 +137,12 @@ hospitalaria
 54
 caso
 27
+ningun
 control
 posterior
 especialment
 área
-quirúrgica
+quirurgica
 constató
 erc
 analítica
@@ -177,7 +178,7 @@ dato
 figura
 historia
 clínica
-únicament
+unicament
 50
 inform
 alta

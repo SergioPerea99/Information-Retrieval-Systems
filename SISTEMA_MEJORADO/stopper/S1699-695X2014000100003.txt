@@ -35,7 +35,7 @@ estudio
 transversal
 emplazamiento
 universidad
-pública
+publica
 cartagena
 colombia
 participantes

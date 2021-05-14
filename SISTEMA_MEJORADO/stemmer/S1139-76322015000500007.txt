@@ -25,7 +25,7 @@ interno
 resident
 mir
 pediatría
-adecúa
+adecua
 establecido
 orden
 ministeri
@@ -87,6 +87,7 @@ rotación
 divid
 periodo
 centro
+segun
 recomendado
 orden
 ministeri

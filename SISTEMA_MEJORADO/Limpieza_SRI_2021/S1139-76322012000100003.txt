@@ -118,7 +118,7 @@ para
 la
 vacunación
 completa
-según
+segun
 recomendaciones
 del
 comité
@@ -154,7 +154,7 @@ rotavirus
 no
 completan
 el
-número
+numero
 de
 dosis
 recomendadas

@@ -245,7 +245,7 @@ es
 necesario
 disponer
 de
-algún
+algun
 instrumento
 de
 cribado

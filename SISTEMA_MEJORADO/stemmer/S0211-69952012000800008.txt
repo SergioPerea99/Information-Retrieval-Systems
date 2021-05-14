@@ -42,6 +42,7 @@ iii
 maastricht
 constituy
 alternativa
+aun
 desarrollar
 forma
 sistemática
@@ -67,7 +68,7 @@ trasplant
 inmunosupresión
 equipo
 implicado
-evalúan
+evaluan
 pacient
 acuerdo
 criterio
@@ -97,7 +98,7 @@ situ
 abordaj
 directo
 lecho
-quirúrgico
+quirurgico
 canalización
 vascular
 antemortem
@@ -235,7 +236,7 @@ mgdl
 seri
 constataron
 complicacion
-quirúrgica
+quirurgica
 similar
 seri
 histórica

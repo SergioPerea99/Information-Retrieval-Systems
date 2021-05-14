@@ -71,6 +71,7 @@ pacient
 clasificaron
 forma
 retrospectiva
+segun
 clasificacion
 rifl
 akin
@@ -83,6 +84,7 @@ porcentaj
 pacient
 desarrolló
 fra
+segun
 clasificación
 743
 rifl
@@ -128,6 +130,7 @@ grave
 desarrolla
 fra
 clasificar
+segun
 distinto
 método
 propuesto

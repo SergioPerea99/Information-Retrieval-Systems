@@ -115,7 +115,7 @@ consulta
 tipo
 de
 acompañante
-número
+numero
 de
 demandas
 aditivas
@@ -201,7 +201,7 @@ las
 consultas
 administrativas
 y
-según
+segun
 la
 pediatra
 el
@@ -211,7 +211,7 @@ de
 consulta
 varió
 significativamente
-según
+segun
 no
 se
 realizaran

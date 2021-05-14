@@ -84,7 +84,7 @@ y
 misajon
 2003
 que
-evalúa
+evalua
 el
 bienestar
 personal
@@ -95,7 +95,7 @@ una
 escala
 de
 ítem
-único
+unico
 sobre
 satisfacción
 global

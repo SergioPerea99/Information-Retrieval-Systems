@@ -30,6 +30,7 @@ alto
 mecanismo
 lesion
 complejo
+segun
 direccion
 relativa
 vehículo
@@ -43,7 +44,7 @@ fisiológico
 vértebra
 cervical
 rápido
-músculo
+musculo
 normalment
 frenan
 tiempo

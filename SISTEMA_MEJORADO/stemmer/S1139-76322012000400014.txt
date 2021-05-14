@@ -101,6 +101,7 @@ riesgo
 problema
 desarrollo
 aumenta
+segun
 disminuy
 edad
 gestacion

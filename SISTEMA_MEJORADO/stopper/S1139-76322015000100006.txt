@@ -59,6 +59,7 @@ informatizada
 atención
 primaria
 variables
+ultimo
 peso
 talla
 registrados
@@ -99,6 +100,7 @@ calcularon
 niño
 desviación
 estándar
+segun
 edad
 sexo
 imcedad

@@ -233,7 +233,7 @@ naranja
 de
 acridina
 es
-útil
+util
 para
 detectar
 lesiones
@@ -247,7 +247,7 @@ procesos
 de
 perfusión
 del
-músculo
+musculo
 cardíaco
 van
 a

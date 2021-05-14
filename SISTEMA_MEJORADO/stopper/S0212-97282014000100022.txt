@@ -81,6 +81,7 @@ efecto
 mediador
 apego
 actual
+ultimo
 encontraron
 asociaciones
 negativas
@@ -90,6 +91,7 @@ miembro
 pareja
 experiencia
 relacional
+algun
 caso
 experiencia
 relacional

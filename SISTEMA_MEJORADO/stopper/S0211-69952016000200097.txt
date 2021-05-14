@@ -117,7 +117,7 @@ posibles
 predictores
 supervivencia
 2013
-número
+numero
 pacientes
 españa
 iniciaron
@@ -179,7 +179,7 @@ aumentó
 2007
 42
 2013
-número
+numero
 pacientes
 trs
 953
@@ -224,7 +224,7 @@ pasó
 2007
 515
 2013
-número
+numero
 trasplantes
 año
 aumentó

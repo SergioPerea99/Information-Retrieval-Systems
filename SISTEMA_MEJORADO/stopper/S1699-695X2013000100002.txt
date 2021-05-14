@@ -65,6 +65,7 @@ datos
 espirométricos
 adecuación
 diagnóstica
+segun
 resultados
 espirométricos
 tratamiento

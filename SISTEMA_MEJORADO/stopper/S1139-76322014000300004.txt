@@ -77,7 +77,7 @@ vida
 niños
 nacidos
 hospital
-público
+publico
 probabilidades
 acudir
 cs

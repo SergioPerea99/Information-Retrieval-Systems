@@ -73,6 +73,7 @@ tsh
 t4
 libr
 08ngdl
+segun
 rango
 valor
 establecido

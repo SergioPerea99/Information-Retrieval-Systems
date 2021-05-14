@@ -42,7 +42,7 @@ fármacos
 antagonistas
 calcio
 series
-número
+numero
 casos
 comunicado
 población
@@ -147,7 +147,7 @@ peritoneal
 especial
 manidipino
 consideramos
-útil
+util
 determinación
 triglicéridos
 líquido

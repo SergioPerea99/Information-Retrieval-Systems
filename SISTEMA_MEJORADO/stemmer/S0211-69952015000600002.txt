@@ -56,6 +56,7 @@ factor
 riesgo
 gravedad
 ira
+segun
 clasificación
 rifl
 medicación
@@ -100,6 +101,7 @@ presentaron
 riesgo
 daño
 renal
+segun
 clasificación
 rifl
 105
@@ -110,7 +112,7 @@ relacionó
 medicamento
 diurético
 medicamento
-actúan
+actuan
 sistema
 renina-angiotensina
 inmunosupresor

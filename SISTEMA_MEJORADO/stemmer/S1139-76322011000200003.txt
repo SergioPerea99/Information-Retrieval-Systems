@@ -39,6 +39,7 @@ estudio
 riesgo
 niño
 obeso
+segun
 índice
 masa
 corpor

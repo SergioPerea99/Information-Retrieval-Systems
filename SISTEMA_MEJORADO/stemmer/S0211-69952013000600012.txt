@@ -53,7 +53,7 @@ molecular
 experimental
 sugieren
 efecto
-antiproteinúrico
+antiproteinurico
 activación
 receptor
 vitamina
@@ -62,14 +62,14 @@ vdr
 evidencia
 dispon
 efecto
-antiproteinúrico
+antiproteinurico
 práctica
 clínica
 modelo
 animal
 observado
 efecto
-antiproteinúrico
+antiproteinurico
 activación
 vdr
 debers
@@ -103,7 +103,7 @@ primario
 estudio
 descenso
 cocient
-albúmina
+albumina
 creatinina
 urinario
 sentido
@@ -118,7 +118,7 @@ nativa
 activador
 vdr
 fármaco
-antiproteinúrico
+antiproteinurico
 renoprotector
 allá
 ámbito

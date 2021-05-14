@@ -17,6 +17,7 @@ prevalencia
 dermat
 atópica
 triplicado
+ultimo
 30
 año
 país

@@ -54,6 +54,7 @@ datos
 turriano
 7
 mf
+ultimo
 trimestre
 año
 2005
@@ -164,7 +165,7 @@ tutores
 571
 hombres
 conclusiones
-número
+numero
 ic
 realizadas
 equipo
@@ -181,12 +182,12 @@ capacidad
 resolución
 encontramos
 variabilidad
-número
+numero
 ic
 distintos
 médicos
 justificarse
-número
+numero
 tarjetas
 volumen
 trabajo

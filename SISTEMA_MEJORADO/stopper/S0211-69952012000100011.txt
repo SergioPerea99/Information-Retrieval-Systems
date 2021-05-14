@@ -1,6 +1,6 @@
 utilidad
 ácido
-úrico
+urico
 marcador
 mortalidad
 global
@@ -17,7 +17,7 @@ evidencia
 creciente
 papel
 ácido
-úrico
+urico
 au
 factor
 riesgo
@@ -124,6 +124,7 @@ diferencias
 significativas
 niveles
 au
+segun
 género
 antecedentes
 diabetes

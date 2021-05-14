@@ -75,7 +75,7 @@ datos
 pubmed
 cochrane
 definición
-única
+unica
 ep
 definiciones
 actuales
@@ -104,7 +104,7 @@ locales
 pasando
 cirugía
 españa
-único
+unico
 fármaco
 indicación
 específica

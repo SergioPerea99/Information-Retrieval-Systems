@@ -408,7 +408,7 @@ igualdad
 de
 edad
 y
-número
+numero
 de
 revacunaciones
 y

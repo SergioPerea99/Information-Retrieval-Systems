@@ -45,7 +45,7 @@ aportaciones
 prevención
 infección
 métodos
-búsqueda
+busqueda
 autor
 dirigida
 12
@@ -54,7 +54,7 @@ relacionados
 pediatría
 vacunología
 salud
-pública
+publica
 priorizó
 74
 publicaciones
@@ -136,6 +136,7 @@ vacuna
 antineumocócica
 conjugada
 heptavalente
+aun
 datos
 disponibles
 uso
@@ -151,7 +152,7 @@ conclusiones
 vacuna
 4
 cmenb
-única
+unica
 estrategia
 disponible
 prevenir

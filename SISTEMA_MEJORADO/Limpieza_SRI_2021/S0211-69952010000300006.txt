@@ -32,7 +32,7 @@ la
 segunda
 causa
 más
-común
+comun
 de
 entrada
 en
@@ -300,7 +300,7 @@ crecer
 significativamente
 en
 los
-últimos
+ultimos
 años
 a
 pesar

@@ -29,8 +29,9 @@ mese
 poder
 objetivar
 incremento
-número
+numero
 incidencia
+algun
 período
 vacacional
 tipo

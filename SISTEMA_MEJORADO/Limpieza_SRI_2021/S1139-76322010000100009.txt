@@ -63,7 +63,7 @@ otros
 tratamientos
 más
 complejos
-quirúrgicos
+quirurgicos
 u
 ortodóncicos
 presentamos
@@ -196,7 +196,7 @@ u
 odontología
 cuando
 exista
-algún
+algun
 trastorno
 en
 la

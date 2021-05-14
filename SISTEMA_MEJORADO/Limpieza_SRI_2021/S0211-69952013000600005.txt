@@ -214,7 +214,7 @@ el
 de
 forma
 anual
-según
+segun
 las
 recomendaciones
 de
@@ -395,7 +395,7 @@ y
 el
 hiperparatiroidismo
 se
-continúan
+continuan
 utilizando
 mayormente
 captores

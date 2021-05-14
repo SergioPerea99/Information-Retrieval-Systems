@@ -43,7 +43,7 @@ agresión
 igual
 prueba
 relacion
-múltipl
+multipl
 utilizado
 muestra
 554
@@ -87,7 +87,7 @@ autoridad
 norma
 social
 factor
-actúan
+actuan
 protección
 frent
 posterior

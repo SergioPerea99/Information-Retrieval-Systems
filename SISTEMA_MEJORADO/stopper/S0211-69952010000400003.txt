@@ -1,7 +1,7 @@
 hipertensión
 arterial
 encrucijada
-búsqueda
+busqueda
 definición
 operativa
 2010-01-01
@@ -72,7 +72,7 @@ consulta
 toma
 proporcionarnos
 información
-útil
+util
 allá
 tensión
 arterial
@@ -112,6 +112,7 @@ presión
 arterial
 ampa
 domicilio
+aun
 precisan
 asignación
 valores

@@ -160,7 +160,7 @@ dieta
 fue
 mayor
 el
-número
+numero
 de
 participantes
 con
@@ -193,7 +193,7 @@ entre
 el
 estado
 ponderal
-según
+segun
 el
 percentil
 de

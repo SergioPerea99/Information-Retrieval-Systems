@@ -131,7 +131,7 @@ ratio
 128
 adolescent
 centro
-público
+publico
 odd
 ratio
 132

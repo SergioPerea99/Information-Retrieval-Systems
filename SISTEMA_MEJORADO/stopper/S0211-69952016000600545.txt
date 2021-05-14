@@ -3,7 +3,7 @@ elevada
 sodio
 disminuye
 respuesta
-antiproteinúrica
+antiproteinurica
 bloqueo
 eje
 renina-angiotensina-aldosterona
@@ -45,7 +45,7 @@ rica
 sal
 reduce
 efecto
-antiproteinúrico
+antiproteinurico
 ieca
 ara-ii
 efecto
@@ -58,7 +58,7 @@ relación
 ingesta
 sodio
 efecto
-antiproteinúrico
+antiproteinurico
 iecaara-ii
 trasplantados
 renales
@@ -141,7 +141,7 @@ ic
 p
 0048
 respuesta
-antiproteinúrica
+antiproteinurica
 lt
 50
 bloqueo

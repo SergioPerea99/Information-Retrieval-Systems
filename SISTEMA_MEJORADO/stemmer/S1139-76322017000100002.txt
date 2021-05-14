@@ -68,6 +68,7 @@ objetivo
 terapéutico
 control
 lipídico
+segun
 riesgo
 diabet
 mellitu

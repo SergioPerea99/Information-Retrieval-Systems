@@ -216,7 +216,7 @@ características
 psicométricas
 y
 parece
-útil
+util
 para
 la
 valoración

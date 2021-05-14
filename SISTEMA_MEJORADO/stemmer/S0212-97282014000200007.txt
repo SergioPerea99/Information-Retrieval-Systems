@@ -27,7 +27,7 @@ pacient
 enfermedad
 modelo
 sentido
-común
+comun
 inserta
 constructo
 puesto

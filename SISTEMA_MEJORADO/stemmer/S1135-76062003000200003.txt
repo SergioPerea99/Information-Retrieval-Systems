@@ -65,6 +65,7 @@ estudio
 clínico
 psicométrico
 obtuvimo
+ningun
 dato
 indujera
 pensar
@@ -115,7 +116,7 @@ motivo
 modo
 operar
 agresor
-útile
+util
 línea
 investigación
 polici

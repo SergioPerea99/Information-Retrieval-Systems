@@ -115,7 +115,7 @@ injerto
 vs
 10
 complicacion
-quirúrgica
+quirurgica
 25
 vs
 16

@@ -47,7 +47,7 @@ varon
 587
 año
 mujer
-número
+numero
 suicidio
 585
 producen

@@ -45,7 +45,7 @@ incluyeron
 catéteres
 colocados
 técnica
-quirúrgica
+quirurgica
 abierta
 línea
 media
@@ -69,7 +69,7 @@ renal
 cirugía
 previa
 tiempo
-quirúrgico
+quirurgico
 omentectomía
 omentopexia
 infección
@@ -148,7 +148,7 @@ tasas
 complicaciones
 resultados
 año
-posquirúrgico
+posquirurgico
 omentectomía
 estudio
 encontró

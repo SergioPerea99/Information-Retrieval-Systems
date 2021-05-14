@@ -61,10 +61,12 @@ erc
 estadio
 4
 5
+segun
 kdoqi
 diálisi
 calculó
 rcv
+segun
 2escala
 analizó
 poder
@@ -104,8 +106,10 @@ grupo
 alto
 rcv
 59
+segun
 frs-cvd
 75
+segun
 ascvd
 ecv
 sucedieron

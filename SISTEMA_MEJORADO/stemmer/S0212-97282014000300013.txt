@@ -3,6 +3,7 @@ modelo
 reducido
 ítem
 dsm-iv
+segun
 respuesta
 padr
 profesor
@@ -67,7 +68,7 @@ pc
 fase
 caso
 seleccionado
-evalúan
+evaluan
 entrevista
 clínica
 modelo

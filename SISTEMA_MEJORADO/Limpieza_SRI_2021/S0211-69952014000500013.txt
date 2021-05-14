@@ -178,7 +178,7 @@ instrumentos
 estandarizados
 se
 efectuaron
-búsquedas
+busquedas
 en
 las
 bases

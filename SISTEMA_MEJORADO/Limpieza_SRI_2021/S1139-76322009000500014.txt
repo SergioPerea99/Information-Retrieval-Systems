@@ -134,7 +134,7 @@ de
 la
 padece
 en
-algún
+algun
 momento
 de
 su
@@ -186,7 +186,7 @@ manual
 e
 incluso
 la
-quirúrgica
+quirurgica
 sobre
 todo
 en
@@ -275,7 +275,7 @@ no
 cree
 indicado
 iniciar
-ningún
+ningun
 tipo
 de
 tratamiento

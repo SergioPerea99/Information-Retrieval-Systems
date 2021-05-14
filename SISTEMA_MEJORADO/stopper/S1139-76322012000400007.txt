@@ -97,10 +97,12 @@ casos
 19
 casos
 presentaban
+ningun
 antecedente
 familiar
 32
 casos
+algun
 familiar
 cursando
 cuadro

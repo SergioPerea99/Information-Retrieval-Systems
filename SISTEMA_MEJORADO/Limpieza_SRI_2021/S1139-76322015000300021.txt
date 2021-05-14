@@ -1,7 +1,7 @@
 qué
 marcadores
 son
-útiles
+utiles
 como
 predictores
 de
@@ -113,7 +113,7 @@ están
 justificadas
 y
 son
-útiles
+utiles
 con
 los
 datos
@@ -171,7 +171,7 @@ cistouretrografía
 miccional
 seriada
 cums
-según
+segun
 este
 estudio
 y

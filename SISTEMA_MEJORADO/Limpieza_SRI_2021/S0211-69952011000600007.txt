@@ -111,7 +111,7 @@ existentes
 con
 la
 sanidad
-pública
+publica
 que
 difieren
 también
@@ -228,7 +228,7 @@ informe
 actualizado
 en
 las
-últimas
+ultimas
 24-48
 horas
 antes
@@ -285,7 +285,7 @@ la
 primera
 diálisis
 y
-número
+numero
 y
 fecha
 de
@@ -328,7 +328,7 @@ los
 principales
 diagnósticos
 las
-últimas
+ultimas
 incidencias
 serología
 vírica
@@ -353,7 +353,7 @@ de
 una
 historia
 clínica
-única
+unica
 informatizada
 y
 al
@@ -807,7 +807,7 @@ un
 no
 coincide
 con
-ningún
+ningun
 compañero
 durante
 toda

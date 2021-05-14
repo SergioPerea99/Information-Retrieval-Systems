@@ -131,7 +131,7 @@ fósforo
 nutrición
 tabla
 herramienta
-útil
+util
 equipo
 multidisciplinar
 atiende

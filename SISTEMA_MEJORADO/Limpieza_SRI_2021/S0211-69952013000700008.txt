@@ -214,7 +214,7 @@ p
 no
 encontramos
 diferencias
-según
+segun
 sexo
 edad
 tiempo

@@ -13,8 +13,9 @@ suppl17
 tabaquismo
 problema
 salud
-pública
+publica
 orden
+ultimos
 años
 autoridades
 sanitarias
@@ -57,7 +58,7 @@ plazo
 estudios
 suficiente
 calidad
-evalúen
+evaluen
 eficacia
 consejo
 individual

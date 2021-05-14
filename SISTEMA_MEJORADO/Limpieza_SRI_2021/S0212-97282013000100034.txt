@@ -73,7 +73,7 @@ la
 prueba
 esquizo-q
 que
-evalúa
+evalua
 esquizotipia
 en
 el

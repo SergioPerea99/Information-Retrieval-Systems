@@ -10,7 +10,7 @@ v31
 n3
 2015
 estudio
-evalúan
+evaluan
 estrategias
 afrontamiento
 problemas
@@ -68,7 +68,7 @@ pasivos
 evitativos
 análisis
 regresión
-múltiple
+multiple
 ponen
 manifiesto
 utilizar

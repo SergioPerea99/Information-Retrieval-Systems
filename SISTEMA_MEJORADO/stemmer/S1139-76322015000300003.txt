@@ -45,12 +45,14 @@ detectar
 diferencia
 edad
 diagnóstico
+segun
 tipo
 lactancia
 recibida
 estimar
 asociación
 padec
+segun
 variabl
 interé
 analizada

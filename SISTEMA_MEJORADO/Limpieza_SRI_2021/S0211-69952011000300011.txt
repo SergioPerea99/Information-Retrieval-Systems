@@ -164,7 +164,7 @@ variables
 secundarias
 pacientes
 hospitalizadosbacteriemia
-número
+numero
 de
 bacteriemiascatéter1000
 días
@@ -217,13 +217,13 @@ bacteriemia
 3
 casos
 3
-número
+numero
 de
 pacientes
 con
 bacteriemias
 8
-número
+numero
 de
 bacteriemiascatéter1000
 días
@@ -244,7 +244,7 @@ de
 endocarditis
 o
 espondilodiscitis
-ningún
+ningun
 paciente
 la
 media
@@ -276,7 +276,7 @@ equivalente
 a
 11-17
 mgml
-según
+segun
 el
 volumen
 de

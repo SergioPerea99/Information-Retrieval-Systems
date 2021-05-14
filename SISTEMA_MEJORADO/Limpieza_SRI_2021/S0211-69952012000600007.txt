@@ -27,7 +27,7 @@ d
 se
 relacionan
 con
-múltiples
+multiples
 patologías
 acordes
 al
@@ -399,7 +399,7 @@ sin
 que
 encontráramos
 diferencias
-según
+segun
 la
 edad
 la

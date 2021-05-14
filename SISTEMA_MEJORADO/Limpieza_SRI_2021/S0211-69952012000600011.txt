@@ -106,7 +106,7 @@ del
 mar
 durante
 el
-último
+ultimo
 año
 métodos
 estudio
@@ -134,7 +134,7 @@ de
 horas
 y
 pc
-según
+segun
 diferentes
 grados
 de
@@ -180,7 +180,7 @@ p
 0001
 las
 correlaciones
-según
+segun
 diferentes
 grados
 de

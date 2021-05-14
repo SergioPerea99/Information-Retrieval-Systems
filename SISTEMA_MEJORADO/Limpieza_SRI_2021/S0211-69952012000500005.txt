@@ -20,7 +20,7 @@ n3
 introducción
 en
 los
-últimos
+ultimos
 años
 la
 enfermedad
@@ -80,7 +80,7 @@ enfermos
 renales
 crónicos
 basándose
-únicamente
+unicamente
 en
 un
 filtrado
@@ -163,7 +163,7 @@ reclutamiento
 establecimos
 dos
 grupos
-según
+segun
 la
 concentración
 de
@@ -262,7 +262,7 @@ grupos
 y
 2
 en
-número
+numero
 total
 de
 ingresos
@@ -383,7 +383,7 @@ debido
 a
 su
 comorbilidad
-ningún
+ningun
 paciente
 del
 estudio
@@ -488,7 +488,7 @@ de
 la
 erc
 basado
-únicamente
+unicamente
 en
 el
 grado

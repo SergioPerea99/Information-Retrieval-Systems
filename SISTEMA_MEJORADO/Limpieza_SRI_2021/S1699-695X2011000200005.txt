@@ -75,7 +75,7 @@ de
 y
 si
 existe
-algún
+algun
 cambio
 en
 el
@@ -197,7 +197,7 @@ tendencia
 decreciente
 en
 el
-número
+numero
 de
 ingresos
 por
@@ -232,7 +232,7 @@ etiología
 reducción
 significativa
 del
-número
+numero
 de
 ingresos
 secundarios
@@ -257,7 +257,7 @@ la
 vacunación
 es
 el
-único
+unico
 factor
 determinante
 de

@@ -15,7 +15,7 @@ v33
 n4
 2013
 mieloma
-múltipl
+multipl
 mm
 consist
 proliferación
@@ -146,7 +146,7 @@ clínica
 variabl
 1-6
 m
-número
+numero
 sesion
 varió
 8-16

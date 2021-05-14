@@ -124,7 +124,7 @@ método
 calculamos
 diferencia
 entre
-volúmenes
+volumenes
 en
 cada
 medición
@@ -170,7 +170,7 @@ entre
 las
 diferencias
 entre
-volúmenes
+volumenes
 y
 la
 presencia
@@ -217,7 +217,7 @@ presencia
 de
 diferencia
 entre
-volúmenes
+volumenes
 y
 la
 presencia
@@ -290,7 +290,7 @@ una
 unidad
 de
 dp
-según
+segun
 sea
 calculado
 por

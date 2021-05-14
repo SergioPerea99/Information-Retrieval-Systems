@@ -40,7 +40,7 @@ sanitarios
 pertenecientes
 hospital
 universitario
-público
+publico
 administró
 cuestionario
 general

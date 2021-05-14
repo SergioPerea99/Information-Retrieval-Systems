@@ -47,7 +47,7 @@ análisis
 estadístico
 un
 método
-común
+comun
 entre
 los
 distintos
@@ -169,12 +169,12 @@ hasta
 un
 20
 en
-números
+numeros
 relativos
 64
 vs
 52
-según
+segun
 el
 sistema
 aplicado
@@ -236,7 +236,7 @@ el
 lector
 es
 un
-número
+numero
 que
 sobrestima
 la
@@ -253,7 +253,7 @@ en
 dp
 donde
 el
-número
+numero
 de
 pacientes
 que
@@ -273,7 +273,7 @@ solo
 una
 cuarta
 parte
-continúa
+continua
 en
 dp
 al

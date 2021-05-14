@@ -93,7 +93,7 @@ día
 enfermedad
 frecuent
 nefropatía
-lúpica
+lupica
 seguida
 glomeruloesclerosi
 focal
@@ -107,7 +107,7 @@ media
 48
 año
 nefropatía
-lúpica
+lupica
 nefropatía
 cambio
 mínimo
@@ -123,6 +123,7 @@ tuvieron
 peor
 pronóstico
 renal
+ultima
 peor
 pronóstico
 vital
@@ -140,7 +141,7 @@ diferencia
 nefropatía
 cambio
 mínimo
-lúpica
+lupica
 función
 renal
 predictor

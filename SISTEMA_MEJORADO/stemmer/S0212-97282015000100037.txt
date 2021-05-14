@@ -46,7 +46,7 @@ cded
 sas-2
 270
 jugador
-fútbol
+futbol
 balonmano
 baloncesto
 media

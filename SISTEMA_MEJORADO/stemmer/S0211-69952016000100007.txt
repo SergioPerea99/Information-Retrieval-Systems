@@ -101,7 +101,7 @@ peso
 interdialítica
 ultrafiltración
 glucemia
-albúmina
+albumina
 creatinina
 sérica
 tipo

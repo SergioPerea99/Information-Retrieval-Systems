@@ -40,6 +40,7 @@ modalidad
 tratamiento
 erc
 método
+segun
 diseño
 transvers
 estimamo
@@ -90,7 +91,7 @@ magra
 filtrado
 glomerular
 gfr
-albúmina
+albumina
 bicarbonato
 plasmático
 análisi

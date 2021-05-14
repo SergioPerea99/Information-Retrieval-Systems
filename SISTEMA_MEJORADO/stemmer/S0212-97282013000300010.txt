@@ -2,7 +2,7 @@ análisi
 proyecto
 investigación
 financiación
-pública
+publica
 psicología
 deport
 2013-10-01
@@ -137,7 +137,7 @@ deport
 modalidad
 psicología
 deport
-número
+numero
 proyecto
 salud
 calidad

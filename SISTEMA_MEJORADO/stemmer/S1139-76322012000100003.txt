@@ -70,6 +70,7 @@ tasa
 cobertura
 vacunación
 completa
+segun
 recomendacion
 comité
 asesor
@@ -86,7 +87,7 @@ neumococo
 268
 rotaviru
 completan
-número
+numero
 dosi
 recomendada
 diferencia

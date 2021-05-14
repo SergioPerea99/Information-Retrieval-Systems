@@ -75,8 +75,10 @@ crónica
 386
 acudido
 médico
+ultimo
 mes
 904
+ultimo
 año
 características
 valoradas

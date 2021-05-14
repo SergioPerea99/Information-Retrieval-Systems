@@ -98,7 +98,7 @@ el
 fracaso
 de
 maduración
-según
+segun
 el
 tipo
 de
@@ -211,7 +211,7 @@ radio-cefálicas
 y
 4
 cubitobasílicas
-ningún
+ningun
 paciente
 con
 una

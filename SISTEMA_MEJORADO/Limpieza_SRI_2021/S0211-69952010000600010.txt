@@ -249,7 +249,7 @@ sexo
 índice
 de
 comorbilidad
-albúmina
+albumina
 sérica
 y
 proteína

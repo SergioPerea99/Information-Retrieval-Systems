@@ -113,7 +113,7 @@ en
 dp
 en
 los
-últimos
+ultimos
 años
 para
 su
@@ -191,7 +191,7 @@ al
 menos
 en
 la
-última
+ultima
 década
 1999-2010
 y
@@ -300,7 +300,7 @@ vasco
 observándose
 en
 los
-últimos
+ultimos
 años
 un
 discreto
@@ -583,7 +583,7 @@ habiendo
 mejorado
 en
 los
-últimos
+ultimos
 años
 y
 siendo

@@ -315,7 +315,7 @@ observacional
 ausencia
 de
 protocolo
-común
+comun
 para
 paso
 a

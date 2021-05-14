@@ -50,7 +50,7 @@ serología
 positiva
 veb
 cmv
-número
+numero
 niño
 serología
 negativa
@@ -131,7 +131,7 @@ niño
 veb
 descenso
 neutrófilo
-única
+unica
 variación
 analítica
 niño

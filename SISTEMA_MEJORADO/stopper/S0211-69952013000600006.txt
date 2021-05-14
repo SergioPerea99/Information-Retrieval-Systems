@@ -19,7 +19,7 @@ dpe
 asociado
 inflamación
 hiperhidratación
-común
+comun
 pacientes
 hemodiálisis
 hd
@@ -60,7 +60,7 @@ siguientes
 determinaciones
 analíticas
 hemoglobina
-albúmina
+albumina
 proteína
 c
 reactiva
@@ -139,7 +139,7 @@ pcr
 p
 0008
 negativamente
-albúmina
+albumina
 p
 0006
 25ohd3
@@ -186,7 +186,7 @@ elevada
 p
 0001
 niveles
-albúmina
+albumina
 bajos
 p
 0004
@@ -219,7 +219,7 @@ programa
 hd
 bis
 herramienta
-útil
+util
 evaluar
 regularmente
 estado

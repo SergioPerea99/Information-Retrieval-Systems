@@ -1,5 +1,5 @@
 peritonitis
-fúngica
+fungica
 en
 diálisis
 peritoneal
@@ -18,7 +18,7 @@ n6
 antecedentes
 la
 peritonitis
-fúngica
+fungica
 es
 una
 complicación
@@ -61,7 +61,7 @@ retrospectivamente
 casos
 de
 peritonitis
-fúngica
+fungica
 analizando
 los
 factores
@@ -100,7 +100,7 @@ microbiológico
 resultados
 la
 peritonitis
-fúngica
+fungica
 representó
 un
 36
@@ -178,7 +178,7 @@ fusarium
 oxysporum
 1
 los
-antifúngicos
+antifungicos
 utilizados
 en
 el
@@ -201,7 +201,7 @@ consecuencia
 de
 la
 infección
-fúngica
+fungica
 8
 pacientes
 fueron
@@ -242,7 +242,7 @@ riesgo
 de
 desarrollar
 peritonitis
-fúngica
+fungica
 c
 parapsilosis
 fue
@@ -252,7 +252,7 @@ más
 frecuente
 el
 tratamiento
-antifúngico
+antifungico
 junto
 con
 la

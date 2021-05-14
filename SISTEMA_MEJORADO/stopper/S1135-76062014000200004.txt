@@ -21,7 +21,7 @@ género
 importante
 problema
 salud
-pública
+publica
 magnitud
 repercusiones
 sociosanitarias
@@ -36,6 +36,7 @@ familiares
 infancia
 relación
 significativa
+ultimas
 variables
 internos
 violencia
@@ -79,6 +80,7 @@ entrada
 prisión
 616
 sufrió
+algun
 tipo
 conflictividad
 familiar

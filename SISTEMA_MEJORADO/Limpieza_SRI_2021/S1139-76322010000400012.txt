@@ -25,7 +25,7 @@ calcio
 y
 en
 otras
-múltiples
+multiples
 funciones
 en
 diversos
@@ -43,7 +43,7 @@ y
 osteomalacia
 en
 las
-últimas
+ultimas
 décadas
 numerosos
 estudios
@@ -133,7 +133,7 @@ las
 campañas
 de
 salud
-pública
+publica
 que
 aconsejan
 evitar

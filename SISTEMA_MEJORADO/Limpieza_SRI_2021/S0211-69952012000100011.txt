@@ -1,7 +1,7 @@
 utilidad
 del
 ácido
-úrico
+urico
 como
 marcador
 de
@@ -26,7 +26,7 @@ del
 papel
 del
 ácido
-úrico
+urico
 au
 como
 factor
@@ -193,7 +193,7 @@ los
 niveles
 de
 au
-según
+segun
 género
 antecedentes
 de

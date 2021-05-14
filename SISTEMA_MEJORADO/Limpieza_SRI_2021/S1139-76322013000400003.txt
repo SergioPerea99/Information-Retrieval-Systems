@@ -345,7 +345,7 @@ la
 consulta
 puede
 ser
-útil
+util
 para
 detectar
 adolescentes

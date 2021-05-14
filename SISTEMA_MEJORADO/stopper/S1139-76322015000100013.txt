@@ -12,7 +12,7 @@ v17
 n65
 2015
 infecciones
-fúngicas
+fungicas
 piel
 suelen
 producirse
@@ -33,6 +33,7 @@ tiñas
 clasifican
 forma
 topográfica
+segun
 zona
 afectada
 empleando

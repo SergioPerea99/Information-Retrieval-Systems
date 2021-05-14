@@ -59,7 +59,7 @@ a
 término
 en
 los
-últimos
+ultimos
 doce
 meses
 mediciones
@@ -73,7 +73,7 @@ consultados
 consulta
 privada
 o
-pública
+publica
 y
 actividades
 realizadas
@@ -139,7 +139,7 @@ el
 utilizó
 el
 sistema
-público
+publico
 el
 311
 la
@@ -194,7 +194,7 @@ realizadas
 en
 el
 sistema
-público
+publico
 y
 la
 medicina

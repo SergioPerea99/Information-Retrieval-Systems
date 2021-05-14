@@ -83,7 +83,7 @@ manipulación
 experimental
 escalas
 privada
-pública
+publica
 autoestima
 colectiva
 somatización

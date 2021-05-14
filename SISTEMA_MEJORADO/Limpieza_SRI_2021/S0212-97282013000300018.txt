@@ -73,7 +73,7 @@ entre
 las
 personas
 que
-puntúan
+puntuan
 alto
 y
 bajo
@@ -103,7 +103,7 @@ significativa
 con
 esas
 anomalías
-según
+segun
 lo
 observado
 en
@@ -159,7 +159,7 @@ las
 comparaciones
 entre
 quienes
-puntúan
+puntuan
 alto
 y
 bajo

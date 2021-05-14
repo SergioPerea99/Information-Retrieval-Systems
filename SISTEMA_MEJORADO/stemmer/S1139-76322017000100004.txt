@@ -76,6 +76,7 @@ hospit
 nivel
 valorar
 estudio
+segun
 guía
 aap
 método
@@ -94,6 +95,7 @@ neumología
 pediátrica
 hospit
 nivel
+ultimo
 año
 2010-2014
 base
@@ -123,7 +125,7 @@ hermano
 pacient
 síndrome
 muert
-súbita
+subita
 lactant
 smsl
 caso

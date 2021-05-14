@@ -139,7 +139,7 @@ anemia
 pacient
 presentaban
 hta
-únicament
+unicament
 17
 cumplían
 recomendacion

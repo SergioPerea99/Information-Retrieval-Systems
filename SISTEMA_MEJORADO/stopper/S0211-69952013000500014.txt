@@ -1,6 +1,7 @@
 estimación
 filtrado
 glomerular
+segun
 mdrd-4
 idms
 ckd-epi
@@ -25,6 +26,7 @@ enfermedad
 renal
 crónica
 erc
+segun
 estimación
 filtrado
 glomerular
@@ -62,7 +64,7 @@ enero
 31
 diciembre
 2010
-único
+unico
 laboratorio
 centralizado
 criterios
@@ -78,6 +80,7 @@ factores
 riesgo
 enfermedad
 cardiovascular
+segun
 registro
 historia
 clínica
@@ -85,6 +88,7 @@ electrónica
 concentración
 creatinina
 sérica
+segun
 método
 jaffé
 cinético

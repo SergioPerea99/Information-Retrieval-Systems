@@ -1,6 +1,7 @@
 filtrado
 glomerular
 reducido
+segun
 fórmulas
 cockcroft-gault
 mdrd
@@ -34,6 +35,7 @@ filtrado
 glomerular
 fg
 basal
+segun
 fórmulas
 cockcroft-gault
 mdrd

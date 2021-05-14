@@ -95,7 +95,7 @@ mgdl
 con
 aloh3
 como
-único
+unico
 quelante
 la
 conversión
@@ -106,7 +106,7 @@ realizó
 sin
 variar
 el
-número
+numero
 de
 comprimidos
 se
@@ -172,7 +172,7 @@ o
 25-oh-vitamina
 d3
 el
-número
+numero
 prescrito
 de
 comprimidos

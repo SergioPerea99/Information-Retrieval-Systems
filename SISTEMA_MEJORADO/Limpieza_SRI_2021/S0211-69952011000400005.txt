@@ -89,7 +89,7 @@ se
 puede
 deber
 a
-múltiples
+multiples
 causas
 entre
 las
@@ -114,7 +114,7 @@ inhibidores
 de
 m-tor
 enfermedad
-túbulo-intersticial
+tubulo-intersticial
 del
 injerto
 y

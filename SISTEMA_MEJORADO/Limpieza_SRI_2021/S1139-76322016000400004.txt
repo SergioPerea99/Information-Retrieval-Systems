@@ -5,7 +5,7 @@ de
 los
 recién
 nacidos
-según
+segun
 el
 país
 de
@@ -59,7 +59,7 @@ recién
 nacidos
 de
 gestación
-única
+unica
 y
 controlada
 a
@@ -93,7 +93,7 @@ recién
 nacidos
 pretérmino
 gestación
-múltiple
+multiple
 muerto
 anteparto
 o
@@ -143,7 +143,7 @@ peso
 medio
 al
 nacer
-según
+segun
 el
 origen
 de

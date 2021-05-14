@@ -78,7 +78,7 @@ desmopresina
 recogieron
 resultados
 cocientes
-albúminacreatinina
+albuminacreatinina
 n-acetilglucosaminidasa
 nagcreatinina
 filtrado
@@ -90,6 +90,7 @@ urinario
 resultados
 distribuidos
 pacientes
+segun
 normalidad
 anormalidad
 gammagrafía
@@ -125,16 +126,17 @@ especificidad
 niños
 eliminación
 urinaria
-albúmina
+albumina
 incrementada
 72
 cociente
 nagcreatinina
 fgr
 reducido
-únicamente
+unicamente
 57
 pacientes
+ultimos
 marcadores
 sensibles
 específicos

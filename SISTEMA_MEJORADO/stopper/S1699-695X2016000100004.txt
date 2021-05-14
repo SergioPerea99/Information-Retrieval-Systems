@@ -18,14 +18,14 @@ n1
 2016
 objetivo
 determinar
-número
+numero
 determinaciones
 antígeno
 prostático
 específico
 npsa
 asocia
-número
+numero
 tratamientos
 bloqueo
 androgénico
@@ -56,7 +56,7 @@ medicina
 familia
 provincia
 ourense
-número
+numero
 varones
 mayores
 50
@@ -83,7 +83,7 @@ dependiente
 análisis
 regresión
 lineal
-múltiple
+multiple
 incluyendo
 covariables
 sexo
@@ -116,7 +116,7 @@ npsa
 524año
 existía
 relación
-número
+numero
 v50
 npsa
 rho
@@ -141,7 +141,7 @@ spearman02
 ic95
 004-031
 p001
-número
+numero
 v50
 ntba
 rho
@@ -158,7 +158,7 @@ ntba
 edad
 varones
 p0001
-número
+numero
 v50
 p0001
 conclusiones
@@ -167,13 +167,13 @@ psa
 diagnóstico
 cp
 medido
-número
+numero
 tba
 instaurados
 estando
 asociados
 edad
-número
+numero
 varones
 mayores
 50

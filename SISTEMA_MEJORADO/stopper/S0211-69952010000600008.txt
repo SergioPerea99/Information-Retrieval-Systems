@@ -53,9 +53,10 @@ megestrol
 160
 mgdía
 dosis
-única
+unica
 anorexia
 definida
+segun
 escala
 likert
 apetito
@@ -80,7 +81,7 @@ kg
 p
 001
 concentración
-albúmina
+albumina
 402
 frente
 38

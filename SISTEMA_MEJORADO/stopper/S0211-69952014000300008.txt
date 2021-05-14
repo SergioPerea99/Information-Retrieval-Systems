@@ -32,6 +32,7 @@ cuantificación
 presenta
 limitaciones
 variabilidad
+segun
 método
 empleado
 pth
@@ -50,6 +51,7 @@ aclararse
 riñón
 varía
 proporción
+segun
 estadio
 enfermedad
 renal
@@ -99,7 +101,7 @@ isotópico
 irma
 inmunoquimioluminescentes
 eclia
-único
+unico
 método
 pth
 generación

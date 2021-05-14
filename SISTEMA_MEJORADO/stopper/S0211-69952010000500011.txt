@@ -94,7 +94,7 @@ sexo
 creatinina
 plasmática
 cociente
-albúminacreatinina
+albuminacreatinina
 orina
 simple
 hemoglobina
@@ -137,6 +137,7 @@ pacientes
 dm2
 prevalencia
 erc
+segun
 criterios
 kdoqi
 346

@@ -47,7 +47,7 @@ la
 infancia
 es
 muy
-útil
+util
 para
 evitar
 posibles
@@ -154,7 +154,7 @@ pueden
 ser
 descubiertas
 tempranamente
-únicamente
+unicamente
 el
 pediatra
 puede

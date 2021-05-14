@@ -69,7 +69,7 @@ caries
 cepillado
 dental
 consumo
-azúcares
+azucares
 empleo
 colutorios
 fluorados
@@ -100,7 +100,7 @@ inmigrantes
 índice
 cod
 media
-número
+numero
 piezas
 dentarias
 temporales
@@ -112,7 +112,7 @@ años
 índice
 caod
 media
-número
+numero
 piezas
 dentarias
 definitivas
@@ -131,7 +131,7 @@ día
 correctamente
 consumo
 ocasional
-azúcares
+azucares
 comidas
 367
 219597

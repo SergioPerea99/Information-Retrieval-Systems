@@ -50,6 +50,7 @@ técnica
 permanecen
 caso
 ignorant
+ultima
 década
 numeroso
 trabajo
@@ -70,6 +71,7 @@ trabajo
 revisan
 criterio
 clásico
+segun
 caso
 sustituyen
 complementan
@@ -105,7 +107,7 @@ método
 estimación
 factor
 3
-número
+numero
 factor
 reten
 4

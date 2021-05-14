@@ -305,7 +305,7 @@ hubo
 mortalidad
 postoperatoria
 el
-número
+numero
 de
 ingresos
 fue

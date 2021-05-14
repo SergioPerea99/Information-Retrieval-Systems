@@ -64,7 +64,7 @@ datos
 analizados
 análisis
 regresión
-múltiple
+multiple
 resultados
 pacientes
 mostraron
@@ -110,7 +110,7 @@ componentes
 físico
 mental
 cvrs
-número
+numero
 intensidad
 síntomas
 físicos

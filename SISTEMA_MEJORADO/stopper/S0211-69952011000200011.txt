@@ -96,6 +96,7 @@ deficiencia
 comparando
 datos
 analizados
+segun
 niveles
 vitamina
 25ohd

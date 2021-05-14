@@ -8,7 +8,7 @@ aguda
 secundaria
 a
 mieloma
-múltiple
+multiple
 con
 filtros
 de
@@ -25,7 +25,7 @@ resumen
 introducción
 el
 mieloma
-múltiple
+multiple
 mm
 es
 una
@@ -152,7 +152,7 @@ de
 superficie
 posteriormente
 se
-continúa
+continua
 con
 sesiones
 a
@@ -241,7 +241,7 @@ en
 los
 niveles
 de
-albúmina
+albumina
 utilizando
 un
 protocolo
@@ -254,7 +254,7 @@ de
 50
 ml
 de
-albúmina
+albumina
 al
 20
 al

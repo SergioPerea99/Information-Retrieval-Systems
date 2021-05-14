@@ -26,6 +26,7 @@ manifestars
 proteinuria
 rango
 nefrótico
+segun
 trabajo
 previo
 presenta
@@ -112,7 +113,7 @@ recibieron
 esteroid
 4
 307
-único
+unico
 medicamento
 inmunosupresor
 3
@@ -163,4 +164,5 @@ esteroid
 pronóstico
 largo
 plazo
+aun
 conoc

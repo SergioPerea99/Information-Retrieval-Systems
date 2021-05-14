@@ -230,7 +230,7 @@ clínicas
 el
 934
 consideró
-útil
+util
 el
 consejo
 recibido
@@ -242,7 +242,7 @@ precisó
 ser
 atendido
 en
-ningún
+ningun
 otro
 servicio
 conclusiones

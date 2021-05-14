@@ -88,7 +88,7 @@ renal
 respectivamente
 análisis
 regresión
-múltiple
+multiple
 reveló
 función
 renal

@@ -38,6 +38,7 @@ profesional
 precisan
 competencia
 tiempo
+ultima
 década
 surgido
 iniciativa

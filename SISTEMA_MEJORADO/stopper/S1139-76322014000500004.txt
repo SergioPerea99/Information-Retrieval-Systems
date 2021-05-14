@@ -16,6 +16,7 @@ introducción
 sobrepeso
 obesidad
 infantiles
+ultimas
 décadas
 epidemia
 afecta
@@ -90,6 +91,7 @@ sobrepesosobesos
 prevalencias
 sobrepeso
 obesidad
+segun
 referencias
 internacionales
 237
@@ -100,7 +102,7 @@ mayores
 niños
 alumnos
 escuelas
-públicas
+publicas
 encontraron
 relaciones
 significativas
@@ -124,4 +126,4 @@ sexo
 masculino
 escolarizados
 centros
-públicos
+publicos

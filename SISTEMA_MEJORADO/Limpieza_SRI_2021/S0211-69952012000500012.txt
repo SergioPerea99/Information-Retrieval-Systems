@@ -73,7 +73,7 @@ catéteres
 colocados
 con
 técnica
-quirúrgica
+quirurgica
 abierta
 en
 línea
@@ -105,7 +105,7 @@ renal
 cirugía
 previa
 tiempo
-quirúrgico
+quirurgico
 omentectomía
 omentopexia
 infección
@@ -242,7 +242,7 @@ resultados
 el
 primer
 año
-posquirúrgico
+posquirurgico
 además
 de
 la

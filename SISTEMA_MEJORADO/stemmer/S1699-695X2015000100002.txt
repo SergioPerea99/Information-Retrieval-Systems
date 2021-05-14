@@ -92,7 +92,7 @@ moderada
 fuert
 disminución
 frecuencia
-número
+numero
 deposicion
 aumento
 consistencia
@@ -127,7 +127,7 @@ p
 0001
 presencia
 estreñimiento
-número
+numero
 fármaco
 consumido
 pacient

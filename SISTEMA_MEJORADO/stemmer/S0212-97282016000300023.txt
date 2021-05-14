@@ -28,7 +28,7 @@ conoc
 relación
 variabl
 estimación
-número
+numero
 persona
 apoyo
 caso
@@ -71,7 +71,7 @@ sociodemográfico
 correlación
 pearson
 revela
-número
+numero
 persona
 apoyo
 correlaciona

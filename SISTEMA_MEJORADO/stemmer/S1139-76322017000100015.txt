@@ -1,6 +1,6 @@
 sonoro
 visual
-música
+musica
 tercer
 personaj
 leitmotiv
@@ -14,7 +14,7 @@ v19
 n73
 2017
 resumen
-música
+musica
 suel
 personaj
 olvidado
@@ -27,7 +27,7 @@ comunión
 visual
 séptimo
 art
-música
+musica
 tercer
 personaj
 permanec
@@ -38,7 +38,7 @@ chico
 chica
 príncipe
 mendigo
-música
+musica
 entend
 película
 conscient
@@ -75,7 +75,7 @@ director
 compositor
 musical
 película
-música
+musica
 tercer
 personaj
 sé
@@ -92,7 +92,7 @@ cine
 pediatría
 canción
 melodía
-música
+musica
 celesti
 devolvemo
 artículo

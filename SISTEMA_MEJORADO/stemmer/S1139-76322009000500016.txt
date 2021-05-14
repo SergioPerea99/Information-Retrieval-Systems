@@ -31,7 +31,7 @@ año
 menor
 tomar
 decision
-reún
+reun
 condicion
 madurez
 suficient
@@ -68,7 +68,7 @@ cuidar
 salud
 menor
 hijo
-común
+comun
 ocurrir
 menor
 quiera
@@ -108,6 +108,7 @@ caso
 desacuerdo
 cuál
 atend
+ultimo
 caso
 convirtiéndos
 garant

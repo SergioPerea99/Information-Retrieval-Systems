@@ -86,7 +86,7 @@ prueba
 programa
 seguimiento
 realizan
-múltipl
+multipl
 cribado
 recomendacion
 objeto

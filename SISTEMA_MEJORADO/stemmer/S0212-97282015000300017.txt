@@ -100,4 +100,4 @@ salud
 universitario
 contribución
 salud
-pública
+publica

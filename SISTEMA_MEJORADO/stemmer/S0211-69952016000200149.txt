@@ -31,7 +31,7 @@ riesgo
 análisi
 estadístico
 método
-común
+comun
 distinto
 registro
 permitiría
@@ -107,11 +107,12 @@ anual
 llegan
 variar
 20
-número
+numero
 relativo
 64
 vs
 52
+segun
 sistema
 aplicado
 estimación
@@ -145,7 +146,7 @@ impresión
 final
 queda
 lector
-número
+numero
 sobrestima
 mortalidad
 modelo
@@ -153,7 +154,7 @@ rc
 expresa
 realidad
 dp
-número
+numero
 pacient
 pierden
 seguimiento
@@ -163,7 +164,7 @@ hd
 cuadruplica
 fallecido
 cuarta
-continúa
+continua
 dp
 final
 seguimiento

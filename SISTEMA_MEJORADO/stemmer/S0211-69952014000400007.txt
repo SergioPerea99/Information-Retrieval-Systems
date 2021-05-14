@@ -80,6 +80,7 @@ analizó
 respuesta
 líquido
 intravenoso
+segun
 niño
 hallaba
 normo
@@ -104,6 +105,7 @@ incluido
 estudio
 distribuyeron
 grupo
+segun
 resultado
 inici
 natremia
@@ -155,6 +157,7 @@ na
 sérico
 final
 detectó
+ningun
 caso
 hiponatremia
 posinfusión

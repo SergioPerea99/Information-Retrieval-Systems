@@ -13,6 +13,7 @@ n3
 observaciones
 llevadas
 cabo
+ultimos
 15
 años
 expertos
@@ -20,7 +21,7 @@ forenses
 reconocimiento
 síndrome
 muerte
-súbita
+subita
 inesperada
 muerte
 agitación
@@ -148,7 +149,7 @@ datos
 historias
 clínicas
 escaso
-número
+numero
 estudios
 relacionados
 tema

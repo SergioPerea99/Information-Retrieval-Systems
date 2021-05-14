@@ -5,7 +5,7 @@ su
 encrucijada
 a
 la
-búsqueda
+busqueda
 de
 una
 definición
@@ -138,7 +138,7 @@ puede
 proporcionarnos
 información
 muy
-útil
+util
 más
 allá
 de
@@ -216,7 +216,7 @@ ampa
 en
 domicilio
 que
-aún
+aun
 precisan
 de
 la

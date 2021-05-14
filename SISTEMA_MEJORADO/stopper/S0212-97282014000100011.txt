@@ -51,7 +51,7 @@ correlación
 pearson
 análisis
 regresión
-múltiple
+multiple
 resultados
 encontraron
 relaciones
@@ -70,6 +70,7 @@ relaciones
 significativas
 catastrofismo
 autoeficacia
+ultima
 moduló
 relación
 catastrofismo
@@ -94,5 +95,6 @@ constituyendo
 objetivo
 terapéutico
 imprescindible
+ultimo
 nivel
 asistencial

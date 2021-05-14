@@ -12,6 +12,7 @@ v32
 n3
 2012
 introducción
+ultimo
 año
 enfermedad
 renal
@@ -42,7 +43,7 @@ enfermo
 renal
 crónico
 basándos
-únicament
+unicament
 filtrado
 glomerular
 estimado
@@ -95,6 +96,7 @@ año
 reclutamiento
 establecimo
 grupo
+segun
 concentración
 creatinina
 plasmática
@@ -158,7 +160,7 @@ significativa
 grupo
 1
 2
-número
+numero
 ingreso
 episodio
 insuficiencia
@@ -234,6 +236,7 @@ realizando
 tratamiento
 conservador
 comorbilidad
+ningun
 pacient
 estudio
 iniciado
@@ -307,7 +310,7 @@ conclusión
 screen
 erc
 basado
-únicament
+unicament
 grado
 filtrado
 glomerular

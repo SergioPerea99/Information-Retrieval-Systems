@@ -91,7 +91,7 @@ entidades
 diagnósticas
 comparten
 rasgos
-común
+comun
 concepto
 comportan
 consecuencias

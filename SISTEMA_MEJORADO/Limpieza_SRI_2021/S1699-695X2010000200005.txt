@@ -169,10 +169,10 @@ todo
 vertebrales
 y
 de
-húmero
+humero
 en
 menor
-número
+numero
 055
 vs
 175
@@ -305,7 +305,7 @@ de
 forma
 directa
 y
-única
+unica
 en
 nuestro
 medio

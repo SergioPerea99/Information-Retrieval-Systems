@@ -23,7 +23,7 @@ donant
 criterio
 expandido
 dce
-número
+numero
 riñon
 descartado
 trasplant
@@ -51,7 +51,7 @@ caso
 control
 analiza
 experiencia
-único
+unico
 hospit
 mayo
 2007
@@ -60,7 +60,7 @@ marzo
 criterio
 decidir
 tx
-único
+unico
 dobl
 quedaron
 definido
@@ -87,7 +87,7 @@ mayor
 año
 40
 trasplant
-único
+unico
 tx
 40
 txb
@@ -183,6 +183,7 @@ riñon
 pacient
 txb
 pacient
+ultimo
 grupo
 perdieron
 riñón

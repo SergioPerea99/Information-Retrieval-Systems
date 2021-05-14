@@ -92,12 +92,12 @@ particularment
 dimension
 física
 comorbilidad
-número
+numero
 visita
 urgencia
 hospitalizacion
 previa
-albúmina
+albumina
 tratamiento
 previo
 hd

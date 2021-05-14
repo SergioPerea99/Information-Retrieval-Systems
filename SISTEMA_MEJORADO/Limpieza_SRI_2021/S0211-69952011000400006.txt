@@ -141,7 +141,7 @@ la
 sesión
 de
 pf
-albúmina
+albumina
 humana
 al
 5
@@ -169,7 +169,7 @@ la
 técnica
 de
 aféresis
-número
+numero
 de
 sesiones
 de
@@ -225,7 +225,7 @@ urémicos
 siete
 casos
 de
-púrpura
+purpura
 trombótica
 trombocitopénica
 o
@@ -612,7 +612,7 @@ y
 función
 renal
 en
-múltiples
+multiples
 patologías
 infrecuentes
 nuestro
@@ -620,7 +620,7 @@ estudio
 aporta
 una
 información
-útil
+util
 y
 valiosa
 para

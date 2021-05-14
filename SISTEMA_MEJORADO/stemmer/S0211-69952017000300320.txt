@@ -34,7 +34,7 @@ nivel
 urinario
 mbl
 c4d
-útile
+util
 identificar
 presencia
 depósito

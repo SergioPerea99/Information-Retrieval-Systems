@@ -9,7 +9,7 @@ baja
 en
 escolares
 de
-perú
+peru
 2015-12-01
 pediatría
 atención
@@ -62,7 +62,7 @@ de
 san
 pedro
 piura
-perú
+peru
 material
 y
 métodos
@@ -96,7 +96,7 @@ valores
 mayores
 a
 2025
-según
+segun
 la
 evaluación
 con

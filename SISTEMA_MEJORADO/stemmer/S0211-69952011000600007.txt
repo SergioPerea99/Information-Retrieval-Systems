@@ -63,7 +63,7 @@ función
 concierto
 existent
 sanidad
-pública
+publica
 difieren
 distinta
 comunidad
@@ -121,6 +121,7 @@ tratamiento
 debería
 inform
 actualizado
+ultima
 24-48
 hora
 traslado
@@ -154,7 +155,7 @@ calcio-fósforo
 ion
 fecha
 diálisi
-número
+numero
 fecha
 transfusion
 sanguínea
@@ -174,6 +175,7 @@ actualizado
 incluyera
 principal
 diagnóstico
+ultima
 incidencia
 serología
 vírica
@@ -188,7 +190,7 @@ hospit
 existencia
 historia
 clínica
-única
+unica
 informatizada
 alcanc
 amba
@@ -400,6 +402,7 @@ jornada
 labor
 40
 coincid
+ningun
 compañero
 jornada
 habría

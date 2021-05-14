@@ -39,7 +39,7 @@ renal
 crónica
 secundaria
 nefropatía
-túbulo-intersticial
+tubulo-intersticial
 tratada
 hemodiálisis
 hd
@@ -67,7 +67,7 @@ interdigitales
 mamografía
 cv
 lineales
-múltiples
+multiples
 ambas
 mamas
 cinacalcet

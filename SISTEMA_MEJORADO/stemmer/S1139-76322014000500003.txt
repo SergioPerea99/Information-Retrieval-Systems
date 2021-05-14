@@ -61,6 +61,7 @@ duración
 registro
 30
 minuto
+segun
 sistema
 internacion
 1020

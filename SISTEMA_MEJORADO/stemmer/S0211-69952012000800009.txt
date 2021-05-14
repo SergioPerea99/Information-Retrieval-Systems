@@ -32,6 +32,7 @@ criterio
 maastricht
 tipo
 ii
+ultimo
 año
 donant
 fallecido
@@ -121,7 +122,7 @@ proced
 extracción
 renal
 técnica
-quirúrgica
+quirurgica
 rápida
 tiempo
 isquemia
@@ -191,6 +192,7 @@ rango
 filtrado
 glomerular
 estimado
+ultima
 revisión
 230
 106

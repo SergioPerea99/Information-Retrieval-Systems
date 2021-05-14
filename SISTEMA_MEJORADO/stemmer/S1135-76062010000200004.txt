@@ -7,7 +7,7 @@ media
 propósito
 caso
 muert
-súbita
+subita
 juvenil
 2010-09-01
 cuaderno
@@ -26,7 +26,7 @@ país
 occidental
 frecuentement
 muert
-súbita
+subita
 inesperada
 debida
 disección
@@ -75,7 +75,7 @@ erdheim
 presentamo
 caso
 muert
-súbita
+subita
 mujer
 18
 año
@@ -99,7 +99,7 @@ capa
 media
 pare
 aórtica
-único
+unico
 hallazgo
 interé
 estudio

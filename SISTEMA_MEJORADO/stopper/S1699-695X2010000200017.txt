@@ -95,6 +95,7 @@ estudio
 etiológico
 completo
 encontrar
+ningun
 factor
 subyacente
 tratamiento

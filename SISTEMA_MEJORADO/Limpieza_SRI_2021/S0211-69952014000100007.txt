@@ -44,7 +44,7 @@ uroquinasa
 supar
 podría
 ser
-útil
+util
 para
 diferenciar
 la

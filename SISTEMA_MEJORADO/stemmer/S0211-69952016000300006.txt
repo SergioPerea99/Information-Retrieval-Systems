@@ -84,7 +84,7 @@ icc
 112012
 1162013
 resultado
-número
+numero
 pacient
 analizado
 824

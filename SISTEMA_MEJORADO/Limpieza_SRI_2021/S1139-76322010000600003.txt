@@ -253,7 +253,7 @@ dos
 presentaron
 exacerbaciones
 leves
-ningún
+ningun
 niño
 recibió
 tratamiento

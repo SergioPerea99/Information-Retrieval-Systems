@@ -76,7 +76,7 @@ mediciones
 método
 calculamos
 diferencia
-volúmenes
+volumenes
 medición
 clasificamos
 2
@@ -99,7 +99,7 @@ student
 valoramos
 asociación
 diferencias
-volúmenes
+volumenes
 presencia
 parámetros
 clínicos
@@ -127,7 +127,7 @@ significativas
 comparar
 presencia
 diferencia
-volúmenes
+volumenes
 presencia
 diabetes
 p
@@ -180,6 +180,7 @@ v
 pacientes
 unidad
 dp
+segun
 calculado
 fórmula
 watson

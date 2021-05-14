@@ -99,7 +99,7 @@ usar
 internet
 correo
 electrónico
-búsqueda
+busqueda
 información
 salud
 tema

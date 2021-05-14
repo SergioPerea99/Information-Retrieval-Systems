@@ -12,6 +12,7 @@ incidentes
 diálisis
 comunidad
 canaria
+ultimos
 años
 2011-01-01
 nefrología
@@ -53,6 +54,7 @@ edad
 comorbilidad
 comunidad
 canaria
+ultimos
 años
 ido
 introduciendo
@@ -102,6 +104,7 @@ incidentes
 hd
 frente
 dp
+ultimos
 años
 canarias
 objetivos

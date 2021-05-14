@@ -3,7 +3,7 @@ edad
 rendimiento
 deportivo
 jugadores
-fútbol
+futbol
 modelo
 costa
 mccrae
@@ -21,6 +21,7 @@ constituyéndose
 importante
 línea
 investigación
+ultima
 década
 obtenido
 resultados
@@ -76,7 +77,7 @@ deportivo
 muestra
 128
 jugadores
-fútbol
+futbol
 edades
 comprendidas
 14

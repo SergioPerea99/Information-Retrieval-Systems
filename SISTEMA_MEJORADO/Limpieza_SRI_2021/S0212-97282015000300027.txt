@@ -18,7 +18,7 @@ en
 este
 estudio
 se
-evalúan
+evaluan
 las
 estrategias
 de
@@ -129,7 +129,7 @@ los
 análisis
 de
 regresión
-múltiple
+multiple
 ponen
 de
 manifiesto

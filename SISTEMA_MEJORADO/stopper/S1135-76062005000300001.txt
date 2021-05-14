@@ -51,7 +51,7 @@ cuadro
 clínico
 pronóstico
 dependen
-número
+numero
 localización
 axones
 dañados
@@ -77,7 +77,7 @@ ultraestructuralmente
 axones
 localmente
 dilatados
-acúmulo
+acumulo
 organelas
 desestructuración
 citoesqueleto
@@ -95,13 +95,13 @@ tce
 transporte
 axónico
 efectua
-microtúbulos
+microtubulos
 forma
 trauma
 rompe
 red
 neurofilamentos
-microtúbulos
+microtubulos
 configura
 citoesqueleto
 provoca
@@ -120,6 +120,7 @@ igualmente
 deterioro
 transporte
 axonal
+segun
 intensidad
 agresión
 proteínas

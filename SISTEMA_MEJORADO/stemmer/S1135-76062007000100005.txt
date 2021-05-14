@@ -16,6 +16,7 @@ multidisciplinar
 ciencia
 forens
 consolidado
+ultimo
 año
 integrando
 amplio
@@ -84,7 +85,7 @@ adn
 suscept
 cotejo
 intervienen
-múltipl
+multipl
 factor
 controlados-consensuado
 institucion

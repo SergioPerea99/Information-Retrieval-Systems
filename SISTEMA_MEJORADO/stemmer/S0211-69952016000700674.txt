@@ -29,7 +29,7 @@ renal
 complicacion
 largo
 plazo
-continúan
+continuan
 área
 estudio
 actualidad
@@ -126,6 +126,7 @@ menor
 60
 mlmin173
 m2
+ningun
 pacient
 hta
 diagnosticada

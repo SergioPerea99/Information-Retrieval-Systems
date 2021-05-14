@@ -126,7 +126,7 @@ r
 0384
 p
 004
-anúrico
+anurico
 r
 0392
 p

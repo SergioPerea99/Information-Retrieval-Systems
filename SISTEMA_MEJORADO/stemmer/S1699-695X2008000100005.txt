@@ -123,6 +123,7 @@ cáncer
 páncrea
 albacet
 incrementado
+ultimo
 año
 factor
 riesgo

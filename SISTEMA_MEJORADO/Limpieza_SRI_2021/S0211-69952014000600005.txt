@@ -226,7 +226,7 @@ tensión
 arterial
 y
 el
-número
+numero
 de
 antihipertensivos
 aht
@@ -306,7 +306,7 @@ de
 tejido
 magro
 y
-albúmina
+albumina
 que
 aquellos
 en
@@ -340,7 +340,7 @@ la
 anemia
 con
 menor
-número
+numero
 de
 aht
 y

@@ -241,7 +241,7 @@ dar
 el
 nombre
 de
-algún
+algun
 factor
 de
 rcv

@@ -50,7 +50,7 @@ variables
 la
 estimación
 del
-número
+numero
 de
 personas
 de
@@ -131,7 +131,7 @@ pearson
 revela
 que
 el
-número
+numero
 de
 personas
 de

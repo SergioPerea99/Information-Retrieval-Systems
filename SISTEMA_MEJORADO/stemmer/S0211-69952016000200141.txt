@@ -60,12 +60,13 @@ diagnosticado
 inra
 tac
 contrast
-único
+unico
 hospit
 18
 año
 pacient
 clasificado
+segun
 origen
 cardiogénico
 cardiogénico

@@ -56,6 +56,7 @@ representativa
 población
 española
 dp
+ultimo
 año
 análisi
 resultado
@@ -99,6 +100,7 @@ mayor
 14
 año
 dp
+ultima
 década
 1999-2010
 área
@@ -154,6 +156,7 @@ ppm
 paí
 vasco
 observándos
+ultimo
 año
 discreto
 permanent
@@ -308,6 +311,7 @@ superior
 año
 habiendo
 mejorado
+ultimo
 año
 compar
 país

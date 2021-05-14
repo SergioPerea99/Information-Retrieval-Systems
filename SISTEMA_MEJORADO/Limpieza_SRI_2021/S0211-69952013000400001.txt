@@ -122,7 +122,7 @@ células
 intercaladas
 alfa
 del
-túbulo
+tubulo
 colector
 y
 que
@@ -201,7 +201,7 @@ intercaladas
 alfa
 de
 los
-túbulos
+tubulos
 colectores
 se
 lleva

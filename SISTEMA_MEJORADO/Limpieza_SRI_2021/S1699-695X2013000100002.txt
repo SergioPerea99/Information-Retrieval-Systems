@@ -96,7 +96,7 @@ datos
 espirométricos
 adecuación
 diagnóstica
-según
+segun
 resultados
 espirométricos
 y

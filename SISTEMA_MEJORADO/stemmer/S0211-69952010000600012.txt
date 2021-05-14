@@ -32,11 +32,11 @@ científico
 congreso
 aenp
 revisaron
-número
+numero
 presentacion
 centro
 participant
-número
+numero
 comunicacion
 forma
 presentación
@@ -45,6 +45,7 @@ experimental
 tema
 elegido
 resultado
+ultimo
 20
 año
 91
@@ -97,13 +98,14 @@ conclusion
 formato
 póster
 método
-útil
+util
 presentacion
 científica
 tema
 habitu
 enfermedad
 glomerular
+ultima
 década
 aparecido
 comunicacion

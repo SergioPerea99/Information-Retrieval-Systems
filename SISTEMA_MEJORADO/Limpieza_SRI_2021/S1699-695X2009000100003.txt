@@ -130,7 +130,7 @@ su
 médico
 en
 el
-último
+ultimo
 mes
 mientras
 que
@@ -141,7 +141,7 @@ había
 hecho
 en
 el
-último
+ultimo
 año
 las
 características

@@ -79,7 +79,7 @@ casos
 ligadura
 colaterales
 venosas
-útiles
+utiles
 8
 casos
 utilizó
@@ -127,6 +127,7 @@ posoperatoria
 requirió
 ligadura
 definitiva
+ningun
 caso
 sufrió
 amputaciones

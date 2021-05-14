@@ -84,7 +84,7 @@ o
 cmv
 e
 igual
-número
+numero
 de
 niños
 con
@@ -226,7 +226,7 @@ de
 neutrófilos
 es
 la
-única
+unica
 variación
 analítica
 en

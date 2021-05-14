@@ -118,7 +118,7 @@ cepillado
 dental
 consumo
 de
-azúcares
+azucares
 empleo
 de
 colutorios
@@ -163,7 +163,7 @@ inmigrantes
 cod
 media
 del
-número
+numero
 de
 piezas
 dentarias
@@ -178,7 +178,7 @@ años
 caod
 media
 del
-número
+numero
 de
 piezas
 dentarias
@@ -213,7 +213,7 @@ correctamente
 consumo
 ocasional
 de
-azúcares
+azucares
 entre
 comidas
 367

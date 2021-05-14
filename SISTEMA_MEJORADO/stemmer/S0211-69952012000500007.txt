@@ -69,6 +69,7 @@ insuficiencia
 renal
 crónica
 irc
+segun
 valor
 filtrado
 glomerular
@@ -163,7 +164,7 @@ mgdl
 p
 005
 cocient
-albúmina-creatinina
+albumina-creatinina
 902
 vs
 264

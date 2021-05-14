@@ -105,6 +105,7 @@ fármaco
 2
 prescripción
 dosi
+segun
 estimación
 tasa
 filtración

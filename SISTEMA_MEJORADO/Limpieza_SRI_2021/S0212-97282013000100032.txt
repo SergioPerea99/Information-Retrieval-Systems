@@ -1,6 +1,6 @@
 estrategias
 de
-búsqueda
+busqueda
 visual
 en
 conductores
@@ -31,7 +31,7 @@ analizar
 las
 estrategias
 de
-búsqueda
+busqueda
 visual
 desarrolladas
 por
@@ -76,7 +76,7 @@ y
 se
 analizan
 el
-número
+numero
 tiempo
 y
 localización
@@ -118,7 +118,7 @@ elaboran
 diferentes
 estrategias
 de
-búsqueda
+busqueda
 visual
 estas
 diferencias
@@ -151,7 +151,7 @@ también
 presenta
 un
 mayor
-número
+numero
 y
 tiempo
 de
@@ -174,11 +174,11 @@ inexperto
 en
 cambio
 este
-último
+ultimo
 grupo
 presenta
 un
-número
+numero
 y
 tiempo
 de

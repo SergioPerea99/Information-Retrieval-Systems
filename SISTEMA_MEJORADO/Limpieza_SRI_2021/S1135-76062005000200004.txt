@@ -23,7 +23,7 @@ objetivos
 1-
 determinar
 el
-número
+numero
 de
 casos
 de
@@ -138,7 +138,7 @@ preestablecido
 p005
 resultados
 el
-número
+numero
 de
 suicidios
 es
@@ -248,7 +248,7 @@ mujeres
 en
 la
 vía
-pública
+publica
 3448
 p0006
 los
@@ -345,7 +345,7 @@ y
 dejar
 constancia
 en
-algún
+algun
 documento
 en
 las
@@ -377,7 +377,7 @@ la
 precipitación
 en
 vía
-pública
+publica
 consideramos
 el
 incremento

@@ -3,7 +3,7 @@ vía
 señalización
 tweakfn14
 nefriti
-lúpica
+lupica
 escenario
 clínico
 2017-04-01
@@ -37,13 +37,14 @@ autoinmun
 ampliament
 estudiada
 afectar
-múltipl
+multipl
 órgano
 important
 impacto
 morbimortalidad
 afectación
 renal
+ultimo
 10
 año
 aumentado
@@ -53,7 +54,7 @@ vía
 señalización
 tweakfn14
 nefriti
-lúpica
+lupica
 escenario
 clínico
 artículo
@@ -63,7 +64,7 @@ literatura
 papel
 vía
 nefriti
-lúpica
+lupica
 recalca
 importancia
 tweak

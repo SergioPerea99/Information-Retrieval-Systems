@@ -30,7 +30,7 @@ vital
 dicha
 violencia
 amplio
-número
+numero
 variabl
 sociodemográfica
 permiten

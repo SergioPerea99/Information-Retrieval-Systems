@@ -84,7 +84,7 @@ mental
 largo
 año
 2008
-número
+numero
 pacient
 atendido
 psicólogo
@@ -93,7 +93,7 @@ media
 48
 pacient
 me
-número
+numero
 intervencion
 1022
 mayoría

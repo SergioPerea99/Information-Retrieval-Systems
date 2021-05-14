@@ -38,7 +38,7 @@ la
 función
 renal
 residual
-según
+segun
 la
 técnica
 de
@@ -92,7 +92,7 @@ incluyeron
 193
 enfermos
 no
-anúricos
+anuricos
 que
 comenzaron
 tratamiento

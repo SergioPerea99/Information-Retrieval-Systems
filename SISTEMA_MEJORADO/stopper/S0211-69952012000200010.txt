@@ -156,7 +156,7 @@ promedio
 592
 25
 pacientes
-normoalbuminúrico
+normoalbuminurico
 salvo
 imc
 hemoglobina
@@ -167,6 +167,7 @@ american
 diabetes
 association
 alcanzaron
+ningun
 paciente
 abandonó
 estudio

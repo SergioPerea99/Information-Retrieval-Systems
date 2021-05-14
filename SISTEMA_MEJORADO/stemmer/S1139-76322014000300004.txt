@@ -77,7 +77,7 @@ vida
 niño
 nacido
 hospit
-público
+publico
 probabilidad
 acudir
 cs

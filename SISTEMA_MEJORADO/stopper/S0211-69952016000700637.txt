@@ -5,7 +5,7 @@ valor
 añadido
 eliminación
 altos
-volúmenes
+volumenes
 convectivos
 2016-12-01
 nefrología
@@ -20,6 +20,7 @@ crónica
 riesgo
 eventos
 cardiovasculares
+ultimos
 años
 ido
 adquiriendo
@@ -38,7 +39,7 @@ estudio
 valorar
 influencia
 altos
-volúmenes
+volumenes
 convectivos
 hdf-ol
 posdilucional
@@ -109,7 +110,7 @@ sustitución
 ktv
 conclusión
 altos
-volúmenes
+volumenes
 convectivos
 totales
 hdf-ol

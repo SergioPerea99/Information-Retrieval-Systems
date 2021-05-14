@@ -58,14 +58,14 @@ menor
 año
 2005-2010
 sistema
-público
+publico
 salud
 autonómico
 información
 uso
 off-label
 presenta
-número
+numero
 prescripcion
 consumida
 antiasmático

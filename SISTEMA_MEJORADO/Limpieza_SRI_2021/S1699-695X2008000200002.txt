@@ -201,7 +201,7 @@ un
 238
 solicitó
 directamente
-algún
+algun
 tratamiento
 o
 derivación
@@ -264,5 +264,5 @@ toma
 de
 decisiones
 es
-aún
+aun
 escasa

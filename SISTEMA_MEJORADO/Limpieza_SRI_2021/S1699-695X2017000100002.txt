@@ -84,7 +84,7 @@ factores
 de
 riesgo
 cardiovascular
-número
+numero
 de
 fármacos
 listado
@@ -129,7 +129,7 @@ el
 listado
 marc
 el
-número
+numero
 medio
 de
 fármacos

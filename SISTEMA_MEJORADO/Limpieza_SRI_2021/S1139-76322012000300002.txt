@@ -30,7 +30,7 @@ n54
 introducción
 en
 los
-últimos
+ultimos
 años
 ha
 cambiado
@@ -151,7 +151,7 @@ si
 es
 posible
 fijar
-algún
+algun
 criterio
 de
 calidad

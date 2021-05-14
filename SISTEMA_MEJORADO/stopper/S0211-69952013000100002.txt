@@ -66,6 +66,7 @@ r-
 infección
 cmv
 808
+algun
 tipo
 profilaxis
 incluyendo
@@ -105,6 +106,7 @@ profilaxis
 días
 p
 005
+ningun
 caso
 éxitus
 pérdida

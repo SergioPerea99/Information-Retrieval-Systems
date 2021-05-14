@@ -90,6 +90,7 @@ emocional
 comportamental
 estrés
 percibido
+ningun
 elemento
 spq-c
 mostró

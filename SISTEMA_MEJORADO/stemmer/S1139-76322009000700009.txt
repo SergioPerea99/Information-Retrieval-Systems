@@ -20,6 +20,7 @@ tea
 agrupa
 cuadro
 clínico
+segun
 dsm-iv-tr
 seguimo
 clasificación
@@ -135,6 +136,6 @@ controvertida
 sustentada
 evidencia
 científica
-actúen
+actuen
 cautela
 frent

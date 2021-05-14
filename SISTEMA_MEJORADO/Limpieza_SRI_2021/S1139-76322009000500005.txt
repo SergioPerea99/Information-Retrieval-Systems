@@ -299,7 +299,7 @@ un
 24
 y
 tratamiento
-quirúrgico
+quirurgico
 local
 en
 un

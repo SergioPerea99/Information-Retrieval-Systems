@@ -26,7 +26,7 @@ seguimiento
 hospitales
 peor
 evolución
-continúan
+continuan
 programa
 obtener
 datos
@@ -67,7 +67,7 @@ encuestas
 cumplimentadas
 online
 acerca
-número
+numero
 prematuros
 pediatra
 tipo
@@ -90,7 +90,7 @@ pediatra
 6884
 pap
 programa
-común
+comun
 seguimiento
 hospital
 atención

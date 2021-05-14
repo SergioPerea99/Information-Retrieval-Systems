@@ -56,7 +56,7 @@ de
 pacientes
 en
 hemodiálisis
-según
+segun
 los
 distintos
 rangos

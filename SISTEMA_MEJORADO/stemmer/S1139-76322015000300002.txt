@@ -66,7 +66,7 @@ pasar
 diez
 minuto
 subtarea
-evalúan
+evaluan
 principal
 component
 procesamiento

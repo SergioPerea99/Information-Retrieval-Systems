@@ -73,7 +73,7 @@ regresión
 logística
 regresión
 lineal
-múltipl
+multipl
 resultado
 totalidad
 niño
@@ -99,7 +99,7 @@ broncoespasmo
 asocia
 padecido
 bronquiol
-número
+numero
 episodio
 broncoespasmo
 asociado
@@ -114,7 +114,7 @@ hubies
 menor
 36
 semana
-número
+numero
 cigarrillo
 fumado
 padr
@@ -135,7 +135,7 @@ bronquiti
 asmatiform
 posteriorment
 asimismo
-número
+numero
 episodio
 broncoespasmo
 año
@@ -145,7 +145,7 @@ relacionado
 padecido
 bronquiol
 previa
-número
+numero
 cigarrillo
 fumado
 padr

@@ -90,6 +90,7 @@ espectroscópica
 característica
 dialítica
 respectiva
+segun
 criterio
 definición
 analizó
@@ -226,6 +227,7 @@ mortalidad
 resto
 criterio
 dpe
+segun
 clasificación
 isrmn
 asoció
@@ -244,7 +246,7 @@ agua
 extracelular
 ocupación
 pérdida
-músculo
+musculo
 aumento
 agua
 corpor

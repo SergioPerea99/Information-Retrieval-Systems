@@ -91,7 +91,7 @@ grupo
 clínico
 estrategias
 afrontamiento
-búsqueda
+busqueda
 apoyo
 falta
 compromiso

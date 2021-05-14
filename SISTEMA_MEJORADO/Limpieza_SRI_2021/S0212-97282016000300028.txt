@@ -1,7 +1,7 @@
 la
 influencia
 del
-número
+numero
 de
 objetos
 y
@@ -39,7 +39,7 @@ en
 el
 caso
 del
-número
+numero
 gramatical
 poder
 asociar
@@ -84,7 +84,7 @@ que
 la
 producción
 al
-número
+numero
 de
 ejemplares
 de
@@ -124,7 +124,7 @@ es
 explorar
 si
 el
-número
+numero
 de
 claves
 verbales
@@ -175,7 +175,7 @@ niños
 asociaban
 claves
 verbales
-múltiples
+multiples
 e1
 y
 claves
@@ -199,7 +199,7 @@ niños
 asociaron
 las
 claves
-múltiples
+multiples
 de
 pluralidad
 pero

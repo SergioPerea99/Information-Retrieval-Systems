@@ -103,7 +103,7 @@ hominis
 atendidos
 en
 los
-últimos
+ultimos
 cinco
 años
 en
@@ -131,7 +131,7 @@ parasitológicos
 realizados
 en
 los
-últimos
+ultimos
 cinco
 años
 a
@@ -160,7 +160,7 @@ microorganismo
 resultados
 en
 los
-últimos
+ultimos
 cinco
 años
 solicitamos
@@ -227,7 +227,7 @@ sido
 adoptado
 en
 china
-ningún
+ningun
 paciente
 presentaba
 alteraciones

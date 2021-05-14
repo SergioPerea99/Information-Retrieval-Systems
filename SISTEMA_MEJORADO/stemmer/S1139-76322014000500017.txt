@@ -46,7 +46,7 @@ mbe
 metodología
 dafo
 herramienta
-útil
+util
 ordenar
 análisi
 interno

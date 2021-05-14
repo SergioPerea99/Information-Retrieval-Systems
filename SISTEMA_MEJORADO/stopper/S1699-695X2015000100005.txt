@@ -32,7 +32,7 @@ calidad
 vida
 aumento
 mortalidad
-múltiples
+multiples
 variables
 relacionadas
 prescripción

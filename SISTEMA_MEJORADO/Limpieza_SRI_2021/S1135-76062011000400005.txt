@@ -11,7 +11,7 @@ un
 caso
 de
 muerte
-súbita
+subita
 2011-12-01
 cuadernos
 de
@@ -77,7 +77,7 @@ insuficiencia
 cardiaca
 y
 muerte
-súbita
+subita
 presentamos
 el
 caso
@@ -98,7 +98,7 @@ cardiaca
 congestiva
 que
 falleció
-súbitamente
+subitamente
 y
 la
 autopsia
@@ -203,7 +203,7 @@ arritmia
 ventricular
 y
 muerte
-súbita
+subita
 aunque
 esta
 entidad
@@ -229,4 +229,4 @@ vez
 necesita
 ser
 corregida
-quirúrgicamente
+quirurgicamente

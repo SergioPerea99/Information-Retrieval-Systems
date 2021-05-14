@@ -122,7 +122,7 @@ gt
 0
 kgm²
 presentan
-albúmina
+albumina
 sérica
 basal
 baja

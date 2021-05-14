@@ -36,6 +36,7 @@ trabajo
 estratificar
 pacientes
 diálisis
+segun
 estado
 hidratación
 valorar
@@ -157,7 +158,7 @@ bioimpedancia
 técnica
 permite
 detectar
-número
+numero
 pacientes
 hiperhidratados
 estudiar

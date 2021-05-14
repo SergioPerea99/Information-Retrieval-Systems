@@ -64,7 +64,7 @@ los
 pacientes
 en
 diálisis
-según
+segun
 el
 estado
 de
@@ -264,7 +264,7 @@ permite
 detectar
 un
 gran
-número
+numero
 de
 pacientes
 hiperhidratados

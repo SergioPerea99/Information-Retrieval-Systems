@@ -19,7 +19,7 @@ baja
 incidencia
 rendimiento
 pobre
-número
+numero
 elevado
 falsos
 positivos

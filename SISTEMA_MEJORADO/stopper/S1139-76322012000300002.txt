@@ -17,6 +17,7 @@ v14
 n54
 2012
 introducción
+ultimos
 años
 cambiado
 considerablemente
@@ -75,6 +76,7 @@ adecuadas
 finalmente
 pretende
 fijar
+algun
 criterio
 calidad
 fácilmente

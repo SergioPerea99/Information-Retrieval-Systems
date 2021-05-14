@@ -3,7 +3,7 @@ renal
 aguda
 por
 picadura
-múltiple
+multiple
 de
 abejas
 africanizadas
@@ -28,7 +28,7 @@ aguda
 ira
 por
 picadura
-múltiple
+multiple
 de
 abejas
 africanizadas
@@ -54,7 +54,7 @@ hospital
 san
 vicente
 de
-paúl
+paul
 de
 medellín
 colombia
@@ -117,7 +117,7 @@ entre
 picaduras
 y
 desenlaces
-número
+numero
 de
 sesiones
 de
@@ -145,7 +145,7 @@ ello
 se
 expone
 el
-número
+numero
 exacto
 de
 observaciones
@@ -194,7 +194,7 @@ departamento
 de
 antioquía
 805
-número
+numero
 de
 picaduras
 por
@@ -204,7 +204,7 @@ aproximadamente
 intervalo
 entre
 picadura
-múltiple
+multiple
 e
 ira
 48
@@ -390,7 +390,7 @@ nefrotóxica
 probablemente
 influye
 además
-algún
+algun
 grado
 de
 nefrotoxicidad

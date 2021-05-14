@@ -199,14 +199,14 @@ tratamiento
 antiagregante
 resultados
 el
-número
+numero
 total
 de
 biopsias
 realizadas
 en
 los
-últimos
+ultimos
 18
 años
 ha
@@ -304,7 +304,7 @@ que
 evidenció
 hemangiomas
 epitelioides
-múltiples
+multiples
 en
 el
 estudio

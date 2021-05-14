@@ -21,9 +21,10 @@ presenta
 síntoma
 edad
 pediátrica
+ultimo
 año
 aumentado
-número
+numero
 diagnóstico
 reducido
 edad
@@ -67,6 +68,7 @@ diagnóstico
 mese
 892
 presentaban
+algun
 síntoma
 diagnóstico
 108
@@ -159,6 +161,6 @@ espghan
 permitido
 diagnosticar
 relevant
-número
+numero
 pacient
 biopsia

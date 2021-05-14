@@ -153,6 +153,7 @@ sospecha
 clínica
 necesario
 disponer
+algun
 instrumento
 cribado
 detección

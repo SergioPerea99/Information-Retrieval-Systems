@@ -95,7 +95,7 @@ estadounidens
 supondría
 tratar
 estatina
-número
+numero
 persona
 excesivo
 particularment
@@ -103,6 +103,7 @@ edad
 avanzada
 abandonar
 estrategia
+segun
 objetivo
 colesterol
 fuertement

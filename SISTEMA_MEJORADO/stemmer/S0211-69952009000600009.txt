@@ -1,5 +1,5 @@
 periton
-fúngica
+fungica
 diálisi
 periton
 continua
@@ -15,7 +15,7 @@ n6
 2009
 antecedent
 periton
-fúngica
+fungica
 complicación
 infrecuent
 grave
@@ -42,7 +42,7 @@ retrospectivament
 10
 caso
 periton
-fúngica
+fungica
 analizando
 factor
 predisponent
@@ -67,7 +67,7 @@ cultivo
 microbiológico
 resultado
 periton
-fúngica
+fungica
 representó
 36
 periton
@@ -121,7 +121,7 @@ famata
 fusarium
 oxysporum
 1
-antifúngico
+antifungico
 utilizado
 tratamiento
 fluconazol
@@ -135,7 +135,7 @@ b
 intravenosa
 consecuencia
 infección
-fúngica
+fungica
 8
 pacient
 transferido
@@ -157,13 +157,13 @@ presentaron
 riesgo
 desarrollar
 periton
-fúngica
+fungica
 c
 parapsilosi
 patógeno
 frecuent
 tratamiento
-antifúngico
+antifungico
 retirada
 catéter
 periton

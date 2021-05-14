@@ -176,7 +176,7 @@ toma
 pacientes
 120
 presentaron
-algún
+algun
 efecto
 adverso
 las
@@ -240,7 +240,7 @@ más
 ocasiones
 en
 el
-último
+ultimo
 mes
 or
 22
@@ -275,7 +275,7 @@ los
 padres
 y
 el
-número
+numero
 de
 tomas
 al

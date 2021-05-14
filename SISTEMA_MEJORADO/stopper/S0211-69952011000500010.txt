@@ -24,7 +24,7 @@ erc
 problema
 importante
 salud
-pública
+publica
 trasplante
 renal
 relaciona
@@ -132,6 +132,7 @@ p
 edad
 inicio
 tratamiento
+segun
 grupo
 enfermedad
 prevalentes
@@ -177,6 +178,7 @@ conclusiones
 mayoría
 trasplantes
 realizados
+ultimos
 11
 años
 siguen

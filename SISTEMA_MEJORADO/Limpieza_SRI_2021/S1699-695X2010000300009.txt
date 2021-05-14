@@ -189,7 +189,7 @@ como
 eje
 conductor
 la
-última
+ultima
 revisión
 que
 la
@@ -247,7 +247,7 @@ la
 pareja
 el
 objetivo
-último
+ultimo
 de
 esta
 revisión

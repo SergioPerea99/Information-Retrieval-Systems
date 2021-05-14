@@ -116,7 +116,7 @@ enfermedad
 mano-pie-boca
 observó
 incremento
-número
+numero
 caso
 alopecia
 areata

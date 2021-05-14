@@ -74,9 +74,10 @@ corporal
 implantación
 negar
 necesidad
+algun
 instrumento
 valoración
-común
+comun
 colaborase
 evitar
 situación
@@ -87,7 +88,7 @@ país
 implantación
 baremo
 tráfico
-múltiples
+multiples
 críticas
 expresadas
 fundamento

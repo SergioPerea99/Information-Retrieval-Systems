@@ -117,6 +117,7 @@ pacientes
 tenían
 serologías
 positivas
+ningun
 paciente
 presentó
 serologías

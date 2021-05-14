@@ -64,7 +64,7 @@ sus
 propias
 decisiones
 si
-reúne
+reune
 las
 condiciones
 de
@@ -157,7 +157,7 @@ salud
 del
 menor
 hijo
-común
+comun
 puede
 ocurrir
 también
@@ -254,7 +254,7 @@ atender
 o
 si
 por
-último
+ultimo
 a
 ninguno
 hace

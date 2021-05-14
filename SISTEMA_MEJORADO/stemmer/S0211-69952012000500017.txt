@@ -40,7 +40,7 @@ monitor
 ecuacion
 utilizada
 cálculo
-volúmen
+volumen
 masa
 corporal
 objetivo
@@ -134,6 +134,7 @@ biva
 defin
 hiperhidratación
 deshidratación
+segun
 vector
 estuviera
 eje
@@ -211,7 +212,7 @@ bioeléctrico
 variabilidad
 observada
 cuantificación
-volúmen
+volumen
 masa
 corporal
 atribuida

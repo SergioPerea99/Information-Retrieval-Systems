@@ -140,6 +140,7 @@ respectivament
 adecuación
 muestra
 obtenida
+segun
 criterio
 banff
 distinta

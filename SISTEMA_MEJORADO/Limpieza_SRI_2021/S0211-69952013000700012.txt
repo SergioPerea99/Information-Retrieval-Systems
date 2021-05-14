@@ -166,7 +166,7 @@ de
 cuidados
 intensivos
 donde
-continúa
+continua
 con
 plasmaféresis
 y
@@ -184,7 +184,7 @@ necesidad
 de
 hemodiálisis
 sin
-ningún
+ningun
 signo
 de
 recuperación

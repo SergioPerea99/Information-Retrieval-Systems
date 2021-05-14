@@ -101,6 +101,7 @@ calcio
 coincid
 nivel
 fósforo
+aun
 controlado
 pacient
 observa

@@ -47,7 +47,7 @@ familias
 sector
 obtener
 información
-útil
+util
 objetivos
 estudio
 mediciones
@@ -103,9 +103,9 @@ ejercen
 influencia
 apropiación
 conocimiento
-útil
+util
 aplicable
-núcleo
+nucleo
 familiar
 punto
 lograr

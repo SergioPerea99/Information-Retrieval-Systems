@@ -130,7 +130,7 @@ sangre
 u
 orina
 este
-último
+ultimo
 problema
 se
 resolvería
@@ -141,7 +141,7 @@ debido
 a
 la
 característica
-única
+unica
 de
 esta
 matriz
@@ -237,7 +237,7 @@ por
 otro
 pero
 en
-ningún
+ningun
 caso
 permiten
 diagnosticar

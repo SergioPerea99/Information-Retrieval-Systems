@@ -127,7 +127,7 @@ españa
 la
 mediana
 de
-número
+numero
 de
 hijos
 fue
@@ -205,7 +205,7 @@ y
 apoyo
 social
 y
-número
+numero
 de
 convivientes
 y

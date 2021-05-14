@@ -12,7 +12,7 @@ n61
 2014
 introducción
 sistema
-público
+publico
 salud
 población
 debería
@@ -165,7 +165,7 @@ escasa
 capacidad
 participación
 gestión
-sitúa
+situa
 posibilidades
 mejora
 pap

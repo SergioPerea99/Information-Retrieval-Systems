@@ -39,6 +39,7 @@ igm
 kappa
 pacient
 identificars
+ningun
 proceso
 inflamatorio
 predisponent

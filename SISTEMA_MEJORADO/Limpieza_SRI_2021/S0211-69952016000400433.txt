@@ -1,5 +1,5 @@
 dolor
-músculo-esquelético
+musculo-esquelético
 en
 pacientes
 con
@@ -16,7 +16,7 @@ resumen
 introducción
 el
 dolor
-músculo-esquelético
+musculo-esquelético
 crónico
 dmec
 es
@@ -122,7 +122,7 @@ parámetros
 de
 inflamación
 ácido
-úrico
+urico
 metabolismo
 óseo-mineral
 incluyendo

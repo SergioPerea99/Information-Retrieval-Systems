@@ -34,6 +34,7 @@ filtración
 glomerular
 resultados
 variables
+segun
 población
 estudiada
 estudio
@@ -78,6 +79,7 @@ sujetos
 35
 686
 encontraban
+algun
 grado
 insuficiencia
 renal

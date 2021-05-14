@@ -50,7 +50,7 @@ diagnósticas
 habitualmente
 empleadas
 resultan
-útiles
+utiles
 manejo
 enfermedad
 necesaria
@@ -127,6 +127,7 @@ graves
 intubados
 uso
 surfactante
+ningun
 tratamiento
 mostrado
 eficaz

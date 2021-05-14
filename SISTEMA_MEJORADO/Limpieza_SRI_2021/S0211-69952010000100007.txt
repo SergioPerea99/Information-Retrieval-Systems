@@ -23,14 +23,14 @@ n1
 introducción
 en
 los
-últimos
+ultimos
 años
 se
 ha
 mantenido
 estable
 el
-número
+numero
 de
 pacientes
 en
@@ -152,7 +152,7 @@ en
 inmunoadsorción
 específica
 con
-número
+numero
 sesiones
 necesarias
 hasta
@@ -200,7 +200,7 @@ valoración
 inmunológica
 médica
 y
-quirúrgica
+quirurgica
 fue
 la
 habitual
@@ -326,7 +326,7 @@ ninguna
 sesión
 de
 inmunoadsorción
-única
+unica
 con
 incompatibilidad
 anti-b
@@ -405,7 +405,7 @@ lo
 largo
 del
 seguimiento
-únicamente
+unicamente
 se
 registró
 una

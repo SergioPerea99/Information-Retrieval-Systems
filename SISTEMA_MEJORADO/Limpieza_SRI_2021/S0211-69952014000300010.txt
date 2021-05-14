@@ -65,7 +65,7 @@ de
 años
 1971-2011
 el
-número
+numero
 total
 de
 pacientes
@@ -225,7 +225,7 @@ con
 212
 gdl
 por
-último
+ultimo
 el
 607
 de

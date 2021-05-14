@@ -115,6 +115,7 @@ escrito
 lm
 587
 conoc
+algun
 grupo
 apoyo
 lm

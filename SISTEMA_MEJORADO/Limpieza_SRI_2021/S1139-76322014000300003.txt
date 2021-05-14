@@ -41,7 +41,7 @@ de
 condiciones
 crónicas
 más
-común
+comun
 atendido
 en
 las
@@ -189,7 +189,7 @@ muy
 bueno
 y
 consideró
-útil
+util
 toda
 la
 información

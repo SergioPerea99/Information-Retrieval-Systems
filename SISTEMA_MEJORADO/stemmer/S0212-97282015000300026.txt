@@ -54,6 +54,7 @@ dt
 año
 clasificaron
 familia
+segun
 estilo
 educativo
 autorizativo

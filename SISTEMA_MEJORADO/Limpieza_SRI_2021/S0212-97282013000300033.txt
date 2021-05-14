@@ -41,7 +41,7 @@ la
 ingesta
 moderada
 es
-común
+comun
 pero
 para
 algunos
@@ -110,7 +110,7 @@ sensibilidad
 diferencial
 y
 en
-última
+ultima
 instancia
 sobre
 el

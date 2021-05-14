@@ -42,7 +42,7 @@ recursos
 sanitarios
 red
 utilización
-pública
+publica
 independientemente
 titularidad
 pediatras

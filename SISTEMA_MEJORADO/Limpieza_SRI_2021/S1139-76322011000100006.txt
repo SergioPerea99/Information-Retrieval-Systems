@@ -230,7 +230,7 @@ con
 4687
 el
 mayor
-número
+numero
 de
 artículos
 publicados
@@ -275,7 +275,7 @@ publicado
 en
 inglés
 la
-única
+unica
 revista
 pediátrica
 en

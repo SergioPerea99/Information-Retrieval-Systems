@@ -19,12 +19,12 @@ negativa
 derivan
 práctica
 deportiva
-múltipl
+multipl
 factor
 origen
 creciendo
 interé
-búsqueda
+busqueda
 variabl
 psicológica
 encuentran
@@ -102,7 +102,7 @@ ansiedad
 correlacion
 estadísticament
 significativa
-número
+numero
 lesion
 puntuacion
 estabilidad

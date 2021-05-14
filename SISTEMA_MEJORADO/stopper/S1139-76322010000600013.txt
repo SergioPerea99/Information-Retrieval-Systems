@@ -16,7 +16,7 @@ mantiene
 2010
 problemas
 salud
-pública
+publica
 nivel
 global
 endémico
@@ -36,6 +36,7 @@ anuales
 continente
 africano
 incremento
+ultima
 década
 fondos
 internacionales

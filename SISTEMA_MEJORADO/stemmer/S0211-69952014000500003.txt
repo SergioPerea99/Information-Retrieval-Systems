@@ -37,7 +37,7 @@ cáncer
 patología
 neurodegenerativa
 obstant
-único
+unico
 estudio
 analizado
 efecto
@@ -140,7 +140,7 @@ dieta
 mediterránea
 resulta
 herramienta
-útil
+util
 reducción
 mortalidad
 global

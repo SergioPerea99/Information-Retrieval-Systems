@@ -312,7 +312,7 @@ no
 hubo
 incidencias
 el
-número
+numero
 de
 alarmas
 fue
@@ -387,6 +387,6 @@ un
 sin
 aumento
 del
-número
+numero
 de
 alarmas

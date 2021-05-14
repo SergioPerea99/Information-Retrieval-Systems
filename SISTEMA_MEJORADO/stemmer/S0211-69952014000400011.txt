@@ -23,6 +23,7 @@ renal
 crónica
 erc
 descubrimiento
+ultimo
 15
 año
 mecanismo
@@ -70,6 +71,7 @@ inherent
 dpe
 simultáneament
 revisamo
+ultima
 evidencia
 epidemiológica
 ponen
@@ -80,6 +82,7 @@ impacto
 mortalidad
 morbilidad
 erc
+ultimo
 destacamo
 necesidad
 redefinir

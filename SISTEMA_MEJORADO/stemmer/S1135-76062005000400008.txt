@@ -3,7 +3,7 @@ coronaria
 arteriosclerótica
 causa
 muert
-súbita
+subita
 adulto
 casuística
 instituto
@@ -24,7 +24,7 @@ industrializado
 causa
 frecuent
 muert
-súbita
+subita
 cardíaca
 msc
 adulto
@@ -41,7 +41,7 @@ producir
 isquemia
 miocárdica
 muert
-súbita
+subita
 origen
 anómalo
 hipoplasia
@@ -93,13 +93,13 @@ muert
 compat
 definición
 muert
-súbita
+subita
 resultado
 encontrado
 9
 caso
 muert
-súbita
+subita
 adulto
 patología
 coronaria

@@ -26,7 +26,7 @@ investigación
 genética
 permitido
 identificar
-múltipl
+multipl
 gene
 implicado
 fisiopatogenia
@@ -75,7 +75,7 @@ biológico
 edad
 presentación8230
 característico
-número
+numero
 elevado
 caso
 diagnóstico

@@ -76,7 +76,7 @@ período
 trabajador
 sector
 registraron
-número
+numero
 siniestro
 servicio
 incluyen
@@ -147,6 +147,6 @@ sustancia
 tóxica
 medida
 disminuir
-número
+numero
 dramática
 muert

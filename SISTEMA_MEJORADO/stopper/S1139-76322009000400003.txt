@@ -95,6 +95,7 @@ vacunados
 recibió
 vacunación
 completa
+segun
 patologías
 subyacentes
 encontradas

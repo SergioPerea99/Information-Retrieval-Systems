@@ -98,7 +98,7 @@ insuficiencia
 renal
 crónica
 irc
-según
+segun
 valores
 de
 filtrado
@@ -229,7 +229,7 @@ p
 005
 y
 cociente
-albúmina-creatinina
+albumina-creatinina
 902
 vs
 264

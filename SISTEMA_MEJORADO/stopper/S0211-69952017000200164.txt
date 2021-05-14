@@ -152,7 +152,7 @@ dp
 comarcas
 provincia
 lérida
-número
+numero
 casos
 observados
 superior

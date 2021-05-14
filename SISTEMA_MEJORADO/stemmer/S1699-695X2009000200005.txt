@@ -22,6 +22,7 @@ administración
 medicamento
 pacient
 diferencia
+segun
 medio
 urbano
 medio

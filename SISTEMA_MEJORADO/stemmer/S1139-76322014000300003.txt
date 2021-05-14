@@ -25,7 +25,7 @@ important
 grupo
 condicion
 crónica
-común
+comun
 atendido
 consulta
 atención
@@ -97,7 +97,7 @@ grupo
 participant
 evaluó
 grupo
-útil
+util
 información
 programa
 conclusion

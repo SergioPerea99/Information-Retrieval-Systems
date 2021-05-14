@@ -52,7 +52,7 @@ comparar
 cl
 unidad
 hemodiálisi
-pública
+publica
 privada
 seguridad
 social

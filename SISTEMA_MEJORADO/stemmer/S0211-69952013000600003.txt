@@ -24,6 +24,7 @@ evolución
 función
 renal
 residu
+segun
 técnica
 diálisi
 diálisi
@@ -50,7 +51,7 @@ método
 incluyeron
 193
 enfermo
-anúrico
+anurico
 comenzaron
 tratamiento
 renal

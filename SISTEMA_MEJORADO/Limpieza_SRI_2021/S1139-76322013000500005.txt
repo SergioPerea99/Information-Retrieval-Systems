@@ -240,7 +240,7 @@ complementarias
 ni
 requieren
 tratamiento
-quirúrgico
+quirurgico
 y
 pueden
 ser

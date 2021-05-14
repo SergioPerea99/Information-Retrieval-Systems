@@ -92,6 +92,7 @@ oronasal
 remitidos
 finalizar
 tratamiento
+segun
 556
 encuestados
 537
@@ -106,6 +107,7 @@ posiblemente
 condiciones
 económicas
 desfavorables
+segun
 722
 participantes
 11

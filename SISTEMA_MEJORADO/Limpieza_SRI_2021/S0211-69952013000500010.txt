@@ -130,7 +130,7 @@ hb
 gdl
 en
 los
-últimos
+ultimos
 3
 meses
 a

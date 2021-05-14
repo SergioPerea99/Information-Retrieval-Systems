@@ -20,6 +20,7 @@ rendimiento
 académico
 muestra
 estudiant
+ultimo
 curso
 educación
 primaria
@@ -29,7 +30,7 @@ implicación
 alumno
 deber
 escolar
-número
+numero
 deber
 realizado
 tiempo

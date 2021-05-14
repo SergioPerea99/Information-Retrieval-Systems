@@ -19,7 +19,7 @@ objetivo
 nefropatía
 hipertensiva
 causa
-común
+comun
 entrada
 tratamiento
 renal
@@ -162,6 +162,7 @@ hipertensiva
 tender
 crecer
 significativament
+ultimo
 año
 perfeccionamiento
 tratamiento

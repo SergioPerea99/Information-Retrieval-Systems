@@ -97,7 +97,7 @@ prism310
 y
 empleando
 dos
-volúmenes
+volumenes
 finales
 de
 reacción
@@ -252,7 +252,7 @@ identifiler
 se
 amplió
 el
-número
+numero
 de
 marcadores
 obtenidos

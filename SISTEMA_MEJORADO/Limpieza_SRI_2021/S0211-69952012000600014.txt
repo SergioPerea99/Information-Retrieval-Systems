@@ -1,5 +1,5 @@
 tratamiento
-quirúrgico
+quirurgico
 de
 las
 estenosis
@@ -70,7 +70,7 @@ puede
 ser
 radiológico
 o
-quirúrgico
+quirurgico
 la
 elección
 de
@@ -90,7 +90,7 @@ por
 consenso
 el
 tratamiento
-quirúrgico
+quirurgico
 de
 forma
 sistemática
@@ -143,7 +143,7 @@ todos
 los
 casos
 fue
-quirúrgico
+quirurgico
 realizándose
 una
 nueva
@@ -307,7 +307,7 @@ se
 realizaron
 16
 procedimientos
-quirúrgicos
+quirurgicos
 adicionales
 alcanzando
 la

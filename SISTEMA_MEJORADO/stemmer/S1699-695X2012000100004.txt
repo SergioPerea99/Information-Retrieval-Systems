@@ -115,7 +115,7 @@ competencia
 clínica
 867
 127
-número
+numero
 medio
 consulta
 3913

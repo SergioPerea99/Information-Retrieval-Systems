@@ -67,7 +67,7 @@ imagen
 fuente
 información
 guiar
-búsqueda
+busqueda
 medio
 comunicación
 indicar

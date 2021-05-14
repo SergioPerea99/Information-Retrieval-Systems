@@ -105,7 +105,7 @@ entre
 la
 epp
 el
-número
+numero
 de
 episodios
 de
@@ -143,7 +143,7 @@ fósforo
 la
 epp
 el
-número
+numero
 de
 episodios
 de
@@ -194,7 +194,7 @@ la
 epp
 y
 el
-número
+numero
 de
 episodios
 de
@@ -239,7 +239,7 @@ asocia
 significativamente
 con
 el
-número
+numero
 de
 episodios
 de

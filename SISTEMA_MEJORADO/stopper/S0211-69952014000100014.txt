@@ -12,7 +12,7 @@ n1
 2014
 cuantía
 proteinuria
-continúa
+continua
 parámetro
 clínico
 relaciona
@@ -109,6 +109,7 @@ independiente
 desarrollo
 insuficiencia
 renal
+aun
 estudios
 consistentes
 tema

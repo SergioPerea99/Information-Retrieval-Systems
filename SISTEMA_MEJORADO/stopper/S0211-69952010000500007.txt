@@ -89,6 +89,7 @@ resultados
 40
 pacientes
 incumplidor
+segun
 cuestionario
 smaq
 encontró
@@ -219,6 +220,7 @@ fósforo
 5
 relacionaba
 hueso
+ningun
 paciente
 relacionó
 cf
@@ -233,7 +235,7 @@ amigos
 pacientes
 jóvenes
 prescrito
-número
+numero
 comprimidos
 cf
 presentaban

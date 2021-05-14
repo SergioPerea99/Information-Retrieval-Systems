@@ -96,7 +96,7 @@ edad
 año
 españa
 mediana
-número
+numero
 hijo
 1
 convivient
@@ -144,7 +144,7 @@ tipo
 familiar
 apoyo
 social
-número
+numero
 convivient
 apoyo
 social

@@ -43,7 +43,7 @@ analiza
 estructura
 factorial
 escala
-evalúa
+evalua
 identificación
 estudiantes
 tipos
@@ -74,6 +74,7 @@ afiliación
 superación
 problemas
 personales
+ultimas
 presentan
 relación
 negativa

@@ -1,5 +1,5 @@
 muerte
-súbita
+subita
 en
 pacientes
 con
@@ -28,14 +28,14 @@ diálisis
 ocurre
 de
 forma
-súbita
+subita
 e
 inesperada
 la
 incidencia
 de
 muerte
-súbita
+subita
 ms
 en
 pacientes
@@ -151,7 +151,7 @@ pacientes
 y
 de
 forma
-súbita
+subita
 34
 casos
 16
@@ -213,7 +213,7 @@ significativamente
 con
 ms
 esta
-última
+ultima
 covariable
 mostró
 un
@@ -243,7 +243,7 @@ fue
 la
 muerte
 no
-súbita
+subita
 por
 cualquier
 causa

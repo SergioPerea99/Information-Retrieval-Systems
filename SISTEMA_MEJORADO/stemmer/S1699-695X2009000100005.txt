@@ -73,6 +73,7 @@ obligación
 informar
 funcion
 competencia
+aun
 existiendo
 figura
 médico
@@ -107,7 +108,7 @@ modo
 trabajar
 profesional
 poder
-público
+publico
 lleven
 cabo
 actuacion

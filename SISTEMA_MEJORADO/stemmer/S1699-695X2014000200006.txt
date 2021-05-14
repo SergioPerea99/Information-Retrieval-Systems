@@ -40,7 +40,7 @@ mendeliana
 defecto
 metabólico
 marcador
-múltipl
+multipl
 enfermedad
 permiten
 adoptar
@@ -54,7 +54,7 @@ consulta
 atención
 primaria
 disponemo
-múltipl
+multipl
 oportunidad
 poder
 detectar
@@ -78,7 +78,7 @@ genético
 component
 técnico
 metodológico
-múltipl
+multipl
 aspecto
 personal
 obligan

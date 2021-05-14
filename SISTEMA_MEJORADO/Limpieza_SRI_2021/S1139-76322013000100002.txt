@@ -54,7 +54,7 @@ existentes
 en
 esta
 frecuentación
-según
+segun
 la
 distinta
 procedencia
@@ -99,7 +99,7 @@ se
 definió
 como
 el
-número
+numero
 total
 de
 visitasaño

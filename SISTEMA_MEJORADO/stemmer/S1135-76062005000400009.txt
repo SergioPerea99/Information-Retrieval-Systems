@@ -1,5 +1,5 @@
 muert
-súbita
+subita
 joven
 síndrome
 marfan
@@ -28,6 +28,7 @@ nivel
 ocular
 esquelético
 cardiovascular
+ultima
 frecuencia
 conducen
 muert
@@ -38,8 +39,9 @@ nivel
 valvular
 aórtico
 concreto
+ultimo
 nivel
-común
+comun
 observar
 área
 degeneración
@@ -89,7 +91,8 @@ radica
 presentación
 forma
 muert
-súbita
+subita
+ningun
 tipo
 clínica
 previa
@@ -124,7 +127,7 @@ patología
 previa
 conocida
 falleció
-súbitament
+subitament
 salida
 discoteca
 estudio

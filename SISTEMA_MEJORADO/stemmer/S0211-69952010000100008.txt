@@ -60,6 +60,7 @@ convertido
 cs
 c2
 espaciamiento
+segun
 ficha
 técnica
 duplicación
@@ -119,7 +120,7 @@ predictor
 ire
 elevado
 nivel
-albúmina
+albumina
 hd
 antecedent
 enfermedad
@@ -155,7 +156,7 @@ análisi
 multivariado
 ajustar
 nivel
-albúmina
+albumina
 centro
 ire
 global

@@ -154,7 +154,7 @@ sexo
 edad
 y
 comorbilidad
-según
+segun
 clinical
 risk
 groups

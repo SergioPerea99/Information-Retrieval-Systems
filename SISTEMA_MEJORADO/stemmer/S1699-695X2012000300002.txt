@@ -64,6 +64,7 @@ chads2
 chad2ds2-vasc
 valorando
 indicación
+segun
 puntuacion
 resultado
 925

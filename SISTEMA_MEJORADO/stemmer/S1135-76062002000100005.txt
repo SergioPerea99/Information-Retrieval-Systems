@@ -122,7 +122,7 @@ causal
 fallecimiento
 naranja
 acridina
-útil
+util
 detectar
 lesion
 isquémica
@@ -130,7 +130,7 @@ aquella
 localizacion
 proceso
 perfusión
-músculo
+musculo
 cardíaco
 vers
 afectado

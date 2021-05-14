@@ -91,7 +91,7 @@ tratadas
 siempre
 mediante
 trombectomía
-quirúrgica
+quirurgica
 y
 puente
 de
@@ -102,7 +102,7 @@ necesario
 se
 analizan
 el
-número
+numero
 y
 el
 tipo

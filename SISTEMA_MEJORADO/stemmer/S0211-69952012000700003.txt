@@ -18,6 +18,7 @@ renal
 funcionant
 32
 caso
+segun
 seri
 requier
 realización

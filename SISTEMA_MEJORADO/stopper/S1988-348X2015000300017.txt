@@ -66,6 +66,7 @@ territorio
 nacional
 aspectos
 puntuar
+segun
 creyeran
 población
 califica
@@ -116,6 +117,7 @@ marzo-
 variables
 nominales
 resumidas
+segun
 frecuencia
 categorías
 escala

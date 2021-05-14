@@ -6,7 +6,7 @@ materna
 aumenta
 riesgo
 muert
-súbita
+subita
 lactant
 dormir
 padr
@@ -53,7 +53,7 @@ evitar
 colecho
 relacionarlo
 muert
-súbita
+subita
 lactant
 basan
 estudio
@@ -69,7 +69,7 @@ exhaustiva
 colecho
 lactancia
 muert
-súbita
+subita
 lactant
 encuentran
 colecho
@@ -84,5 +84,5 @@ riesgo
 guarda
 relación
 muert
-súbita
+subita
 lactant

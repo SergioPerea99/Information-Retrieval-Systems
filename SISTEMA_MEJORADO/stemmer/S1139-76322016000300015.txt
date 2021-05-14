@@ -41,12 +41,12 @@ riesgo
 anomalía
 frecuent
 quist
-sitúa
+situa
 inserción
 fetal
 placentaria
 excéntrico
-múltipl
+multipl
 diagnosticado
 tercer
 trimestr
@@ -60,7 +60,7 @@ cromosómica
 uraco
 estructura
 conecta
-cúpula
+cupula
 vejiga
 pare
 abdomin
@@ -81,6 +81,7 @@ persist
 000
 recién
 nacido
+segun
 nivel
 persista
 uraco
@@ -100,7 +101,7 @@ necesaria
 prueba
 imagen
 tratamiento
-quirúrgico
+quirurgico
 precoz
 riesgo
 infección

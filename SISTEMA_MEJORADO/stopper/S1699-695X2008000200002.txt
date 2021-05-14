@@ -104,6 +104,7 @@ decisiones
 238
 solicitó
 directamente
+algun
 tratamiento
 derivación
 hospital
@@ -137,4 +138,5 @@ participación
 paciente
 toma
 decisiones
+aun
 escasa

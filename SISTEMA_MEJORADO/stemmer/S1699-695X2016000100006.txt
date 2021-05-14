@@ -65,6 +65,7 @@ normal
 marcador
 tumor
 presentan
+ningun
 tipo
 neoplasia
 marcador

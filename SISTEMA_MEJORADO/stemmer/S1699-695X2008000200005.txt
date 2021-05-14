@@ -73,6 +73,7 @@ año
 año
 tensión
 arteri
+ultima
 revision
 resultado
 prevalencia
@@ -81,10 +82,12 @@ población
 14
 año
 98
+segun
 criterio
 cole¹
 et
 183
+segun
 criterio
 hernández²
 et

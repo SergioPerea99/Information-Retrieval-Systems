@@ -16,7 +16,7 @@ hemodiafiltración
 línea
 posdilucional
 hdfol
-única
+unica
 recomendación
 acerca
 líquido
@@ -60,7 +60,7 @@ qd
 600
 700
 mlmin
-veintiún
+veintiun
 pacientes
 dializaron
 monitor
@@ -123,7 +123,7 @@ hdfol
 monitores
 dializadores
 utilizados
-útiles
+utiles
 qd
 superiores
 500

@@ -101,7 +101,7 @@ cribado
 conclusión
 sdq-padr
 instrumento
-útil
+util
 atención
 primaria
 cribado

@@ -51,7 +51,7 @@ pediátricas
 centros
 483
 titularidad
-pública
+publica
 46
 517
 privadaconcertada
@@ -137,7 +137,7 @@ hbpm
 utiliza
 frecuentemente
 centros
-públicos
+publicos
 642
 pacientes
 privadosconcertados
@@ -166,6 +166,7 @@ orales
 pacientes
 complicaciones
 hemorrágicas
+ultima
 semana
 19
 complicaciones

@@ -49,7 +49,7 @@ patologías
 glomerulares
 caracterizadas
 fibrosis
-túbulo-intersticial
+tubulo-intersticial
 métodos
 utilizaron
 biopsias
@@ -86,7 +86,7 @@ notch
 existiendo
 asociación
 fibrosis
-túbulo-intersticial
+tubulo-intersticial
 niveles
 proteínas
 contrario
@@ -105,7 +105,7 @@ jagged-1
 notch-1
 localizados
 células
-túbulo-epiteliales
+tubulo-epiteliales
 niveles
 expresión
 componentes
@@ -114,7 +114,7 @@ notch
 relacionaron
 grado
 fibrosis
-túbulo-intersticial
+tubulo-intersticial
 confirma
 activación
 vía

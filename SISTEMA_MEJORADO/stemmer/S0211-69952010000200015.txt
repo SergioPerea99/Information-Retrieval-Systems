@@ -72,7 +72,7 @@ práctica
 médica
 pacient
 efectuaron
-búsqueda
+busqueda
 siguient
 base
 dato
@@ -104,7 +104,7 @@ identificado
 revisor
 revision
 erc-v
-resúmen
+resumen
 congreso
 publicado
 seleccionaron
@@ -124,6 +124,7 @@ estudio
 evaluó
 calidad
 metodológica
+segun
 criterio
 tulder
 aplicar
@@ -200,6 +201,7 @@ dme
 ic
 95
 563-1643
+ultimo
 prueba
 moderada
 entrenamiento

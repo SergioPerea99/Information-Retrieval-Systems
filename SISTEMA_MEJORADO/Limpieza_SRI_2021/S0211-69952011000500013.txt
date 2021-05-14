@@ -67,7 +67,7 @@ crónica
 secundaria
 a
 nefropatía
-túbulo-intersticial
+tubulo-intersticial
 tratada
 con
 hemodiálisis
@@ -113,7 +113,7 @@ la
 mamografía
 cv
 lineales
-múltiples
+multiples
 en
 ambas
 mamas

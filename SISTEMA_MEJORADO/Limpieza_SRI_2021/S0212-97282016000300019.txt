@@ -38,7 +38,7 @@ asignación
 de
 una
 consecuencia
-única
+unica
 para
 cada
 asociación

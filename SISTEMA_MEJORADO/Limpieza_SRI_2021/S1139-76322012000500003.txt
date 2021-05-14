@@ -102,7 +102,7 @@ lactantes
 fueron
 edad
 sexo
-número
+numero
 de
 hermanos
 orden
@@ -208,7 +208,7 @@ hijos
 cuyos
 padres
 conocían
-algún
+algun
 caso
 de
 accidente

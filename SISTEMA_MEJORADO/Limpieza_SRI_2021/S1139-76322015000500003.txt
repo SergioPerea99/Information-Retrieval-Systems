@@ -30,7 +30,7 @@ un
 desafío
 de
 salud
-pública
+publica
 por
 este
 motivo
@@ -232,7 +232,7 @@ sergas
 servizo
 galego
 de
-saúde
+saude
 las
 estimaciones
 de
@@ -359,7 +359,7 @@ sobrepeso
 y
 obesidad
 varía
-según
+segun
 sea
 el
 estudio

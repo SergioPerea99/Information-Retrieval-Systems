@@ -144,7 +144,7 @@ y
 seis
 recibiendo
 dicumarínicos
-ningún
+ningun
 paciente
 presentaba
 obesidad

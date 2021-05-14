@@ -1,5 +1,5 @@
 reparación
-quirúrgica
+quirurgica
 urgente
 de
 las
@@ -43,7 +43,7 @@ fístula
 arteriovenosa
 fav
 necesita
-algún
+algun
 procedimiento
 urgente
 para
@@ -126,7 +126,7 @@ de
 todas
 las
 intervenciones
-quirúrgicas
+quirurgicas
 urgentes
 realizadas
 para
@@ -247,7 +247,7 @@ de
 complejidad
 hospitalaria
 precio
-público
+publico
 de
 procesos
 ambulatorios
@@ -404,7 +404,7 @@ posible
 realizar
 el
 rescate
-quirúrgico
+quirurgico
 urgente
 de
 la

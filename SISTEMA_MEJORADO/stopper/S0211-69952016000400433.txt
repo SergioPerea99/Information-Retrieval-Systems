@@ -1,5 +1,5 @@
 dolor
-músculo-esquelético
+musculo-esquelético
 pacientes
 enfermedad
 renal
@@ -13,7 +13,7 @@ n4
 resumen
 introducción
 dolor
-músculo-esquelético
+musculo-esquelético
 crónico
 dmec
 síntoma
@@ -75,7 +75,7 @@ recogieron
 parámetros
 inflamación
 ácido
-úrico
+urico
 metabolismo
 óseo-mineral
 incluyendo

@@ -76,7 +76,7 @@ período
 trabajadores
 sectores
 registraron
-número
+numero
 siniestros
 servicios
 incluyen
@@ -147,6 +147,6 @@ sustancias
 tóxicas
 medida
 disminuir
-número
+numero
 dramáticas
 muertes

@@ -96,7 +96,7 @@ en
 unidades
 de
 hemodiálisis
-públicas
+publicas
 privadas
 y
 de

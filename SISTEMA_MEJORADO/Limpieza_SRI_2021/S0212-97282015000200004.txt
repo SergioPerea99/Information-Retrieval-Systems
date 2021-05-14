@@ -151,7 +151,7 @@ comportamental
 y
 estrés
 percibido
-ningún
+ningun
 elemento
 del
 spq-c

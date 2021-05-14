@@ -72,6 +72,7 @@ estadísticamente
 significativas
 distintas
 situaciones
+segun
 género
 mujeres
 perciben
@@ -87,7 +88,7 @@ uso
 aquellas
 referidas
 ámbito
-público
+publico
 comprar
 preservativos
 autoeficacia

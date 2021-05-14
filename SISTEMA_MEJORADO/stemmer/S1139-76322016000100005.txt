@@ -108,12 +108,12 @@ intento
 suicidio
 agresion
 conclusion
-número
+numero
 caso
 importancia
 epidemiológica
 salud
-pública
+publica
 violencia
 infancia
 manifiestan

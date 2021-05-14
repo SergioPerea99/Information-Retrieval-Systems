@@ -85,7 +85,7 @@ resultados
 porcentajes
 contribución
 r
-múltiple
+multiple
 resultados
 estudiaron
 397
@@ -107,7 +107,7 @@ ngml
 pacientes
 regresión
 lineal
-múltiple
+multiple
 ponderación
 relativa
 principales

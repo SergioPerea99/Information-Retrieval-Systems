@@ -27,6 +27,7 @@ receptores
 edad
 avanzada
 incrementado
+ultimos
 años
 situación
 plantea
@@ -91,6 +92,7 @@ riñón
 funcionante
 123
 tratados
+segun
 protocolo
 obtuvimos
 datos
@@ -215,7 +217,7 @@ pauta
 utilizada
 estudio
 resulta
-útil
+util
 adecuada
 parejas
 donante-receptor

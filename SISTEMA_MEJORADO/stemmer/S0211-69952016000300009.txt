@@ -64,7 +64,7 @@ dato
 analizado
 análisi
 regresión
-múltipl
+multipl
 resultado
 pacient
 mostraron
@@ -110,7 +110,7 @@ component
 físico
 mental
 cvr
-número
+numero
 intensidad
 síntoma
 físico

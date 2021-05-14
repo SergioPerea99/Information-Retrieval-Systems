@@ -40,6 +40,7 @@ primaria
 comunidad
 madrid
 recibieron
+algun
 aine
 analizó
 2
@@ -71,6 +72,7 @@ mayores
 14
 años
 recibieron
+algun
 aine
 450
 pacientes
@@ -119,7 +121,7 @@ pacientes
 287
 conclusiones
 prescribe
-número
+numero
 importante
 aine
 utilizado

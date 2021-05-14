@@ -104,7 +104,7 @@ con
 interés
 nutricional
 creatinina
-albúmina
+albumina
 transferrina
 npna
 tras
@@ -265,7 +265,7 @@ plusmn
 mgdl
 p
 0001
-albúmina
+albumina
 antes
 del
 alta
@@ -318,7 +318,7 @@ p
 005
 y
 menor
-albúmina
+albumina
 en
 el
 ingreso
@@ -328,7 +328,7 @@ p
 0012
 y
 con
-albúmina
+albumina
 r
 027
 p
@@ -349,7 +349,7 @@ bajos
 después
 del
 ingreso
-albúminas
+albuminas
 más
 bajas
 en

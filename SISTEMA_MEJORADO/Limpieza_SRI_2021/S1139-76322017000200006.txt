@@ -54,7 +54,7 @@ preocupación
 de
 los
 padres
-según
+segun
 respuestas
 a
 una
@@ -157,7 +157,7 @@ la
 relación
 entre
 el
-número
+numero
 de
 consultas
 en

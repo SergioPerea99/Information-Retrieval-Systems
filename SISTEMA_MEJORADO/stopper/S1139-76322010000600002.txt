@@ -27,7 +27,7 @@ hospital
 universitario
 infantil
 niño
-jesús
+jesus
 madrid
 muestra
 342
@@ -107,7 +107,7 @@ respiratoria
 presencia
 fiebre
 domicilio
-número
+numero
 neutrófilos
 7
 500
@@ -121,6 +121,7 @@ pacientes
 presentan
 cuadro
 bronquiolitis
+ningun
 dato
 clínico
 haga

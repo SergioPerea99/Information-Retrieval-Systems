@@ -1,5 +1,5 @@
 es
-útil
+util
 la
 enseñanza
 de
@@ -143,7 +143,7 @@ ello
 puede
 aumentar
 el
-número
+numero
 de
 vidas
 salvadas

@@ -16,6 +16,7 @@ multidisciplinar
 ciencias
 forenses
 consolidado
+ultimos
 años
 integrando
 amplio
@@ -84,7 +85,7 @@ adn
 susceptible
 cotejo
 intervienen
-múltiples
+multiples
 factores
 controlados-consensuados
 instituciones

@@ -2,7 +2,7 @@ insuficiencia
 renal
 aguda
 picadura
-múltipl
+multipl
 abeja
 africanizada
 comunicación
@@ -22,7 +22,7 @@ renal
 aguda
 ira
 picadura
-múltipl
+multipl
 abeja
 africanizada
 aa
@@ -36,7 +36,7 @@ antioquía
 hospit
 san
 vicent
-paúl
+paul
 medellín
 colombia
 intervención
@@ -69,7 +69,7 @@ ira
 intervalo
 picadura
 desenlac
-número
+numero
 sesion
 diálisi
 duración
@@ -82,7 +82,7 @@ completo
 43
 caso
 expon
-número
+numero
 exacto
 observacion
 correspond
@@ -116,13 +116,13 @@ medellín
 departamento
 antioquía
 805
-número
+numero
 picadura
 pacient
 900
 intervalo
 picadura
-múltipl
+multipl
 ira
 48
 hora
@@ -231,6 +231,7 @@ aguda
 nefrotóxica
 probablement
 influy
+algun
 grado
 nefrotoxicidad
 directa

@@ -97,7 +97,7 @@ trasplant
 cruzado
 incremento
 significativo
-número
+numero
 trasplant
 comienzo
 año

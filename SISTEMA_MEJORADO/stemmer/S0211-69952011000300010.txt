@@ -28,7 +28,7 @@ análisi
 realizado
 simultáneament
 centro
-público
+publico
 cp
 prestación
 directa
@@ -58,7 +58,7 @@ estudio
 prospectivo
 financiado
 fondo
-público
+publico
 estima
 cost
 2008

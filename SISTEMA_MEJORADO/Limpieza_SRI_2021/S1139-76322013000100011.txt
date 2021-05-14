@@ -46,7 +46,7 @@ la
 tracción
 repetida
 del
-músculo
+musculo
 peroneo
 lateral
 corto
@@ -128,7 +128,7 @@ iselin
 la
 afectación
 del
-núcleo
+nucleo
 de
 osificación
 suele

@@ -4,7 +4,7 @@ ecográfico
 fístulas
 arteriovenosas
 protésicas
-húmero-axilares
+humero-axilares
 hemodiálisis
 2012-01-01
 nefrología
@@ -24,7 +24,7 @@ seguimiento
 intensivo
 permeabilidad
 fístulas
-húmero-axilares
+humero-axilares
 pacientes
 método
 estudio
@@ -36,7 +36,7 @@ diciembre
 realizan
 108
 fístulas
-húmero-axilares
+humero-axilares
 junio
 2007
 establece
@@ -55,7 +55,7 @@ analizan
 permeabilidades
 57
 fístulas
-húmero-axilares
+humero-axilares
 realizadas
 junio
 2007
@@ -119,7 +119,7 @@ grupo
 c-fav
 presentaron
 menor
-número
+numero
 reintervenciones
 obstrucción
 frente
@@ -137,7 +137,7 @@ intensivo
 mejorado
 permeabilidad
 fístulas
-húmero-axilares
+humero-axilares
 disminuyendo
 obstante
 reintervenciones

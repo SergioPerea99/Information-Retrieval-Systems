@@ -88,7 +88,7 @@ métodos
 se
 realizó
 una
-búsqueda
+busqueda
 de
 autor
 dirigida
@@ -102,7 +102,7 @@ pediatría
 vacunología
 y
 salud
-pública
+publica
 que
 priorizó
 74
@@ -255,7 +255,7 @@ vacuna
 antineumocócica
 conjugada
 heptavalente
-aún
+aun
 no
 hay
 datos
@@ -286,7 +286,7 @@ el
 momento
 es
 la
-única
+unica
 estrategia
 disponible
 para

@@ -23,6 +23,7 @@ renal
 crónica
 erc
 descubrimiento
+ultimos
 15
 años
 mecanismos
@@ -70,6 +71,7 @@ inherentes
 dpe
 simultáneamente
 revisamos
+ultimas
 evidencias
 epidemiológicas
 ponen
@@ -80,6 +82,7 @@ impacto
 mortalidad
 morbilidad
 erc
+ultimo
 destacamos
 necesidad
 redefinir

@@ -57,6 +57,7 @@ pacient
 alcancen
 kt
 óptimo
+segun
 género
 valor
 superior
@@ -104,6 +105,7 @@ objetivo
 género
 frent
 68
+segun
 superfici
 corpor
 sexto

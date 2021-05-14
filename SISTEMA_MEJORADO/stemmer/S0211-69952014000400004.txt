@@ -45,7 +45,7 @@ curva
 roc
 regresión
 logística
-múltipl
+multipl
 resultado
 219
 pacient
@@ -147,7 +147,7 @@ conclusion
 pct
 duración
 fiebr
-único
+unico
 parámetro
 asociaron
 forma

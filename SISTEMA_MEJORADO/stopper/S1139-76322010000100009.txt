@@ -34,7 +34,7 @@ evita
 efectuar
 tratamientos
 complejos
-quirúrgicos
+quirurgicos
 u
 ortodóncicos
 presentamos
@@ -102,6 +102,7 @@ pediatría
 u
 odontología
 exista
+algun
 trastorno
 erupción
 incisivos

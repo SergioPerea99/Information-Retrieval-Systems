@@ -222,7 +222,7 @@ asociación
 negativa
 con
 la
-albúmina
+albumina
 plasmática
 el
 índice
@@ -288,7 +288,7 @@ por
 bis
 aportan
 información
-útil
+util
 en
 la
 erca

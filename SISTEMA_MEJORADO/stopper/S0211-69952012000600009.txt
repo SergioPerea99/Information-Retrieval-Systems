@@ -41,6 +41,7 @@ prevalencia
 adhesión
 restricción
 hídrica
+segun
 gid
 diaria
 criterio
@@ -131,12 +132,14 @@ pregunta
 evitar
 complicaciones
 hemodiálisis
+ultimo
 mes
 tomado
 litro
 líquidos
 día
 0
+ningun
 día
 10
 días
@@ -319,6 +322,7 @@ restricción
 líquidos
 73
 61
+segun
 considerase
 ajuste
 peso
@@ -361,7 +365,7 @@ gid
 diaria
 suministra
 información
-útil
+util
 establecer
 pautas
 intervención

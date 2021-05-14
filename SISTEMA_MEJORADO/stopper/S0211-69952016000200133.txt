@@ -71,6 +71,7 @@ valores
 dm
 10
 pacientes
+segun
 ayunas
 exclusivamente
 394

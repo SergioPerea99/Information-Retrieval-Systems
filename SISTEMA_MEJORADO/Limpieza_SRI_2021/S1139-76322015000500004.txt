@@ -23,7 +23,7 @@ realiza
 una
 revisión
 del
-número
+numero
 de
 trastornos
 del
@@ -64,7 +64,7 @@ métodos
 se
 realiza
 una
-búsqueda
+busqueda
 de
 casos
 en

@@ -160,7 +160,7 @@ habían
 reducido
 significativamente
 el
-número
+numero
 de
 células
 cd19

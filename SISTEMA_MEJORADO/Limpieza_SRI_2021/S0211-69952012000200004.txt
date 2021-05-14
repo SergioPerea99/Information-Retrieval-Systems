@@ -94,7 +94,7 @@ centros
 eran
 de
 titularidad
-pública
+publica
 y
 46
 517
@@ -247,7 +247,7 @@ frecuentemente
 en
 los
 centros
-públicos
+publicos
 642
 de
 los
@@ -305,7 +305,7 @@ complicaciones
 hemorrágicas
 en
 la
-última
+ultima
 semana
 y
 el

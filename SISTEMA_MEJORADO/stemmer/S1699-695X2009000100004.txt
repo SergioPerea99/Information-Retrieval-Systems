@@ -54,7 +54,7 @@ glucemia
 plasmática
 140
 mgdl
-número
+numero
 pacient
 glucemia
 140
@@ -144,6 +144,7 @@ oncológico
 238
 pacient
 3
+algun
 problema
 biliar-pancreático
 28

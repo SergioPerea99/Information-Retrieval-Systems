@@ -27,7 +27,7 @@ hospit
 universitario
 infantil
 niño
-jesú
+jesu
 madrid
 muestra
 342
@@ -107,7 +107,7 @@ respiratoria
 presencia
 fiebr
 domicilio
-número
+numero
 neutrófilo
 7
 500
@@ -121,6 +121,7 @@ pacient
 presentan
 cuadro
 bronquiol
+ningun
 dato
 clínico
 haga

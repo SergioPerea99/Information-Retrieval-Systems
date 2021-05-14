@@ -25,7 +25,7 @@ importante
 grupo
 condiciones
 crónicas
-común
+comun
 atendido
 consultas
 atención
@@ -97,7 +97,7 @@ grupo
 participantes
 evaluó
 grupo
-útil
+util
 información
 programa
 conclusiones

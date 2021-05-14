@@ -115,7 +115,7 @@ uso
 dentífrico
 alto
 contenido
-flúor
+fluor
 ppm
 or221
 ingesta
@@ -133,7 +133,7 @@ crema
 dental
 alto
 contenido
-flúor
+fluor
 peso
 explicar
 asociación

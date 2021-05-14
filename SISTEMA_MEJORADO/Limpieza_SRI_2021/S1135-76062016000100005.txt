@@ -58,7 +58,7 @@ y
 de
 un
 amplio
-número
+numero
 de
 variables
 sociodemográficas

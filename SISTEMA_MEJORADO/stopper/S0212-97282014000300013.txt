@@ -3,6 +3,7 @@ modelo
 reducido
 ítems
 dsm-iv
+segun
 respuesta
 padres
 profesores
@@ -67,7 +68,7 @@ pc
 fase
 casos
 seleccionados
-evalúan
+evaluan
 entrevista
 clínica
 modelo

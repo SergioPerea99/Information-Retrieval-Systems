@@ -40,7 +40,7 @@ mir
 de
 pediatría
 se
-adecúa
+adecua
 a
 lo
 establecido
@@ -167,7 +167,7 @@ solo
 en
 cuatro
 centros
-según
+segun
 lo
 recomendado
 en

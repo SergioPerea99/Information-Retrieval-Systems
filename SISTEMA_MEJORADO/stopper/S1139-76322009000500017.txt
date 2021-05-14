@@ -79,7 +79,7 @@ guardería
 variables
 dependientes
 analizarán
-número
+numero
 tipo
 infecciones
 tratamientos
@@ -111,7 +111,7 @@ análisis
 estadístico
 analizar
 diferencias
-número
+numero
 infecciones
 dependiendo
 edad
@@ -153,7 +153,7 @@ familiares
 considerarse
 variables
 predictoras
-número
+numero
 infecciones
 controlando
 posibles

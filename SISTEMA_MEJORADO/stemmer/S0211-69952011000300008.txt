@@ -86,6 +86,7 @@ resultado
 finalizar
 período
 tratamiento
+ningun
 pacient
 presentó
 remisión
@@ -161,7 +162,7 @@ enfermo
 precisó
 incremento
 dosi
-número
+numero
 hipotensor
 12
 mese

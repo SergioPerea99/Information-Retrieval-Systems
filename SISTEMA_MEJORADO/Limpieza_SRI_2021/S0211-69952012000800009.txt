@@ -51,7 +51,7 @@ si
 bien
 en
 los
-últimos
+ultimos
 años
 el
 donante
@@ -234,7 +234,7 @@ extracción
 renal
 con
 técnica
-quirúrgica
+quirurgica
 rápida
 los
 tiempos
@@ -359,7 +359,7 @@ glomerular
 estimado
 en
 la
-última
+ultima
 revisión
 se
 encuentra

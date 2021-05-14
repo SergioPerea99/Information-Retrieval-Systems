@@ -1,5 +1,5 @@
 tratamiento
-quirúrgico
+quirurgico
 estenosi
 yuxtaanastomótica
 fístula
@@ -38,7 +38,7 @@ acceso
 tratamiento
 lesion
 radiológico
-quirúrgico
+quirurgico
 elección
 u
 tema
@@ -47,7 +47,7 @@ centro
 utilizó
 consenso
 tratamiento
-quirúrgico
+quirurgico
 forma
 sistemática
 método
@@ -71,7 +71,7 @@ trombosi
 clínico
 tratamiento
 caso
-quirúrgico
+quirurgico
 realizándos
 anastomosi
 radiocefálica
@@ -167,7 +167,7 @@ seguimiento
 realizaron
 16
 procedimiento
-quirúrgico
+quirurgico
 adicional
 alcanzando
 intervención

@@ -126,7 +126,7 @@ años
 trabajados
 ni
 por
-número
+numero
 de
 casos
 de
@@ -182,7 +182,7 @@ no
 invasiva
 puede
 ser
-útil
+util
 en
 pacientes
 con

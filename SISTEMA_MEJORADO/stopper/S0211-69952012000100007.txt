@@ -4,7 +4,7 @@ fracaso
 renal
 agudo
 mieloma
-múltiple
+multiple
 filtros
 alto
 poro
@@ -22,7 +22,7 @@ renal
 agudo
 fra
 mieloma
-múltiple
+multiple
 mm
 presenta
 12-20
@@ -148,6 +148,7 @@ tiempo
 pacientes
 tratados
 quimioterapia
+segun
 protocolos
 resultados
 hombres
@@ -203,11 +204,12 @@ coagulación
 sistema
 cambios
 niveles
-albúmina
+albumina
 prediálisis
 calcio
 fósforo
 magnesio
+algun
 caso
 registraron
 valores

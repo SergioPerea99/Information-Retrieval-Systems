@@ -77,7 +77,7 @@ presentamos
 es
 determinar
 si
-algún
+algun
 polimorfismo
 de
 dicho
@@ -163,7 +163,7 @@ estadios
 atribuida
 a
 nefroesclerosis
-según
+segun
 criterios
 clínicos
 habituales

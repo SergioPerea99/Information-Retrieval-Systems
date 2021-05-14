@@ -49,7 +49,7 @@ con
 erc
 no
 está
-aún
+aun
 claro
 este
 artículo

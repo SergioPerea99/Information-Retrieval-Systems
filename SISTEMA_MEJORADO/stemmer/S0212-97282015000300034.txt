@@ -35,6 +35,7 @@ conducta
 sufrida
 realizada
 observada
+ultimo
 año
 permit
 obten

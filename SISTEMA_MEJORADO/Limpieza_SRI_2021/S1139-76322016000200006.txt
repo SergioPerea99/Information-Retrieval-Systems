@@ -222,7 +222,7 @@ temporal
 para
 disminuir
 el
-número
+numero
 de
 exodoncias
 y

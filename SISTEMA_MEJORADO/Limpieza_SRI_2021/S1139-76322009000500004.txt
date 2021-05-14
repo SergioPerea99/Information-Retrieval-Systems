@@ -119,7 +119,7 @@ y
 una
 regresión
 lineal
-múltiple
+multiple
 resultados
 de
 la
@@ -170,7 +170,7 @@ haber
 padecido
 bronquiolitis
 el
-número
+numero
 de
 episodios
 de
@@ -200,7 +200,7 @@ semanas
 y
 con
 el
-número
+numero
 total
 de
 cigarrillos
@@ -240,7 +240,7 @@ asimismo
 con
 respecto
 al
-número
+numero
 de
 episodios
 de
@@ -259,7 +259,7 @@ una
 bronquiolitis
 previa
 el
-número
+numero
 de
 cigarrillos
 fumados

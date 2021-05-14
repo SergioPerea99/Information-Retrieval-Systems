@@ -2,7 +2,7 @@ aspecto
 clínico
 microbiológico
 periton
-fúngica
+fungica
 diálisi
 periton
 2009-01-01
@@ -21,7 +21,7 @@ respons
 mayoría
 caso
 infección
-fúngica
+fungica
 infrecuent
 asocia
 alta
@@ -51,7 +51,7 @@ bacteriana
 factor
 predisponent
 periton
-fúngica
+fungica
 establecido
 claridad
 episodio
@@ -72,6 +72,7 @@ habitual
 candida
 albican
 frecuent
+ultima
 década
 observado
 alta
@@ -88,7 +89,7 @@ tratamiento
 suel
 requerir
 terapia
-antifúngica
+antifungica
 retirada
 catéter
 periton
@@ -98,7 +99,7 @@ hemodiálisi
 fluconazol
 anfotericina
 b
-antifúngico
+antifungico
 recomendado
 fármaco
 voriconazol
@@ -113,7 +114,8 @@ aspecto
 clínico
 microbiológico
 periton
-fúngica
+fungica
 conocido
 cambiado
+ultimo
 año

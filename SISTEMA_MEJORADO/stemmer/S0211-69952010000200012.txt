@@ -75,6 +75,7 @@ cantidad
 ingestión
 líquido
 disminuyó
+segun
 aumentaba
 edad
 61
@@ -141,7 +142,7 @@ l
 líquido
 día
 bebieron
-número
+numero
 vecesdía
 cantidad
 observó

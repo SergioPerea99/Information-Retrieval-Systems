@@ -29,8 +29,9 @@ meses
 poder
 objetivar
 incrementos
-número
+numero
 incidencias
+algun
 período
 vacacionales
 tipo

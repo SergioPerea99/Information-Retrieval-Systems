@@ -22,7 +22,7 @@ tratamiento
 insulínico
 intensivo
 nefropatía
-continúa
+continua
 problema
 important
 diabet
@@ -81,7 +81,7 @@ presentaban
 microalbuminuria
 proteinuria
 pacient
-albuminúrico
+albuminurico
 presentaron
 comparación
 aquello

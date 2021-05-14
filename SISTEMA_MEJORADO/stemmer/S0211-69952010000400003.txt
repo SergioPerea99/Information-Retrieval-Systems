@@ -1,7 +1,7 @@
 hipertensión
 arteri
 encrucijada
-búsqueda
+busqueda
 definición
 operativa
 2010-01-01
@@ -72,7 +72,7 @@ consulta
 toma
 proporcionarno
 información
-útil
+util
 allá
 tensión
 arteri
@@ -112,6 +112,7 @@ presión
 arteri
 ampa
 domicilio
+aun
 precisan
 asignación
 valor

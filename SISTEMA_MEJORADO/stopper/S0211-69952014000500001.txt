@@ -67,7 +67,7 @@ mayores
 años
 edad
 décadas
-número
+numero
 serotipos
 23
 incluye
@@ -78,7 +78,7 @@ provoca
 fenómeno
 tolerancia
 inmunitaria
-actúa
+actua
 colonización
 nasofaríngea
 vacuna

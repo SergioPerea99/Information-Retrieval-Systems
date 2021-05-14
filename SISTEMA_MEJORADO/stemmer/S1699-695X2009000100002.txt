@@ -47,7 +47,7 @@ vagin
 medicion
 resultado
 medio
-búsqueda
+busqueda
 googl
 identificaron
 foro

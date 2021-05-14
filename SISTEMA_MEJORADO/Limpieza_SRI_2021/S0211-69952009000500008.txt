@@ -135,7 +135,7 @@ y
 hr
 de
 estos
-últimos
+ultimos
 sólo
 27
 tenían
@@ -391,7 +391,7 @@ de
 uso
 hospitalario
 menos
-común
+comun
 o
 no
 especificada
@@ -483,7 +483,7 @@ una
 base
 de
 datos
-común
+comun
 entre
 el
 ch
@@ -648,7 +648,7 @@ favorecería
 la
 puesta
 en
-común
+comun
 y
 la
 resolución

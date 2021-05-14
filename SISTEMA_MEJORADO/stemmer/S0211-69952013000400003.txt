@@ -17,7 +17,7 @@ representa
 principal
 problema
 salud
-pública
+publica
 alto
 cost
 social
@@ -97,7 +97,7 @@ sostenibilidad
 reembolso
 realiza
 pago
-único
+unico
 completo
 paquet
 asistenci

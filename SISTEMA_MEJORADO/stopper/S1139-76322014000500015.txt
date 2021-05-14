@@ -95,7 +95,7 @@ estadounidense
 supondría
 tratar
 estatinas
-número
+numero
 personas
 excesivo
 particularmente
@@ -103,6 +103,7 @@ edades
 avanzadas
 abandonar
 estrategia
+segun
 objetivos
 colesterol
 fuertemente

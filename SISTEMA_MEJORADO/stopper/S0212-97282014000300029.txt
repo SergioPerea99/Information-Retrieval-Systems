@@ -1,4 +1,4 @@
-búsqueda
+busqueda
 sensaciones
 consumo
 alcohol
@@ -13,7 +13,7 @@ psicología
 v30
 n3
 2014
-búsqueda
+busqueda
 sensaciones
 variables
 personalidad
@@ -27,7 +27,7 @@ especialmente
 consumo
 alcohol
 drogas
-búsqueda
+busqueda
 sensaciones
 influye
 valoración
@@ -40,7 +40,7 @@ objetivo
 estudio
 analizar
 relación
-búsqueda
+busqueda
 sensaciones
 consumo
 alcohol
@@ -72,7 +72,7 @@ resultados
 obtenidos
 confirman
 importancia
-búsqueda
+busqueda
 sensaciones
 explicación
 consumo

@@ -83,7 +83,7 @@ el
 cálculo
 de
 los
-volúmenes
+volumenes
 y
 masas
 corporales
@@ -274,7 +274,7 @@ define
 hiperhidratación
 o
 deshidratación
-según
+segun
 el
 vector
 estuviera
@@ -413,7 +413,7 @@ en
 la
 cuantificación
 de
-volúmenes
+volumenes
 y
 masas
 corporales

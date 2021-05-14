@@ -140,6 +140,7 @@ p
 004
 encontramos
 diferencias
+segun
 sexo
 edad
 tiempo

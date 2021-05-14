@@ -29,7 +29,7 @@ determinar
 si
 un
 mayor
-número
+numero
 de
 determinaciones
 de
@@ -42,7 +42,7 @@ asocia
 a
 un
 mayor
-número
+numero
 de
 tratamientos
 de
@@ -93,7 +93,7 @@ provincia
 de
 ourense
 el
-número
+numero
 de
 varones
 mayores
@@ -141,7 +141,7 @@ análisis
 de
 regresión
 lineal
-múltiple
+multiple
 incluyendo
 como
 covariables
@@ -195,7 +195,7 @@ npsa
 existía
 relación
 entre
-número
+numero
 de
 v50
 y
@@ -235,7 +235,7 @@ ic95
 p001
 y
 entre
-número
+numero
 de
 v50
 y
@@ -261,7 +261,7 @@ los
 varones
 p0001
 y
-número
+numero
 de
 v50
 p0001
@@ -283,7 +283,7 @@ cp
 medido
 por
 el
-número
+numero
 de
 tba
 instaurados
@@ -293,7 +293,7 @@ a
 la
 edad
 y
-número
+numero
 de
 varones
 mayores

@@ -97,7 +97,7 @@ media
 804
 39
 años
-número
+numero
 enfermedades
 añadidas
 34
@@ -163,7 +163,7 @@ probabilidad
 mortalidad
 año
 rmrc
-útil
+util
 práctica
 clínica
 pronóstico

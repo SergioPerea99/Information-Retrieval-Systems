@@ -28,7 +28,7 @@ es
 un
 problema
 muy
-común
+comun
 en
 los
 ancianos
@@ -85,7 +85,7 @@ en
 56
 pacientes
 que
-continúan
+continuan
 con
 vida
 a
@@ -131,7 +131,7 @@ otros
 2
 multifactorial
 167
-ningún
+ningun
 paciente
 precisó
 terapia
@@ -157,7 +157,7 @@ mayores
 niveles
 de
 ácido
-úrico
+urico
 p
 0002
 y
@@ -227,7 +227,7 @@ creatinina
 sérica
 urea
 ácido
-úrico
+urico
 mdrd
 basales
 la
@@ -241,7 +241,7 @@ p
 0039
 el
 ácido
-úrico
+urico
 rr
 265
 111-630
@@ -271,7 +271,7 @@ nivel
 basal
 de
 ácido
-úrico
+urico
 y
 de
 hematocrito

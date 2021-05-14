@@ -240,7 +240,7 @@ de
 gel
 lat
 resulta
-útil
+util
 para
 suturar
 heridas

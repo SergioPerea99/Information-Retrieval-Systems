@@ -223,7 +223,7 @@ perdieron
 injerto
 caso
 muert
-súbita
+subita
 injerto
 funcionant
 caso
@@ -258,6 +258,7 @@ atp
 170
 ngdl
 estudio
+ningun
 receptor
 desarrolló
 anticuerpo
@@ -354,6 +355,7 @@ diabet
 mellitu
 seguimiento
 detectó
+ningun
 caso
 falta
 adherencia

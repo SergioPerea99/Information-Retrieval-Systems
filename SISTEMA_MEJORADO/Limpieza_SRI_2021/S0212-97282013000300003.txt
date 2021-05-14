@@ -6,7 +6,7 @@ deportivo
 en
 jugadores
 de
-fútbol
+futbol
 desde
 el
 modelo
@@ -41,7 +41,7 @@ de
 investigación
 en
 la
-última
+ultima
 década
 se
 han
@@ -158,7 +158,7 @@ de
 128
 jugadores
 de
-fútbol
+futbol
 con
 edades
 comprendidas

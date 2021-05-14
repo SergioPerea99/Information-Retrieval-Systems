@@ -244,7 +244,7 @@ h
 p
 0731
 nivel
-albúmina
+albumina
 sérica
 37
 11

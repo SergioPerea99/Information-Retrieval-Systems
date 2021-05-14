@@ -107,9 +107,9 @@ vs
 838
 p0001
 vertebral
-húmero
+humero
 menor
-número
+numero
 055
 vs
 175
@@ -193,5 +193,5 @@ anglosajon
 adoptars
 forma
 directa
-única
+unica
 medio

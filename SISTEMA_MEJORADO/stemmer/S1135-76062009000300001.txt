@@ -23,7 +23,7 @@ siglo
 xix
 aparecen
 servicio
-público
+publico
 surg
 enseñanza
 medicina
@@ -49,7 +49,7 @@ oporto
 lisboa
 posteriorment
 unificaron
-único
+unico
 instituto
 nacion
 medicina
@@ -107,7 +107,7 @@ medicina
 facultad
 derecho
 universidad
-pública
+publica
 ámbito
 enseñanza
 destacars

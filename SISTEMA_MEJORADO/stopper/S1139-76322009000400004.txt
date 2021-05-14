@@ -20,6 +20,7 @@ intelectual
 habilidades
 sociales
 niños
+segun
 exposición
 abuso
 pantallas
@@ -57,7 +58,7 @@ resultados
 modelos
 regresión
 lineal
-múltiple
+multiple
 mostraron
 asociación
 estadísticamente

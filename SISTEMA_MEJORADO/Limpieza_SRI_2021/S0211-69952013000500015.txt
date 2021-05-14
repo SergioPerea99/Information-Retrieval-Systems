@@ -14,7 +14,7 @@ anastomóticas
 venosas
 mediante
 trombectomía
-quirúrgica
+quirurgica
 stenting
 cubierto
 y
@@ -84,10 +84,10 @@ es
 por
 un
 procedimiento
-quirúrgico
+quirurgico
 este
 estudio
-evalúa
+evalua
 los
 resultados
 de
@@ -96,7 +96,7 @@ tratamiento
 híbrido
 endovascular
 y
-quirúrgico
+quirurgico
 mínimamente
 invasivo
 de
@@ -281,4 +281,4 @@ que
 sea
 difícil
 acceder
-quirúrgicamente
+quirurgicamente

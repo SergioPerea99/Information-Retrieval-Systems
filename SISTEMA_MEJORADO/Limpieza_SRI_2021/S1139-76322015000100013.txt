@@ -14,7 +14,7 @@ n65
 2015
 las
 infecciones
-fúngicas
+fungicas
 de
 la
 piel
@@ -46,7 +46,7 @@ clasifican
 de
 forma
 topográfica
-según
+segun
 zona
 afectada
 empleando

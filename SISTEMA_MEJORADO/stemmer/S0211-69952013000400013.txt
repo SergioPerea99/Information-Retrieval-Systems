@@ -103,7 +103,7 @@ célula
 t
 cd4
 resulta
-útil
+util
 predecir
 riesgo
 infección
@@ -114,6 +114,7 @@ empleo
 marcador
 riesgo
 rechazo
+ultimo
 dada
 enorm
 variabilidad

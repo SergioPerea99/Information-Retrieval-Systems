@@ -136,7 +136,7 @@ una
 herramienta
 complementaria
 muy
-útil
+util
 para
 la
 evaluación
@@ -164,7 +164,7 @@ sus
 aplicaciones
 médicas
 son
-múltiples
+multiples
 y
 actualmente
 su
@@ -224,7 +224,7 @@ equilibrio
 térmico
 de
 los
-músculos
+musculos
 masticatorios
 en
 una

@@ -59,7 +59,7 @@ practicaban
 consideraron
 grupo
 control
-número
+numero
 despertar
 nocturno
 encima
@@ -99,7 +99,7 @@ or
 p
 lt
 00001
-número
+numero
 niño
 despertar
 nocturno
@@ -115,7 +115,7 @@ p
 0008
 nivel
 socioeconómico
-actúa
+actua
 factor
 protección
 or

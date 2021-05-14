@@ -56,7 +56,7 @@ edad
 media
 491
 año
-número
+numero
 medio
 pacient
 terminal
@@ -88,7 +88,9 @@ vs
 p
 0045
 692
+algun
 curso
+ultimo
 5
 año
 seguridad
@@ -112,6 +114,7 @@ recayendo
 médico
 familia
 terminal
+segun
 439
 supervivient
 704
@@ -119,6 +122,7 @@ comunicación
 oncólogo
 malamuy
 mala
+segun
 532
 porcentaj
 93

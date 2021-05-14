@@ -22,7 +22,7 @@ seguimiento
 hormona
 tiroidea
 infancia
-útil
+util
 evitar
 posibl
 problema
@@ -70,7 +70,7 @@ enfermedad
 endocrinológica
 descubierta
 tempranament
-únicament
+unicament
 pediatra
 contribuir
 diagnóstico

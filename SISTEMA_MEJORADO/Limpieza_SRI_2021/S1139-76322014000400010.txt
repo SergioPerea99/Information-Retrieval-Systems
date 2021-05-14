@@ -39,7 +39,7 @@ del
 publicado
 en
 un
-número
+numero
 anterior
 de
 esta

@@ -68,7 +68,7 @@ de
 madrid
 que
 recibieron
-algún
+algun
 aine
 por
 primera
@@ -132,7 +132,7 @@ de
 14
 años
 recibieron
-algún
+algun
 aine
 450
 pacientes
@@ -215,7 +215,7 @@ conclusiones
 se
 prescribe
 un
-número
+numero
 importante
 de
 aine

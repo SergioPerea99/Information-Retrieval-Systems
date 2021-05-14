@@ -138,7 +138,7 @@ información
 para
 guiar
 la
-búsqueda
+busqueda
 pero
 no
 como

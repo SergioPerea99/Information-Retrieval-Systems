@@ -30,6 +30,7 @@ altos
 mecanismo
 lesional
 complejo
+segun
 direcciones
 relativas
 vehículos
@@ -43,7 +44,7 @@ fisiológicos
 vértebras
 cervicales
 rápidos
-músculos
+musculos
 normalmente
 frenan
 tiempo

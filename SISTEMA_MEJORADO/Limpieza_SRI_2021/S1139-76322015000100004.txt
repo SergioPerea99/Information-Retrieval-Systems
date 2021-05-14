@@ -156,7 +156,7 @@ mayor
 edad
 gestacional
 embarazo
-único
+unico
 y
 parto
 eutócico

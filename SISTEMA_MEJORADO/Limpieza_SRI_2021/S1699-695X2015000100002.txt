@@ -147,7 +147,7 @@ la
 frecuencia
 en
 el
-número
+numero
 de
 deposiciones
 aumento
@@ -205,7 +205,7 @@ de
 estreñimiento
 y
 el
-número
+numero
 total
 de
 fármacos

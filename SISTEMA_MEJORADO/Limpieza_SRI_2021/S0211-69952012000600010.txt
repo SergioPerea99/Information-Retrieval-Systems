@@ -145,7 +145,7 @@ resultados
 de
 los
 cocientes
-albúminacreatinina
+albuminacreatinina
 y
 n-acetilglucosaminidasa
 nagcreatinina
@@ -162,7 +162,7 @@ resultados
 distribuidos
 los
 pacientes
-según
+segun
 la
 normalidad
 o
@@ -230,7 +230,7 @@ la
 eliminación
 urinaria
 de
-albúmina
+albumina
 estaba
 incrementada
 y
@@ -246,7 +246,7 @@ el
 fgr
 estaba
 reducido
-únicamente
+unicamente
 en
 el
 57
@@ -255,7 +255,7 @@ los
 pacientes
 estos
 dos
-últimos
+ultimos
 marcadores
 fueron
 los

@@ -188,7 +188,7 @@ los
 niveles
 de
 inmunosupresor
-según
+segun
 el
 cuestionario
 smaq
@@ -206,7 +206,7 @@ de
 enfermería
 el
 2238
-según
+segun
 morisky-green
 el
 coeficiente
@@ -231,7 +231,7 @@ p
 0001
 la
 clasificación
-según
+segun
 smaq
 se
 asoció

@@ -54,7 +54,7 @@ web
 ministerio
 sanidad
 obtuvo
-número
+numero
 oposición
 sexo
 especialidad
@@ -72,7 +72,7 @@ probabilidad
 elección
 mf
 relacionada
-número
+numero
 orden
 oposición
 global
@@ -85,7 +85,7 @@ mf
 elegida
 344
 mediana
-número
+numero
 elegir
 mf
 7701
@@ -108,7 +108,7 @@ clm
 elegían
 mf
 menor
-número
+numero
 medianas
 4463
 8980
@@ -136,7 +136,7 @@ clm
 elegían
 mf
 menor
-número
+numero
 6704
 7622
 menor
@@ -151,14 +151,14 @@ plazas
 mf
 clm
 realiza
-números
+numeros
 altos
 oposición
 mir
 graduados
 albacete
 eligen
-número
+numero
 resto
 opositores
 muestran

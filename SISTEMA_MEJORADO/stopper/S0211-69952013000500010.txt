@@ -76,6 +76,7 @@ hemoglobina
 hb
 11
 gdl
+ultimos
 3
 meses
 dosis

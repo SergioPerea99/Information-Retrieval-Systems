@@ -69,7 +69,7 @@ test
 dígitos
 test
 letras
-números
+numeros
 escala
 inteligencia
 wechsler

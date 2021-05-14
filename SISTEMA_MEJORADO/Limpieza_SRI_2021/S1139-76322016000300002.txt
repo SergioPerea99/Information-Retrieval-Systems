@@ -22,7 +22,7 @@ resumen
 introducción
 en
 los
-últimos
+ultimos
 años
 han
 surgido
@@ -81,7 +81,7 @@ los
 niños
 de
 un
-núcleo
+nucleo
 urbano
 de
 la
@@ -159,7 +159,7 @@ muestra
 el
 379
 presentaban
-algún
+algun
 grado
 de
 déficit

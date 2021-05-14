@@ -32,7 +32,7 @@ el
 de
 los
 casos
-según
+segun
 las
 series
 se

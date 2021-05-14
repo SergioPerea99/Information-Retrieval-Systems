@@ -51,6 +51,7 @@ varón
 joven
 complicaciones
 tratamiento
+segun
 evidencia
 amoxicilina
 2
@@ -115,6 +116,7 @@ respuesta
 caso
 1
 tratamiento
+segun
 evidencia
 68
 ic

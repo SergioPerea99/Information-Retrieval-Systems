@@ -51,7 +51,7 @@ objetivo
 evaluar
 asociación
 epp
-número
+numero
 episodio
 periton
 dp
@@ -68,7 +68,7 @@ midió
 dp
 fósforo
 epp
-número
+numero
 episodio
 periton
 parámetro
@@ -95,7 +95,7 @@ dp
 fósforo
 epp
 epp
-número
+numero
 episodio
 periton
 r
@@ -124,7 +124,7 @@ conclusion
 epp
 asocia
 significativament
-número
+numero
 episodio
 periton
 dp

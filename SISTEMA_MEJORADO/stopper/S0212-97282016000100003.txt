@@ -23,7 +23,7 @@ siguiendo
 modelo
 autorregulación
 sentido
-común
+comun
 leventhal
 llevamos
 cabo

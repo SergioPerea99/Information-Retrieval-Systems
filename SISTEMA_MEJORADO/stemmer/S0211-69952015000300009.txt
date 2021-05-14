@@ -135,11 +135,13 @@ hipotenso
 p
 005
 modificación
+segun
 patología
 restant
 diferencia
 valor
 cr
+segun
 patología
 valor
 creatinina

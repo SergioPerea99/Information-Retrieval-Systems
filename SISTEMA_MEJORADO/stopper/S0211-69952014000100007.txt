@@ -25,7 +25,7 @@ receptor
 soluble
 uroquinasa
 supar
-útil
+util
 diferenciar
 glomeruloesclerosis
 focal

@@ -83,7 +83,7 @@ anomalía
 dental
 forma
 tamaño
-número
+numero
 dato
 analizado
 proporcion
@@ -168,6 +168,7 @@ fluorosi
 presencia
 enfermedad
 periodont
+ultima
 cepillado
 supervisado
 p005

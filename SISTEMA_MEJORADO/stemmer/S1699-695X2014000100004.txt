@@ -61,7 +61,7 @@ tenerif
 españa
 paraguay
 méxico
-perú
+peru
 diario
 campo
 día
@@ -93,7 +93,7 @@ méxico
 4
 paraguay
 4
-perú
+peru
 encontraron
 fortaleza
 sur

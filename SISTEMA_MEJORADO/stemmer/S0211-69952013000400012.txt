@@ -42,7 +42,7 @@ fármaco
 antagonista
 calcio
 seri
-número
+numero
 caso
 comunicado
 población
@@ -147,7 +147,7 @@ periton
 especi
 manidipino
 consideramo
-útil
+util
 determinación
 triglicérido
 líquido

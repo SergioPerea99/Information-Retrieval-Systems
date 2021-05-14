@@ -170,7 +170,7 @@ colectivo
 de
 pap
 el
-número
+numero
 de
 tis
 excede

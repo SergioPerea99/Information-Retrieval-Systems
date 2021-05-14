@@ -62,7 +62,7 @@ trabajo
 evaluado
 profesores
 completó
-rúbrica
+rubrica
 10
 ítems
 validez
@@ -70,7 +70,7 @@ sistema
 evaluación
 analizó
 modelo
-múltiples
+multiples
 facetas
 rasch
 permite
@@ -88,7 +88,7 @@ trabajos
 estudiantes
 totalizando
 186
-rúbricas
+rubricas
 58
 estudiantes
 mostraron
@@ -98,7 +98,7 @@ severidad
 evaluadores
 dificultad
 ítems
-rúbrica
+rubrica
 observaron
 diferencias
 significativas
@@ -106,6 +106,7 @@ severidad
 evaluadores
 calificaciones
 finales
+segun
 tipo
 evaluador
 ítem
@@ -128,6 +129,7 @@ investigación
 pensamiento
 crítico
 estudiantes
+ultimo
 curso
 grado
 medicina

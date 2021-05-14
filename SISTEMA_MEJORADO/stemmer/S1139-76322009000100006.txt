@@ -116,6 +116,7 @@ prestar
 adecuada
 asistencia
 enfermo
+aun
 organizar
 traslado
 medicalizado

@@ -94,6 +94,7 @@ anticonceptivo
 tomamos
 eje
 conductor
+ultima
 revisión
 oms
 publicada
@@ -116,6 +117,7 @@ decisión
 paciente
 pareja
 objetivo
+ultimo
 revisión
 ayudar
 clínico

@@ -80,6 +80,7 @@ logró
 346
 mese
 encontró
+ningun
 factor
 asociado
 alcanzar

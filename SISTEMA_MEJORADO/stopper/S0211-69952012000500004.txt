@@ -59,7 +59,7 @@ depósito
 c4d
 muestra
 parafina
-útil
+util
 diagnóstico
 nm
 material
@@ -116,6 +116,7 @@ pacientes
 ecm
 21
 nm
+ningun
 depósito
 c4d
 observado
@@ -144,6 +145,6 @@ depósito
 c4d
 inmunohistoquímica
 herramienta
-útil
+util
 diagnóstico
 nm

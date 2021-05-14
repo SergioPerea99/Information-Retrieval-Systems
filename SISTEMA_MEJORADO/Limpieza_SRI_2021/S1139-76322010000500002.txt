@@ -93,7 +93,7 @@ habitualmente
 empleadas
 apenas
 resultan
-útiles
+utiles
 en
 el
 manejo
@@ -240,7 +240,7 @@ el
 uso
 de
 surfactante
-ningún
+ningun
 tratamiento
 se
 ha

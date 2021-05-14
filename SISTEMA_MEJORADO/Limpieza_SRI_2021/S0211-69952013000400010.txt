@@ -262,7 +262,7 @@ pueda
 ser
 una
 herramienta
-útil
+util
 para
 el
 equipo

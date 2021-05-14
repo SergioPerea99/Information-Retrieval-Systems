@@ -104,7 +104,7 @@ cmv
 el
 808
 realizó
-algún
+algun
 tipo
 de
 profilaxis
@@ -175,7 +175,7 @@ p
 005
 no
 hubo
-ningún
+ningun
 caso
 de
 éxitus

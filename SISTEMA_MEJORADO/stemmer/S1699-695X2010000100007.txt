@@ -47,7 +47,7 @@ familia
 sector
 obten
 información
-útil
+util
 objetivo
 estudio
 medicion
@@ -103,9 +103,9 @@ ejercen
 influencia
 apropiación
 conocimiento
-útil
+util
 aplic
-núcleo
+nucleo
 familiar
 punto
 lograr

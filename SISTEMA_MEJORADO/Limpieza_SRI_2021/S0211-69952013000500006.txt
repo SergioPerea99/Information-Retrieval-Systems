@@ -208,7 +208,7 @@ regresión
 lineal
 y
 logística
-múltiple
+multiple
 las
 asociaciones
 entre

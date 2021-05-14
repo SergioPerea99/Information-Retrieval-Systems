@@ -127,7 +127,7 @@ exitus
 trasplantectomía
 1
 intervención
-quirúrgica
+quirurgica
 hematoma
 veintisiete
 menores

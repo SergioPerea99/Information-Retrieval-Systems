@@ -99,7 +99,7 @@ distintas
 opciones
 de
 tratamiento
-quirúrgico
+quirurgico
 de
 la
 otitis
@@ -156,7 +156,7 @@ y
 no
 realizarse
 una
-búsqueda
+busqueda
 exhaustiva
 si
 se
@@ -247,7 +247,7 @@ deberíamos
 plantearnos
 el
 tratamiento
-quirúrgico
+quirurgico
 con
 tubos
 de

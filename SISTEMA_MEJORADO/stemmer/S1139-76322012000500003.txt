@@ -54,7 +54,7 @@ referida
 lactant
 edad
 sexo
-número
+numero
 hermano
 orden
 convivient
@@ -113,6 +113,7 @@ hijo
 cuyo
 padr
 conocían
+algun
 caso
 accident
 joya

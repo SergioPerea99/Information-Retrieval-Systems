@@ -4,7 +4,7 @@ percibido
 aplicación
 terapia
 compresiva
-úlcera
+ulcera
 venosa
 pierna
 2016-08-01
@@ -26,7 +26,7 @@ terapia
 compresión
 pierna
 pacient
-úlcera
+ulcera
 venosa
 complicada
 método
@@ -47,13 +47,13 @@ grupo
 nacion
 estudio
 asesoramiento
-úlcera
+ulcera
 presión
 herida
 crónica
 gneaupp
 experiencia
-úlcera
+ulcera
 venosa
 pierna
 diseño

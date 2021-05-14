@@ -74,7 +74,7 @@ encontró
 relación
 regresión
 lineal
-múltiple
+multiple
 duración
 ingreso
 porcentaje
@@ -139,7 +139,7 @@ relación
 regresión
 logística
 mortalidad
-número
+numero
 leucocitos
 p0016
 neutrófilos

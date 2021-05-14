@@ -65,7 +65,7 @@ de
 la
 erc
 método
-según
+segun
 diseño
 transversal
 estimamos
@@ -150,7 +150,7 @@ filtrado
 glomerular
 gfr
 y
-albúmina
+albumina
 y
 bicarbonato
 plasmático

@@ -24,6 +24,7 @@ argumento
 estabilidad
 tempor
 medida
+ultimo
 año
 autor
 defienden
@@ -37,7 +38,7 @@ ci
 niño
 pequeño
 arroja
-número
+numero
 important
 falso
 positivo

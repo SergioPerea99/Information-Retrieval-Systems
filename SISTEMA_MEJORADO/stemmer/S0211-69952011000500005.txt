@@ -122,7 +122,7 @@ bioquímico
 destacaba
 asociación
 negativa
-albúmina
+albumina
 plasmática
 índice
 masa
@@ -162,7 +162,7 @@ hidratación
 bi
 aportan
 información
-útil
+util
 erca
 ayudar
 tratamiento

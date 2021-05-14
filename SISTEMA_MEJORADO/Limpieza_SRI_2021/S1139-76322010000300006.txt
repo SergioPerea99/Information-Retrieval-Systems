@@ -50,7 +50,7 @@ de
 vacunaciones
 tipo
 y
-número
+numero
 de
 dosis
 de
@@ -70,7 +70,7 @@ estado
 vacunal
 se
 valoró
-según
+segun
 el
 expanded
 program
@@ -103,7 +103,7 @@ del
 593-650
 bien
 vacunado
-según
+segun
 epi-1974
 541
 ic
@@ -129,12 +129,12 @@ y
 estar
 vacunado
 correctamente
-según
+segun
 el
 epi
 bien
 vacunados
-según
+segun
 el
 pani
 difteria
@@ -230,7 +230,7 @@ tétanos
 y
 tos
 ferina
-según
+segun
 este
 estudio
 el

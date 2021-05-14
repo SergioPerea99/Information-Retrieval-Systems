@@ -1,6 +1,6 @@
 ecografía
 carotídea
-útil
+util
 predecir
 enfermedad
 coronaria
@@ -237,7 +237,7 @@ hipertensión
 pacientes
 urémicos
 medición
-útil
+util
 predecir
 enfermedad
 coronaria

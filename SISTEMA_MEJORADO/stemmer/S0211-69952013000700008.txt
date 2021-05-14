@@ -140,6 +140,7 @@ p
 004
 encontramo
 diferencia
+segun
 sexo
 edad
 tiempo

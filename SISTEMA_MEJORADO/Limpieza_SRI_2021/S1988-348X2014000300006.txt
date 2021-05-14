@@ -45,7 +45,7 @@ de
 la
 literatura
 con
-búsqueda
+busqueda
 en
 biblioteca
 virtual

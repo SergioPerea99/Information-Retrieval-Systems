@@ -178,7 +178,7 @@ negativos
 valoración
 aspectos
 consulta
-útil
+util
 detectar
 adolescentes
 riesgo

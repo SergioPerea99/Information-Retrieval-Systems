@@ -82,7 +82,7 @@ nacimiento
 edad
 gestacion
 embarazo
-único
+unico
 parto
 eutócico
 asistencia

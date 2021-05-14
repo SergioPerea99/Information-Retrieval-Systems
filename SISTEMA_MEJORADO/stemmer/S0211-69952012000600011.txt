@@ -58,6 +58,7 @@ consecutiva
 pacient
 hospit
 mar
+ultimo
 año
 método
 estudio
@@ -75,6 +76,7 @@ proteinuria
 24
 hora
 pc
+segun
 grado
 proteinuria
 coeficient
@@ -102,6 +104,7 @@ r
 p
 0001
 correlacion
+segun
 grado
 proteinuria24
 hora

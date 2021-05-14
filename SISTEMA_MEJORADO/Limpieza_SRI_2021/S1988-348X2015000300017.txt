@@ -123,7 +123,7 @@ ocho
 aspectos
 a
 puntuar
-según
+segun
 creyeran
 que
 la
@@ -201,7 +201,7 @@ marzo-
 variables
 nominales
 resumidas
-según
+segun
 frecuencia
 de
 sus

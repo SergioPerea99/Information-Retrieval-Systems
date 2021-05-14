@@ -68,7 +68,7 @@ correlaciones
 bivariadas
 análisis
 regresión
-múltiple
+multiple
 resultados
 pacientes
 mostraron

@@ -232,7 +232,7 @@ fueron
 poco
 relevantes
 y
-ningún
+ningun
 caso
 precisó
 suspender

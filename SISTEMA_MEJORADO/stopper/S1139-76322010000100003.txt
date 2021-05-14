@@ -54,10 +54,12 @@ masa
 corporal
 imc
 valorado
+segun
 curvas
 percentiles
 edad
 sexo
+segun
 resultados
 niños
 clasificados
@@ -69,6 +71,7 @@ igualmente
 individuos
 ordenados
 grupos
+segun
 diagnóstico
 médico
 psicológico

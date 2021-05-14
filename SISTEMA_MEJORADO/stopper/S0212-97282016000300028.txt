@@ -1,5 +1,5 @@
 influencia
-número
+numero
 objetos
 claves
 verbales
@@ -19,7 +19,7 @@ mundo
 expresar
 conoce
 caso
-número
+numero
 gramatical
 poder
 asociar
@@ -44,7 +44,7 @@ claves
 verbales
 proporcionadas
 producción
-número
+numero
 ejemplares
 conjunto
 obstante
@@ -63,7 +63,7 @@ objetivo
 presente
 trabajo
 explorar
-número
+numero
 claves
 verbales
 influye
@@ -95,7 +95,7 @@ niños
 asociaban
 claves
 verbales
-múltiples
+multiples
 e1
 claves
 terminación
@@ -108,7 +108,7 @@ objetos
 niños
 asociaron
 claves
-múltiples
+multiples
 pluralidad
 terminación
 sustantivo

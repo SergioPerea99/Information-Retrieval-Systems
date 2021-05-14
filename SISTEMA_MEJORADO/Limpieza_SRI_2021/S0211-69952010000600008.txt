@@ -95,11 +95,11 @@ megestrol
 mgdía
 en
 dosis
-única
+unica
 por
 anorexia
 definida
-según
+segun
 una
 escala
 likert
@@ -146,7 +146,7 @@ de
 la
 concentración
 de
-albúmina
+albumina
 402
 frente
 a

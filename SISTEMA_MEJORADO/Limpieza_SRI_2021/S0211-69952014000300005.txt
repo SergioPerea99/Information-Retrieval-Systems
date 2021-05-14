@@ -116,7 +116,7 @@ pronóstica
 mejorada
 además
 se
-revalúan
+revaluan
 los
 conceptos
 sobre
@@ -167,7 +167,7 @@ una
 albuminuria
 elevada
 cociente
-albúminacreatinina
+albuminacreatinina
 en
 muestra
 aislada
@@ -181,7 +181,7 @@ mgg
 o
 proteinuria
 cociente
-albúminacreatinina
+albuminacreatinina
 en
 muestra
 aislada

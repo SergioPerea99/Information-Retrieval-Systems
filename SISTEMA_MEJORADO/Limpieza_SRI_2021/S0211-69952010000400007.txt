@@ -2,7 +2,7 @@ la
 ecografía
 carotídea
 es
-útil
+util
 para
 predecir
 enfermedad
@@ -383,7 +383,7 @@ urémicos
 su
 medición
 es
-útil
+util
 para
 predecir
 la

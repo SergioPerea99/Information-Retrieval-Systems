@@ -44,6 +44,7 @@ concentracion
 máxima
 minuto
 hora
+segun
 vía
 cocaína
 semivida
@@ -51,6 +52,7 @@ sangr
 40
 90
 minuto
+segun
 estudio
 forma
 desaparec
@@ -72,6 +74,7 @@ tomada
 tiempo
 transcurrido
 administración
+segun
 dato
 dispon
 concentracion

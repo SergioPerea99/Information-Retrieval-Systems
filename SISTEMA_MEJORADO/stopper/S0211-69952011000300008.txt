@@ -86,6 +86,7 @@ resultados
 finalizar
 período
 tratamiento
+ningun
 paciente
 presentó
 remisión
@@ -161,7 +162,7 @@ enfermos
 precisó
 incremento
 dosis
-número
+numero
 hipotensores
 12
 meses

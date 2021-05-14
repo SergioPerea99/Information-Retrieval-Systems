@@ -37,7 +37,7 @@ variables
 registro
 vacunaciones
 tipo
-número
+numero
 dosis
 vacunas
 administradas
@@ -50,6 +50,7 @@ síno
 estado
 vacunal
 valoró
+segun
 expanded
 program
 on
@@ -72,6 +73,7 @@ ic
 95
 593-650
 vacunado
+segun
 epi-1974
 541
 ic
@@ -91,8 +93,10 @@ leer
 escribir
 vacunado
 correctamente
+segun
 epi
 vacunados
+segun
 pani
 difteria
 94
@@ -173,6 +177,7 @@ difteria
 tétanos
 tos
 ferina
+segun
 estudio
 resto
 vacunas

@@ -17,7 +17,7 @@ lesiones
 intencionadas
 hogar
 vía
-pública
+publica
 escasa
 literatura
 médica

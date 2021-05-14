@@ -77,7 +77,7 @@ vida
 pronóstico
 pacient
 método
-búsqueda
+busqueda
 bibliográfica
 reunion
 consenso

@@ -87,7 +87,7 @@ g
 abandona
 programa
 seguimiento
-único
+unico
 pediatra
 valorará
 niño
@@ -109,7 +109,7 @@ neurológica
 lech
 madr
 proporciona
-múltipl
+multipl
 beneficio
 niño
 prematuro

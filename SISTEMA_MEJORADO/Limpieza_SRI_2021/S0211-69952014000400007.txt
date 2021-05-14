@@ -129,7 +129,7 @@ a
 los
 líquidos
 intravenosos
-según
+segun
 si
 el
 niño
@@ -176,7 +176,7 @@ distribuyeron
 en
 tres
 grupos
-según
+segun
 el
 resultado
 inicial
@@ -264,7 +264,7 @@ final
 no
 se
 detectó
-ningún
+ningun
 caso
 de
 hiponatremia

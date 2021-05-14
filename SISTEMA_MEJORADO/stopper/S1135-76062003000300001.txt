@@ -44,6 +44,7 @@ concentraciones
 máximas
 minutos
 hora
+segun
 vía
 cocaína
 semivida
@@ -51,6 +52,7 @@ sangre
 40
 90
 minutos
+segun
 estudios
 forma
 desaparece
@@ -72,6 +74,7 @@ tomada
 tiempo
 transcurrido
 administración
+segun
 datos
 disponibles
 concentraciones

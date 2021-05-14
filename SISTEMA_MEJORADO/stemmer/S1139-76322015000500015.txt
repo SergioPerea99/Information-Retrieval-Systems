@@ -65,7 +65,7 @@ anamnesi
 incluyendo
 antecedent
 perinatal
-quirúrgico
+quirurgico
 exploración
 física
 completa
@@ -94,7 +94,7 @@ cierta
 situacion
 pacient
 dormido
-decúbito
+decubito
 supino
 fibrobroncoscopia
 sedación
@@ -121,4 +121,5 @@ médico
 aumentando
 grado
 sedaciónanestesia
+segun
 requiera

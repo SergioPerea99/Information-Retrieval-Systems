@@ -29,6 +29,7 @@ estimar
 grado
 preocupación
 padr
+segun
 respuesta
 encuesta
 telefónica
@@ -90,7 +91,7 @@ año
 522
 varon
 relación
-número
+numero
 consulta
 centro
 salud

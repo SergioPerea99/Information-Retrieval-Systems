@@ -33,6 +33,7 @@ analizar
 diferencia
 existent
 frecuentación
+segun
 distinta
 procedencia
 materi
@@ -56,7 +57,7 @@ variabl
 princip
 frecuentación
 definió
-número
+numero
 visitasaño
 variabl
 secundaria

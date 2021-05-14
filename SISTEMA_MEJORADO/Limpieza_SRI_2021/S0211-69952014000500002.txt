@@ -32,7 +32,7 @@ la
 certificación
 de
 biobancos
-según
+segun
 la
 norma
 iso
@@ -93,7 +93,7 @@ un
 gran
 aumento
 del
-número
+numero
 de
 estas
 entre
@@ -228,7 +228,7 @@ aumentar
 significativamente
 200
 el
-número
+numero
 de
 muestras
 procesadas
@@ -241,7 +241,7 @@ proceso
 el
 aumento
 del
-número
+numero
 de
 muestras
 procesadas

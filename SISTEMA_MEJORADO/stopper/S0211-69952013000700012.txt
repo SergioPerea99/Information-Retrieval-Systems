@@ -93,7 +93,7 @@ pasa
 unidad
 cuidados
 intensivos
-continúa
+continua
 plasmaféresis
 hemodiálisis
 paciente
@@ -101,6 +101,7 @@ mantiene
 anuria
 necesidad
 hemodiálisis
+ningun
 signo
 recuperación
 renal

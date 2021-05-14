@@ -89,6 +89,7 @@ personas
 respondieron
 pregunta
 sufrido
+algun
 tipo
 violencia
 relaciones
@@ -117,7 +118,7 @@ sociodemográficas
 regresión
 logística
 edad
-única
+unica
 variable
 asociada
 independiente
@@ -141,6 +142,7 @@ concordancia
 respuesta
 pregunta
 sufrido
+algun
 tipo
 violencia
 relaciones
@@ -181,7 +183,7 @@ primaria
 violencia
 género
 considerable
-número
+numero
 personas
 afirman
 sufrido

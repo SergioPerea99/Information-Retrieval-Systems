@@ -1,5 +1,5 @@
 reparación
-quirúrgica
+quirurgica
 urgente
 fístulas
 arteriovenosas
@@ -27,6 +27,7 @@ fístula
 arteriovenosa
 fav
 necesita
+algun
 procedimiento
 urgente
 próxima
@@ -66,7 +67,7 @@ método
 recogida
 prospectiva
 intervenciones
-quirúrgicas
+quirurgicas
 urgentes
 realizadas
 reparación
@@ -129,7 +130,7 @@ unidad
 complejidad
 hospitalaria
 precio
-público
+publico
 procesos
 ambulatorios
 porcentaje
@@ -212,7 +213,7 @@ hemodiálisis
 año
 conclusiones
 rescate
-quirúrgico
+quirurgico
 urgente
 mayoría
 fav

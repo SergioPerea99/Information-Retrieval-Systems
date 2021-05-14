@@ -99,7 +99,7 @@ el
 análisis
 de
 regresión
-múltiple
+multiple
 resultados
 no
 se
@@ -140,7 +140,7 @@ con
 la
 autoeficacia
 esta
-última
+ultima
 no
 moduló
 la
@@ -197,6 +197,6 @@ imprescindible
 también
 en
 el
-último
+ultimo
 nivel
 asistencial

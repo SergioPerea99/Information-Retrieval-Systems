@@ -124,7 +124,7 @@ en
 la
 regresión
 lineal
-múltiple
+multiple
 entre
 la
 duración
@@ -227,7 +227,7 @@ la
 mortalidad
 y
 el
-número
+numero
 de
 leucocitos
 p0016

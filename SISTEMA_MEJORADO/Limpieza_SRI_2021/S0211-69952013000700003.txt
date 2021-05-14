@@ -143,7 +143,7 @@ fisher
 y
 regresión
 logística
-múltiple
+multiple
 resultados
 la
 prevalencia
@@ -201,7 +201,7 @@ bajo
 p
 0008
 y
-albúmina
+albumina
 sérica
 más
 baja
@@ -259,7 +259,7 @@ y
 bajos
 valores
 de
-albúmina
+albumina
 sérica
 or
 041
@@ -286,6 +286,6 @@ prótesis
 dental
 xerostomía
 y
-albúmina
+albumina
 sérica
 baja

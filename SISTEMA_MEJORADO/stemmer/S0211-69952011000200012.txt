@@ -46,7 +46,7 @@ estudio
 prueba
 función
 renal
-útile
+util
 decidir
 caso
 dilatación
@@ -71,7 +71,7 @@ ectasia
 piélica
 73
 diagnosticada
-intraútero
+intrautero
 nacer
 realizaron
 cistografía
@@ -110,7 +110,7 @@ inferior
 p
 0006
 cocient
-microalbúminacreatinina
+microalbuminacreatinina
 p
 0001
 cocient
@@ -136,7 +136,7 @@ especificidad
 632
 sensibilidad
 cocient
-microalbúminacreatinina
+microalbuminacreatinina
 detectar
 rvu
 625
@@ -154,7 +154,7 @@ urinaria
 máxima
 203
 cocient
-microalbúminacreatinina
+microalbuminacreatinina
 25
 cp
 negativo
@@ -166,7 +166,7 @@ urinaria
 máxima
 043
 cocient
-microalbúminacreatinina
+microalbuminacreatinina
 05
 conclusion
 ectasia

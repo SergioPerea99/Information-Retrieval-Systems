@@ -40,7 +40,7 @@ problema
 importante
 de
 salud
-pública
+publica
 el
 trasplante
 renal
@@ -227,7 +227,7 @@ de
 inicio
 del
 tratamiento
-según
+segun
 grupo
 de
 enfermedad
@@ -311,7 +311,7 @@ trasplantes
 realizados
 en
 los
-últimos
+ultimos
 11
 años
 siguen

@@ -138,6 +138,7 @@ asma
 presentaron
 exacerbacion
 leve
+ningun
 niño
 recibió
 tratamiento

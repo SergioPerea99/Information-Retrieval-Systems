@@ -49,6 +49,7 @@ positivos
 blastocystis
 hominis
 atendidos
+ultimos
 años
 centro
 salud
@@ -61,6 +62,7 @@ coprocultivos
 estudios
 parasitológicos
 realizados
+ultimos
 años
 niños
 1
@@ -75,6 +77,7 @@ pacientes
 positivos
 microorganismo
 resultados
+ultimos
 años
 solicitamos
 530
@@ -109,6 +112,7 @@ excepto
 niño
 adoptado
 china
+ningun
 paciente
 presentaba
 alteraciones

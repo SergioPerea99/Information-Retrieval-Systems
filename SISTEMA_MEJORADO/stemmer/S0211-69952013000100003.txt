@@ -11,6 +11,7 @@ madrid
 v33
 n1
 2013
+ultimo
 año
 introducción
 fármaco
@@ -47,12 +48,12 @@ diálisi
 reentrada
 lista
 espera
-múltipl
+multipl
 agresion
 origen
 inmun
 inmun
-actúan
+actuan
 forma
 conjunta
 conducen

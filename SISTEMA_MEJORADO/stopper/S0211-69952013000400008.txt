@@ -69,7 +69,7 @@ resultados
 tipo
 estrategias
 usadas
-búsqueda
+busqueda
 información
 resolución
 problemas

@@ -7,7 +7,7 @@ diálisis
 peritoneal
 en
 los
-últimos
+ultimos
 años
 2012-01-01
 nefrología
@@ -284,7 +284,7 @@ antes
 de
 2004
 esta
-última
+ultima
 variable
 pierde
 significación
@@ -351,7 +351,7 @@ sus
 resultados
 en
 los
-últimos
+ultimos
 años
 probablemente
 las

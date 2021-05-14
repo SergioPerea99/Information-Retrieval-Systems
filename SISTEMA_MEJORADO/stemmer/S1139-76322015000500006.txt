@@ -126,6 +126,7 @@ administrar
 vacuna
 forma
 dolorosa
+ultima
 prefer
 inyectar
 simultáneament

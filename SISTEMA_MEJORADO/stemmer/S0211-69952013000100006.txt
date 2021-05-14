@@ -31,7 +31,7 @@ erc
 demostrado
 situacion
 clínica
-número
+numero
 ingreso
 anemia
 afectan
@@ -80,7 +80,7 @@ ureico
 sangr
 creatinina
 hematocrito
-albúmina
+albumina
 situación
 clínica
 talla
@@ -90,7 +90,7 @@ arteri
 hta
 deformidad
 ósea
-número
+numero
 ingreso
 día
 ingreso
@@ -98,7 +98,7 @@ mese
 previo
 realización
 estudio
-número
+numero
 fármaco
 administrado
 restricción
@@ -127,7 +127,7 @@ física
 encontramo
 relación
 valor
-albúmina
+albumina
 cvr
 conclusion
 resultado

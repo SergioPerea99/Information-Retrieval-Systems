@@ -1,4 +1,4 @@
-útil
+util
 enseñanza
 reanimación
 cardiopulmonar
@@ -73,7 +73,7 @@ práctica
 habilidad
 reanimación
 aumentar
-número
+numero
 vida
 salvada
 recuperación

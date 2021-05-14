@@ -9,7 +9,7 @@ aclaran
 o
 confunden
 repercusión
-según
+segun
 las
 diferentes
 guías
@@ -39,7 +39,7 @@ hipolipemiante
 en
 prevención
 primaria
-según
+segun
 las
 recomendaciones
 de
@@ -127,7 +127,7 @@ de
 tratamiento
 fue
 valorada
-según
+segun
 los
 criterios
 del
@@ -159,7 +159,7 @@ score
 441
 mediana
 2
-según
+segun
 las
 recomendaciones
 papps
@@ -205,7 +205,7 @@ respecto
 al
 tratamiento
 hipolipemiante
-según
+segun
 las
 recomendaciones
 papps
@@ -217,7 +217,7 @@ frente
 a
 un
 212
-según
+segun
 las
 recomendaciones
 score-ceipc

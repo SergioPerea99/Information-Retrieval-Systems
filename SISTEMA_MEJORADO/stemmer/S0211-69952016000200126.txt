@@ -221,7 +221,7 @@ ic
 34-157
 igualdad
 edad
-número
+numero
 revacunacion
 recuerdo
 edad

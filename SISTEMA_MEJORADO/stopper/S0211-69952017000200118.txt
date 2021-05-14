@@ -3,7 +3,7 @@ vía
 señalización
 tweakfn14
 nefritis
-lúpica
+lupica
 escenarios
 clínicos
 2017-04-01
@@ -37,13 +37,14 @@ autoinmune
 ampliamente
 estudiada
 afectar
-múltiples
+multiples
 órganos
 importante
 impacto
 morbimortalidad
 afectación
 renal
+ultimos
 10
 años
 aumentado
@@ -53,7 +54,7 @@ vía
 señalización
 tweakfn14
 nefritis
-lúpica
+lupica
 escenarios
 clínicos
 artículo
@@ -63,7 +64,7 @@ literatura
 papel
 vía
 nefritis
-lúpica
+lupica
 recalca
 importancia
 tweak

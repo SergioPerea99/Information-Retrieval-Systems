@@ -109,7 +109,7 @@ y
 anatomopatológicas
 y
 complicaciones
-quirúrgicas
+quirurgicas
 resultados
 de
 82
@@ -124,7 +124,7 @@ de
 hombremujer
 que
 varió
-según
+segun
 la
 franja
 de
@@ -259,7 +259,7 @@ de
 corta
 evolución
 esta
-última
+ultima
 triplica
 el
 riesgo

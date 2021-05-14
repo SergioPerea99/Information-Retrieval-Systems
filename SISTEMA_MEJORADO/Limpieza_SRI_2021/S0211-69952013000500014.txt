@@ -2,7 +2,7 @@ estimación
 del
 filtrado
 glomerular
-según
+segun
 mdrd-4
 idms
 y
@@ -38,7 +38,7 @@ enfermedad
 renal
 crónica
 erc
-según
+segun
 la
 estimación
 del
@@ -95,7 +95,7 @@ de
 2010
 en
 un
-único
+unico
 laboratorio
 centralizado
 criterios
@@ -114,7 +114,7 @@ riesgo
 y
 enfermedad
 cardiovascular
-según
+segun
 registro
 en
 historia
@@ -125,7 +125,7 @@ concentración
 de
 creatinina
 sérica
-según
+segun
 el
 método
 jaffé

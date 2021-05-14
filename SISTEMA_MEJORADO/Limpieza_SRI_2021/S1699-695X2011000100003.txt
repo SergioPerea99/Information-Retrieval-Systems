@@ -158,7 +158,7 @@ de
 finalizar
 el
 tratamiento
-según
+segun
 lo
 dicho
 por
@@ -190,7 +190,7 @@ por
 condiciones
 económicas
 desfavorables
-según
+segun
 los
 dicho
 por

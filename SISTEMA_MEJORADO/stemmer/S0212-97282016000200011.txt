@@ -84,6 +84,7 @@ obtenida
 apoyo
 emocion
 percibido
+segun
 distinta
 fuent
 valor

@@ -54,6 +54,7 @@ mm
 trató
 fracaso
 maduración
+segun
 tipo
 lesión
 58
@@ -114,6 +115,7 @@ distal
 radio-cefálicas
 4
 cubitobasílicas
+ningun
 paciente
 fav-rc
 inmadura

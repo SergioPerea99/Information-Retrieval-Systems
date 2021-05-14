@@ -212,7 +212,7 @@ por
 agresiones
 conclusiones
 el
-número
+numero
 de
 casos
 es
@@ -223,7 +223,7 @@ epidemiológica
 y
 de
 salud
-pública
+publica
 en
 la
 violencia

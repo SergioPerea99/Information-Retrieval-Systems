@@ -33,12 +33,12 @@ observacional
 longitudinal
 emplazamiento
 colegio
-público
+publico
 urbano
 zona
 básica
 salud
-número
+numero
 1
 albacete
 participantes
@@ -82,6 +82,7 @@ talla
 imc
 perímetro
 abdominal
+segun
 edad
 sexo
 fundación

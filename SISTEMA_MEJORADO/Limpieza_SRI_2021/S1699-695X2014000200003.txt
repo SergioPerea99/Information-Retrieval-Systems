@@ -92,7 +92,7 @@ sanidad
 se
 obtuvo
 el
-número
+numero
 en
 la
 oposición
@@ -125,7 +125,7 @@ de
 mf
 relacionada
 con
-número
+numero
 de
 orden
 en
@@ -150,7 +150,7 @@ un
 la
 mediana
 del
-número
+numero
 para
 elegir
 mf
@@ -190,7 +190,7 @@ elegían
 mf
 con
 menor
-número
+numero
 que
 los
 demás
@@ -235,7 +235,7 @@ elegían
 mf
 con
 menor
-número
+numero
 6704
 y
 7622
@@ -259,7 +259,7 @@ clm
 se
 realiza
 con
-números
+numeros
 altos
 de
 la
@@ -273,7 +273,7 @@ la
 eligen
 con
 mejor
-número
+numero
 que
 el
 resto

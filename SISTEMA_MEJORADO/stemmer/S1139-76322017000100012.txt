@@ -40,7 +40,7 @@ mostrar
 marco
 legal
 aplic
-búsqueda
+busqueda
 base
 dato
 medlin

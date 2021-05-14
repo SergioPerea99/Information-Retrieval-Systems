@@ -127,7 +127,7 @@ españa
 que
 hubieran
 empleado
-algún
+algun
 instrumento
 para
 medir
@@ -157,7 +157,7 @@ de
 forma
 independiente
 la
-búsqueda
+busqueda
 se
 realizó
 en

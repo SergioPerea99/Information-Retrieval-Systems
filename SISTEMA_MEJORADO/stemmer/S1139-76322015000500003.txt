@@ -20,7 +20,7 @@ pediátrica
 constituy
 desafío
 salud
-pública
+publica
 motivo
 llevamo
 cabo
@@ -140,7 +140,7 @@ clínica
 serga
 servizo
 galego
-saúd
+saud
 estimacion
 prevalencia
 acompañaron
@@ -211,6 +211,7 @@ prevalencia
 sobrepeso
 obesidad
 varía
+segun
 estudio
 referencia
 utilizado

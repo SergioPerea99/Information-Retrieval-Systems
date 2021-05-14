@@ -85,7 +85,7 @@ de
 atención
 primaria
 variables
-último
+ultimo
 peso
 y
 talla
@@ -152,7 +152,7 @@ la
 desviación
 estándar
 de
-según
+segun
 edad
 y
 sexo

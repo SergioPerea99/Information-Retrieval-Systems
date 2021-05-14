@@ -25,6 +25,7 @@ clínicamente
 dermatitis-eccema
 asma
 rinoconjuntivitis
+ultimos
 años
 documentado
 aumento
@@ -71,6 +72,7 @@ clínica
 estudio
 alérgico
 positivo
+ultimos
 5
 años
 resultados

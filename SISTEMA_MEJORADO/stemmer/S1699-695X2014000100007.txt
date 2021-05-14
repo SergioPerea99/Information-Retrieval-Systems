@@ -75,7 +75,7 @@ dato
 pubm
 cochran
 definición
-única
+unica
 ep
 definicion
 actual
@@ -104,7 +104,7 @@ local
 pasando
 cirugía
 españa
-único
+unico
 fármaco
 indicación
 específica

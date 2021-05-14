@@ -146,7 +146,7 @@ fracciones
 triglicéridos
 troponina
 i
-albúmina
+albumina
 pcr
 y
 hemoglobina
@@ -218,7 +218,7 @@ p
 0000
 y
 menor
-albúmina
+albumina
 or
 029
 ic

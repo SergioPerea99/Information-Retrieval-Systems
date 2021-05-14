@@ -11,7 +11,7 @@ renal
 crónica
 servicio
 nefrología
-perú
+peru
 2012-01-01
 nefrología
 madrid
@@ -24,7 +24,7 @@ renal
 crónica
 problema
 salud
-pública
+publica
 diagnóstico
 precoz
 anticipa
@@ -65,7 +65,7 @@ pacient
 23
 centro
 hospitalario
-perú
+peru
 incluido
 pacient
 ambulatorio

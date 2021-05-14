@@ -1,7 +1,7 @@
 epidemia
 tos
 ferina
-útil
+util
 estrategia
 nido
 2013-06-01
@@ -17,6 +17,7 @@ clásico
 tema
 valorado
 críticamente
+segun
 metodología
 medicina
 basada
@@ -38,7 +39,7 @@ plantea
 pregunta
 clínica
 estructurada
-búsqueda
+busqueda
 bibliográfica
 valoran
 críticamente
@@ -115,7 +116,7 @@ lactantes
 necesario
 autoridades
 salud
-pública
+publica
 pronuncien
 situación
 tos

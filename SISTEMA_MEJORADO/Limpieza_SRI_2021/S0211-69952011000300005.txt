@@ -70,7 +70,7 @@ hepática
 es
 una
 herramienta
-útil
+util
 para
 decidir
 el
@@ -218,7 +218,7 @@ de
 provocar
 un
 mayor
-número
+numero
 de
 infecciones
 también

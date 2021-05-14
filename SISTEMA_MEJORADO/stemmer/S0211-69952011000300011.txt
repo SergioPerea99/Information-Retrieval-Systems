@@ -105,7 +105,7 @@ variabl
 secundaria
 pacient
 hospitalizadosbacteriemia
-número
+numero
 bacteriemiascatéter1000
 día
 mortalidad
@@ -139,11 +139,11 @@ bacteriemia
 3
 caso
 3
-número
+numero
 pacient
 bacteriemia
 8
-número
+numero
 bacteriemiascatéter1000
 día
 011
@@ -159,6 +159,7 @@ caso
 diagnosticado
 endocard
 espondilodisc
+ningun
 pacient
 media
 nivel
@@ -179,6 +180,7 @@ mg
 equivalent
 11-17
 mgml
+segun
 volumen
 rama
 catéter

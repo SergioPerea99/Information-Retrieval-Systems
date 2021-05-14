@@ -23,7 +23,7 @@ sanitarias
 prevención
 riesgos
 salud
-pública
+publica
 infección
 meningocócica
 cursar
@@ -32,7 +32,7 @@ evolución
 fatal
 causando
 muerte
-súbita
+subita
 neisseria
 meningitidis
 principal

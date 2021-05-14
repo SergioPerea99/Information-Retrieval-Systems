@@ -45,6 +45,7 @@ método
 población
 pacientes
 prevalentes
+algun
 trs
 2012
 669
@@ -130,7 +131,7 @@ respectivamente
 coste
 pacienteaño
 considerando
-número
+numero
 pacientesaño
 proporcionado
 subprograma

@@ -75,7 +75,7 @@ los
 pacientes
 prevalentes
 en
-algún
+algun
 momento
 en
 trs
@@ -223,7 +223,7 @@ coste
 pacienteaño
 considerando
 el
-número
+numero
 de
 pacientesaño
 proporcionado

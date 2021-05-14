@@ -107,7 +107,7 @@ mediante
 análisis
 de
 regresión
-múltiple
+multiple
 resultados
 los
 pacientes
@@ -191,7 +191,7 @@ la
 cvrs
 que
 el
-número
+numero
 e
 intensidad
 de

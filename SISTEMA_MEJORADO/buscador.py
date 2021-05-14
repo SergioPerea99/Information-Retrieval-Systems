@@ -68,7 +68,8 @@ class Buscador(object):
         indice_dicc_documentos_invertidas = pares_palabra_frecuencia_online.cargarEEDD_diccDocumentos_invertidas(rutaGuardado)
         rutaGuardado = self.config['OFFLINE']['ruta_diccionario_archivos']
         indice_dicc_documentos = pares_palabra_frecuencia_online.cargarEEDD_diccArchivos(rutaGuardado)
-        
+        rutaGuardado = self.config['OFFLINE']['ruta_diccionario_palabras']
+        self.dicc_palabras = pares_palabra_frecuencia_online.cargarEEDD_diccPalabras(rutaGuardado)
         
         cont = 1
         ruta_fichero_resultados = self.config['ONLINE']['ruta_ficheros_consultas_resultados']
@@ -76,7 +77,7 @@ class Buscador(object):
         for consulta in self.lista_consultas:
             #Calculo de los pesos normalizados por consulta
             pesos_palabras = fich_pesosNorm_online.pesos_palabras_consulta(indice_idf_offline, consulta, indice_dicc_palabras_invertidas)
-            pesos_palabras_norm = fich_pesosNorm_online.normalizar_pesos_consulta(pesos_palabras)
+            self.pesos_palabras_norm = fich_pesosNorm_online.normalizar_pesos_consulta(pesos_palabras)
             
             archivo = open(join(ruta_fichero_resultados,"consulta"+str(cont)+".txt"),"w")
             archivo2 = open(join(ruta_fichero_resultados_ordenados,"consulta"+str(cont)+".txt"),"w")
@@ -90,7 +91,7 @@ class Buscador(object):
                 sumatoria = 0.0
                 for id_palabra in consulta: #Por cada palabra de la consulta
                     if indice_dicc_documentos_invertidas[id_doc] in indice_pesos_offline[indice_dicc_palabras_invertidas[id_palabra]]: #Si existe la palabra en el documento...
-                        sumatoria = sumatoria + (pesos_palabras_norm[indice_dicc_palabras_invertidas[id_palabra]] * indice_pesos_offline[indice_dicc_palabras_invertidas[id_palabra]][indice_dicc_documentos_invertidas[id_doc]])
+                        sumatoria = sumatoria + (self.pesos_palabras_norm[indice_dicc_palabras_invertidas[id_palabra]] * indice_pesos_offline[indice_dicc_palabras_invertidas[id_palabra]][indice_dicc_documentos_invertidas[id_doc]])
                 
                 if sumatoria > 0:
                     similitud_docs_consulta[indice_dicc_documentos_invertidas[id_doc]] = sumatoria
@@ -100,18 +101,15 @@ class Buscador(object):
             archivo.close()
             
             similitud_docs_consulta = sorted(similitud_docs_consulta.items(),reverse = True, key=operator.itemgetter(1))
-            #SALIDA POR PANTALLA DE LOS N DOCUMENTOS CON MAYOR SIMILITUD 
+            
             archivo2.write("Consulta: "+self.dicc_consultas[cont])
-            #print("\nConsulta "+str(cont)+": "+self.dicc_consultas[cont])
+            
             
             i = 0
             for id_doc in similitud_docs_consulta:
                 if i < self.doc_max:
-                    #TODO: A partir del nombre del archivo, buscarlo en la primera colección y obtener el contenido que queramos de ese xml.
                     contenido_archivo = self.mostrarContenidoArchivo(indice_dicc_documentos[id_doc[0]])
-                    #print(str(contenido_archivo[0])+"\n"+str(contenido_archivo[1])+"\n"+str(contenido_archivo[2]))
                     archivo2.write(str(contenido_archivo[0])+"\n"+str(contenido_archivo[1])+"\n"+str(contenido_archivo[2])+"\n")
-                    #print(str(id_doc[1])+" "+str(indice_dicc_documentos[id_doc[0]]))
                 else:
                     break
                 i += 1
@@ -130,3 +128,13 @@ class Buscador(object):
         introduccion = introduccion.firstChild.data
         url = url.firstChild.data
         return [str(url), str(titulo),str(introduccion)]
+    
+    
+    def getListaConsulta(self):
+        return self.lista_consultas
+    
+    def getPesosPalabrasConsulta(self):
+        lista = []
+        for i in self.pesos_palabras_norm:
+            lista.append([self.dicc_palabras[i],self.pesos_palabras_norm[i]])
+        return lista

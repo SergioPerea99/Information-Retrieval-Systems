@@ -73,6 +73,7 @@ respuesta
 ch
 30
 hr
+ultimo
 27
 tenían
 relación
@@ -181,7 +182,7 @@ dedicación
 parenter
 uso
 hospitalario
-común
+comun
 especificada
 concierto
 hr
@@ -215,7 +216,7 @@ trasplant
 quinta
 base
 dato
-común
+comun
 ch
 hr
 mitad
@@ -289,6 +290,6 @@ foro
 debat
 favorecería
 puesta
-común
+comun
 resolución
 aspecto

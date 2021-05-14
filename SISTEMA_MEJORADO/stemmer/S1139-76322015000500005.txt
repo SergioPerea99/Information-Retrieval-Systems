@@ -5,7 +5,7 @@ agudeza
 visual
 baja
 escolar
-perú
+peru
 2015-12-01
 pediatría
 atención
@@ -39,7 +39,7 @@ nacion
 san
 pedro
 piura
-perú
+peru
 materi
 método
 estudio
@@ -59,6 +59,7 @@ tenían
 valor
 mayor
 2025
+segun
 evaluación
 cartilla
 snellen

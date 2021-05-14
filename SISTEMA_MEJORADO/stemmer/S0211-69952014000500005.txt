@@ -86,7 +86,7 @@ amba
 asociaron
 nivel
 bajo
-prealbúmina
+prealbumina
 p
 0001
 p
@@ -109,7 +109,7 @@ ohaec
 15
 asocia
 disminución
-prealbúmina
+prealbumina
 tejido
 graso
 proponemo

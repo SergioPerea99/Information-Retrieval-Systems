@@ -88,6 +88,7 @@ día
 desviación
 estándar
 4349
+ningun
 factor
 asoció
 duración
@@ -144,6 +145,7 @@ lm
 exclusiva
 mantien
 mese
+ningun
 factor
 asoció
 duración

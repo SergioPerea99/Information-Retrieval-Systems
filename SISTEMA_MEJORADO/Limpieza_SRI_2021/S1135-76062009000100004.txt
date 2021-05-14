@@ -9,7 +9,7 @@ en
 casos
 de
 muerte
-súbita
+subita
 cardíaca
 2009-01-01
 cuadernos
@@ -24,7 +24,7 @@ de
 que
 la
 muerte
-súbita
+subita
 cardíaca
 es
 una
@@ -60,7 +60,7 @@ médicos
 de
 los
 sistemas
-públicos
+publicos
 de
 salud
 se
@@ -84,7 +84,7 @@ las
 causas
 de
 muerte
-súbita
+subita
 cardíaca
 es
 en
@@ -105,7 +105,7 @@ exacta
 de
 la
 muerte
-súbita
+subita
 pero
 existen
 diferencias
@@ -152,7 +152,7 @@ valoración
 de
 la
 muerte
-súbita
+subita
 cardíaca
 incluyendo
 no
@@ -235,7 +235,7 @@ que
 es
 más
 importante
-aún
+aun
 favorecerá
 que
 se
@@ -249,4 +249,4 @@ que
 causan
 una
 muerte
-súbita
+subita

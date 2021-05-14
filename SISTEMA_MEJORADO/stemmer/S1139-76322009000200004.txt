@@ -66,7 +66,7 @@ entrada
 consulta
 tipo
 acompañant
-número
+numero
 demanda
 aditiva
 hora
@@ -105,12 +105,14 @@ comprobó
 frecuent
 consulta
 administrativa
+segun
 pediatra
 tiempo
 medio
 consulta
 varió
 significativament
+segun
 realizaran
 86
 943

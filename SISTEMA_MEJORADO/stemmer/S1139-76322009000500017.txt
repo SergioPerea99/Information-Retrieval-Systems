@@ -79,7 +79,7 @@ guardería
 variabl
 dependient
 analizarán
-número
+numero
 tipo
 infeccion
 tratamiento
@@ -111,7 +111,7 @@ análisi
 estadístico
 analizar
 diferencia
-número
+numero
 infeccion
 dependiendo
 edad
@@ -153,7 +153,7 @@ familiar
 considerars
 variabl
 predictora
-número
+numero
 infeccion
 controlando
 posibl

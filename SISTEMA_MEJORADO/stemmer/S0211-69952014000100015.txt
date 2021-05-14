@@ -127,7 +127,7 @@ exitu
 trasplantectomía
 1
 intervención
-quirúrgica
+quirurgica
 hematoma
 veintisiet
 menor

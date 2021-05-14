@@ -144,7 +144,7 @@ edad
 sexo
 índice
 comorbilidad
-albúmina
+albumina
 sérica
 proteína
 c

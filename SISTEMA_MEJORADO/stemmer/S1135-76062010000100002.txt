@@ -57,6 +57,7 @@ pretend
 reunir
 víctima
 familia
+ultima
 década
 frecuencia
 aparec
@@ -101,6 +102,7 @@ extinción
 caracterización
 elemento
 histórico
+ultimo
 importancia
 aplicacion
 biomedicina

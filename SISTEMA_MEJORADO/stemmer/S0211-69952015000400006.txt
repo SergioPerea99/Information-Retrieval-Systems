@@ -29,7 +29,7 @@ complejidad
 dependencia
 comorbilidad
 asociada
-múltipl
+multipl
 beneficio
 ejercicio
 físico

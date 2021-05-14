@@ -31,7 +31,7 @@ sociales
 de
 los
 niños
-según
+segun
 su
 exposición
 al
@@ -87,7 +87,7 @@ modelos
 de
 regresión
 lineal
-múltiple
+multiple
 mostraron
 una
 asociación

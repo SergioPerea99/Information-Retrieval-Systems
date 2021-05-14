@@ -152,7 +152,7 @@ de
 dinero
 o
 menor
-número
+numero
 de
 asignaturas
 aprobadas

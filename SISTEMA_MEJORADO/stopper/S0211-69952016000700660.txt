@@ -1,6 +1,7 @@
 supervivencia
 injerto
 renal
+segun
 categoría
 banff
 2013
@@ -31,6 +32,7 @@ supervivencia
 injerto
 categorías
 diagnósticas
+segun
 clasificación
 banff
 2013
@@ -58,6 +60,7 @@ revisaron
 diagnósticos
 histológicos
 reclasificaron
+segun
 banff
 2013
 resultados
@@ -173,6 +176,7 @@ observa
 modificación
 histopatología
 predominante
+segun
 tiempo
 postrasplante
 cambios

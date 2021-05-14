@@ -29,7 +29,7 @@ curso
 clínico
 respuesta
 tratamiento
-único
+unico
 evidencia
 dispon
 actualidad
@@ -70,6 +70,7 @@ lectina
 relacionado
 peor
 pronóstico
+ultima
 afirmación
 requier
 confirmada

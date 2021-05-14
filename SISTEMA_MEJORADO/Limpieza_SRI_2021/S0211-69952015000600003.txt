@@ -25,7 +25,7 @@ línea
 posdilucional
 hdfol
 la
-única
+unica
 recomendación
 acerca
 del
@@ -107,7 +107,7 @@ qd
 y
 700
 mlmin
-veintiún
+veintiun
 pacientes
 se
 dializaron
@@ -216,7 +216,7 @@ dializadores
 utilizados
 no
 son
-útiles
+utiles
 los
 qd
 superiores

@@ -159,6 +159,7 @@ hospitalario
 presenta
 variacion
 important
+segun
 paí
 encuestado
 factor

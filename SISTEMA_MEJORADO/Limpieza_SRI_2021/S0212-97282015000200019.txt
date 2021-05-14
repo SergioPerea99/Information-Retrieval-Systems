@@ -38,7 +38,7 @@ estudiantes
 de
 los
 tres
-últimos
+ultimos
 cursos
 de
 educación
@@ -58,7 +58,7 @@ deberes
 escolares
 fueron
 el
-número
+numero
 de
 deberes
 realizados

@@ -107,6 +107,7 @@ toma
 pacient
 120
 presentaron
+algun
 efecto
 adverso
 variabl
@@ -145,6 +146,7 @@ consulta
 pediatría
 2
 ocasion
+ultimo
 me
 or
 22
@@ -163,7 +165,7 @@ prescrito
 nivel
 estudio
 padr
-número
+numero
 toma
 día
 relacionan

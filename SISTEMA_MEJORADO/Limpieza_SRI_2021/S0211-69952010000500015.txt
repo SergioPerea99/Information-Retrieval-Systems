@@ -149,7 +149,7 @@ el
 análisis
 de
 regresión
-múltiple
+multiple
 reveló
 la
 función

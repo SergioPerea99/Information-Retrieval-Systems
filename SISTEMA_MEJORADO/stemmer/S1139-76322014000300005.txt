@@ -19,7 +19,7 @@ introducción
 mayor
 problema
 salud
-pública
+publica
 consumo
 tóxico
 conducta
@@ -63,7 +63,7 @@ relacionado
 alcohol
 tabaco
 droga
-número
+numero
 final
 alumno
 encuestado

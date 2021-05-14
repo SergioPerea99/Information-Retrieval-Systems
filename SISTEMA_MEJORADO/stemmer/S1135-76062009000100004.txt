@@ -3,7 +3,7 @@ práctica
 autopsia
 caso
 muert
-súbita
+subita
 cardíaca
 2009-01-01
 cuaderno
@@ -12,7 +12,7 @@ forens
 n55
 2009
 muert
-súbita
+subita
 cardíaca
 forma
 important
@@ -26,7 +26,7 @@ merec
 patólogo
 médico
 sistema
-público
+publico
 salud
 desarrollado
 método
@@ -38,7 +38,7 @@ diagnóstico
 certeza
 causa
 muert
-súbita
+subita
 cardíaca
 particular
 importancia
@@ -48,7 +48,7 @@ determinar
 causa
 exacta
 muert
-súbita
+subita
 diferencia
 consider
 modo
@@ -70,7 +70,7 @@ habitu
 autopsia
 valoración
 muert
-súbita
+subita
 cardíaca
 incluyendo
 protocolo
@@ -111,10 +111,11 @@ distinta
 comunidad
 region
 important
+aun
 favorecerá
 monitoricen
 patron
 enfermedad
 causan
 muert
-súbita
+subita

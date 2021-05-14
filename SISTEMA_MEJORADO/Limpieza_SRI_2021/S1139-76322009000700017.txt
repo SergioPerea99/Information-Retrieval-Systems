@@ -178,7 +178,7 @@ de
 seguimiento
 se
 realizan
-múltiples
+multiples
 cribados
 y
 recomendaciones

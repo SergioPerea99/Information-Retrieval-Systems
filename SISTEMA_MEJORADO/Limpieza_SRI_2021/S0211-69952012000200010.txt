@@ -230,7 +230,7 @@ los
 pacientes
 se
 hizo
-normoalbuminúrico
+normoalbuminurico
 salvo
 imc
 y
@@ -247,7 +247,7 @@ diabetes
 association
 se
 alcanzaron
-ningún
+ningun
 paciente
 abandonó
 el

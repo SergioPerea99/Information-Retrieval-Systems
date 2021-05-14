@@ -63,7 +63,7 @@ paciente
 no
 pudo
 identificarse
-ningún
+ningun
 proceso
 inflamatorio
 predisponente

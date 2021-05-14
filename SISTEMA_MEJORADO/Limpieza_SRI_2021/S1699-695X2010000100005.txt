@@ -74,7 +74,7 @@ joven
 sin
 complicaciones
 tratamiento
-según
+segun
 evidencia
 amoxicilina
 2
@@ -159,7 +159,7 @@ respuesta
 caso
 1
 tratamiento
-según
+segun
 evidencia
 68
 ic

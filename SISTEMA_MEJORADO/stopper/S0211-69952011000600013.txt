@@ -89,7 +89,7 @@ estudio
 analizó
 regresión
 lineal
-múltiple
+multiple
 resultados
 mejores
 determinantes
@@ -107,7 +107,7 @@ calcio
 sérico
 beta
 -0274
-albúmina
+albumina
 sérica
 beta
 -0112

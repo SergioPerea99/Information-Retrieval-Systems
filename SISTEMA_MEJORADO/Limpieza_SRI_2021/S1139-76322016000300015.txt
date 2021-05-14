@@ -81,7 +81,7 @@ si
 el
 quiste
 se
-sitúa
+situa
 cerca
 de
 la
@@ -93,7 +93,7 @@ son
 excéntricos
 y
 son
-múltiples
+multiples
 cuando
 son
 diagnosticados
@@ -126,7 +126,7 @@ estructura
 que
 conecta
 la
-cúpula
+cupula
 de
 la
 vejiga
@@ -163,7 +163,7 @@ en
 000
 recién
 nacidos
-según
+segun
 a
 que
 nivel
@@ -206,7 +206,7 @@ el
 tratamiento
 debe
 ser
-quirúrgico
+quirurgico
 y
 precoz
 por

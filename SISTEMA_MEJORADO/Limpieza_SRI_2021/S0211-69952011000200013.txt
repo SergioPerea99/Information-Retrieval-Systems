@@ -73,7 +73,7 @@ guarda
 relación
 con
 el
-número
+numero
 de
 ingresos
 hospitalarios
@@ -82,7 +82,7 @@ han
 presentado
 en
 el
-último
+ultimo
 año
 los
 enfermos
@@ -118,7 +118,7 @@ ingresos
 hospitalarios
 en
 el
-último
+ultimo
 año
 y
 optimismopesimismo

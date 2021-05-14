@@ -1,5 +1,5 @@
 muerte
-súbita
+subita
 en
 un
 joven
@@ -48,7 +48,7 @@ y
 cardiovascular
 siendo
 estas
-últimas
+ultimas
 las
 que
 con
@@ -73,10 +73,10 @@ en
 concreto
 a
 este
-último
+ultimo
 nivel
 es
-común
+comun
 observar
 áreas
 de
@@ -175,9 +175,9 @@ en
 forma
 de
 muerte
-súbita
+subita
 sin
-ningún
+ningun
 tipo
 de
 clínica
@@ -243,7 +243,7 @@ previa
 conocida
 que
 falleció
-súbitamente
+subitamente
 a
 la
 salida

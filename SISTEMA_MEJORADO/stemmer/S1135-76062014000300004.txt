@@ -33,12 +33,13 @@ rasgo
 característico
 observar
 problema
+aun
 caso
 forens
 ocasion
 identificación
 realizars
-únicament
+unicament
 pieza
 dentaria
 motivo
@@ -89,7 +90,7 @@ calcular
 tamaño
 pieza
 dentaria
-única
+unica
 pieza
 conocida
 medicion

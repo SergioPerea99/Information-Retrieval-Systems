@@ -50,6 +50,7 @@ técnica
 permanecen
 casos
 ignorantes
+ultimas
 décadas
 numerosos
 trabajos
@@ -70,6 +71,7 @@ trabajo
 revisan
 criterios
 clásicos
+segun
 caso
 sustituyen
 complementan
@@ -105,7 +107,7 @@ método
 estimación
 factores
 3
-número
+numero
 factores
 retener
 4

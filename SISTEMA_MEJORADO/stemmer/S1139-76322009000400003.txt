@@ -95,6 +95,7 @@ vacunado
 recibió
 vacunación
 completa
+segun
 patología
 subyacent
 encontrada

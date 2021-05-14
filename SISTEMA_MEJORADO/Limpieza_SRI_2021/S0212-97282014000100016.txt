@@ -73,7 +73,7 @@ la
 pretensión
 de
 ser
-útil
+util
 para
 predecir
 el

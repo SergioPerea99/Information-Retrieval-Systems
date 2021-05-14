@@ -109,9 +109,10 @@ retirando
 tratamiento
 antiagregant
 resultado
-número
+numero
 biopsia
 realizada
+ultimo
 18
 año
 867
@@ -160,7 +161,7 @@ nefrectomía
 evidenció
 hemangioma
 epitelioid
-múltipl
+multipl
 estudio
 prospectivo
 enero

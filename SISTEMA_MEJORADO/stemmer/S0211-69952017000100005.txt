@@ -22,7 +22,7 @@ sérica
 calcio
 excreción
 urinaria
-túbulo
+tubulo
 contorneado
 distal
 conector
@@ -69,7 +69,7 @@ ct
 amba
 proteína
 sintetizada
-túbulo
+tubulo
 distal
 secretada
 fluido

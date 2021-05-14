@@ -12,7 +12,7 @@ v17
 n65
 2015
 infeccion
-fúngica
+fungica
 piel
 suelen
 producirs
@@ -33,6 +33,7 @@ tiña
 clasifican
 forma
 topográfica
+segun
 zona
 afectada
 empleando

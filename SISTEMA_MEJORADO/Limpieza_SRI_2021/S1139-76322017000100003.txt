@@ -110,7 +110,7 @@ grupo
 de
 control
 el
-número
+numero
 de
 despertares
 nocturnos
@@ -175,7 +175,7 @@ p
 lt
 00001
 el
-número
+numero
 de
 niños
 con
@@ -203,7 +203,7 @@ p
 el
 nivel
 socioeconómico
-actúa
+actua
 como
 factor
 de

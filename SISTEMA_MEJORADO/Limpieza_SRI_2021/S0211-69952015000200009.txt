@@ -56,7 +56,7 @@ manera
 marcada
 en
 los
-últimos
+ultimos
 años
 se
 han
@@ -67,7 +67,7 @@ precoces
 de
 fra
 pero
-aún
+aun
 quedan
 muchos
 aspectos
@@ -80,7 +80,7 @@ una
 proteína
 pleiotrópica
 que
-actúa
+actua
 como
 un
 factor
@@ -88,7 +88,7 @@ paracrino
 y
 endocrino
 en
-múltiples
+multiples
 órganos
 en
 diversos
@@ -108,7 +108,7 @@ no
 se
 ha
 publicado
-ningún
+ningun
 estudio
 en
 el
@@ -225,7 +225,7 @@ la
 aparición
 de
 fra
-según
+segun
 la
 clasificación
 rifle

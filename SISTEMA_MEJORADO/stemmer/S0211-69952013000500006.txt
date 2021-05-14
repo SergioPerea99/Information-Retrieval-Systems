@@ -120,7 +120,7 @@ p
 regresión
 lineal
 logística
-múltipl
+multipl
 asociacion
 diurético
 concentracion

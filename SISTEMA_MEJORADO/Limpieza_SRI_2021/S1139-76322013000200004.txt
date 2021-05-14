@@ -7,7 +7,7 @@ en
 adolescentes
 en
 el
-último
+ultimo
 año
 de
 escolaridad
@@ -39,7 +39,7 @@ del
 desarrollo
 en
 los
-últimos
+ultimos
 años
 se
 ha
@@ -47,7 +47,7 @@ observado
 un
 aumento
 del
-número
+numero
 de
 adolescentes
 con
@@ -138,7 +138,7 @@ los
 adolescentes
 encuestados
 presentaba
-algún
+algun
 grado
 de
 sintomatología

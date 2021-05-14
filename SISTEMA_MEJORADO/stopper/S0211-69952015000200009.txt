@@ -37,11 +37,13 @@ aparición
 empeora
 pronóstico
 marcada
+ultimos
 años
 identificado
 biomarcadores
 precoces
 fra
+aun
 quedan
 aspectos
 importantes
@@ -49,11 +51,11 @@ resolver
 klotho
 proteína
 pleiotrópica
-actúa
+actua
 factor
 paracrino
 endocrino
-múltiples
+multiples
 órganos
 diversos
 modelos
@@ -65,6 +67,7 @@ disminuidos
 klotho
 renal
 publicado
+ningun
 estudio
 probado
 klotho
@@ -131,6 +134,7 @@ valoración
 primario
 aparición
 fra
+segun
 clasificación
 rifle
 niveles

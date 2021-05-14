@@ -45,12 +45,14 @@ detectar
 diferencias
 edad
 diagnóstico
+segun
 tipo
 lactancia
 recibida
 estimar
 asociación
 padecer
+segun
 variables
 interés
 analizadas

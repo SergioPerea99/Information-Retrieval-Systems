@@ -96,7 +96,7 @@ imc
 y
 fue
 valorado
-según
+segun
 las
 curvas
 de
@@ -107,7 +107,7 @@ edad
 y
 el
 sexo
-según
+segun
 los
 resultados
 los
@@ -129,7 +129,7 @@ ordenados
 en
 seis
 grupos
-según
+segun
 el
 diagnóstico
 médico

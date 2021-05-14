@@ -4,7 +4,7 @@ estudiant
 programa
 salud
 universidad
-pública
+publica
 carib
 colombiano
 2010-10-01

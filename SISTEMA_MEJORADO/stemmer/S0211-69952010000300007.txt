@@ -140,7 +140,7 @@ fav-prot
 frent
 262
 menor
-número
+numero
 cat
 electivo
 3220
@@ -169,7 +169,7 @@ obtenido
 centro
 sistema
 sanitaria
-público
+publico
 necesario
 revaluación
 modelo

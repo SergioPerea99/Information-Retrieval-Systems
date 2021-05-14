@@ -45,6 +45,7 @@ frent
 rotaviru
 final
 2006
+algun
 cambio
 patrón
 epidemiológico
@@ -112,7 +113,7 @@ rotaviru
 conclusion
 tendencia
 decrecient
-número
+numero
 ingreso
 gea
 menor
@@ -131,7 +132,7 @@ predictor
 etiología
 reducción
 significativa
-número
+numero
 ingreso
 secundario
 rotaviru
@@ -142,7 +143,7 @@ impos
 determinar
 estudio
 vacunación
-único
+unico
 factor
 determinant
 fenómeno

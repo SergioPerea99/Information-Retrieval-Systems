@@ -67,7 +67,7 @@ roc
 y
 regresión
 logística
-múltiple
+multiple
 resultados
 219
 pacientes
@@ -217,7 +217,7 @@ la
 fiebre
 fueron
 los
-únicos
+unicos
 parámetros
 que
 se

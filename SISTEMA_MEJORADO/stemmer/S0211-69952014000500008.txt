@@ -18,7 +18,7 @@ hdf-ol
 basa
 administración
 controlada
-volúmen
+volumen
 sustitución
 líquido
 diálisi
@@ -45,6 +45,7 @@ directa
 volumen
 convectivo
 recibido
+ultima
 actualización
 softwar
 monitor
@@ -125,7 +126,7 @@ arteri
 venosa
 transmembrana
 aumento
-número
+numero
 alarma
 coagulación
 línea

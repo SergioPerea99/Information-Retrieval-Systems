@@ -20,7 +20,7 @@ contenido
 artículo
 continuación
 publicado
-número
+numero
 revista
 prevención
 embarazo

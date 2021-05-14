@@ -181,7 +181,7 @@ m-a20
 14
 pacientes
 incidencias
-número
+numero
 alarmas
 significativamente
 superior
@@ -222,5 +222,5 @@ incremento
 qi
 20
 aumento
-número
+numero
 alarmas

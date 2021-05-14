@@ -24,7 +24,7 @@ receptor
 solubl
 uroquinasa
 supar
-útile
+util
 diferenciar
 glomeruloesclerosi
 focal
@@ -45,7 +45,7 @@ analizar
 nivel
 circulant
 supar
-útile
+util
 identificar
 enfermedad
 renal

@@ -16,7 +16,7 @@ introducción
 hemodiafiltración
 hdf
 altos
-volúmenes
+volumenes
 reinfusión
 técnica
 eficaz
@@ -98,7 +98,7 @@ reducción
 rr
 distintas
 sustancias
-volúmenes
+volumenes
 infusión
 estudio
 rr

@@ -15,11 +15,12 @@ somatización
 diagnóstico
 psiquiátrico
 denominador
-común
+comun
 serie
 procesos
 patológicos
 agrupados
+segun
 dsm-iv
 manual
 diagnóstico

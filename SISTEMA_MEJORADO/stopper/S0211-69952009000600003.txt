@@ -2,7 +2,7 @@ aspectos
 clínicos
 microbiológicos
 peritonitis
-fúngica
+fungica
 diálisis
 peritoneal
 2009-01-01
@@ -21,7 +21,7 @@ responsables
 mayoría
 casos
 infección
-fúngica
+fungica
 infrecuente
 asocia
 alta
@@ -51,7 +51,7 @@ bacteriana
 factores
 predisponentes
 peritonitis
-fúngica
+fungica
 establecidos
 claridad
 episodios
@@ -72,6 +72,7 @@ habituales
 candida
 albicans
 frecuente
+ultima
 década
 observado
 alta
@@ -88,7 +89,7 @@ tratamiento
 suele
 requerir
 terapia
-antifúngica
+antifungica
 retirada
 catéter
 peritoneal
@@ -98,7 +99,7 @@ hemodiálisis
 fluconazol
 anfotericina
 b
-antifúngicos
+antifungicos
 recomendados
 fármacos
 voriconazol
@@ -113,7 +114,8 @@ aspectos
 clínicos
 microbiológicos
 peritonitis
-fúngica
+fungica
 conocidos
 cambiado
+ultimos
 años

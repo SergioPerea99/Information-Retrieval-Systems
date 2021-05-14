@@ -99,7 +99,7 @@ pacientes
 adultos
 con
 ira
-oligúrica
+oligurica
 ingresados
 en
 uci

@@ -9,7 +9,7 @@ su
 eliminación
 con
 altos
-volúmenes
+volumenes
 convectivos
 2016-12-01
 nefrología
@@ -30,7 +30,7 @@ eventos
 cardiovasculares
 en
 los
-últimos
+ultimos
 años
 han
 ido
@@ -72,7 +72,7 @@ la
 influencia
 de
 altos
-volúmenes
+volumenes
 convectivos
 en
 hdf-ol
@@ -204,7 +204,7 @@ el
 ktv
 conclusión
 altos
-volúmenes
+volumenes
 convectivos
 totales
 en

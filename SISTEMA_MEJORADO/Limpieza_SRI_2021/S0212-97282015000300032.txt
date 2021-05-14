@@ -184,7 +184,7 @@ conclusiones
 debido
 al
 escaso
-número
+numero
 de
 trabajos
 que

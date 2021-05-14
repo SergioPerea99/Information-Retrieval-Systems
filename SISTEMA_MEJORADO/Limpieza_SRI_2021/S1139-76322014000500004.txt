@@ -33,7 +33,7 @@ a
 ser
 en
 las
-últimas
+ultimas
 décadas
 una
 epidemia
@@ -176,7 +176,7 @@ de
 sobrepeso
 y
 obesidad
-según
+segun
 referencias
 internacionales
 fueron
@@ -198,7 +198,7 @@ alumnos
 de
 las
 escuelas
-públicas
+publicas
 se
 encontraron
 relaciones
@@ -248,4 +248,4 @@ los
 escolarizados
 en
 centros
-públicos
+publicos

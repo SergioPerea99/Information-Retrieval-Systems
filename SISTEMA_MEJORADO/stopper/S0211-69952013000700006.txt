@@ -6,7 +6,7 @@ reducción
 cadenas
 ligeras
 mieloma
-múltiple
+multiple
 insuficiencia
 renal
 2013-01-01
@@ -19,7 +19,7 @@ fracaso
 renal
 agudo
 mieloma
-múltiple
+multiple
 mm
 ocurre
 12-20
@@ -42,7 +42,7 @@ ligeras
 libres
 cll
 pérdida
-albúmina
+albumina
 técnicas
 basadas
 adsorción
@@ -77,7 +77,7 @@ supra
 reducción
 cll
 efecto
-albúmina
+albumina
 obtuvieron
 muestras
 sanguíneas
@@ -118,7 +118,7 @@ inicio
 final
 diálisis
 eliminación
-albúmina
+albumina
 resultados
 obtenidos
 concluir
@@ -133,7 +133,7 @@ produzca
 saturación
 resina
 pérdida
-albúmina
+albumina
 hfr
 supra
 eficaz

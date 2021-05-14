@@ -244,10 +244,7 @@ form {
 
 buscador_input = cgi.FieldStorage()
 
-if "name" not in buscador_input:
-    print("<h1>NO HA ESCRITO NADA PARA BUSCAR.</h1>")
-    print("<h2>POR FAVOR, ESCRIBA ALGO ANTES DE DAR AL BOTÓN DE BUSCAR.</h2>")
-else:
+if "name" in buscador_input:
     #TENIENDO LA FRASE, HAY QUE ESCRIBIR EN EL TEXTO DE LA CONSULTA.TXT Y LUEGO EJECUTAR LA PARTE ONLINE DEL SRI.
     config = configparser.ConfigParser()
     config.read('conf.ini')
@@ -265,10 +262,12 @@ else:
     
     archivos = [join(rutaColeccion,nombre) for nombre in contenido]
     
+    
+    
     for consulta in archivos:
         fichero = open(consulta,"r")
         i = 0
-        #reconocer el tipo de linea por el módulo del valor de 4 (sin contar el 0 que solo se saca 1 vez).
+        
         for linea in fichero:
             if i == 0:
                 print("""<div class="container">
@@ -287,9 +286,57 @@ else:
                           <a class="text-center" href = "%s"> """ % (linea))
                 
                 if (i-1)%3 == 1:
-                    print("""DOCUMENTO: %s</a>"""  % (linea))
+                    print("""<h1>%s</h1></a>"""  % (linea))
                 
                 if (i-1)%3 == 2:
+                    #Cuerpo del documento... 
+                    #Se va a mostrar la parte con mayor relevancia según la consulta
+                    pesosPalabrasConsulta = buscador.getPesosPalabrasConsulta()
+                    #(str(pesosPalabrasConsulta))
+                    
+                    #PROBLEMA: LA PALABRA VIENE YA CON EL STEMMER HECHO !!!
+                    #SOLUCIÓN: HACER COMPROBACIÓN DE SI LA CADENA DE CARACTERES ES LA MISMA A LA QUE HAYA EN LA LISTA (CUERPO DE TODO EL DOC).
+                    
+                    lista_contenido = linea.split(" ")
+                    #print(lista_contenido)
+                    
+                    lista_posiciones_palabra = []
+                    
+                    for palabra_peso in pesosPalabrasConsulta:
+                        contador = 0
+                        for p in lista_contenido:
+                            if palabra_peso[0] in p: #Si encuentra la subcadena (por el stemmer)
+                                lista_posiciones_palabra.append((palabra_peso[0],contador)) #Añadir un sitio que nos localiza la palabra-posición donde aparece del documento
+                            contador += 1
+                    
+                    #YA TENGO LA LISTA DE PALABRAS Y SUS POSICIONES EN EL TEXTO, AHORA UNA HEURÍSTICA POR CERCANÍA.
+                    #Heurística básica --> ordenación por número, encontrar los distintos términos más próximos...
+                    lista_posiciones_palabra = sorted(lista_posiciones_palabra, key=lambda palabraPeso : palabraPeso[1])
+                    
+                    j = 0
+                    min_distancias = 10000
+                    pos_solucion = -1
+                    while(j < len(lista_posiciones_palabra)-1):
+                        if lista_posiciones_palabra[j][0] not in lista_posiciones_palabra[j+1][0]: #Encuentra 2 términos distintos...
+                            dif =  lista_posiciones_palabra[j+1][1] - lista_posiciones_palabra[j][1]
+                            if dif < min_distancias: #Encontrar 2 términos distintos a la menor distancia posible...
+                                pos_solucion = lista_posiciones_palabra[j][1] #Nos quedamos con la posición más baja que será la que va antes del posterior término diferente
+                                min_distancias = dif
+                        j += 1
+                    
+                    print(pos_solucion)
+                    
+                    #AHORA, MOSTRAR EL CONTENIDO ENTRE UN INTERVALO DONDE LA MITAD SEA EL POS_SOLUCION...
+                    poss = pos_solucion - 10
+                    if poss < 0: 
+                        poss = 0 
+                    linea = "..."
+                    while poss < (pos_solucion+10):
+                        linea += lista_contenido[poss]+" "
+                        poss += 1
+                    linea += "..."
+                    
+                    
                     print("""
                           <p class="text-center">%s</p>
                           </div>

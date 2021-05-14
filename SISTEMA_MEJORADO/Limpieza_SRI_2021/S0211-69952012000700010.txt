@@ -427,7 +427,7 @@ caso
 a
 una
 muerte
-súbita
+subita
 con
 injerto
 funcionante
@@ -490,7 +490,7 @@ ngdl
 durante
 el
 estudio
-ningún
+ningun
 receptor
 desarrolló
 anticuerpos
@@ -670,7 +670,7 @@ seguimiento
 no
 se
 detectó
-ningún
+ningun
 caso
 de
 falta

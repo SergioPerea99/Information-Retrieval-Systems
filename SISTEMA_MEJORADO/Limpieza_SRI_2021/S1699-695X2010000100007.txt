@@ -79,7 +79,7 @@ de
 obtener
 la
 información
-útil
+util
 para
 los
 objetivos
@@ -192,13 +192,13 @@ apropiación
 de
 un
 conocimiento
-útil
+util
 y
 aplicable
 dentro
 de
 su
-núcleo
+nucleo
 familiar
 hasta
 el

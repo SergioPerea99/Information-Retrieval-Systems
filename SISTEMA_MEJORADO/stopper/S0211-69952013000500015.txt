@@ -8,7 +8,7 @@ estenosis
 anastomóticas
 venosas
 trombectomía
-quirúrgica
+quirurgica
 stenting
 cubierto
 angioplastia
@@ -51,14 +51,14 @@ meses
 40
 año
 procedimiento
-quirúrgico
+quirurgico
 estudio
-evalúa
+evalua
 resultados
 tratamiento
 híbrido
 endovascular
-quirúrgico
+quirurgico
 mínimamente
 invasivo
 trombosis
@@ -172,4 +172,4 @@ reservarse
 estenosis
 difícil
 acceder
-quirúrgicamente
+quirurgicamente

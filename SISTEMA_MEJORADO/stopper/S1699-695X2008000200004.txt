@@ -138,6 +138,7 @@ x²
 p005
 296
 sufrido
+algun
 accidente
 postguardia
 enfermería

@@ -32,7 +32,7 @@ un
 rendimiento
 pobre
 un
-número
+numero
 elevado
 de
 falsos

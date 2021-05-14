@@ -54,7 +54,7 @@ genético
 abi
 prism310
 empleando
-volúmen
+volumen
 final
 reacción
 pcr
@@ -144,7 +144,7 @@ l
 str
 identifil
 amplió
-número
+numero
 marcador
 obtenido
 48

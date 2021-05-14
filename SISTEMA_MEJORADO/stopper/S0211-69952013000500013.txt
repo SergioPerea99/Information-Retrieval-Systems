@@ -29,6 +29,7 @@ clínicos
 mejorado
 tasas
 supervivencia
+ultimos
 años
 objetivos
 evaluar
@@ -39,6 +40,7 @@ dp
 largo
 30
 años
+segun
 décadas
 consolidar
 utilidad
@@ -95,6 +97,7 @@ mediana
 meses
 aumento
 significativo
+ultima
 década
 p
 0000

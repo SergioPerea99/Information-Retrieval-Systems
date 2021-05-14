@@ -33,6 +33,7 @@ analizar
 diferencias
 existentes
 frecuentación
+segun
 distinta
 procedencia
 material
@@ -56,7 +57,7 @@ variable
 principal
 frecuentación
 definió
-número
+numero
 visitasaño
 variable
 secundaria

@@ -366,7 +366,7 @@ fg
 superior
 un
 importante
-número
+numero
 de
 individuos
 en

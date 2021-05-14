@@ -20,6 +20,7 @@ intelectu
 habilidad
 social
 niño
+segun
 exposición
 abuso
 pantalla
@@ -57,7 +58,7 @@ resultado
 modelo
 regresión
 lineal
-múltipl
+multipl
 mostraron
 asociación
 estadísticament

@@ -8,7 +8,7 @@ agudo
 en
 el
 mieloma
-múltiple
+multiple
 con
 filtros
 de
@@ -31,7 +31,7 @@ fra
 en
 el
 mieloma
-múltiple
+multiple
 mm
 se
 presenta
@@ -284,7 +284,7 @@ fueron
 tratados
 con
 quimioterapia
-según
+segun
 protocolos
 resultados
 a
@@ -409,7 +409,7 @@ en
 los
 niveles
 de
-albúmina
+albumina
 prediálisis
 calcio
 fósforo
@@ -417,7 +417,7 @@ y
 magnesio
 aunque
 en
-algún
+algun
 caso
 se
 registraron

@@ -60,7 +60,7 @@ emocion
 negativa
 voluntario
 on-lin
-útil
+util
 sentimiento
 paz
 motivo

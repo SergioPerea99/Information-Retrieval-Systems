@@ -168,7 +168,7 @@ resultó
 método
 indirecto
 automatizado
-útil
+util
 medición
 qa
 subgrupo

@@ -3,6 +3,7 @@ mejor
 resultado
 diálisi
 periton
+ultimo
 año
 2012-01-01
 nefrología
@@ -144,6 +145,7 @@ diabet
 mellitu
 incident
 2004
+ultima
 variabl
 pierd
 significación
@@ -177,6 +179,7 @@ conclusion
 dp
 mejorado
 resultado
+ultimo
 año
 probablement
 solucion

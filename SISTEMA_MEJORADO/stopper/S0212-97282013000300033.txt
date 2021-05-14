@@ -22,7 +22,7 @@ consumida
 mundo
 ingesta
 moderada
-común
+comun
 individuos
 consumo
 alcohol
@@ -55,6 +55,7 @@ influyendo
 dicha
 sensibilidad
 diferencial
+ultima
 instancia
 consumo
 alcohol

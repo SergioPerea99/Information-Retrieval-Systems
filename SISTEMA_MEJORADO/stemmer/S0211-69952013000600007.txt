@@ -31,6 +31,7 @@ tiempo
 muestra
 pacient
 hemodiálisi
+segun
 distinto
 rango
 propuesto

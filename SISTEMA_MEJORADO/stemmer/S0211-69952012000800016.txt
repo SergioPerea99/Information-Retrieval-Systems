@@ -20,7 +20,7 @@ renal
 agudo
 fra
 problema
-común
+comun
 anciano
 conlleva
 elevada
@@ -49,7 +49,7 @@ forma
 retrospectiva
 56
 pacient
-continúan
+continuan
 vida
 36
 mese
@@ -79,6 +79,7 @@ volumen
 2
 multifactori
 167
+ningun
 pacient
 precisó
 terapia
@@ -98,7 +99,7 @@ p
 mayor
 nivel
 ácido
-úrico
+urico
 p
 0002
 menor
@@ -145,7 +146,7 @@ creatinina
 sérica
 urea
 ácido
-úrico
+urico
 mdrd
 basal
 edad
@@ -157,7 +158,7 @@ rr
 p
 0039
 ácido
-úrico
+urico
 rr
 265
 111-630
@@ -178,7 +179,7 @@ conclusión
 nivel
 basal
 ácido
-úrico
+urico
 hematocrito
 factor
 riesgo

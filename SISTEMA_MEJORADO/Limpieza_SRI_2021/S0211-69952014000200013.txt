@@ -128,7 +128,7 @@ de
 colaterales
 venosas
 no
-útiles
+utiles
 8
 casos
 se
@@ -206,7 +206,7 @@ requirió
 una
 ligadura
 definitiva
-ningún
+ningun
 caso
 sufrió
 amputaciones

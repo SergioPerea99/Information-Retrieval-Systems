@@ -138,7 +138,7 @@ de
 meses
 resultados
 tiempo
-quirúrgico
+quirurgico
 medio
 32
 minutos
@@ -159,7 +159,7 @@ inmediato
 que
 requirió
 recolocación
-quirúrgica
+quirurgica
 no
 se
 han

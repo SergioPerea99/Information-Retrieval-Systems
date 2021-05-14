@@ -66,6 +66,7 @@ realizados
 españa
 hubieran
 empleado
+algun
 instrumento
 medir
 cvrs
@@ -82,7 +83,7 @@ renales
 estudiados
 forma
 independiente
-búsqueda
+busqueda
 cinahl
 cuiden
 documed

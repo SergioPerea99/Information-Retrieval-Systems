@@ -23,7 +23,7 @@ renal
 preimplant
 aportar
 información
-útil
+util
 evolutiva
 postrasplant
 objetivo
@@ -64,6 +64,7 @@ mayo
 2012
 biopsia
 valoraron
+segun
 baremo
 propuesto
 oval

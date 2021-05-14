@@ -107,6 +107,7 @@ toma
 pacientes
 120
 presentaron
+algun
 efecto
 adverso
 variables
@@ -145,6 +146,7 @@ consulta
 pediatría
 2
 ocasiones
+ultimo
 mes
 or
 22
@@ -163,7 +165,7 @@ prescrito
 nivel
 estudios
 padres
-número
+numero
 tomas
 día
 relacionan

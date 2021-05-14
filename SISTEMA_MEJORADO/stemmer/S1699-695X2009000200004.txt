@@ -65,7 +65,7 @@ princip
 emparejada
 edad
 sexo
-número
+numero
 patología
 crónica
 padecida
@@ -135,6 +135,7 @@ ic
 321
 frecuentación
 media
+ultimo
 año
 837
 visitasaño

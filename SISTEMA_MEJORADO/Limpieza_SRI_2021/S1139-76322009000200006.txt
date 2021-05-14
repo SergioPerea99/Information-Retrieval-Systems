@@ -97,7 +97,7 @@ fase
 de
 confirmación
 clínica
-según
+segun
 criterios
 dsm-iv
 la
@@ -201,7 +201,7 @@ casos
 de
 tdah
 presenta
-algún
+algun
 tipo
 de
 comorbilidad

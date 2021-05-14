@@ -47,7 +47,7 @@ rosenthal
 2011
 esta
 escala
-evalúa
+evalua
 las
 diferencias
 individuales
@@ -233,7 +233,7 @@ con
 otras
 pruebas
 que
-evalúan
+evaluan
 la
 capacidad
 de
@@ -251,7 +251,7 @@ es
 un
 instrumento
 que
-evalúa
+evalua
 adecuadamente
 la
 sensibilidad

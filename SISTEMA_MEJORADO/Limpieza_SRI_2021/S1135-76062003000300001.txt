@@ -93,7 +93,7 @@ o
 en
 una
 hora
-según
+segun
 la
 vía
 la
@@ -110,7 +110,7 @@ entre
 y
 90
 minutos
-según
+segun
 los
 estudios
 de
@@ -158,7 +158,7 @@ transcurrido
 desde
 la
 administración
-según
+segun
 los
 datos
 disponibles

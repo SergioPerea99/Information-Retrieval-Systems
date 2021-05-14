@@ -48,7 +48,7 @@ automáticas
 logran
 rendimiento
 minimizando
-número
+numero
 alarmas
 ultracontrol
 ultrac
@@ -166,7 +166,7 @@ dializadores
 prestaciones
 depurativas
 adecuadas
-útiles
+utiles
 hdf-ol
 ultrac
 condiciones

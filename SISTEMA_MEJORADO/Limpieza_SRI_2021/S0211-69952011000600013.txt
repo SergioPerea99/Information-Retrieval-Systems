@@ -166,7 +166,7 @@ analizó
 mediante
 regresión
 lineal
-múltiple
+multiple
 resultados
 los
 mejores
@@ -194,7 +194,7 @@ sérico
 beta
 -0274
 la
-albúmina
+albumina
 sérica
 beta
 -0112

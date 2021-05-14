@@ -76,6 +76,7 @@ hospital
 nivel
 valorar
 estudio
+segun
 guía
 aap
 métodos
@@ -94,6 +95,7 @@ neumología
 pediátrica
 hospital
 nivel
+ultimos
 años
 2010-2014
 base
@@ -123,7 +125,7 @@ hermano
 paciente
 síndrome
 muerte
-súbita
+subita
 lactante
 smsl
 caso

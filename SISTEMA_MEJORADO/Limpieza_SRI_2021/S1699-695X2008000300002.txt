@@ -94,7 +94,7 @@ por
 mf
 durante
 el
-último
+ultimo
 trimestre
 del
 año
@@ -295,7 +295,7 @@ el
 hombres
 conclusiones
 el
-número
+numero
 de
 ic
 realizadas
@@ -329,7 +329,7 @@ gran
 variabilidad
 en
 el
-número
+numero
 de
 las
 ic
@@ -343,7 +343,7 @@ parece
 justificarse
 por
 el
-número
+numero
 de
 tarjetas
 y

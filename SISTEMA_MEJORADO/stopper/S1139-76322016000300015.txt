@@ -41,12 +41,12 @@ riesgo
 anomalías
 frecuentes
 quiste
-sitúa
+situa
 inserción
 fetal
 placentaria
 excéntricos
-múltiples
+multiples
 diagnosticados
 tercer
 trimestre
@@ -60,7 +60,7 @@ cromosómicas
 uraco
 estructura
 conecta
-cúpula
+cupula
 vejiga
 pared
 abdominal
@@ -81,6 +81,7 @@ persiste
 000
 recién
 nacidos
+segun
 nivel
 persista
 uraco
@@ -100,7 +101,7 @@ necesarias
 pruebas
 imagen
 tratamiento
-quirúrgico
+quirurgico
 precoz
 riesgo
 infección

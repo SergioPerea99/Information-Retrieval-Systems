@@ -23,7 +23,7 @@ donantes
 criterios
 expandidos
 dce
-número
+numero
 riñones
 descartados
 trasplante
@@ -51,7 +51,7 @@ casos
 controles
 analiza
 experiencia
-único
+unico
 hospital
 mayo
 2007
@@ -60,7 +60,7 @@ marzo
 criterios
 decidir
 tx
-único
+unico
 doble
 quedaron
 definidos
@@ -87,7 +87,7 @@ mayores
 años
 40
 trasplantes
-únicos
+unicos
 txs
 40
 txb
@@ -183,6 +183,7 @@ riñones
 paciente
 txb
 pacientes
+ultimo
 grupo
 perdieron
 riñón

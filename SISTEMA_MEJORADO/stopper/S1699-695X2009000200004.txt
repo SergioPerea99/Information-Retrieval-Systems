@@ -65,7 +65,7 @@ principal
 emparejadas
 edad
 sexo
-número
+numero
 patologías
 crónicas
 padecidas
@@ -135,6 +135,7 @@ ic
 321
 frecuentación
 media
+ultimo
 año
 837
 visitasaño

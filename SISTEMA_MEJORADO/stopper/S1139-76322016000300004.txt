@@ -117,7 +117,7 @@ conclusiones
 datos
 obtenidos
 destacan
-número
+numero
 casos
 presencia
 síntomas

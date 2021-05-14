@@ -38,7 +38,7 @@ uroquinasa
 supar
 podrían
 ser
-útiles
+utiles
 para
 diferenciar
 la
@@ -79,7 +79,7 @@ circulantes
 de
 supar
 son
-útiles
+utiles
 para
 identificar
 la

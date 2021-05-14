@@ -8,7 +8,7 @@ renina-angiotensina
 en
 la
 respuesta
-antiproteinúrica
+antiproteinurica
 a
 dosis
 altas
@@ -16,7 +16,7 @@ de
 olmesartán
 en
 nefropatías
-proteinúricas
+proteinuricas
 no
 diabéticas
 2013-01-01
@@ -29,7 +29,7 @@ objetivo
 evaluar
 la
 respuesta
-antiproteinúrica
+antiproteinurica
 a
 un
 tratamiento
@@ -53,10 +53,10 @@ en
 pacientes
 con
 nefropatías
-proteinúricas
+proteinuricas
 no
 diabéticas
-según
+segun
 tres
 de
 los
@@ -99,7 +99,7 @@ estudiaron
 pacientes
 con
 nefropatía
-proteinúrica
+proteinurica
 no
 diabética
 con
@@ -219,14 +219,14 @@ descenso
 promedio
 del
 671
-según
+segun
 los
 polimorfismos
 del
 sra
 la
 respuesta
-antiproteinúrica
+antiproteinurica
 fue
 polimorfismo
 del
@@ -352,7 +352,7 @@ asociación
 con
 mayor
 efecto
-antiproteinúrico
+antiproteinurico
 fue
 ddac
 899
@@ -370,7 +370,7 @@ en
 pacientes
 con
 nefropatía
-proteinúrica
+proteinurica
 no
 diabética
 comporta
@@ -400,7 +400,7 @@ pueden
 modular
 la
 respuesta
-antiproteinúrica
+antiproteinurica
 al
 tratamiento
 con

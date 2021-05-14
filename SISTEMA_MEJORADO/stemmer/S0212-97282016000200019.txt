@@ -58,7 +58,7 @@ déficit
 físico
 psíquico
 sensorial
-evalúa
+evalua
 motivación
 logro
 función
@@ -108,6 +108,7 @@ escrita
 27
 comprensión
 lectora
+segun
 curso
 destaca
 relación

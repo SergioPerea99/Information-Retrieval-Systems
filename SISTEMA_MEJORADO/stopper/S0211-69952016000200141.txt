@@ -60,12 +60,13 @@ diagnosticados
 inra
 tac
 contraste
-único
+unico
 hospital
 18
 años
 pacientes
 clasificados
+segun
 origen
 cardiogénico
 cardiogénico

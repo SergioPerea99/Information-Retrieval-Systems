@@ -62,7 +62,7 @@ trabajo
 evaluado
 profesor
 completó
-rúbrica
+rubrica
 10
 ítem
 validez
@@ -70,7 +70,7 @@ sistema
 evaluación
 analizó
 modelo
-múltipl
+multipl
 faceta
 rasch
 permit
@@ -88,7 +88,7 @@ trabajo
 estudiant
 totalizando
 186
-rúbrica
+rubrica
 58
 estudiant
 mostraron
@@ -98,7 +98,7 @@ severidad
 evaluador
 dificultad
 ítem
-rúbrica
+rubrica
 observaron
 diferencia
 significativa
@@ -106,6 +106,7 @@ severidad
 evaluador
 calificacion
 final
+segun
 tipo
 evaluador
 ítem
@@ -128,6 +129,7 @@ investigación
 pensamiento
 crítico
 estudiant
+ultimo
 curso
 grado
 medicina

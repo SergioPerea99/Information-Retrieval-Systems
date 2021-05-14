@@ -37,7 +37,7 @@ variabl
 registro
 vacunacion
 tipo
-número
+numero
 dosi
 vacuna
 administrada
@@ -50,6 +50,7 @@ síno
 estado
 vacun
 valoró
+segun
 expand
 program
 on
@@ -72,6 +73,7 @@ ic
 95
 593-650
 vacunado
+segun
 epi-1974
 541
 ic
@@ -91,8 +93,10 @@ leer
 escribir
 vacunado
 correctament
+segun
 epi
 vacunado
+segun
 pani
 difteria
 94
@@ -173,6 +177,7 @@ difteria
 tétano
 to
 ferina
+segun
 estudio
 resto
 vacuna

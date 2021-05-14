@@ -228,7 +228,7 @@ a
 además
 tienen
 menor
-número
+numero
 de
 cat
 electivos
@@ -275,7 +275,7 @@ centros
 del
 sistema
 sanitaria
-público
+publico
 hace
 necesario
 una

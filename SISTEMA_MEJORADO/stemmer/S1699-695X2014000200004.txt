@@ -25,7 +25,7 @@ infantil
 estudiant
 odontología
 universidad
-pública
+publica
 cartagena
 colombia
 diseño
@@ -34,7 +34,7 @@ estudio
 descriptivo
 emplazamiento
 universidad
-pública
+publica
 cartagena
 colombia
 participant

@@ -73,6 +73,7 @@ tsh
 t4
 libre
 08ngdl
+segun
 rango
 valores
 establecidos

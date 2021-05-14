@@ -144,7 +144,7 @@ línea
 la
 frecuencia
 y
-número
+numero
 de
 recidivas
 la
@@ -215,7 +215,7 @@ primera
 línea
 frecuencia
 ni
-número
+numero
 de
 recidivas
 supervivencia

@@ -211,7 +211,7 @@ estudio
 observacional
 ausencia
 protocolo
-común
+comun
 paso
 hd
 conclusión

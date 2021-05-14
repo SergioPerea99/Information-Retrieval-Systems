@@ -96,7 +96,7 @@ edad
 disponibilidad
 dinero
 menor
-número
+numero
 asignaturas
 aprobadas
 factores

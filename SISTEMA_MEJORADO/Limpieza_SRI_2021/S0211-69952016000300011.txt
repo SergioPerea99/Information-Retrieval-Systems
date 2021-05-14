@@ -113,7 +113,7 @@ no
 experimentaron
 caída
 pareados
-según
+segun
 las
 variables
 unidad

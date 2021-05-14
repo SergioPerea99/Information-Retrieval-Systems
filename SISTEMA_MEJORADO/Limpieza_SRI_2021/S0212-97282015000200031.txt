@@ -119,7 +119,7 @@ el
 de
 la
 varianza
-común
+comun
 total
 el
 autor

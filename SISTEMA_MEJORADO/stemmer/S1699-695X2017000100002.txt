@@ -59,7 +59,7 @@ sexo
 factor
 riesgo
 cardiovascular
-número
+numero
 fármaco
 listado
 sescam
@@ -91,7 +91,7 @@ medicamento
 incluido
 listado
 marc
-número
+numero
 medio
 fármaco
 listado

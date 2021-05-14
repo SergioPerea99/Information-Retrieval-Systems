@@ -116,7 +116,7 @@ por
 edad
 sexo
 y
-número
+numero
 de
 patologías
 crónicas
@@ -220,7 +220,7 @@ frecuentación
 media
 en
 el
-último
+ultimo
 año
 fue
 de

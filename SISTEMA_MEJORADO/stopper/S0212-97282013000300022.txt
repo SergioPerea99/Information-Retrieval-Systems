@@ -100,7 +100,7 @@ dilemas
 morales-personales
 generaron
 menor
-número
+numero
 elecciones
 utilitaristas
 juicios
@@ -124,7 +124,7 @@ emocional
 postulándose
 instrumento
 potencialmente
-útil
+util
 evaluación
 poblaciones
 problemas

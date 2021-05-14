@@ -373,7 +373,7 @@ inicio
 del
 tratamiento
 es
-útil
+util
 para
 estimar
 el

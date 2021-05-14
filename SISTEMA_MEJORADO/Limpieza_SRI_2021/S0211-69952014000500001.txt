@@ -128,7 +128,7 @@ es
 la
 que
 mayor
-número
+numero
 de
 serotipos
 23
@@ -146,7 +146,7 @@ tolerancia
 inmunitaria
 y
 no
-actúa
+actua
 sobre
 la
 colonización

@@ -24,6 +24,7 @@ evolución
 función
 renal
 residual
+segun
 técnica
 diálisis
 diálisis
@@ -50,7 +51,7 @@ métodos
 incluyeron
 193
 enfermos
-anúricos
+anuricos
 comenzaron
 tratamiento
 renal

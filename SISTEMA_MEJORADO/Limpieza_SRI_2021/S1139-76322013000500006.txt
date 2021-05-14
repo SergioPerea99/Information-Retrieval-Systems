@@ -38,7 +38,7 @@ un
 problema
 de
 salud
-pública
+publica
 por
 su
 prevalencia
@@ -85,7 +85,7 @@ atención
 médica
 en
 el
-último
+ultimo
 año
 y
 analizar
@@ -180,7 +180,7 @@ adolescentes
 que
 han
 sufrido
-algún
+algun
 accidente
 o
 lesión
@@ -190,7 +190,7 @@ asistencia
 médica
 en
 el
-último
+ultimo
 año
 fue
 del

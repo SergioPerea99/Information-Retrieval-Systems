@@ -23,7 +23,7 @@ n1
 2013
 durante
 los
-últimos
+ultimos
 años
 la
 introducción
@@ -99,7 +99,7 @@ la
 lista
 de
 espera
-múltiples
+multiples
 agresiones
 de
 origen
@@ -107,7 +107,7 @@ inmune
 y
 no
 inmune
-actúan
+actuan
 de
 forma
 conjunta

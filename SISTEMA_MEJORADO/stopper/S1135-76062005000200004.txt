@@ -16,7 +16,7 @@ n40
 objetivos
 1-
 determinar
-número
+numero
 casos
 suicidio
 consumado
@@ -83,7 +83,7 @@ significación
 preestablecido
 p005
 resultados
-número
+numero
 suicidios
 92
 suicidan
@@ -141,7 +141,7 @@ domicilio
 4603
 mujeres
 vía
-pública
+publica
 3448
 p0006
 hombres
@@ -196,6 +196,7 @@ suicidarse
 domicilio
 dejar
 constancia
+algun
 documento
 mujeres
 intentos
@@ -211,7 +212,7 @@ asegurar
 fallar
 precipitación
 vía
-pública
+publica
 consideramos
 incremento
 edad

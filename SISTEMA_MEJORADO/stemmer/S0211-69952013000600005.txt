@@ -119,6 +119,7 @@ mese
 4
 forma
 anual
+segun
 recomendacion
 kdoqi
 516
@@ -222,7 +223,7 @@ kdoqi
 control
 hiperfosfatemia
 hiperparatiroidismo
-continúan
+continuan
 utilizando
 mayorment
 captor

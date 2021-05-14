@@ -164,7 +164,7 @@ de
 años
 con
 un
-número
+numero
 de
 enfermedades
 añadidas
@@ -276,7 +276,7 @@ del
 rmrc
 es
 poco
-útil
+util
 en
 la
 práctica

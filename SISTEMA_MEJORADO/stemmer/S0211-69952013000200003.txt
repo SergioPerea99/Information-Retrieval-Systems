@@ -33,6 +33,7 @@ microscopía
 electrónica
 resuelv
 diferencia
+segun
 localización
 depósito
 electrodenso

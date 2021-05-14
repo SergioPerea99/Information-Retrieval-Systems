@@ -76,7 +76,7 @@ que
 consume
 un
 mayor
-número
+numero
 de
 recursos
 y
@@ -99,7 +99,7 @@ un
 diagnóstico
 correcto
 se
-evalúe
+evalue
 la
 gravedad
 y

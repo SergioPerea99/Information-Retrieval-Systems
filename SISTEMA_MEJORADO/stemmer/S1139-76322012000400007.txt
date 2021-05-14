@@ -97,10 +97,12 @@ caso
 19
 caso
 presentaban
+ningun
 antecedent
 familiar
 32
 caso
+algun
 familiar
 cursando
 cuadro

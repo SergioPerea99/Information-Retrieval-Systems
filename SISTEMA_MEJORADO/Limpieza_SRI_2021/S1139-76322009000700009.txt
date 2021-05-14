@@ -25,7 +25,7 @@ agrupa
 cinco
 cuadros
 clínicos
-según
+segun
 el
 dsm-iv-tr
 ocho
@@ -267,7 +267,7 @@ a
 fin
 de
 que
-actúen
+actuen
 con
 cautela
 frente

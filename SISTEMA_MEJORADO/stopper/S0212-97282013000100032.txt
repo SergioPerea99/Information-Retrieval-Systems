@@ -1,5 +1,5 @@
 estrategias
-búsqueda
+busqueda
 visual
 conductores
 expertos
@@ -18,7 +18,7 @@ presente
 trabajo
 analizar
 estrategias
-búsqueda
+busqueda
 visual
 desarrolladas
 grupo
@@ -40,7 +40,7 @@ mirada
 asl
 se5000
 analizan
-número
+numero
 tiempo
 localización
 fijaciones
@@ -64,7 +64,7 @@ expertos
 inexpertos
 elaboran
 estrategias
-búsqueda
+busqueda
 visual
 diferencias
 encuentran
@@ -77,7 +77,7 @@ localización
 fijación
 visual
 presenta
-número
+numero
 tiempo
 fijación
 estímulos
@@ -89,9 +89,10 @@ vehículos
 grupo
 inexperto
 cambio
+ultimo
 grupo
 presenta
-número
+numero
 tiempo
 fijaciones
 superior

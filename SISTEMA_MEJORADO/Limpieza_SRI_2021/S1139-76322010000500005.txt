@@ -73,7 +73,7 @@ sola
 red
 de
 utilización
-pública
+publica
 independientemente
 de
 su

@@ -41,7 +41,7 @@ sexo
 estudiant
 secundaria
 colegio
-público
+publico
 privado
 construir
 índice
@@ -51,12 +51,13 @@ siguient
 variabl
 preguntando
 período
+ultimo
 12
 mese
 uso
 consistent
 preservativo
-número
+numero
 pareja
 sexual
 relacion

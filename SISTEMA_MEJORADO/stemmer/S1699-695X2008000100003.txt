@@ -62,7 +62,7 @@ sociodemográfica
 edad
 sexo
 convivencia
-número
+numero
 enfermedad
 crónica
 fármaco
@@ -80,7 +80,7 @@ año
 mujer
 337
 vivían
-número
+numero
 medio
 32
 patología
@@ -127,9 +127,9 @@ estadísticament
 significativa
 edad
 convivencia
-núcleo
+nucleo
 familiar
-número
+numero
 patología
 crónica
 consumo

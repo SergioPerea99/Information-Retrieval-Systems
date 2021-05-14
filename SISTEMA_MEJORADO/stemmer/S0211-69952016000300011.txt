@@ -68,6 +68,7 @@ pacient
 experimentaron
 caída
 pareado
+segun
 variabl
 unidad
 edad

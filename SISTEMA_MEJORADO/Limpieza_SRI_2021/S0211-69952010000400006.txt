@@ -136,7 +136,7 @@ los
 tres
 niveles
 glomérulo
-túbulo
+tubulo
 e
 intersticio
 se
@@ -156,7 +156,7 @@ glomerular
 y
 lesiones
 microquísticas
-túbulo-intersticiales
+tubulo-intersticiales
 resultados
 las
 principales

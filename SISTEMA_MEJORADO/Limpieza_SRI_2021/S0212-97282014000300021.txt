@@ -48,7 +48,7 @@ el
 área
 tras
 la
-búsqueda
+busqueda
 bibliográfica
 en
 las

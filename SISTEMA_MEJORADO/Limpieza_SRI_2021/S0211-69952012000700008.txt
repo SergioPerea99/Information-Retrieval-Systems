@@ -50,7 +50,7 @@ personas
 en
 hemodiálisis
 hd
-según
+segun
 criterios
 de
 la
@@ -112,7 +112,7 @@ posibles
 dependientes
 a
 806
-según
+segun
 el
 criterio
 del
@@ -126,7 +126,7 @@ valoraron
 grado
 de
 dependencia
-según
+segun
 los
 criterios
 de
@@ -150,7 +150,7 @@ de
 a
 2011
 resultados
-según
+segun
 la
 ld
 no
@@ -274,7 +274,7 @@ año
 de
 supervivencia
 conclusiones
-según
+segun
 la
 ld
 la

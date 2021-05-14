@@ -23,7 +23,7 @@ renal
 preimplante
 aportar
 información
-útil
+util
 evolutiva
 postrasplante
 objetivo
@@ -64,6 +64,7 @@ mayo
 2012
 biopsias
 valoraron
+segun
 baremo
 propuesto
 ovalle

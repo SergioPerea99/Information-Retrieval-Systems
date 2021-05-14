@@ -25,7 +25,7 @@ intencionales
 constituyen
 problema
 salud
-pública
+publica
 prevalencia
 morbimortalidad
 elevados
@@ -48,6 +48,7 @@ intencionales
 precisado
 atención
 médica
+ultimo
 año
 analizar
 conductas
@@ -97,11 +98,13 @@ resultados
 proporción
 adolescentes
 sufrido
+algun
 accidente
 lesión
 requirió
 asistencia
 médica
+ultimo
 año
 14
 factores

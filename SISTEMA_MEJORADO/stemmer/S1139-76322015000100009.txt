@@ -49,6 +49,7 @@ positivo
 blastocysti
 homini
 atendido
+ultimo
 año
 centro
 salud
@@ -61,6 +62,7 @@ coprocultivo
 estudio
 parasitológico
 realizado
+ultimo
 año
 niño
 1
@@ -75,6 +77,7 @@ pacient
 positivo
 microorganismo
 resultado
+ultimo
 año
 solicitamo
 530
@@ -109,6 +112,7 @@ excepto
 niño
 adoptado
 china
+ningun
 pacient
 presentaba
 alteracion

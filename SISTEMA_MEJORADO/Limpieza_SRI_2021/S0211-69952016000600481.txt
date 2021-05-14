@@ -45,7 +45,7 @@ genética
 han
 permitido
 identificar
-múltiples
+multiples
 genes
 implicados
 en
@@ -143,7 +143,7 @@ presentación8230
 característicos
 en
 un
-número
+numero
 elevado
 de
 casos

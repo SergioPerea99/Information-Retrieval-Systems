@@ -2,7 +2,7 @@ tipo
 de
 asistencia
 sanitaria
-pública
+publica
 o
 privada
 elegida
@@ -190,7 +190,7 @@ universitarios
 eligen
 la
 asistencia
-pública
+publica
 177
 en
 mayor
@@ -260,7 +260,7 @@ forma
 definitiva
 la
 asistencia
-pública
+publica
 serían
 la
 desaparición
@@ -286,7 +286,7 @@ privadas
 son
 aumentar
 el
-número
+numero
 de
 especialistas
 y
@@ -300,7 +300,7 @@ destacan
 en
 la
 asistencia
-pública
+publica
 son
 la
 lentitud

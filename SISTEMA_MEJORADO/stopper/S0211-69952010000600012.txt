@@ -32,11 +32,11 @@ científicos
 congresos
 aenp
 revisaron
-número
+numero
 presentaciones
 centros
 participantes
-número
+numero
 comunicaciones
 forma
 presentación
@@ -45,6 +45,7 @@ experimentales
 temas
 elegidos
 resultados
+ultimos
 20
 años
 91
@@ -97,13 +98,14 @@ conclusiones
 formato
 póster
 método
-útil
+util
 presentaciones
 científicas
 tema
 habitual
 enfermedad
 glomerular
+ultima
 década
 aparecido
 comunicaciones

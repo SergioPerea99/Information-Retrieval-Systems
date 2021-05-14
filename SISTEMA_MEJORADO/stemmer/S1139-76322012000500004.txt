@@ -129,7 +129,7 @@ otiti
 media
 aguda
 resfriado
-común
+comun
 sibilancia
 sinus
 patología

@@ -61,7 +61,7 @@ identificado
 célula
 intercalada
 alfa
-túbulo
+tubulo
 colector
 explicar
 caso
@@ -98,7 +98,7 @@ nefrocalcinosi
 célula
 intercalada
 alfa
-túbulo
+tubulo
 colector
 cabo
 excreción

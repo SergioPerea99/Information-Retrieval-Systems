@@ -17,7 +17,7 @@ sangr
 d
 25-oh-vitd
 relacionan
-múltipl
+multipl
 patología
 acord
 riesgo
@@ -252,6 +252,7 @@ p
 pth
 encontráramo
 diferencia
+segun
 edad
 disminución
 produjo

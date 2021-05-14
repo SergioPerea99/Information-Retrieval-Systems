@@ -64,6 +64,7 @@ mlmin
 ingresados
 sospecha
 sca
+segun
 historia
 clínica
 exploración

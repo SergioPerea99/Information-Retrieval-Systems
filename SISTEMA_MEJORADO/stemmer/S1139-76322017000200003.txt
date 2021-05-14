@@ -126,7 +126,7 @@ tratamiento
 antimicrobiano
 prescrito
 herramienta
-útile
+util
 mejora
 uso
 antimicrobiano

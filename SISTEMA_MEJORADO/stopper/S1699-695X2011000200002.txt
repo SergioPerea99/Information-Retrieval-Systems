@@ -169,13 +169,14 @@ conclusiones
 mayoría
 pacientes
 insomnes
-continúa
+continua
 durmiendo
 mal
 presenta
 mala
 eficiencia
 sueño
+aun
 tratamiento
 farmacológico
 principal

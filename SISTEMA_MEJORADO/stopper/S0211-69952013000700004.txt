@@ -3,12 +3,12 @@ genotipos
 sistema
 renina-angiotensina
 respuesta
-antiproteinúrica
+antiproteinurica
 dosis
 altas
 olmesartán
 nefropatías
-proteinúricas
+proteinuricas
 diabéticas
 2013-01-01
 nefrología
@@ -19,7 +19,7 @@ n6
 objetivo
 evaluar
 respuesta
-antiproteinúrica
+antiproteinurica
 tratamiento
 multifactorial
 basado
@@ -33,8 +33,9 @@ araii
 olmesartán
 pacientes
 nefropatías
-proteinúricas
+proteinuricas
 diabéticas
+segun
 polimorfismos
 sistema
 renina-angiotensina
@@ -60,7 +61,7 @@ estudiaron
 53
 pacientes
 nefropatía
-proteinúrica
+proteinurica
 diabética
 tiempo
 medio
@@ -148,10 +149,11 @@ representando
 descenso
 promedio
 671
+segun
 polimorfismos
 sra
 respuesta
-antiproteinúrica
+antiproteinurica
 polimorfismo
 gen
 angiotensiógeno
@@ -233,7 +235,7 @@ ddtt
 ddac
 asociación
 efecto
-antiproteinúrico
+antiproteinurico
 ddac
 899
 p
@@ -245,7 +247,7 @@ altas
 olmesartán
 pacientes
 nefropatía
-proteinúrica
+proteinurica
 diabética
 comporta
 reducciones
@@ -261,6 +263,6 @@ polimorfismos
 sra
 modular
 respuesta
-antiproteinúrica
+antiproteinurica
 tratamiento
 araii

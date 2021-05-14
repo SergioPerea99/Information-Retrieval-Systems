@@ -18,7 +18,7 @@ a
 cabo
 durante
 los
-últimos
+ultimos
 15
 años
 por
@@ -39,7 +39,7 @@ llevar
 a
 la
 muerte
-súbita
+subita
 e
 inesperada
 la
@@ -304,7 +304,7 @@ historias
 clínicas
 el
 escaso
-número
+numero
 de
 estudios
 relacionados

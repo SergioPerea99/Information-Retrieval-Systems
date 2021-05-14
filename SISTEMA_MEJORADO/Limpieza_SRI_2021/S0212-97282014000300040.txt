@@ -99,7 +99,7 @@ todo
 ello
 en
 las
-últimas
+ultimas
 décadas
 numerosos
 trabajos
@@ -137,7 +137,7 @@ los
 criterios
 clásicos
 y
-según
+segun
 el
 caso
 se
@@ -209,7 +209,7 @@ de
 factores
 3
 el
-número
+numero
 de
 factores
 a

@@ -1,4 +1,4 @@
-azúcar
+azucar
 en
 alimentos
 infantiles
@@ -21,7 +21,7 @@ el
 elevado
 consumo
 de
-azúcar
+azucar
 en
 la
 infancia
@@ -71,7 +71,7 @@ la
 cantidad
 máxima
 de
-azúcar
+azucar
 existente
 en
 los
@@ -98,7 +98,7 @@ españa
 la
 presencia
 de
-azúcar
+azucar
 en
 alimentos
 infantiles
@@ -158,7 +158,7 @@ a
 las
 cifras
 de
-azúcares
+azucares
 permitidos
 en
 alimentos

@@ -272,7 +272,7 @@ la
 fórmula
 mdrd
 resulta
-útil
+util
 y
 práctica
 para

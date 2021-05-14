@@ -16,7 +16,7 @@ externa
 nefrología
 acud
 important
-número
+numero
 pacient
 nefrectomizado
 remitido
@@ -47,7 +47,7 @@ retrospectivo
 92
 pacient
 monorreno
-quirúrgico
+quirurgico
 atendido
 consulta
 nefrología
@@ -68,6 +68,7 @@ año
 población
 dividida
 grupo
+segun
 filtrado
 glomerular
 fg
@@ -148,7 +149,7 @@ promedio
 1747
 año
 intervención
-quirúrgica
+quirurgica
 1-48
 año
 191
@@ -167,7 +168,7 @@ resultado
 indican
 pacient
 monorreno
-quirúrgico
+quirurgico
 presentan
 progresión
 enfermedad

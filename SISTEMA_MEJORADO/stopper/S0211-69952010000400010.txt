@@ -156,7 +156,7 @@ ingresos
 imprevistos
 mortalidad
 postoperatoria
-número
+numero
 ingresos
 009
 episodios

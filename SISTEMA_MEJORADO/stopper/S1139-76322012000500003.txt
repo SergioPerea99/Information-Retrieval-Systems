@@ -54,7 +54,7 @@ referidas
 lactantes
 edad
 sexo
-número
+numero
 hermanos
 orden
 convivientes
@@ -113,6 +113,7 @@ hijos
 cuyos
 padres
 conocían
+algun
 caso
 accidente
 joyas

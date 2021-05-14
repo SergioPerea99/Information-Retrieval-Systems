@@ -89,7 +89,7 @@ evaluación
 instrumento
 estandarizado
 efectuaron
-búsqueda
+busqueda
 base
 dato
 medlin

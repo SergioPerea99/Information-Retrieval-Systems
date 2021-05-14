@@ -5,7 +5,7 @@ renal
 aguda
 secundaria
 mieloma
-múltipl
+multipl
 filtro
 high
 cut
@@ -19,7 +19,7 @@ n4
 resumen
 introducción
 mieloma
-múltipl
+multipl
 mm
 tumoración
 hematológica
@@ -89,7 +89,7 @@ gambro
 m2
 superfici
 posteriorment
-continúa
+continua
 sesion
 día
 alterno
@@ -134,7 +134,7 @@ permanec
 diálisi
 cambio
 nivel
-albúmina
+albumina
 utilizando
 protocolo
 infusión
@@ -142,7 +142,7 @@ infusión
 vial
 50
 ml
-albúmina
+albumina
 20
 final
 sesión

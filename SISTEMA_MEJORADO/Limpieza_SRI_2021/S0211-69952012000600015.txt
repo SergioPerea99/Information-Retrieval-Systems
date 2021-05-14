@@ -8,7 +8,7 @@ las
 fístulas
 arteriovenosas
 protésicas
-húmero-axilares
+humero-axilares
 para
 hemodiálisis
 2012-01-01
@@ -38,7 +38,7 @@ permeabilidad
 de
 las
 fístulas
-húmero-axilares
+humero-axilares
 pacientes
 y
 método
@@ -56,7 +56,7 @@ se
 realizan
 108
 fístulas
-húmero-axilares
+humero-axilares
 desde
 junio
 de
@@ -90,7 +90,7 @@ permeabilidades
 de
 57
 fístulas
-húmero-axilares
+humero-axilares
 realizadas
 desde
 junio
@@ -197,7 +197,7 @@ c-fav
 presentaron
 un
 menor
-número
+numero
 de
 reintervenciones
 por
@@ -226,7 +226,7 @@ permeabilidad
 de
 las
 fístulas
-húmero-axilares
+humero-axilares
 disminuyendo
 no
 obstante

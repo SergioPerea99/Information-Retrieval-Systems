@@ -135,11 +135,13 @@ hipotensos
 p
 005
 modificación
+segun
 patologías
 restantes
 diferencias
 valores
 cr
+segun
 patología
 valores
 creatinina

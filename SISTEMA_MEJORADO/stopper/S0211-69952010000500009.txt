@@ -109,9 +109,10 @@ retirando
 tratamiento
 antiagregante
 resultados
-número
+numero
 biopsias
 realizadas
+ultimos
 18
 años
 867
@@ -160,7 +161,7 @@ nefrectomía
 evidenció
 hemangiomas
 epitelioides
-múltiples
+multiples
 estudio
 prospectivo
 enero

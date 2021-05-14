@@ -64,8 +64,8 @@ representantes
 fósforo
 inorgánico
 p-
-albúmina
-albúm-
+albumina
+album-
 objetivo
 estudio
 evaluar
@@ -130,7 +130,7 @@ pco2
 10
 -
 ph
-albúm
+album
 gdl
 x
 0123
@@ -264,7 +264,7 @@ reemplazado
 oh-
 secundariamente
 hco3-
-única
+unica
 ventaja
 vendría
 dada
@@ -274,5 +274,5 @@ medidos
 elgap
 sid
 efecto
-albúmina
+albumina
 fosfato

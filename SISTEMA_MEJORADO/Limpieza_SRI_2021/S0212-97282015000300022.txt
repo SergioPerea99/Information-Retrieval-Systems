@@ -117,7 +117,7 @@ el
 test
 letras
 y
-números
+numeros
 de
 la
 escala

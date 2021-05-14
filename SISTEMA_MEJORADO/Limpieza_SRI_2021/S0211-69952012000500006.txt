@@ -39,7 +39,7 @@ por
 lo
 que
 el
-número
+numero
 de
 riñones
 descartados
@@ -93,7 +93,7 @@ la
 experiencia
 de
 un
-único
+unico
 hospital
 entre
 mayo
@@ -108,7 +108,7 @@ criterios
 para
 decidir
 tx
-único
+unico
 o
 doble
 quedaron
@@ -175,7 +175,7 @@ han
 sido
 como
 trasplantes
-únicos
+unicos
 txs
 y
 otros
@@ -352,7 +352,7 @@ dos
 pacientes
 de
 este
-último
+ultimo
 grupo
 perdieron
 un

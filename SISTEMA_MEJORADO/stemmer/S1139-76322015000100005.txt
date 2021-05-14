@@ -29,6 +29,7 @@ difier
 geográfica
 variacion
 estacional
+segun
 grupo
 población
 estudiada

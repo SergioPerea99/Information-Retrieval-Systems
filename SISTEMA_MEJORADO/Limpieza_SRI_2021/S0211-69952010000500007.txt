@@ -175,7 +175,7 @@ los
 pacientes
 era
 incumplidor
-según
+segun
 el
 cuestionario
 smaq
@@ -427,7 +427,7 @@ relacionaba
 con
 el
 hueso
-ningún
+ningun
 paciente
 relacionó
 los
@@ -465,7 +465,7 @@ habían
 prescrito
 un
 mayor
-número
+numero
 de
 comprimidos
 de

@@ -154,7 +154,7 @@ meses
 no
 se
 encontró
-ningún
+ningun
 factor
 asociado
 al

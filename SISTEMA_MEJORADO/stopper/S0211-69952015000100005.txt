@@ -80,6 +80,7 @@ media
 473
 312
 mgdl
+ningun
 enfermo
 presentaba
 datos

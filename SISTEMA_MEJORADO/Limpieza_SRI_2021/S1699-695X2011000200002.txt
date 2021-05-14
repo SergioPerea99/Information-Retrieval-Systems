@@ -247,7 +247,7 @@ de
 los
 pacientes
 insomnes
-continúa
+continua
 durmiendo
 mal
 y
@@ -256,7 +256,7 @@ mala
 eficiencia
 del
 sueño
-aún
+aun
 con
 tratamiento
 farmacológico

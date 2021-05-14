@@ -20,6 +20,7 @@ monocigótico
 reciben
 60
 casos
+algun
 tipo
 inmunosupresión
 estándar
@@ -69,7 +70,7 @@ inmunosupresor
 consistía
 administración
 dosis
-única
+unica
 intraoperatoria
 500
 mg
@@ -100,6 +101,7 @@ media
 año
 096
 02
+ultimo
 seguimiento
 12
 037

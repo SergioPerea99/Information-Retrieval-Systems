@@ -71,6 +71,7 @@ valor
 dm
 10
 pacient
+segun
 ayuna
 exclusivament
 394

@@ -42,6 +42,7 @@ trauma
 factor
 condicionar
 recuerdo
+ultimo
 importancia
 contexto
 forens

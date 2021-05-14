@@ -3,6 +3,7 @@ mejores
 resultados
 diálisis
 peritoneal
+ultimos
 años
 2012-01-01
 nefrología
@@ -144,6 +145,7 @@ diabetes
 mellitus
 incidente
 2004
+ultima
 variable
 pierde
 significación
@@ -177,6 +179,7 @@ conclusiones
 dp
 mejorado
 resultados
+ultimos
 años
 probablemente
 soluciones

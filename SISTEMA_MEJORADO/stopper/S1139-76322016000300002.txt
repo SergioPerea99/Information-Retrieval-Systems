@@ -15,6 +15,7 @@ n71
 2016
 resumen
 introducción
+ultimos
 años
 surgido
 propuestas
@@ -49,7 +50,7 @@ d
 problema
 frecuente
 niños
-núcleo
+nucleo
 urbano
 costa
 mediterránea
@@ -95,6 +96,7 @@ nacionales
 muestra
 379
 presentaban
+algun
 grado
 déficit
 vitamina

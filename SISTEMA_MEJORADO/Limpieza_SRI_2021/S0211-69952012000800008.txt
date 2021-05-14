@@ -69,7 +69,7 @@ maastricht
 constituye
 una
 alternativa
-aún
+aun
 por
 desarrollar
 de
@@ -113,7 +113,7 @@ los
 equipos
 implicados
 se
-evalúan
+evaluan
 los
 pacientes
 de
@@ -166,7 +166,7 @@ abordaje
 directo
 en
 lecho
-quirúrgico
+quirurgico
 y
 otro
 con
@@ -381,7 +381,7 @@ serie
 se
 constataron
 complicaciones
-quirúrgicas
+quirurgicas
 similares
 a
 las

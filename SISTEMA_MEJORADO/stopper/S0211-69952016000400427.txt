@@ -95,6 +95,7 @@ estudiados
 grado
 disminución
 varió
+segun
 tipo
 verdura
 procesado

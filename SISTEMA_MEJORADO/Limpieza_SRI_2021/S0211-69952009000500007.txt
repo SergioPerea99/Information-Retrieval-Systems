@@ -1,5 +1,5 @@
 efecto
-antiproteinúrico
+antiproteinurico
 del
 bloqueo
 del
@@ -62,7 +62,7 @@ los
 niveles
 de
 aldosterona
-ningún
+ningun
 estudio
 ha
 comparado
@@ -72,7 +72,7 @@ de
 las
 diferentes
 estrategias
-antiproteinúricas
+antiproteinuricas
 actualmente
 disponibles
 inhibidores
@@ -101,7 +101,7 @@ pacientes
 obesos
 con
 nefropatías
-proteinúricas
+proteinuricas
 métodos
 es
 un
@@ -112,7 +112,7 @@ aleatorizado
 realizado
 en
 un
-único
+unico
 centro
 fueron
 seleccionados
@@ -209,7 +209,7 @@ de
 tratamiento
 y
 el
-número
+numero
 de
 pacientes
 que
@@ -283,7 +283,7 @@ comparación
 entre
 grupos
 el
-número
+numero
 de
 pacientes
 que
@@ -348,4 +348,4 @@ tipos
 de
 nefropatías
 crónicas
-proteinúricas
+proteinuricas

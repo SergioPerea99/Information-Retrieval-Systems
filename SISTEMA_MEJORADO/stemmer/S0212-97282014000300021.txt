@@ -27,7 +27,7 @@ principal
 hallazgo
 publicado
 área
-búsqueda
+busqueda
 bibliográfica
 principal
 base

@@ -25,7 +25,7 @@ hemodiafiltración
 hdf
 con
 altos
-volúmenes
+volumenes
 de
 reinfusión
 es
@@ -165,7 +165,7 @@ distintas
 sustancias
 y
 los
-volúmenes
+volumenes
 de
 infusión
 el

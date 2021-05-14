@@ -18,7 +18,7 @@ presencia
 concentracion
 elevada
 proteína
-albúmina
+albumina
 orina
 modo
 persistent
@@ -95,7 +95,7 @@ indican
 presencia
 definida
 término
-albúmina
+albumina
 proteína
 espécimen
 adecuado
@@ -134,11 +134,12 @@ adulto
 niño
 recomendacion
 resultado
-búsqueda
+busqueda
 evaluación
 síntesi
 evidencia
 científica
 publicada
 tema
+ultimo
 año

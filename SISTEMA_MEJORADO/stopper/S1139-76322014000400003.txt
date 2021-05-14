@@ -20,6 +20,7 @@ casos
 aspiración
 cuerpo
 extraño
+ultimos
 12
 años
 valorando
@@ -103,7 +104,7 @@ existió
 asociación
 tiempo
 evolución
-número
+numero
 broncoscopias
 necesarias
 extracción
@@ -129,6 +130,7 @@ graves
 incidencia
 disminuido
 largo
+ultimos
 años
 máxima
 año

@@ -1,7 +1,7 @@
 percepción
 subjetiva
 esfuerzo
-fútbol
+futbol
 profesional
 relevancia
 indicadores
@@ -99,7 +99,7 @@ cuantificar
 carga
 entrenamiento
 obstante
-múltiples
+multiples
 variables
 intervienen
 competición

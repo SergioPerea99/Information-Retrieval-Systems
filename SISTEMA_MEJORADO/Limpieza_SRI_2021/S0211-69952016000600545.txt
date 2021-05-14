@@ -6,7 +6,7 @@ sodio
 disminuye
 la
 respuesta
-antiproteinúrica
+antiproteinurica
 del
 bloqueo
 del
@@ -77,7 +77,7 @@ sal
 reduce
 el
 efecto
-antiproteinúrico
+antiproteinurico
 de
 los
 ieca
@@ -105,7 +105,7 @@ sodio
 y
 el
 efecto
-antiproteinúrico
+antiproteinurico
 de
 los
 iecaara-ii
@@ -234,7 +234,7 @@ p
 a
 una
 respuesta
-antiproteinúrica
+antiproteinurica
 lt
 50
 tras

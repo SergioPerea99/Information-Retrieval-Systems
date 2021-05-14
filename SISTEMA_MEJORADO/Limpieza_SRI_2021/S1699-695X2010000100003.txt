@@ -278,7 +278,7 @@ generalizada
 y
 es
 considerada
-útil
+util
 por
 muchos
 se

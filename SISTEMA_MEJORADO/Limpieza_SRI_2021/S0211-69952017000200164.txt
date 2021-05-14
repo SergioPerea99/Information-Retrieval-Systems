@@ -240,7 +240,7 @@ de
 lérida
 donde
 el
-número
+numero
 de
 casos
 observados

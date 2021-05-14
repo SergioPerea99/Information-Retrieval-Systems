@@ -198,7 +198,7 @@ con
 alto
 contenido
 de
-flúor
+fluor
 en
 ppm
 or221
@@ -227,7 +227,7 @@ con
 alto
 contenido
 de
-flúor
+fluor
 fueron
 los
 de

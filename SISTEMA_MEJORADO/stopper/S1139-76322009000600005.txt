@@ -22,7 +22,7 @@ seguimiento
 hormonas
 tiroideas
 infancia
-útil
+util
 evitar
 posibles
 problemas
@@ -70,7 +70,7 @@ enfermedades
 endocrinológicas
 descubiertas
 tempranamente
-únicamente
+unicamente
 pediatra
 contribuir
 diagnóstico

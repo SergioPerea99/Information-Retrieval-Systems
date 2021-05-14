@@ -28,7 +28,7 @@ psiquiátrico
 sino
 un
 denominador
-común
+comun
 de
 una
 serie
@@ -36,7 +36,7 @@ de
 procesos
 patológicos
 agrupados
-según
+segun
 el
 dsm-iv
 manual

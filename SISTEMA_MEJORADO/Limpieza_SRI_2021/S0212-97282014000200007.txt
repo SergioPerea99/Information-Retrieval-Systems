@@ -52,7 +52,7 @@ el
 modelo
 de
 sentido
-común
+comun
 donde
 se
 inserta

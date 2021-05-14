@@ -1,5 +1,5 @@
 marcador
-útile
+util
 predictor
 cicatric
 renal
@@ -59,7 +59,7 @@ sintetizado
 descrito
 conclusion
 justificada
-útile
+util
 dato
 estudio
 variabl
@@ -92,6 +92,7 @@ cistouretrografía
 miccion
 seriada
 cum
+segun
 estudio
 recomendacion
 guía

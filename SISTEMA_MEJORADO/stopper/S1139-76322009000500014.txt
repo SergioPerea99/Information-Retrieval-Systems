@@ -68,6 +68,7 @@ niñas
 prepuberales
 18
 padece
+algun
 vida
 pico
 incidencia
@@ -89,7 +90,7 @@ ocasiones
 optado
 separación
 manual
-quirúrgica
+quirurgica
 casos
 graves
 claras
@@ -126,6 +127,7 @@ síntomas
 cree
 indicado
 iniciar
+ningun
 tipo
 tratamiento
 acuerda

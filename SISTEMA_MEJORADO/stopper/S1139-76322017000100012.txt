@@ -40,7 +40,7 @@ mostrar
 marco
 legal
 aplicable
-búsqueda
+busqueda
 base
 datos
 medline

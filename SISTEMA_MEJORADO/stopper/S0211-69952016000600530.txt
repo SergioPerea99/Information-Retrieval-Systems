@@ -71,6 +71,7 @@ pacientes
 clasificaron
 forma
 retrospectiva
+segun
 clasificaciones
 rifle
 akin
@@ -83,6 +84,7 @@ porcentaje
 pacientes
 desarrolló
 fra
+segun
 clasificación
 743
 rifle
@@ -128,6 +130,7 @@ grave
 desarrolla
 fra
 clasificar
+segun
 distintos
 métodos
 propuestos

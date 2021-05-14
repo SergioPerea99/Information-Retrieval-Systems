@@ -25,7 +25,7 @@ nefrología
 acude
 un
 importante
-número
+numero
 de
 pacientes
 nefrectomizados
@@ -92,7 +92,7 @@ sobre
 92
 pacientes
 monorrenos
-quirúrgicos
+quirurgicos
 atendidos
 en
 las
@@ -132,7 +132,7 @@ dividida
 en
 dos
 grupos
-según
+segun
 el
 filtrado
 glomerular
@@ -268,7 +268,7 @@ después
 de
 la
 intervención
-quirúrgica
+quirurgica
 1-48
 años
 el
@@ -301,7 +301,7 @@ que
 los
 pacientes
 monorrenos
-quirúrgicos
+quirurgicos
 presentan
 una
 progresión

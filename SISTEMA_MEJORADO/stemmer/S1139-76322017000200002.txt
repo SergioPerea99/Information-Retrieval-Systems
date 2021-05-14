@@ -123,6 +123,7 @@ fuma
 hombr
 asociado
 fumado
+algun
 rpa
 166
 ic

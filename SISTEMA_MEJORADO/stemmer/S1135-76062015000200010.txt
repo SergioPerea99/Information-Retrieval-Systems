@@ -45,7 +45,7 @@ valor
 previo
 anteriorment
 persona
-múltipl
+multipl
 miedo
 cuidadosa
 metódica
@@ -68,6 +68,7 @@ resolución
 problema
 incapaz
 conservar
+ningun
 trabajo
 perdió
 relacion

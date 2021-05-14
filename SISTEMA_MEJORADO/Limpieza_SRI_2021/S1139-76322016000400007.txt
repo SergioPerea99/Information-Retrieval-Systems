@@ -245,7 +245,7 @@ tratamientos
 inadecuados
 se
 analicen
-según
+segun
 prescriptor
 para
 seleccionar

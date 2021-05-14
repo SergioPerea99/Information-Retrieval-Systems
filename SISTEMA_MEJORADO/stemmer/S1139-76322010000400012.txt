@@ -15,7 +15,7 @@ compleja
 intervien
 homeostasi
 calcio
-múltipl
+multipl
 funcion
 diverso
 órgano
@@ -25,6 +25,7 @@ d
 asocia
 raquitismo
 osteomalacia
+ultima
 década
 numeroso
 estudio
@@ -76,7 +77,7 @@ movimiento
 migratorio
 campaña
 salud
-pública
+publica
 aconsejan
 evitar
 sol

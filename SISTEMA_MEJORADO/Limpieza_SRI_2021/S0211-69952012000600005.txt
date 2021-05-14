@@ -44,7 +44,7 @@ ha
 incrementado
 en
 los
-últimos
+ultimos
 años
 esta
 situación
@@ -158,7 +158,7 @@ riñón
 funcionante
 123
 tratados
-según
+segun
 protocolo
 obtuvimos
 datos
@@ -372,7 +372,7 @@ en
 nuestro
 estudio
 resulta
-útil
+util
 y
 adecuada
 para

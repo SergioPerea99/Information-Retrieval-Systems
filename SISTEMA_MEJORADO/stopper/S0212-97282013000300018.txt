@@ -28,7 +28,7 @@ diferencias
 reconocimiento
 cara
 personas
-puntúan
+puntuan
 alto
 esquizotipia
 confirmar
@@ -42,6 +42,7 @@ guardan
 relación
 significativa
 anomalías
+segun
 observado
 estudios
 previos
@@ -74,7 +75,7 @@ años
 dt
 118
 comparaciones
-puntúan
+puntuan
 alto
 esquizotipia
 ofrece

@@ -72,7 +72,7 @@ experiencia
 pediatras
 años
 trabajados
-número
+numero
 casos
 laringomalacia
 atendidos
@@ -102,7 +102,7 @@ comorbilidades
 coinciden
 ventilación
 invasiva
-útil
+util
 pacientes
 laringomalacia
 grave

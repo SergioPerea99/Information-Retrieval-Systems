@@ -125,7 +125,7 @@ y
 psicométrico
 no
 obtuvimos
-ningún
+ningun
 dato
 que
 nos
@@ -231,7 +231,7 @@ de
 los
 agresores
 muy
-útiles
+utiles
 para
 las
 líneas

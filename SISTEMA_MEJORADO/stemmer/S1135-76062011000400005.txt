@@ -5,7 +5,7 @@ septum
 interauricular
 caso
 muert
-súbita
+subita
 2011-12-01
 cuaderno
 medicina
@@ -44,7 +44,7 @@ supraventricular
 insuficiencia
 cardiaca
 muert
-súbita
+subita
 presentamo
 caso
 mujer
@@ -58,7 +58,7 @@ insuficiencia
 cardiaca
 congestiva
 falleció
-súbitament
+subitament
 autopsia
 puso
 manifiesto
@@ -114,7 +114,7 @@ causa
 arritmia
 ventricular
 muert
-súbita
+subita
 entidad
 frecuentement
 reconocida
@@ -127,4 +127,4 @@ invasiva
 rara
 necesita
 corregida
-quirúrgicament
+quirurgicament

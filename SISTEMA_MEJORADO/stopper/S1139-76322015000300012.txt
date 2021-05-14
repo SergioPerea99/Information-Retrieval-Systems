@@ -104,7 +104,7 @@ imagen
 elección
 tumoraciones
 intramedulares
-único
+unico
 método
 diagnóstico
 estatificación

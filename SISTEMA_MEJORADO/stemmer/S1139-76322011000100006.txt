@@ -150,7 +150,7 @@ med
 4726
 pediatr
 4687
-número
+numero
 artículo
 publicado
 2009
@@ -178,7 +178,7 @@ unido
 95
 publicado
 inglé
-única
+unica
 revista
 pediátrica
 español

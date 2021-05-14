@@ -138,7 +138,7 @@ incluyendo
 antecedentes
 perinatales
 y
-quirúrgicos
+quirurgicos
 y
 una
 exploración
@@ -193,7 +193,7 @@ el
 paciente
 dormido
 en
-decúbito
+decubito
 supino
 la
 fibrobroncoscopia
@@ -247,6 +247,6 @@ el
 grado
 de
 sedaciónanestesia
-según
+segun
 se
 requiera

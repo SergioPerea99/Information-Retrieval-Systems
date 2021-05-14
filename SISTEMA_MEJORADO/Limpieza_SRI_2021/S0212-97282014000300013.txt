@@ -7,7 +7,7 @@ de
 ítems
 del
 dsm-iv
-según
+segun
 respuesta
 de
 padres
@@ -107,7 +107,7 @@ los
 casos
 seleccionados
 se
-evalúan
+evaluan
 mediante
 entrevista
 clínica

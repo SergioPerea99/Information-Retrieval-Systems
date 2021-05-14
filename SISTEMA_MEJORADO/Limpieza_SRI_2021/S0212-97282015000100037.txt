@@ -89,7 +89,7 @@ a
 270
 jugadores
 de
-fútbol
+futbol
 balonmano
 y
 baloncesto

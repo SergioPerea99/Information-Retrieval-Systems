@@ -54,6 +54,7 @@ dato
 turriano
 7
 mf
+ultimo
 trimestr
 año
 2005
@@ -164,7 +165,7 @@ tutor
 571
 hombr
 conclusion
-número
+numero
 ic
 realizada
 equipo
@@ -181,12 +182,12 @@ capacidad
 resolución
 encontramo
 variabilidad
-número
+numero
 ic
 distinto
 médico
 justificars
-número
+numero
 tarjeta
 volumen
 trabajo

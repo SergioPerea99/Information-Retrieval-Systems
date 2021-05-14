@@ -126,7 +126,7 @@ r
 0384
 p
 004
-anúricos
+anuricos
 r
 0392
 p

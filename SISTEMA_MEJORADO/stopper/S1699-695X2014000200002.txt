@@ -93,6 +93,7 @@ años
 547
 ic95
 498-596
+algun
 intento
 previo
 deshabituación
@@ -104,9 +105,11 @@ nicotina
 ic95
 681-769
 utilizó
+ningun
 método
 cifra
 789
+ultimo
 intento
 variables
 sexo
@@ -140,9 +143,11 @@ entrevistados
 dejar
 fumar
 supuso
+ningun
 esfuerzo
 488
 reconoce
+algun
 problema
 dejar
 fumar
@@ -159,6 +164,7 @@ consumo
 intentos
 mayoría
 utilizó
+ningun
 método
 abandonar
 hábito

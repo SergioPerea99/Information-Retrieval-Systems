@@ -56,6 +56,7 @@ factores
 riesgo
 gravedad
 ira
+segun
 clasificación
 rifle
 medicación
@@ -100,6 +101,7 @@ presentaron
 riesgo
 daño
 renal
+segun
 clasificación
 rifle
 105
@@ -110,7 +112,7 @@ relacionó
 medicamentos
 diuréticos
 medicamentos
-actúan
+actuan
 sistema
 renina-angiotensina
 inmunosupresores

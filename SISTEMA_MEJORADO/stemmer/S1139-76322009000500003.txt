@@ -124,7 +124,7 @@ aplicación
 gel
 lat
 resulta
-útil
+util
 suturar
 herida
 complicada

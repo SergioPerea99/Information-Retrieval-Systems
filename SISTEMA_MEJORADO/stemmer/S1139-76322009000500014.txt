@@ -68,6 +68,7 @@ niña
 prepuberal
 18
 padec
+algun
 vida
 pico
 incidencia
@@ -89,7 +90,7 @@ ocasion
 optado
 separación
 manual
-quirúrgica
+quirurgica
 caso
 grave
 clara
@@ -126,6 +127,7 @@ síntoma
 cree
 indicado
 iniciar
+ningun
 tipo
 tratamiento
 acuerda

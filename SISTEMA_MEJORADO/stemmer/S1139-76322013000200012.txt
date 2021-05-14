@@ -1,7 +1,7 @@
 epidemia
 to
 ferina
-útil
+util
 estrategia
 nido
 2013-06-01
@@ -17,6 +17,7 @@ clásico
 tema
 valorado
 críticament
+segun
 metodología
 medicina
 basada
@@ -38,7 +39,7 @@ plantea
 pregunta
 clínica
 estructurada
-búsqueda
+busqueda
 bibliográfica
 valoran
 críticament
@@ -115,7 +116,7 @@ lactant
 necesario
 autoridad
 salud
-pública
+publica
 pronuncien
 situación
 to

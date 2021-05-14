@@ -33,7 +33,7 @@ preimplante
 puede
 aportar
 información
-útil
+util
 evolutiva
 postrasplante
 objetivo
@@ -98,7 +98,7 @@ las
 biopsias
 se
 valoraron
-según
+segun
 el
 baremo
 propuesto

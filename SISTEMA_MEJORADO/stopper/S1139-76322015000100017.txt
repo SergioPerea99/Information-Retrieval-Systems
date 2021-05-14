@@ -46,7 +46,7 @@ efectividad
 distintas
 opciones
 tratamiento
-quirúrgico
+quirurgico
 otitis
 media
 serosa
@@ -73,7 +73,7 @@ artículos
 lengua
 inglesa
 realizarse
-búsqueda
+busqueda
 exhaustiva
 compara
 actitud
@@ -117,6 +117,6 @@ pacientes
 deberíamos
 plantearnos
 tratamiento
-quirúrgico
+quirurgico
 tubos
 timpanostomía

@@ -64,7 +64,7 @@ calcemia
 prehemodiálisis
 en
 los
-últimos
+ultimos
 años
 de
 95-105
@@ -151,7 +151,7 @@ sesiones
 de
 hemodiálisis
 variando
-únicamente
+unicamente
 la
 concentración
 de
@@ -200,7 +200,7 @@ pacientes
 en
 cuatro
 subgrupos
-según
+segun
 los
 niveles
 de

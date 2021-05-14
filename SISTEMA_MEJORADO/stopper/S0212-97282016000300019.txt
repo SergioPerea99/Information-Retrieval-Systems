@@ -22,7 +22,7 @@ discriminativo
 mejorado
 asignación
 consecuencia
-única
+unica
 asociación
 aprendida
 procedimiento

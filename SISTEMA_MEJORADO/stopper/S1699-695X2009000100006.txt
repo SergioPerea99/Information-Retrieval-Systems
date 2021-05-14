@@ -103,7 +103,7 @@ clínica
 teoría
 scripts
 test
-sitúa
+situa
 examinados
 situaciones
 clínicas

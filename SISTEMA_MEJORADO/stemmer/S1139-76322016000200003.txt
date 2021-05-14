@@ -24,6 +24,7 @@ prominent
 incidencia
 estimada
 5
+segun
 dato
 sociedad
 española

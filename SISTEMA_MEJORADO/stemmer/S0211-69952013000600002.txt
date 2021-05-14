@@ -5,6 +5,7 @@ plazo
 diálisi
 periton
 hemodiálisi
+segun
 acceso
 vascular
 inicio
@@ -59,11 +60,13 @@ incident
 tratamiento
 renal
 sustitutivo
+segun
 modalidad
 separando
 pacient
 incident
 hd
+segun
 acceso
 vascular
 inicio
@@ -97,6 +100,7 @@ hospital
 comunidad
 canaria
 dividieron
+segun
 modalidad
 inicio
 dp

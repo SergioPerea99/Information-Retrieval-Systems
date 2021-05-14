@@ -94,7 +94,7 @@ calculados
 en
 función
 del
-número
+numero
 de
 individuos
 el
@@ -131,7 +131,7 @@ expresaron
 una
 experiencia
 o
-algún
+algun
 tipo
 de
 accidente

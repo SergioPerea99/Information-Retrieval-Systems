@@ -95,7 +95,7 @@ bcg
 33
 quimioprofilaxis
 anterioridad
-únicamente
+unicamente
 17
 contactos
 refería

@@ -79,7 +79,7 @@ reposición
 utilizado
 sesión
 pf
-albúmina
+albumina
 humana
 5
 plasma
@@ -96,7 +96,7 @@ diagnóstica
 inicio
 técnica
 aféresi
-número
+numero
 sesion
 pf
 recibida
@@ -133,7 +133,7 @@ síndrome
 hemolítico
 urémico
 caso
-púrpura
+purpura
 trombótica
 trombocitopénica
 idiopática
@@ -324,13 +324,13 @@ término
 supervivencia
 función
 renal
-múltipl
+multipl
 patología
 infrecuent
 estudio
 aporta
 información
-útil
+util
 valiosa
 práctica
 clínica

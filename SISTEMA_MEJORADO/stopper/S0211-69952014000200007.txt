@@ -53,12 +53,12 @@ fósforo
 5
 mgdl
 aloh3
-único
+unico
 quelante
 conversión
 mgco3
 variar
-número
+numero
 comprimidos
 registraron
 características
@@ -100,7 +100,7 @@ hormona
 paratiroidea
 25-oh-vitamina
 d3
-número
+numero
 prescrito
 comprimidos
 diarios

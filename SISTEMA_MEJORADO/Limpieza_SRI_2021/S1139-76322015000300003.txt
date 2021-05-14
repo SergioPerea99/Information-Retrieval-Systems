@@ -84,7 +84,7 @@ la
 edad
 de
 diagnóstico
-según
+segun
 el
 tipo
 de
@@ -97,7 +97,7 @@ asociación
 de
 padecer
 da
-según
+segun
 las
 variables
 de

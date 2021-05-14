@@ -51,7 +51,7 @@ objetivo
 evaluar
 asociación
 epp
-número
+numero
 episodios
 peritonitis
 dp
@@ -68,7 +68,7 @@ midió
 dp
 fósforo
 epp
-número
+numero
 episodios
 peritonitis
 parámetros
@@ -95,7 +95,7 @@ dp
 fósforo
 epp
 epp
-número
+numero
 episodios
 peritonitis
 r
@@ -124,7 +124,7 @@ conclusiones
 epp
 asocia
 significativamente
-número
+numero
 episodios
 peritonitis
 dp

@@ -80,6 +80,7 @@ menor
 50
 mlmin173
 m²
+algun
 medicamento
 pautado
 suscept
@@ -96,7 +97,7 @@ aceptada
 médico
 grupo
 antiinfeccioso
-número
+numero
 intervencion
 575
 unidad

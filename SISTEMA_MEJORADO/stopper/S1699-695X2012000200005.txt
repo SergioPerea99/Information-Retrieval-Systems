@@ -141,7 +141,7 @@ glicosilada
 regresión
 logística
 identificó
-única
+unica
 variable
 independiente
 asociada

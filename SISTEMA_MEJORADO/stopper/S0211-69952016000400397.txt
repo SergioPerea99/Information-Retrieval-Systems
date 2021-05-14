@@ -32,7 +32,7 @@ asociación
 neutrófilolinfocito
 alteración
 cociente
-albúminacreatinina
+albuminacreatinina
 urinario
 marcador
 precoz
@@ -64,7 +64,7 @@ cardiovascular
 recibían
 tratamiento
 fármacos
-antiproteinúricos
+antiproteinuricos
 inhibidores
 enzima
 conversora
@@ -76,7 +76,7 @@ ii
 aquellos
 presentaron
 cociente
-albúminacreatinina
+albuminacreatinina
 superior
 300
 mgdl
@@ -85,7 +85,7 @@ desenlace
 estudio
 alteración
 cociente
-albúminacreatinina
+albuminacreatinina
 urinario
 resultados
 índice
@@ -95,7 +95,7 @@ significativamente
 asociado
 alteración
 cociente
-albúminacreatinina
+albuminacreatinina
 urinario
 estudio
 univariante
@@ -124,7 +124,7 @@ grupos
 riesgo
 alteración
 cociente
-albúminacreatina
+albuminacreatina
 urinario
 riesgo
 cociente
@@ -147,7 +147,7 @@ proporción
 relativa
 alteración
 cociente
-albúminacreatinina
+albuminacreatinina
 urinario
 3
 grupos

@@ -247,7 +247,7 @@ demostrado
 ser
 una
 herramienta
-útil
+util
 para
 la
 identificación

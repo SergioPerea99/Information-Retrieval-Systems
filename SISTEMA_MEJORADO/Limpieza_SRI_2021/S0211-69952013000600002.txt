@@ -8,7 +8,7 @@ diálisis
 peritoneal
 y
 hemodiálisis
-según
+segun
 el
 acceso
 vascular
@@ -107,7 +107,7 @@ en
 tratamiento
 renal
 sustitutivo
-según
+segun
 la
 modalidad
 separando
@@ -117,7 +117,7 @@ pacientes
 incidentes
 en
 hd
-según
+segun
 el
 acceso
 vascular
@@ -179,7 +179,7 @@ canaria
 y
 se
 dividieron
-según
+segun
 la
 modalidad
 de

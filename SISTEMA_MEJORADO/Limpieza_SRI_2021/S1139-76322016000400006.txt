@@ -53,7 +53,7 @@ evolución
 que
 los
 que
-continúan
+continuan
 el
 programa
 obtener
@@ -121,7 +121,7 @@ cumplimentadas
 online
 acerca
 del
-número
+numero
 de
 grandes
 prematuros
@@ -170,7 +170,7 @@ pap
 no
 tienen
 programa
-común
+comun
 de
 seguimiento
 para

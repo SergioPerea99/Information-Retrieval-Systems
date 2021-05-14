@@ -56,7 +56,7 @@ procesos
 dermatológicos
 61
 categoría
-número
+numero
 diagnósticos
 correspondió
 grupo

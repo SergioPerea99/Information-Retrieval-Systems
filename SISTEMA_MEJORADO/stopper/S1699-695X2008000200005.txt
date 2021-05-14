@@ -73,6 +73,7 @@ años
 años
 tensión
 arterial
+ultimas
 revisiones
 resultados
 prevalencia
@@ -81,10 +82,12 @@ población
 14
 años
 98
+segun
 criterios
 cole¹
 et
 183
+segun
 criterio
 hernández²
 et

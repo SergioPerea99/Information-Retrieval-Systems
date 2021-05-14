@@ -73,6 +73,7 @@ obligación
 informar
 funciones
 competencias
+aun
 existiendo
 figura
 médico
@@ -107,7 +108,7 @@ modo
 trabajar
 profesionales
 poderes
-públicos
+publicos
 lleven
 cabo
 actuaciones

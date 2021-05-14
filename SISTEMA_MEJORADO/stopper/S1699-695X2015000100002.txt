@@ -92,7 +92,7 @@ moderada
 fuerte
 disminución
 frecuencia
-número
+numero
 deposiciones
 aumento
 consistencia
@@ -127,7 +127,7 @@ p
 0001
 presencia
 estreñimiento
-número
+numero
 fármacos
 consumidos
 pacientes

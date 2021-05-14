@@ -114,6 +114,7 @@ base
 comorbilidad
 asociada
 conclusión
+segun
 dato
 analizado
 epidemia

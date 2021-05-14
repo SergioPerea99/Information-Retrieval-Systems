@@ -33,10 +33,11 @@ supervivencia
 cost
 económico
 tratamiento
+ultimo
 tema
 prioritario
 salud
-pública
+publica
 objetivo
 evaluar
 adherencia

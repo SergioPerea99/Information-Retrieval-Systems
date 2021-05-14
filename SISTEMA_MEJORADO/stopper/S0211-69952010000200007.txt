@@ -202,7 +202,7 @@ valor
 fg
 superior
 importante
-número
+numero
 individuos
 especial
 mujeres

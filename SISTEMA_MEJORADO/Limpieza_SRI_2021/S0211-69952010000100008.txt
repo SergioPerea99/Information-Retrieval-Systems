@@ -99,7 +99,7 @@ el
 espaciamiento
 se
 realizó
-según
+segun
 ficha
 técnica
 duplicación
@@ -200,7 +200,7 @@ un
 bajo
 nivel
 de
-albúmina
+albumina
 la
 hd
 o
@@ -260,7 +260,7 @@ por
 los
 niveles
 de
-albúmina
+albumina
 y
 el
 centro

@@ -32,7 +32,7 @@ elevadas
 de
 proteína
 o
-albúmina
+albumina
 en
 orina
 de
@@ -201,7 +201,7 @@ definida
 en
 términos
 de
-albúmina
+albumina
 o
 de
 proteína
@@ -288,7 +288,7 @@ el
 resultado
 de
 la
-búsqueda
+busqueda
 evaluación
 y
 síntesis
@@ -302,5 +302,5 @@ el
 tema
 en
 los
-últimos
+ultimos
 años

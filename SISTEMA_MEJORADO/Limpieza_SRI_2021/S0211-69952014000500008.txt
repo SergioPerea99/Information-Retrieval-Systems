@@ -31,7 +31,7 @@ administración
 controlada
 de
 grandes
-volúmenes
+volumenes
 de
 sustitución
 de
@@ -83,7 +83,7 @@ volumen
 convectivo
 recibido
 la
-última
+ultima
 actualización
 del
 software
@@ -229,7 +229,7 @@ ni
 aumento
 en
 el
-número
+numero
 de
 alarmas
 o

@@ -26,7 +26,7 @@ orgánica
 mercurio
 usada
 antiséptico
-antifúngico
+antifungico
 1928
 final
 década
@@ -69,7 +69,7 @@ calendario
 oficial
 español
 uso
-común
+comun
 niño
 neumocócica
 rotaviru

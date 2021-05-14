@@ -26,6 +26,7 @@ país
 desarrollado
 valladolid
 prevalencia
+segun
 dato
 fase
 iii

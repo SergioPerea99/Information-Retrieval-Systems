@@ -30,7 +30,7 @@ hall
 rosenth
 2011
 escala
-evalúa
+evalua
 diferencia
 individual
 habilidad
@@ -131,7 +131,7 @@ convergent
 obtenida
 correlacion
 prueba
-evalúan
+evaluan
 capacidad
 reconocimiento
 emocion
@@ -140,7 +140,7 @@ versión
 española
 minipon
 instrumento
-evalúa
+evalua
 adecuadament
 sensibilidad
 verbal

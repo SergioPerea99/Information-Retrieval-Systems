@@ -86,7 +86,7 @@ fracciones
 triglicéridos
 troponina
 i
-albúmina
+albumina
 pcr
 hemoglobina
 glicosilada
@@ -136,7 +136,7 @@ ic
 p
 0000
 menor
-albúmina
+albumina
 or
 029
 ic

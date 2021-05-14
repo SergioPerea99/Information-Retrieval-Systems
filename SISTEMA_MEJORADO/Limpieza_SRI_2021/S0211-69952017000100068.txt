@@ -205,7 +205,7 @@ al
 final
 del
 estudio
-únicamente
+unicamente
 em
 presentó
 mejoría

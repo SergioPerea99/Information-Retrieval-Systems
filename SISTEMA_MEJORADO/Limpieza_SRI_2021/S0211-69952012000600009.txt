@@ -71,7 +71,7 @@ a
 la
 restricción
 hídrica
-según
+segun
 la
 gid
 diaria
@@ -193,7 +193,7 @@ las
 hemodiálisis
 durante
 el
-último
+ultimo
 mes
 ha
 tomado
@@ -207,7 +207,7 @@ líquidos
 al
 día
 0
-ningún
+ningun
 día
 10
 todos
@@ -505,7 +505,7 @@ de
 73
 y
 61
-según
+segun
 se
 considerase
 o
@@ -589,7 +589,7 @@ diaria
 y
 suministra
 información
-útil
+util
 para
 establecer
 pautas

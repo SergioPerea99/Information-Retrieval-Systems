@@ -128,6 +128,7 @@ hemodiálisis
 españa
 disminuido
 notablemente
+ultima
 década
 igualarse
 países
@@ -141,7 +142,7 @@ tratamiento
 antiviral
 tratados
 constituyen
-número
+numero
 considerable
 cargas
 virales

@@ -2,6 +2,7 @@ presencia
 síntoma
 depresivo
 adolescent
+ultimo
 año
 escolaridad
 2013-06-01
@@ -20,10 +21,11 @@ depresivo
 comun
 etapa
 desarrollo
+ultimo
 año
 observado
 aumento
-número
+numero
 adolescent
 síntoma
 depresivo
@@ -70,6 +72,7 @@ verificó
 adolescent
 encuestado
 presentaba
+algun
 grado
 sintomatología
 depresiva

@@ -72,7 +72,7 @@ medio
 mese
 resultado
 tiempo
-quirúrgico
+quirurgico
 medio
 32
 minuto
@@ -87,7 +87,7 @@ postoperatorio
 inmediato
 requirió
 recolocación
-quirúrgica
+quirurgica
 producido
 complicacion
 técnica

@@ -53,6 +53,7 @@ adolescent
 alto
 riesgo
 15
+segun
 resultado
 obtenido
 peso

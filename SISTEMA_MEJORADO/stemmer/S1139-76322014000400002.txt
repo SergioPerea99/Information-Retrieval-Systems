@@ -132,12 +132,13 @@ caso
 consulta
 clínica
 934
-útil
+util
 consejo
 recibido
 939
 precisó
 atendido
+ningun
 servicio
 conclusion
 resolución

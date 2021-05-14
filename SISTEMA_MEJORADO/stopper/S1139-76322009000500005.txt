@@ -180,7 +180,7 @@ corticoides
 sistémicos
 24
 tratamiento
-quirúrgico
+quirurgico
 local
 75
 pacientes

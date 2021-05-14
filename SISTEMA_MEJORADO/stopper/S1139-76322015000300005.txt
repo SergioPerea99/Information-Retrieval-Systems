@@ -81,6 +81,7 @@ escolares
 participantes
 estudio
 presentaban
+algun
 tipo
 dificultad
 coordinación

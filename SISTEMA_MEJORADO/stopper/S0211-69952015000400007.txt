@@ -152,7 +152,7 @@ clínica
 fórmula
 mdrd
 resulta
-útil
+util
 práctica
 estimar
 filtrado

@@ -83,7 +83,7 @@ debería
 esfuerzo
 important
 sanidad
-pública
+publica
 mejorar
 formación
 cpp

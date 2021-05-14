@@ -38,6 +38,7 @@ objetivo
 respond
 siguient
 cuestion
+segun
 evidencia
 dispon
 alimentación
@@ -118,6 +119,7 @@ indicado
 usar
 sonda
 alimentación
+ultima
 fase
 demencia
 pérdida

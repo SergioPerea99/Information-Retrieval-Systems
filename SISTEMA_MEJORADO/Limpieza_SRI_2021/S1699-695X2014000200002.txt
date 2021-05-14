@@ -149,7 +149,7 @@ ic95
 498-596
 había
 realizado
-algún
+algun
 intento
 previo
 de
@@ -169,7 +169,7 @@ ic95
 no
 utilizó
 nunca
-ningún
+ningun
 método
 esta
 cifra
@@ -178,7 +178,7 @@ del
 789
 en
 el
-último
+ultimo
 intento
 las
 variables
@@ -236,14 +236,14 @@ fumar
 no
 le
 supuso
-ningún
+ningun
 esfuerzo
 un
 488
 reconoce
 haber
 tenido
-algún
+algun
 problema
 tras
 dejar
@@ -276,7 +276,7 @@ la
 mayoría
 no
 utilizó
-ningún
+ningun
 método
 para
 abandonar

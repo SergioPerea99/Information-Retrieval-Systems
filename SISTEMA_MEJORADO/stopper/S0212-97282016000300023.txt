@@ -28,7 +28,7 @@ conoce
 relación
 variables
 estimación
-número
+numero
 personas
 apoyo
 caso
@@ -71,7 +71,7 @@ sociodemográfico
 correlación
 pearson
 revela
-número
+numero
 personas
 apoyo
 correlaciona

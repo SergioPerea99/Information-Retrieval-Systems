@@ -81,7 +81,7 @@ respuesta
 tratamiento
 línea
 frecuencia
-número
+numero
 recidivas
 supervivencia
 función
@@ -121,7 +121,7 @@ respuesta
 tratamiento
 línea
 frecuencia
-número
+numero
 recidivas
 supervivencia
 función

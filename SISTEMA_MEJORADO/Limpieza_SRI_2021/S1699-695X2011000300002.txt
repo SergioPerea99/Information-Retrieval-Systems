@@ -85,7 +85,7 @@ media
 491
 años
 el
-número
+numero
 medio
 de
 pacientes
@@ -138,11 +138,11 @@ el
 692
 ha
 realizado
-algún
+algun
 curso
 en
 los
-últimos
+ultimos
 5
 años
 la
@@ -200,7 +200,7 @@ se
 trata
 de
 terminales
-según
+segun
 el
 439
 o
@@ -214,7 +214,7 @@ oncólogo
 es
 malamuy
 mala
-según
+segun
 el
 532
 siendo

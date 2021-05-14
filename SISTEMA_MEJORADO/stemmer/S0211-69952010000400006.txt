@@ -76,7 +76,7 @@ final
 lesion
 nivel
 glomérulo
-túbulo
+tubulo
 intersticio
 definió
 navih
@@ -88,7 +88,7 @@ colapso
 glomerular
 lesion
 microquística
-túbulo-intersticial
+tubulo-intersticial
 resultado
 principal
 causa

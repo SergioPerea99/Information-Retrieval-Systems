@@ -66,7 +66,7 @@ ofrec
 clasificación
 pronóstica
 mejorada
-revalúan
+revaluan
 concepto
 pronóstico
 erc
@@ -90,7 +90,7 @@ curs
 albuminuria
 elevada
 cocient
-albúminacreatinina
+albuminacreatinina
 muestra
 aislada
 orina
@@ -99,7 +99,7 @@ orina
 mgg
 proteinuria
 cocient
-albúminacreatinina
+albuminacreatinina
 muestra
 aislada
 orina

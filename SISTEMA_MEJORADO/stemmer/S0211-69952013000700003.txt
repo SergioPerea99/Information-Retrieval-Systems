@@ -87,7 +87,7 @@ pe
 fisher
 regresión
 logística
-múltipl
+multipl
 resultado
 prevalencia
 candida
@@ -129,7 +129,7 @@ flujo
 saliv
 p
 0008
-albúmina
+albumina
 sérica
 baja
 p
@@ -173,7 +173,7 @@ p
 0001
 bajo
 valor
-albúmina
+albumina
 sérica
 or
 041
@@ -192,6 +192,6 @@ asoció
 prótesi
 dental
 xerostomía
-albúmina
+albumina
 sérica
 baja

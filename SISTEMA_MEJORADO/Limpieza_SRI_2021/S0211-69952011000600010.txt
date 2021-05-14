@@ -82,7 +82,7 @@ mayor
 rendimiento
 minimizando
 el
-número
+numero
 de
 alarmas
 como
@@ -303,7 +303,7 @@ adecuadas
 pueden
 no
 ser
-útiles
+utiles
 para
 realizar
 hdf-ol

@@ -2,6 +2,7 @@ presencia
 síntomas
 depresivos
 adolescentes
+ultimo
 año
 escolaridad
 2013-06-01
@@ -20,10 +21,11 @@ depresivos
 comunes
 etapa
 desarrollo
+ultimos
 años
 observado
 aumento
-número
+numero
 adolescentes
 síntomas
 depresivos
@@ -70,6 +72,7 @@ verificó
 adolescentes
 encuestados
 presentaba
+algun
 grado
 sintomatología
 depresiva

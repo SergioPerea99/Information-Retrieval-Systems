@@ -5,7 +5,7 @@ microbiológicos
 de
 la
 peritonitis
-fúngica
+fungica
 en
 diálisis
 peritoneal
@@ -41,7 +41,7 @@ los
 casos
 la
 infección
-fúngica
+fungica
 es
 infrecuente
 pero
@@ -105,7 +105,7 @@ factores
 predisponentes
 de
 peritonitis
-fúngica
+fungica
 no
 han
 sido
@@ -152,7 +152,7 @@ frecuente
 pero
 en
 la
-última
+ultima
 década
 se
 ha
@@ -183,7 +183,7 @@ además
 de
 la
 terapia
-antifúngica
+antifungica
 la
 retirada
 del
@@ -201,7 +201,7 @@ anfotericina
 b
 son
 los
-antifúngicos
+antifungicos
 recomendados
 los
 nuevos
@@ -234,7 +234,7 @@ microbiológicos
 de
 la
 peritonitis
-fúngica
+fungica
 los
 cuales
 son
@@ -245,5 +245,5 @@ han
 cambiado
 en
 los
-últimos
+ultimos
 años

@@ -1,5 +1,5 @@
 influencia
-número
+numero
 objeto
 clave
 verbal
@@ -19,7 +19,7 @@ mundo
 expresar
 conoc
 caso
-número
+numero
 gramat
 poder
 asociar
@@ -44,7 +44,7 @@ clave
 verbal
 proporcionada
 producción
-número
+numero
 ejemplar
 conjunto
 obstant
@@ -63,7 +63,7 @@ objetivo
 present
 trabajo
 explorar
-número
+numero
 clave
 verbal
 influy
@@ -95,7 +95,7 @@ niño
 asociaban
 clave
 verbal
-múltipl
+multipl
 e1
 clave
 terminación
@@ -108,7 +108,7 @@ objeto
 niño
 asociaron
 clave
-múltipl
+multipl
 pluralidad
 terminación
 sustantivo

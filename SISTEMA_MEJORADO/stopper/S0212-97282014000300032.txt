@@ -43,7 +43,7 @@ agresión
 iguales
 prueba
 relaciones
-múltiples
+multiples
 utilizado
 muestra
 554
@@ -87,7 +87,7 @@ autoridad
 normas
 sociales
 factores
-actúan
+actuan
 protección
 frente
 posterior

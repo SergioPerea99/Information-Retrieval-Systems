@@ -14,7 +14,7 @@ sesgo
 atencion
 alcohol
 mostrado
-útil
+util
 identificar
 persona
 consumo

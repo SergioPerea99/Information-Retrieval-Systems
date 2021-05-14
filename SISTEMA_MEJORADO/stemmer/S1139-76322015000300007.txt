@@ -130,7 +130,7 @@ palpa
 exploración
 física
 tratamiento
-quirúrgico
+quirurgico
 indicación
 diagnóstico
 riesgo

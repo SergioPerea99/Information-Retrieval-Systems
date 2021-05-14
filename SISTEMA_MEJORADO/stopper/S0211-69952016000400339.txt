@@ -30,7 +30,7 @@ impacto
 económico
 costes
 salud
-pública
+publica
 diagnóstico
 lesión
 renal
@@ -64,7 +64,7 @@ subclínica
 permitiría
 uso
 precoz
-múltiples
+multiples
 estrategias
 tratamiento
 objetivo

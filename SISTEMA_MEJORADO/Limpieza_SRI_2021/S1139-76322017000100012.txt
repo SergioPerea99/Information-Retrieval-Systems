@@ -78,7 +78,7 @@ se
 ha
 hecho
 una
-búsqueda
+busqueda
 en
 la
 base

@@ -151,7 +151,7 @@ el
 período
 de
 tratamiento
-ningún
+ningun
 paciente
 presentó
 remisión
@@ -259,7 +259,7 @@ en
 la
 dosis
 yo
-número
+numero
 de
 hipotensores
 durante

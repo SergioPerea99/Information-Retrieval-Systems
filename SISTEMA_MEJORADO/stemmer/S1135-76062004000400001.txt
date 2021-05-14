@@ -74,9 +74,10 @@ corpor
 implantación
 negar
 necesidad
+algun
 instrumento
 valoración
-común
+comun
 colaboras
 evitar
 situación
@@ -87,7 +88,7 @@ paí
 implantación
 baremo
 tráfico
-múltipl
+multipl
 crítica
 expresada
 fundamento

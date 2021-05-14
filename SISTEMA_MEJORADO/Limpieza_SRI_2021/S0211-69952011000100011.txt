@@ -217,7 +217,7 @@ el
 37
 en
 áreas
-quirúrgicas
+quirurgicas
 en
 194
 pacientes
@@ -246,13 +246,13 @@ casos
 no
 se
 realizó
-ningún
+ningun
 control
 posterior
 especialmente
 en
 áreas
-quirúrgicas
+quirurgicas
 se
 constató
 erc
@@ -326,7 +326,7 @@ en
 la
 historia
 clínica
-únicamente
+unicamente
 en
 el
 50

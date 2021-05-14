@@ -127,7 +127,7 @@ cada
 uno
 completó
 una
-rúbrica
+rubrica
 de
 10
 ítems
@@ -143,7 +143,7 @@ mediante
 el
 modelo
 de
-múltiples
+multiples
 facetas
 de
 rasch
@@ -178,7 +178,7 @@ de
 estudiantes
 totalizando
 186
-rúbricas
+rubricas
 el
 58
 de
@@ -203,7 +203,7 @@ los
 ítems
 de
 la
-rúbrica
+rubrica
 no
 se
 observaron
@@ -220,7 +220,7 @@ en
 las
 calificaciones
 finales
-según
+segun
 el
 tipo
 de
@@ -269,7 +269,7 @@ en
 los
 estudiantes
 del
-último
+ultimo
 curso
 del
 grado

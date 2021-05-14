@@ -40,6 +40,7 @@ primaria
 comunidad
 madrid
 recibieron
+algun
 ain
 analizó
 2
@@ -71,6 +72,7 @@ mayor
 14
 año
 recibieron
+algun
 ain
 450
 pacient
@@ -119,7 +121,7 @@ pacient
 287
 conclusion
 prescrib
-número
+numero
 important
 ain
 utilizado

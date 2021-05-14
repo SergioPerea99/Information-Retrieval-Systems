@@ -21,7 +21,7 @@ iónico
 transepitelial
 vía
 formada
-número
+numero
 proteína
 claudina
 epitelio

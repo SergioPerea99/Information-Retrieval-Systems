@@ -172,7 +172,7 @@ de
 al
 no
 aparecer
-ningún
+ningun
 caso
 nuevo
 en
@@ -242,7 +242,7 @@ relación
 multidisciplinar
 colegio
 salud
-pública
+publica
 atención
 primaria
 pueden

@@ -110,14 +110,14 @@ permitido
 ir
 identificando
 un
-número
+numero
 creciente
 de
 moléculas
 que
 podrían
 ser
-útiles
+utiles
 para
 los
 fines

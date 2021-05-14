@@ -218,7 +218,7 @@ supervivencia
 en
 2013
 el
-número
+numero
 total
 de
 pacientes
@@ -336,7 +336,7 @@ al
 en
 2013
 el
-número
+numero
 total
 de
 pacientes
@@ -419,7 +419,7 @@ al
 en
 2013
 el
-número
+numero
 de
 trasplantes
 realizado

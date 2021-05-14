@@ -168,7 +168,7 @@ dilemas
 morales-personales
 generaron
 menor
-número
+numero
 de
 elecciones
 utilitaristas
@@ -208,7 +208,7 @@ como
 un
 instrumento
 potencialmente
-útil
+util
 en
 la
 evaluación

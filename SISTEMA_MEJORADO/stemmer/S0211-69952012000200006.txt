@@ -135,7 +135,7 @@ caso
 estudio
 prospectivo
 comunicado
-único
+unico
 incluy
 grado
 función
@@ -182,6 +182,7 @@ iv
 necesario
 ajustar
 dosi
+segun
 grado
 función
 renal

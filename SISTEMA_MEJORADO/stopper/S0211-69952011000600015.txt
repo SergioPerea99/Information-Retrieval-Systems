@@ -127,7 +127,7 @@ acceso
 vascular
 comorbilidad
 peritonitis
-única
+unica
 variable
 independiente
 asociada

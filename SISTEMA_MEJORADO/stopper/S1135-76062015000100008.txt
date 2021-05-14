@@ -21,7 +21,7 @@ medicina
 sociedad
 curso
 procedimiento
-interactúan
+interactuan
 frecuencia
 médicos
 equipo
@@ -39,14 +39,14 @@ colectivo
 vemos
 met
 piensan
-número
+numero
 negativas
 judiciales
 extracción
 órganos
 pequeño
 trascendencia
-número
+numero
 receptores
 importante
 pudiéndose
@@ -91,7 +91,7 @@ afán
 colaboración
 adecuado
 disminuir
-número
+numero
 negativas
 inclusión
 mf

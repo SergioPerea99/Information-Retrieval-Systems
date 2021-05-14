@@ -145,7 +145,7 @@ las
 escalas
 privada
 y
-pública
+publica
 autoestima
 colectiva
 y

@@ -2,7 +2,7 @@ el
 filtrado
 glomerular
 reducido
-según
+segun
 las
 fórmulas
 de
@@ -59,7 +59,7 @@ filtrado
 glomerular
 fg
 basal
-según
+segun
 las
 fórmulas
 de

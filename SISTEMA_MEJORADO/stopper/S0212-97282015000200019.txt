@@ -20,6 +20,7 @@ rendimiento
 académico
 muestra
 estudiantes
+ultimos
 cursos
 educación
 primaria
@@ -29,7 +30,7 @@ implicación
 alumnos
 deberes
 escolares
-número
+numero
 deberes
 realizados
 tiempo

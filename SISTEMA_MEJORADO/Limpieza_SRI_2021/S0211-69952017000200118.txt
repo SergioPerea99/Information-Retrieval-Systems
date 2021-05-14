@@ -9,7 +9,7 @@ tweakfn14
 en
 la
 nefritis
-lúpica
+lupica
 y
 otros
 escenarios
@@ -64,7 +64,7 @@ la
 cual
 puede
 afectar
-múltiples
+multiples
 órganos
 con
 un
@@ -79,7 +79,7 @@ afectación
 renal
 durante
 los
-últimos
+ultimos
 10
 años
 ha
@@ -99,7 +99,7 @@ tweakfn14
 en
 la
 nefritis
-lúpica
+lupica
 al
 igual
 que
@@ -124,7 +124,7 @@ dentro
 de
 la
 nefritis
-lúpica
+lupica
 recalca
 la
 importancia

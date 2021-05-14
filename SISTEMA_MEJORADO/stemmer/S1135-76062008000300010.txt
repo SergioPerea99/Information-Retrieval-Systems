@@ -135,7 +135,7 @@ imágen
 2d
 demostrado
 herramienta
-útil
+util
 identificación
 humana
 individu

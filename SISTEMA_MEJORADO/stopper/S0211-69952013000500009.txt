@@ -15,7 +15,7 @@ v33
 n4
 2013
 mieloma
-múltiple
+multiple
 mm
 consiste
 proliferación
@@ -146,7 +146,7 @@ clínica
 variable
 1-6
 m
-número
+numero
 sesiones
 varió
 8-16

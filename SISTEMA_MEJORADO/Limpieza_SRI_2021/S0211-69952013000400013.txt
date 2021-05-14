@@ -183,7 +183,7 @@ células
 t
 cd4
 resulta
-útil
+util
 para
 predecir
 el
@@ -207,7 +207,7 @@ riesgo
 de
 rechazo
 por
-último
+ultimo
 dada
 la
 enorme

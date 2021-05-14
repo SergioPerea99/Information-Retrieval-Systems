@@ -17,7 +17,7 @@ la
 provincia
 de
 ica
-perú
+peru
 2013-02-01
 revista
 clínica
@@ -52,7 +52,7 @@ la
 provincia
 de
 ica
-perú
+peru
 diseño
 estudio
 observacional

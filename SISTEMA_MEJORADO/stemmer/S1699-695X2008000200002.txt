@@ -104,6 +104,7 @@ decision
 238
 solicitó
 directament
+algun
 tratamiento
 derivación
 hospit
@@ -137,4 +138,5 @@ participación
 pacient
 toma
 decision
+aun
 escasa

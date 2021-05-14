@@ -31,7 +31,7 @@ un
 de
 los
 casos
-algún
+algun
 tipo
 de
 inmunosupresión
@@ -113,7 +113,7 @@ administración
 de
 una
 dosis
-única
+unica
 intraoperatoria
 de
 500
@@ -173,7 +173,7 @@ de
 02
 y
 al
-último
+ultimo
 seguimiento
 de
 12

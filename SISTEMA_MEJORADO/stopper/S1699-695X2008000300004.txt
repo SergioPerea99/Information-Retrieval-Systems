@@ -50,6 +50,7 @@ posibles
 personas
 ejercen
 dva
+aun
 condiciones
 optimas
 demanda

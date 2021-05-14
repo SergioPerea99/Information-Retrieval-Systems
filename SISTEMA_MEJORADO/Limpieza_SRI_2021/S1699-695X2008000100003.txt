@@ -91,7 +91,7 @@ edad
 sexo
 y
 convivencia
-número
+numero
 de
 enfermedades
 crónicas
@@ -118,7 +118,7 @@ mujeres
 337
 vivían
 solos
-número
+numero
 medio
 de
 32
@@ -190,10 +190,10 @@ edad
 convivencia
 fuera
 del
-núcleo
+nucleo
 familiar
 mayor
-número
+numero
 de
 patologías
 crónicas

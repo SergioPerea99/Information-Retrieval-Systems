@@ -160,7 +160,7 @@ casos
 casos
 no
 presentaban
-ningún
+ningun
 antecedente
 familiar
 sin
@@ -170,7 +170,7 @@ en
 32
 casos
 había
-algún
+algun
 familiar
 cursando
 cuadro

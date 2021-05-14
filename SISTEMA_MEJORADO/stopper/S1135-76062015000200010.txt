@@ -45,7 +45,7 @@ valores
 previos
 anteriormente
 persona
-múltiples
+multiples
 miedos
 cuidadosa
 metódica
@@ -68,6 +68,7 @@ resolución
 problemas
 incapaz
 conservar
+ningun
 trabajo
 perdió
 relaciones

@@ -181,7 +181,7 @@ edad
 de
 pacientes
 agrupados
-según
+segun
 su
 género
 y
@@ -269,7 +269,7 @@ de
 referencia
 puede
 ser
-útil
+util
 para
 identificar
 situaciones

@@ -154,7 +154,7 @@ de
 contribución
 al
 r
-múltiple
+multiple
 resultados
 se
 estudiaron
@@ -191,7 +191,7 @@ pacientes
 por
 regresión
 lineal
-múltiple
+multiple
 y
 ponderación
 relativa

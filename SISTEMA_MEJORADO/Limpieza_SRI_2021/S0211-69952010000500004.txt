@@ -56,7 +56,7 @@ y
 respuesta
 al
 tratamiento
-únicos
+unicos
 las
 evidencias
 disponibles
@@ -145,7 +145,7 @@ peor
 pronóstico
 aunque
 esta
-última
+ultima
 afirmación
 requiere
 ser

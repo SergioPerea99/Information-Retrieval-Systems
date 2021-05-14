@@ -76,7 +76,7 @@ medicion
 método
 calculamo
 diferencia
-volúmen
+volumen
 medición
 clasificamo
 2
@@ -99,7 +99,7 @@ student
 valoramo
 asociación
 diferencia
-volúmen
+volumen
 presencia
 parámetro
 clínico
@@ -127,7 +127,7 @@ significativa
 comparar
 presencia
 diferencia
-volúmen
+volumen
 presencia
 diabet
 p
@@ -180,6 +180,7 @@ v
 pacient
 unidad
 dp
+segun
 calculado
 fórmula
 watson

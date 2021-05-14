@@ -24,7 +24,7 @@ alcohol
 se
 ha
 mostrado
-útil
+util
 para
 identificar
 a

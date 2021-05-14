@@ -25,6 +25,7 @@ cualitativo
 cuantitativo
 cronológico
 causalidad
+ultimo
 objeto
 trabajo
 establec
@@ -60,7 +61,7 @@ interacción
 constelación
 estímulo
 ambiental
-actúan
+actuan
 implica
 investigación
 tale
@@ -92,6 +93,7 @@ consistent
 respuesta
 comportamental
 esperada
+segun
 dicha
 interacción
 palabra

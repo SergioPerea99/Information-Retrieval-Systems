@@ -61,6 +61,7 @@ profesores
 fase
 confirmación
 clínica
+segun
 criterios
 dsm-iv
 comorbilidad
@@ -119,6 +120,7 @@ secundaria
 casos
 tdah
 presenta
+algun
 tipo
 comorbilidad
 46

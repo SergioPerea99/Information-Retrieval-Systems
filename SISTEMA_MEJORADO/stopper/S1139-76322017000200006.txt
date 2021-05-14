@@ -29,6 +29,7 @@ estimar
 grado
 preocupación
 padres
+segun
 respuestas
 encuesta
 telefónica
@@ -90,7 +91,7 @@ años
 522
 varones
 relación
-número
+numero
 consultas
 centro
 salud

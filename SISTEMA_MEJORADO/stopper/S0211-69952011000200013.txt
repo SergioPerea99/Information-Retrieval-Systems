@@ -37,10 +37,11 @@ optimismo
 disposicional
 guarda
 relación
-número
+numero
 ingresos
 hospitalarios
 presentado
+ultimo
 año
 enfermos
 renales
@@ -60,6 +61,7 @@ variables
 ingresos
 ingresos
 hospitalarios
+ultimo
 año
 optimismopesimismo
 disposicional

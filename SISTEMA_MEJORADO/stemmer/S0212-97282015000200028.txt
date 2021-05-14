@@ -40,7 +40,7 @@ sanitario
 pertenecient
 hospit
 universitario
-público
+publico
 administró
 cuestionario
 gener

@@ -117,7 +117,7 @@ el
 tipo
 de
 hipotiroidismo
-última
+ultima
 dosis
 prescrita
 y

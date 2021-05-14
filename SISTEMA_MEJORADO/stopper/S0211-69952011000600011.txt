@@ -107,6 +107,7 @@ variaciones
 injustificadas
 niveles
 inmunosupresor
+segun
 cuestionario
 smaq
 39014184
@@ -116,6 +117,7 @@ administración
 médicopersonal
 enfermería
 2238
+segun
 morisky-green
 coeficiente
 kappa
@@ -132,6 +134,7 @@ convergente
 p
 0001
 clasificación
+segun
 smaq
 asoció
 variaciones

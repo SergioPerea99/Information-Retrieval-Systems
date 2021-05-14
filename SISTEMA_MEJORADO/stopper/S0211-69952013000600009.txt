@@ -50,12 +50,12 @@ meses
 trombosis
 tratadas
 trombectomía
-quirúrgica
+quirurgica
 puente
 ptfe
 necesario
 analizan
-número
+numero
 tipo
 procedimientos
 complicaciones

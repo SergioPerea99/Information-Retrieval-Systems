@@ -78,7 +78,7 @@ secuelas
 países
 utilizaron
 motores
-búsqueda
+busqueda
 pubmed
 medline
 google

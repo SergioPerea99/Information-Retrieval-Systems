@@ -1,6 +1,6 @@
 afectación
 articular
-púrpura
+purpura
 schönlein-henoch
 revisión
 propósito
@@ -13,16 +13,16 @@ v19
 n73
 2017
 resumen
-púrpura
+purpura
 schönlein-henoch
 tipo
 vasculitis
-común
+comun
 infancia
 manifestaciones
 clínicas
 frecuentes
-púrpura
+purpura
 palpable
 artralgias
 dolor
@@ -33,7 +33,7 @@ nefritis
 órgano
 verse
 afectado
-número
+numero
 estudios
 concluye
 iga
@@ -50,7 +50,7 @@ síntomas
 articulares
 manifestación
 frecuente
-púrpura
+purpura
 palpable
 afectación
 articular

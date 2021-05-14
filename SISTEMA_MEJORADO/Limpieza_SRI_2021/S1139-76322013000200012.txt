@@ -5,7 +5,7 @@ de
 tos
 ferina
 es
-útil
+util
 la
 estrategia
 de
@@ -28,7 +28,7 @@ un
 tema
 valorado
 críticamente
-según
+segun
 metodología
 de
 medicina
@@ -76,7 +76,7 @@ estructurada
 se
 hace
 una
-búsqueda
+busqueda
 bibliográfica
 se
 valoran
@@ -239,7 +239,7 @@ las
 autoridades
 de
 salud
-pública
+publica
 se
 pronuncien
 sobre

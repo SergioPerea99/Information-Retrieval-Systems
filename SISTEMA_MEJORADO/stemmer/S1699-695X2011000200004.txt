@@ -1,6 +1,6 @@
 gasto
 sanitario
-público
+publico
 castilla-la
 mancha
 1995-2008
@@ -20,13 +20,14 @@ objetivo
 crecimiento
 reparto
 gasto
-público
+publico
 gsp
 1995
 2008
+segun
 sector
 sanidad
-pública
+publica
 castilla-la
 mancha
 comparación

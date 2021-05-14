@@ -16,7 +16,7 @@ y
 león
 en
 los
-últimos
+ultimos
 diez
 años
 2011-12-01
@@ -83,7 +83,7 @@ y
 león
 en
 la
-última
+ultima
 década
 en
 el
@@ -156,7 +156,7 @@ y
 los
 macrólidos
 en
-último
+ultimo
 lugar
 se
 encontrarían
@@ -190,7 +190,7 @@ antibióticos
 principalmente
 durante
 los
-últimos
+ultimos
 cinco
 años
 el
@@ -229,7 +229,7 @@ precios
 de
 venta
 al
-público
+publico
 la
 amoxicilina-clavulánico
 es

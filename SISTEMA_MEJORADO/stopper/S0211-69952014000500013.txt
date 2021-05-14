@@ -89,7 +89,7 @@ evaluación
 instrumentos
 estandarizados
 efectuaron
-búsquedas
+busquedas
 bases
 datos
 medline

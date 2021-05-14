@@ -62,7 +62,7 @@ trr
 pacientes
 adultos
 ira
-oligúrica
+oligurica
 ingresados
 uci
 requerimiento

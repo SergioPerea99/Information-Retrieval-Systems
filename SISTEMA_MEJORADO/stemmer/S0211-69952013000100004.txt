@@ -69,6 +69,7 @@ crónica
 termin
 elevada
 mortalidad
+ultimo
 año
 establecido
 papel
@@ -82,7 +83,7 @@ endoteli
 pacient
 shua
 caracterización
-múltipl
+multipl
 mutacion
 polimorfismo
 gene

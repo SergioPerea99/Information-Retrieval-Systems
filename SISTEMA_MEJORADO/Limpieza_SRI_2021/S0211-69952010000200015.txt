@@ -134,7 +134,7 @@ estos
 pacientes
 se
 efectuaron
-búsquedas
+busquedas
 en
 las
 siguientes
@@ -185,7 +185,7 @@ la
 erc-v
 así
 como
-resúmenes
+resumenes
 de
 congresos
 publicados
@@ -225,7 +225,7 @@ evaluó
 la
 calidad
 metodológica
-según
+segun
 los
 criterios
 de
@@ -364,7 +364,7 @@ ic
 95
 563-1643
 por
-último
+ultimo
 hay
 pruebas
 moderadas

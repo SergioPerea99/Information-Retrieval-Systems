@@ -17,7 +17,7 @@ sangre
 d
 25-oh-vitd
 relacionan
-múltiples
+multiples
 patologías
 acordes
 riesgo
@@ -252,6 +252,7 @@ p
 pth
 encontráramos
 diferencias
+segun
 edad
 disminución
 produjo

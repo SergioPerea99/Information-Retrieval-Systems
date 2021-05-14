@@ -94,7 +94,7 @@ el
 pronóstico
 dependen
 del
-número
+numero
 total
 y
 localización
@@ -144,7 +144,7 @@ axones
 localmente
 dilatados
 con
-acúmulo
+acumulo
 de
 organelas
 y
@@ -184,7 +184,7 @@ a
 través
 de
 los
-microtúbulos
+microtubulos
 de
 forma
 que
@@ -198,7 +198,7 @@ red
 de
 neurofilamentos
 y
-microtúbulos
+microtubulos
 que
 configura
 el
@@ -233,7 +233,7 @@ deterioro
 del
 transporte
 axonal
-según
+segun
 la
 intensidad
 de

@@ -102,6 +102,7 @@ decil
 edad
 pacient
 agrupado
+segun
 género
 presencia
 dm
@@ -150,7 +151,7 @@ hd
 adecuado
 valor
 referencia
-útil
+util
 identificar
 situacion
 riesgo

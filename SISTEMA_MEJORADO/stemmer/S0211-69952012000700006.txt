@@ -76,7 +76,7 @@ hormona
 paratiroidea
 intacta
 lípido
-albúmina
+albumina
 seguimiento
 trasplant
 muert

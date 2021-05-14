@@ -46,6 +46,7 @@ objetivo
 trabajo
 presentamos
 determinar
+algun
 polimorfismo
 gen
 relaciona
@@ -91,6 +92,7 @@ estadios
 3-5
 atribuida
 nefroesclerosis
+segun
 criterios
 clínicos
 habituales

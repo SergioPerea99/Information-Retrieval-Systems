@@ -39,12 +39,12 @@ edad
 pediátrica
 en
 los
-últimos
+ultimos
 años
 ha
 aumentado
 el
-número
+numero
 de
 diagnósticos
 a
@@ -135,7 +135,7 @@ meses
 el
 892
 presentaban
-algún
+algun
 síntoma
 al
 diagnóstico
@@ -271,7 +271,7 @@ diagnosticar
 a
 un
 relevante
-número
+numero
 de
 pacientes
 sin

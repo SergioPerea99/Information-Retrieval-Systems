@@ -14,7 +14,7 @@ cadenas
 ligeras
 en
 mieloma
-múltiple
+multiple
 con
 insuficiencia
 renal
@@ -31,7 +31,7 @@ agudo
 en
 el
 mieloma
-múltiple
+multiple
 mm
 ocurre
 en
@@ -71,7 +71,7 @@ con
 gran
 pérdida
 de
-albúmina
+albumina
 otras
 técnicas
 basadas
@@ -145,7 +145,7 @@ su
 efecto
 sobre
 la
-albúmina
+albumina
 se
 obtuvieron
 muestras
@@ -227,7 +227,7 @@ diálisis
 sin
 eliminación
 de
-albúmina
+albumina
 con
 los
 resultados
@@ -265,7 +265,7 @@ y
 sin
 pérdida
 de
-albúmina
+albumina
 por
 tanto
 la

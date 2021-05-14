@@ -31,6 +31,7 @@ pensó
 causa
 estructur
 diabet
+ultimo
 año
 ignorado
 regulador
@@ -53,6 +54,7 @@ gluconeogénesi
 capacidad
 hígado
 riñón
+ultimo
 respons
 20
 producción

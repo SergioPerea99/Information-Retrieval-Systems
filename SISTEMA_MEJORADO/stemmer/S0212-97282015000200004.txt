@@ -90,6 +90,7 @@ emocion
 comportament
 estré
 percibido
+ningun
 elemento
 spq-c
 mostró

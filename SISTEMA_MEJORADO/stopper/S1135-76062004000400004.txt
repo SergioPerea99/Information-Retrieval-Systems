@@ -39,7 +39,7 @@ exhumado
 cataluña
 procedente
 fosa
-común
+comun
 guerra
 civil
 técnicas
@@ -59,7 +59,7 @@ forense
 análisis
 adn
 herramienta
-útil
+util
 identificación
 llevó
 cabo
@@ -73,7 +73,7 @@ restos
 humanos
 65
 años
-única
+unica
 muestra
 referencia
 disponible
@@ -135,6 +135,6 @@ inviables
 análisis
 adnmt
 convierte
-útil
+util
 poderosa
 herramienta

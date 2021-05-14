@@ -28,7 +28,7 @@ inflamación
 e
 hiperhidratación
 es
-común
+comun
 en
 pacientes
 en
@@ -103,7 +103,7 @@ siguientes
 determinaciones
 analíticas
 hemoglobina
-albúmina
+albumina
 proteína
 c
 reactiva
@@ -234,7 +234,7 @@ y
 negativamente
 con
 la
-albúmina
+albumina
 p
 0006
 y
@@ -310,7 +310,7 @@ p
 y
 niveles
 de
-albúmina
+albumina
 más
 bajos
 p
@@ -369,7 +369,7 @@ puede
 ser
 una
 herramienta
-útil
+util
 para
 evaluar
 regularmente

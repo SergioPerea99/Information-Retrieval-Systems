@@ -52,7 +52,7 @@ situaciones
 clínicas
 como
 el
-número
+numero
 de
 ingresos
 o
@@ -133,7 +133,7 @@ en
 sangre
 creatinina
 hematocrito
-albúmina
+albumina
 y
 situación
 clínica
@@ -144,7 +144,7 @@ arterial
 hta
 deformidades
 óseas
-número
+numero
 de
 ingresos
 y
@@ -163,7 +163,7 @@ del
 estudio
 así
 como
-número
+numero
 de
 fármacos
 administrados
@@ -220,7 +220,7 @@ relación
 entre
 valores
 de
-albúmina
+albumina
 y
 cvrs
 conclusiones

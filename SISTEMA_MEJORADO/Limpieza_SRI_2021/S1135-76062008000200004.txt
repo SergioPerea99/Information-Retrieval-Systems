@@ -144,7 +144,7 @@ que
 registraron
 un
 mayor
-número
+numero
 de
 siniestros
 son
@@ -281,7 +281,7 @@ medida
 para
 disminuir
 el
-número
+numero
 de
 estas
 dramáticas

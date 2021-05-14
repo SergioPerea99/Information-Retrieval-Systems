@@ -70,11 +70,11 @@ investigadores
 recogieron
 eventos
 principales
-número
+numero
 caídas
-número
+numero
 fracturas
-número
+numero
 tropiezos
 pérdidas
 equilibrio
@@ -117,7 +117,7 @@ encontramos
 diferencias
 estadísticamente
 significativas
-número
+numero
 tropiezos
 16
 grupo
@@ -134,7 +134,7 @@ rar
 0826
 igualmente
 diferencias
-número
+numero
 pérdidas
 equilibrio
 significativa
@@ -160,11 +160,11 @@ tai
 chi
 probablemente
 disminuye
-número
+numero
 caídas
 incidencia
 fracturas
-número
+numero
 tropiezos
 pérdidas
 equilibrio

@@ -22,6 +22,7 @@ característico
 asum
 rol
 cuidado
+aun
 expensa
 deterioro
 salud

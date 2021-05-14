@@ -1,5 +1,5 @@
 efecto
-antiproteinúrico
+antiproteinurico
 bloqueo
 sistema
 renina-angiotensina-aldosterona
@@ -37,11 +37,12 @@ renina-angiotensina-aldosterona
 sraa
 nivel
 aldosterona
+ningun
 estudio
 comparado
 eficacia
 estrategia
-antiproteinúrica
+antiproteinurica
 dispon
 inhibidor
 enzima
@@ -57,12 +58,12 @@ aldosterona
 pacient
 obeso
 nefropatía
-proteinúrica
+proteinurica
 método
 estudio
 prospectivo
 aleatorizado
-único
+unico
 centro
 seleccionado
 doce
@@ -118,7 +119,7 @@ h
 final
 período
 tratamiento
-número
+numero
 pacient
 mostraban
 reducción
@@ -160,7 +161,7 @@ grupo
 lisinopril
 comparación
 grupo
-número
+numero
 pacient
 mostraron
 reducción
@@ -193,4 +194,4 @@ obeso
 tipo
 nefropatía
 crónica
-proteinúrica
+proteinurica

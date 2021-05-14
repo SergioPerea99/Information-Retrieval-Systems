@@ -93,7 +93,7 @@ que
 sugieren
 un
 efecto
-antiproteinúrico
+antiproteinurico
 de
 la
 activación
@@ -111,7 +111,7 @@ disponible
 sobre
 su
 efecto
-antiproteinúrico
+antiproteinurico
 en
 la
 práctica
@@ -124,7 +124,7 @@ ha
 observado
 un
 efecto
-antiproteinúrico
+antiproteinurico
 de
 la
 activación
@@ -194,7 +194,7 @@ estudio
 descenso
 del
 cociente
-albúmina
+albumina
 creatinina
 urinario
 en
@@ -221,7 +221,7 @@ del
 vdr
 como
 fármacos
-antiproteinúricos
+antiproteinuricos
 renoprotectores
 más
 allá
