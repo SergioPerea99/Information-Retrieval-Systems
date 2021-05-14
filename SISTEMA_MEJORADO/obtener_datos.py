@@ -268,6 +268,7 @@ else:
     for consulta in archivos:
         fichero = open(consulta,"r")
         i = 0
+        #reconocer el tipo de linea por el módulo del valor de 4 (sin contar el 0 que solo se saca 1 vez).
         for linea in fichero:
             if i == 0:
                 print("""<div class="container">
@@ -278,18 +279,22 @@ else:
                       </form>
                       </div>""" % (linea))
             else:
-                if linea != '\n':
-                    contenido = linea.split(" ")
+                
+                if (i-1)%3 == 0:
                     print("""<div class="container">
                           <form id="survey-form">
                           <div class="form-result">
-                          <p class="text-center">%s</p></div>"""  % (contenido[0]))
+                          <a class="text-center" href = "%s"> """ % (linea))
+                
+                if (i-1)%3 == 1:
+                    print("""DOCUMENTO: %s</a>"""  % (linea))
+                
+                if (i-1)%3 == 2:
                     print("""
-                          <div class="form-result">
                           <p class="text-center">%s</p>
                           </div>
                           </form>
-                          </div>)""" % (contenido[1]))        
+                          </div>)""" % (linea))      
             i += 1
         fichero.close()
    

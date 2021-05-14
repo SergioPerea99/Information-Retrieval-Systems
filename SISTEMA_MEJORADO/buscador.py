@@ -12,6 +12,8 @@ from fich_norm import Ficheros_Pesos_Normalizados
 from os.path import join
 import time
 import operator
+from xml.dom import minidom
+
 
 class Buscador(object):
     
@@ -99,18 +101,32 @@ class Buscador(object):
             
             similitud_docs_consulta = sorted(similitud_docs_consulta.items(),reverse = True, key=operator.itemgetter(1))
             #SALIDA POR PANTALLA DE LOS N DOCUMENTOS CON MAYOR SIMILITUD 
-            archivo2.write("Consulta: "+self.dicc_consultas[cont]+"\n")
+            archivo2.write("Consulta: "+self.dicc_consultas[cont])
             #print("\nConsulta "+str(cont)+": "+self.dicc_consultas[cont])
             
             i = 0
             for id_doc in similitud_docs_consulta:
                 if i < self.doc_max:
-                    archivo2.write(str(id_doc[1])+" "+str(indice_dicc_documentos[id_doc[0]])+"\n")
+                    #TODO: A partir del nombre del archivo, buscarlo en la primera colección y obtener el contenido que queramos de ese xml.
+                    contenido_archivo = self.mostrarContenidoArchivo(indice_dicc_documentos[id_doc[0]])
+                    #print(str(contenido_archivo[0])+"\n"+str(contenido_archivo[1])+"\n"+str(contenido_archivo[2]))
+                    archivo2.write(str(contenido_archivo[0])+"\n"+str(contenido_archivo[1])+"\n"+str(contenido_archivo[2])+"\n")
                     #print(str(id_doc[1])+" "+str(indice_dicc_documentos[id_doc[0]]))
                 else:
                     break
                 i += 1
             cont += 1
         
-            
-        
+    
+    def mostrarContenidoArchivo(self,nombre_archivo):
+        rutaColeccion = self.config['OFFLINE']['ruta_coleccion_inicio']
+        nombre_archivo = nombre_archivo.split(".")
+        nombre_archivo = nombre_archivo[0] + ".xml"
+        doc = minidom.parse(join(rutaColeccion,nombre_archivo))
+        titulo = doc.getElementsByTagName("dc:title")[0]
+        introduccion = doc.getElementsByTagName("dc:description")[0]
+        url = doc.getElementsByTagName("dc:identifier")[0]
+        titulo = titulo.firstChild.data
+        introduccion = introduccion.firstChild.data
+        url = url.firstChild.data
+        return [str(url), str(titulo),str(introduccion)]
