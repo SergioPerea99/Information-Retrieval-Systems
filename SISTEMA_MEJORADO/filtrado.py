@@ -1,7 +1,6 @@
 from xml.dom import minidom
 from os.path import join
 
-
 class Filtrado(object):
 
     # Constructor parametrizado
@@ -43,6 +42,7 @@ class Filtrado(object):
             if self.doc_xml:
                 aux = i.firstChild.data
             minus = aux.lower()
+            minus = self.quitar_tilde(minus)
             cont = cont + 1
             for i in minus:
                 if i.isalpha() or i.isdigit() or i in no_borrar:
@@ -69,6 +69,14 @@ class Filtrado(object):
         archivo.close()
         devolver = (num_tokens,lista_palabras)
         return devolver
+    
+    def quitar_tilde(self, palabra):
+        palabra2 = palabra.maketrans("á","a")
+        palabra2= palabra.maketrans("é","e")
+        palabra2 = palabra.maketrans("í","i")
+        palabra2 = palabra.maketrans("ó","o")
+        palabra2 = palabra.maketrans("ú","u")
+        return palabra.translate(palabra2)
     
     
 

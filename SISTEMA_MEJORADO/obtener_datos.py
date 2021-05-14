@@ -29,7 +29,7 @@ print("""<div class="container">
       REVISTAS CIENTÍFICAS ESPAÑOLAS DE CIENCIAS DE LA SALUD.
     </p>
   </header>
-  <form id="survey-form" method="post" action="obtener_datos.py">
+  <form id="survey-form" method="post" action="obtener_datos.py" accept-charset="UTF-8">
     <div class="form-group">
       <label id="name-label" for="name"></label>
       <input
@@ -50,6 +50,7 @@ print("""<style type="text/css">
   --color-aqua: #00FFFF;
   --color-fuchsia: rgba(255,0,255, 0.8);
   --color-teal: #008080;
+  --color-dark: #000000;
 }
 
 *,
@@ -67,7 +68,6 @@ body {
   margin: 0;
 }
 
-/* mobile friendly alternative to using background-attachment: fixed */
 body::before {
   content: '';
   position: fixed;
@@ -181,6 +181,18 @@ form {
   padding: 0.25rem;
 }
 
+.form-result {
+  background: var(--color-);
+  padding: 2.5rem 0.625rem;
+  border-radius: 0.25rem;
+}
+
+.form-result {
+  background: var(--color-dark);
+  padding: 2.5rem 0.625rem;
+  border-radius: 0.25rem;
+}
+
 .form-control {
   display: block;
   width: 100%;
@@ -236,8 +248,7 @@ if "name" not in buscador_input:
     print("<h1>NO HA ESCRITO NADA PARA BUSCAR.</h1>")
     print("<h2>POR FAVOR, ESCRIBA ALGO ANTES DE DAR AL BOTÓN DE BUSCAR.</h2>")
 else:
-    #TENEMOS LA FRASE, HAY QUE ESCRIBIR EN EL TEXTO DE LA CONSULTA.TXT Y LUEGO EJECUTAR LA PARTE ONLINE DEL SRI.
-    
+    #TENIENDO LA FRASE, HAY QUE ESCRIBIR EN EL TEXTO DE LA CONSULTA.TXT Y LUEGO EJECUTAR LA PARTE ONLINE DEL SRI.
     config = configparser.ConfigParser()
     config.read('conf.ini')
     
@@ -255,7 +266,7 @@ else:
     archivos = [join(rutaColeccion,nombre) for nombre in contenido]
     
     for consulta in archivos:
-        fichero = open(consulta,"r",encoding='utf8')
+        fichero = open(consulta,"r")
         i = 0
         for linea in fichero:
             if i == 0:
@@ -268,18 +279,19 @@ else:
                       </div>""" % (linea))
             else:
                 if linea != '\n':
+                    contenido = linea.split(" ")
                     print("""<div class="container">
                           <form id="survey-form">
-                          <div class="form-group">
+                          <div class="form-result">
+                          <p class="text-center">%s</p></div>"""  % (contenido[0]))
+                    print("""
+                          <div class="form-result">
                           <p class="text-center">%s</p>
-                          </div>        
+                          </div>
                           </form>
-                          </div>""" % (linea))
+                          </div>)""" % (contenido[1]))        
             i += 1
         fichero.close()
    
-    
-
-  
 print("</html>")
 
