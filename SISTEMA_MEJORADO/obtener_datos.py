@@ -259,8 +259,8 @@ if "name" in buscador_input:
     
     lista_palabras_consulta_primaria = buscador.getListaConsulta()
     
-    #if len(lista_palabras_consulta_primaria) > 0:
-        #buscador.pseudoalimentacion_prf(5,5) #AQUÍ PARA AÑADIR LA PSEUDOALIMENTACION
+    if len(lista_palabras_consulta_primaria) > 0:
+        buscador.pseudoalimentacion_prf(5,5) #AQUÍ PARA AÑADIR LA PSEUDOALIMENTACION
     
     rutaColeccion = config['ONLINE']['ruta_ficheros_consultas_resultados_ordenados']
     contenido = os.listdir(rutaColeccion)
