@@ -148,20 +148,22 @@ class Buscador(object):
         rutaDiccionario = self.config['OFFLINE']['ruta_almacen_documentos_frecuencia_palabras']
         dicc_documentos_frec_palabras = self.pares_palabra_frecuencia_online.cargarEEDD_documentosFrecuenciaPalabras(rutaDiccionario)
         
-        print(self.lista_consultas)
+        #HASTA AQUÍ SE SUPONE QUE BIEN
         
+        #Pasar la lista de listas a una lista simple donde almacenar todos los elementos.
         aux = []
         for lista in self.lista_consultas:
             for palabra in lista:
                 aux.append(palabra)
         self.lista_consultas = aux.copy()
         
+        
+        
         i = 0
-        for doc in dicc_documentos_frec_palabras:
+        for doc_peso in self.similitud_docs_consulta:
             if i < num_docs_relevantes:
-                dicc_orden_palabras_doc = dicc_documentos_frec_palabras[doc].copy()
+                dicc_orden_palabras_doc = dicc_documentos_frec_palabras[doc_peso[0]].copy()
                 dicc_orden_palabras_doc = sorted(dicc_orden_palabras_doc.items(),reverse = True, key=operator.itemgetter(1))
-                
                 j = 0
                 for palabra in dicc_orden_palabras_doc:
                     if j < num_palabras_frecuentes:
