@@ -75,6 +75,7 @@ class Buscador(object):
         ruta_fichero_resultados = self.config['ONLINE']['ruta_ficheros_consultas_resultados']
         ruta_fichero_resultados_ordenados = self.config['ONLINE']['ruta_ficheros_consultas_resultados_ordenados']
         for consulta in self.lista_consultas:
+            
             #Calculo de los pesos normalizados por consulta
             pesos_palabras = self.fich_pesosNorm_online.pesos_palabras_consulta(self.indice_idf_offline, consulta, self.indice_dicc_palabras_invertidas)
             self.pesos_palabras_norm = self.fich_pesosNorm_online.normalizar_pesos_consulta(pesos_palabras)
@@ -90,20 +91,23 @@ class Buscador(object):
             for id_doc in self.indice_dicc_documentos_invertidas: #Por cada documento
                 sumatoria = 0.0
                 for id_palabra in consulta: #Por cada palabra de la consulta
-                    if self.indice_dicc_documentos_invertidas[id_doc] in self.indice_pesos_offline[self.indice_dicc_palabras_invertidas[id_palabra]]: #Si existe la palabra en el documento...
-                        sumatoria = sumatoria + (self.pesos_palabras_norm[self.indice_dicc_palabras_invertidas[id_palabra]] * self.indice_pesos_offline[self.indice_dicc_palabras_invertidas[id_palabra]][self.indice_dicc_documentos_invertidas[id_doc]])
-                
+                    if id_palabra in self.indice_dicc_palabras_invertidas:
+                        if self.indice_dicc_documentos_invertidas[id_doc] in self.indice_pesos_offline[self.indice_dicc_palabras_invertidas[id_palabra]]: #Si existe la palabra en el documento...
+                            sumatoria = sumatoria + (self.pesos_palabras_norm[self.indice_dicc_palabras_invertidas[id_palabra]] * self.indice_pesos_offline[self.indice_dicc_palabras_invertidas[id_palabra]][self.indice_dicc_documentos_invertidas[id_doc]])
+                    else:
+                        consulta.remove(id_palabra) #ELIMINAR LA PALABRA QUE NO EXISTE EN EL VOCABULARIO DE TÉRMINOS CREADO DE FORMA OFFLINE 
+                        if len(consulta) == 0:
+                            self.lista_consultas.remove(consulta) #EN CASO DE DICHA LISTA DE CONSULTA QUEDARSE VACÍA ELIMINAR LA LISTA DE LA LISTA DE CONSULTAS
+                            
                 if sumatoria > 0:
                     self.similitud_docs_consulta[self.indice_dicc_documentos_invertidas[id_doc]] = sumatoria
-                    #archivo.write(str(id_doc)+" --> similitud = "+str(sumatoria)+"\n")
+                    archivo.write(str(id_doc)+" --> similitud = "+str(sumatoria)+"\n")
             tiempo_ejecucion = time.time() - start_time
             archivo.write("------ TIEMPO EN SEGUNDOS EN CALCULAR LA SIMILITUD PARA LOS DOCUMENTOS = "+str(tiempo_ejecucion)+" ------\n")
             
-            
             self.similitud_docs_consulta = sorted(self.similitud_docs_consulta.items(),reverse = True, key=operator.itemgetter(1))
             
-            for sim in self.similitud_docs_consulta:
-                archivo.write(str(id_doc)+" --> similitud = "+str(sim[1])+"\n")
+            #print(self.similitud_docs_consulta)
             archivo.close()
             
             archivo2.write("Consulta: "+self.dicc_consultas[cont])
@@ -143,6 +147,8 @@ class Buscador(object):
         #Tengo el diccionario de por cada palabra de la colección, aparece la frecuencia que tiene ésta sobre cada uno de los documentos donde aparece...
         rutaDiccionario = self.config['OFFLINE']['ruta_almacen_documentos_frecuencia_palabras']
         dicc_documentos_frec_palabras = self.pares_palabra_frecuencia_online.cargarEEDD_documentosFrecuenciaPalabras(rutaDiccionario)
+        
+        print(self.lista_consultas)
         
         aux = []
         for lista in self.lista_consultas:
@@ -193,8 +199,9 @@ class Buscador(object):
         for id_doc in self.indice_dicc_documentos_invertidas: #Por cada documento
             sumatoria = 0.0
             for id_palabra in self.lista_consultas: #Por cada palabra de la consulta
-                if self.indice_dicc_documentos_invertidas[id_doc] in self.indice_pesos_offline[self.indice_dicc_palabras_invertidas[id_palabra]]: #Si existe la palabra en el documento...
-                    sumatoria = sumatoria + (self.pesos_palabras_norm[self.indice_dicc_palabras_invertidas[id_palabra]] * self.indice_pesos_offline[self.indice_dicc_palabras_invertidas[id_palabra]][self.indice_dicc_documentos_invertidas[id_doc]])
+                if id_palabra in self.indice_dicc_palabras_invertidas:
+                    if self.indice_dicc_documentos_invertidas[id_doc] in self.indice_pesos_offline[self.indice_dicc_palabras_invertidas[id_palabra]]: #Si existe la palabra en el documento...
+                        sumatoria = sumatoria + (self.pesos_palabras_norm[self.indice_dicc_palabras_invertidas[id_palabra]] * self.indice_pesos_offline[self.indice_dicc_palabras_invertidas[id_palabra]][self.indice_dicc_documentos_invertidas[id_doc]])
             
             if sumatoria > 0:
                 self.similitud_docs_consulta[self.indice_dicc_documentos_invertidas[id_doc]] = sumatoria

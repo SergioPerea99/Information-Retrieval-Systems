@@ -258,7 +258,9 @@ if "name" in buscador_input:
     buscador.procesar_pesos()
     
     lista_palabras_consulta_primaria = buscador.getListaConsulta()
-    #buscador.pseudoalimentacion_prf(5,5) #AQUÍ PARA AÑADIR LA PSEUDOALIMENTACION
+    
+    #if len(lista_palabras_consulta_primaria) > 0:
+        #buscador.pseudoalimentacion_prf(5,5) #AQUÍ PARA AÑADIR LA PSEUDOALIMENTACION
     
     rutaColeccion = config['ONLINE']['ruta_ficheros_consultas_resultados_ordenados']
     contenido = os.listdir(rutaColeccion)
@@ -310,6 +312,8 @@ if "name" in buscador_input:
                     #YA TENGO LA LISTA DE PALABRAS Y SUS POSICIONES EN EL TEXTO, AHORA UNA HEURÍSTICA POR CERCANÍA.
                     #Heurística básica --> ordenación por número, encontrar los distintos términos más próximos...
                     lista_posiciones_palabra = sorted(lista_posiciones_palabra, key=lambda palabraPeso : palabraPeso[1])
+                    
+                    
                     
                     j = 0
                     min_distancias = 10000
