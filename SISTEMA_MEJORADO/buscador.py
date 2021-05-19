@@ -44,6 +44,7 @@ class Buscador(object):
         raices = Stemmer()
         lista_palabras_consulta = raices.extraccion_raices(ruta_destino, ruta_destino)
         lista_aux = []
+        
         self.lista_consultas = []
         i = 0
         while i < len(lista_palabras_consulta[1]):
@@ -56,8 +57,20 @@ class Buscador(object):
                 self.lista_consultas.append(lista_aux.copy())
                 lista_aux.clear()
             i += 1
+        
+        #De lista de listas a lista
+        aux = []
+        for i in self.lista_consultas:
+            if type(i) is list:
+                for palabra in i:
+                    aux.append(palabra)
+            else:
+                 aux.append(i)
+        self.lista_consultas = aux.copy()
+        
+        
     
-    def procesar_pesos(self):
+    def procesar_pesos(self,prf):
         self.pares_palabra_frecuencia_online = Pares_Palabra_Frecuencia()
         self.fich_pesosNorm_online = Ficheros_Pesos_Normalizados()
         rutaGuardado = self.config['OFFLINE']['ruta_coleccion_ficherosNormalizados']
@@ -71,93 +84,63 @@ class Buscador(object):
         rutaGuardado = self.config['OFFLINE']['ruta_diccionario_palabras']
         self.dicc_palabras = self.pares_palabra_frecuencia_online.cargarEEDD_diccPalabras(rutaGuardado)
         
+        
         cont = 1
         ruta_fichero_resultados = self.config['ONLINE']['ruta_ficheros_consultas_resultados']
         ruta_fichero_resultados_ordenados = self.config['ONLINE']['ruta_ficheros_consultas_resultados_ordenados']
-        for consulta in self.lista_consultas:
-            
-            #Calculo de los pesos normalizados por consulta
-            pesos_palabras = self.fich_pesosNorm_online.pesos_palabras_consulta(self.indice_idf_offline, consulta, self.indice_dicc_palabras_invertidas)
-            self.pesos_palabras_norm = self.fich_pesosNorm_online.normalizar_pesos_consulta(pesos_palabras)
-            
-            archivo = open(join(ruta_fichero_resultados,"consulta"+str(cont)+".txt"),"w")
-            archivo2 = open(join(ruta_fichero_resultados_ordenados,"consulta"+str(cont)+".txt"),"w")
-            
-            #Calculo de la similitud de la consulta con los documentos de la colección
-            self.similitud_docs_consulta = {}
+        #Calculo de los pesos normalizados por consulta
+        pesos_palabras = self.fich_pesosNorm_online.pesos_palabras_consulta(self.indice_idf_offline, self.lista_consultas, self.indice_dicc_palabras_invertidas)
+        self.pesos_palabras_norm = self.fich_pesosNorm_online.normalizar_pesos_consulta(pesos_palabras)
+        
+        archivo = open(join(ruta_fichero_resultados,"consulta"+str(cont)+".txt"),"w")
+        archivo2 = open(join(ruta_fichero_resultados_ordenados,"consulta"+str(cont)+".txt"),"w")
+        
+        #Calculo de la similitud de la consulta con los documentos de la colección
+        self.similitud_docs_consulta = {}
 
 
-            start_time = time.time()
-            for id_doc in self.indice_dicc_documentos_invertidas: #Por cada documento
-                sumatoria = 0.0
-                for id_palabra in consulta: #Por cada palabra de la consulta
-                    if id_palabra in self.indice_dicc_palabras_invertidas:
-                        if self.indice_dicc_documentos_invertidas[id_doc] in self.indice_pesos_offline[self.indice_dicc_palabras_invertidas[id_palabra]]: #Si existe la palabra en el documento...
-                            sumatoria = sumatoria + (self.pesos_palabras_norm[self.indice_dicc_palabras_invertidas[id_palabra]] * self.indice_pesos_offline[self.indice_dicc_palabras_invertidas[id_palabra]][self.indice_dicc_documentos_invertidas[id_doc]])
-                    else:
-                        consulta.remove(id_palabra) #ELIMINAR LA PALABRA QUE NO EXISTE EN EL VOCABULARIO DE TÉRMINOS CREADO DE FORMA OFFLINE 
-                        if len(consulta) == 0:
-                            self.lista_consultas.remove(consulta) #EN CASO DE DICHA LISTA DE CONSULTA QUEDARSE VACÍA ELIMINAR LA LISTA DE LA LISTA DE CONSULTAS
-                            
-                if sumatoria > 0:
-                    self.similitud_docs_consulta[self.indice_dicc_documentos_invertidas[id_doc]] = sumatoria
-                    archivo.write(str(id_doc)+" --> similitud = "+str(sumatoria)+"\n")
-            tiempo_ejecucion = time.time() - start_time
-            archivo.write("------ TIEMPO EN SEGUNDOS EN CALCULAR LA SIMILITUD PARA LOS DOCUMENTOS = "+str(tiempo_ejecucion)+" ------\n")
-            
-            self.similitud_docs_consulta = sorted(self.similitud_docs_consulta.items(),reverse = True, key=operator.itemgetter(1))
-            
-            #print(self.similitud_docs_consulta)
-            archivo.close()
-            
-            archivo2.write("Consulta: "+self.dicc_consultas[cont])
-            
-            
-            i = 0
-            for id_doc in self.similitud_docs_consulta:
-                if i < self.doc_max:
-                    contenido_archivo = self.mostrarContenidoArchivo(self.indice_dicc_documentos[id_doc[0]])
-                    archivo2.write(str(contenido_archivo[0])+"\n"+str(contenido_archivo[1])+"\n"+str(contenido_archivo[2])+"\n")
+        start_time = time.time()
+        for id_doc in self.indice_dicc_documentos_invertidas: #Por cada documento
+            sumatoria = 0.0
+            for id_palabra in self.lista_consultas: #Por cada palabra de la consulta
+                if id_palabra in self.indice_dicc_palabras_invertidas:
+                    if self.indice_dicc_documentos_invertidas[id_doc] in self.indice_pesos_offline[self.indice_dicc_palabras_invertidas[id_palabra]]: #Si existe la palabra en el documento...
+                        sumatoria = sumatoria + (self.pesos_palabras_norm[self.indice_dicc_palabras_invertidas[id_palabra]] * self.indice_pesos_offline[self.indice_dicc_palabras_invertidas[id_palabra]][self.indice_dicc_documentos_invertidas[id_doc]])
                 else:
-                    break
-                i += 1
-            cont += 1
+                    self.lista_consultas.remove(id_palabra) #ELIMINAR LA PALABRA QUE NO EXISTE EN EL VOCABULARIO DE TÉRMINOS CREADO DE FORMA OFFLINE 
+                    
+            if sumatoria > 0:
+                self.similitud_docs_consulta[self.indice_dicc_documentos_invertidas[id_doc]] = sumatoria
+                archivo.write(str(id_doc)+" --> similitud = "+str(sumatoria)+"\n")
+        tiempo_ejecucion = time.time() - start_time
+        archivo.write("------ TIEMPO EN SEGUNDOS EN CALCULAR LA SIMILITUD PARA LOS DOCUMENTOS = "+str(tiempo_ejecucion)+" ------\n")
         
-            archivo2.close()
+        self.similitud_docs_consulta = sorted(self.similitud_docs_consulta.items(),reverse = True, key=operator.itemgetter(1))
+        
+        #print(self.similitud_docs_consulta)
+        archivo.close()
+        
+        archivo2.write("Consulta: "+self.dicc_consultas[cont])
         
         
-        
+        i = 0
+        for id_doc in self.similitud_docs_consulta:
+            if i < self.doc_max:
+                contenido_archivo = self.mostrarContenidoArchivo(self.indice_dicc_documentos[id_doc[0]])
+                archivo2.write(str(contenido_archivo[0])+"\n"+str(contenido_archivo[1])+"\n"+str(contenido_archivo[2])+"\n")
+            else:
+                break
+            i += 1
+        cont += 1
     
-    def mostrarContenidoArchivo(self,nombre_archivo):
-        rutaColeccion = self.config['OFFLINE']['ruta_coleccion_inicio']
-        nombre_archivo = nombre_archivo.split(".")
-        nombre_archivo = nombre_archivo[0] + ".xml"
-        doc = minidom.parse(join(rutaColeccion,nombre_archivo))
-        titulo = doc.getElementsByTagName("dc:title")[0]
-        introduccion = doc.getElementsByTagName("dc:description")[0]
-        url = doc.getElementsByTagName("dc:identifier")[0]
-        titulo = titulo.firstChild.data
-        introduccion = introduccion.firstChild.data
-        url = url.firstChild.data
-        return [str(url), str(titulo),str(introduccion)]
-    
-    
+        archivo2.close()
+        
+       
     
     def pseudoalimentacion_prf(self,num_docs_relevantes, num_palabras_frecuentes):
         #Tengo el diccionario de por cada palabra de la colección, aparece la frecuencia que tiene ésta sobre cada uno de los documentos donde aparece...
         rutaDiccionario = self.config['OFFLINE']['ruta_almacen_documentos_frecuencia_palabras']
         dicc_documentos_frec_palabras = self.pares_palabra_frecuencia_online.cargarEEDD_documentosFrecuenciaPalabras(rutaDiccionario)
-        
-        #HASTA AQUÍ SE SUPONE QUE BIEN
-        
-        #Pasar la lista de listas a una lista simple donde almacenar todos los elementos.
-        aux = []
-        for lista in self.lista_consultas:
-            for palabra in lista:
-                aux.append(palabra)
-        self.lista_consultas = aux.copy()
-        
-        
         
         i = 0
         for doc_peso in self.similitud_docs_consulta:
@@ -177,60 +160,22 @@ class Buscador(object):
         
         
         #Ahora se vuelve a hacer el cálculo de los pesos
-        #print(self.lista_consultas)
-        self.procesar_pesos_2()
+        self.procesar_pesos(True)
         
     
-    def procesar_pesos_2(self):
-        cont = 1
-        ruta_fichero_resultados = self.config['ONLINE']['ruta_ficheros_consultas_resultados']
-        ruta_fichero_resultados_ordenados = self.config['ONLINE']['ruta_ficheros_consultas_resultados_ordenados']
-        
-        #Calculo de los pesos normalizados por consulta
-        pesos_palabras = self.fich_pesosNorm_online.pesos_palabras_consulta(self.indice_idf_offline, self.lista_consultas, self.indice_dicc_palabras_invertidas)
-        self.pesos_palabras_norm = self.fich_pesosNorm_online.normalizar_pesos_consulta(pesos_palabras)
-        
-        archivo = open(join(ruta_fichero_resultados,"consulta"+str(cont)+".txt"),"w")
-        archivo2 = open(join(ruta_fichero_resultados_ordenados,"consulta"+str(cont)+".txt"),"w")
-        
-        #Calculo de la similitud de la consulta con los documentos de la colección
-        self.similitud_docs_consulta = {}
-
-
-        start_time = time.time()
-        for id_doc in self.indice_dicc_documentos_invertidas: #Por cada documento
-            sumatoria = 0.0
-            for id_palabra in self.lista_consultas: #Por cada palabra de la consulta
-                if id_palabra in self.indice_dicc_palabras_invertidas:
-                    if self.indice_dicc_documentos_invertidas[id_doc] in self.indice_pesos_offline[self.indice_dicc_palabras_invertidas[id_palabra]]: #Si existe la palabra en el documento...
-                        sumatoria = sumatoria + (self.pesos_palabras_norm[self.indice_dicc_palabras_invertidas[id_palabra]] * self.indice_pesos_offline[self.indice_dicc_palabras_invertidas[id_palabra]][self.indice_dicc_documentos_invertidas[id_doc]])
-            
-            if sumatoria > 0:
-                self.similitud_docs_consulta[self.indice_dicc_documentos_invertidas[id_doc]] = sumatoria
-                archivo.write(str(id_doc)+" --> similitud = "+str(sumatoria)+"\n")
-        tiempo_ejecucion = time.time() - start_time
-        archivo.write("------ TIEMPO EN SEGUNDOS EN CALCULAR LA SIMILITUD PARA LOS DOCUMENTOS = "+str(tiempo_ejecucion)+" ------\n")
-        archivo.close()
-        
-        self.similitud_docs_consulta = sorted(self.similitud_docs_consulta.items(),reverse = True, key=operator.itemgetter(1))
-        
-        archivo2.write("Consulta: "+self.dicc_consultas[cont])
-            
-            
-        i = 0
-        for id_doc in self.similitud_docs_consulta:
-            if i < self.doc_max:
-                contenido_archivo = self.mostrarContenidoArchivo(self.indice_dicc_documentos[id_doc[0]])
-                archivo2.write(str(contenido_archivo[0])+"\n"+str(contenido_archivo[1])+"\n"+str(contenido_archivo[2])+"\n")
-            else:
-                break
-            i += 1
-        cont += 1
     
-        archivo2.close()
-    
-    
-    
+    def mostrarContenidoArchivo(self,nombre_archivo):
+        rutaColeccion = self.config['OFFLINE']['ruta_coleccion_inicio']
+        nombre_archivo = nombre_archivo.split(".")
+        nombre_archivo = nombre_archivo[0] + ".xml"
+        doc = minidom.parse(join(rutaColeccion,nombre_archivo))
+        titulo = doc.getElementsByTagName("dc:title")[0]
+        introduccion = doc.getElementsByTagName("dc:description")[0]
+        url = doc.getElementsByTagName("dc:identifier")[0]
+        titulo = titulo.firstChild.data
+        introduccion = introduccion.firstChild.data
+        url = url.firstChild.data
+        return [str(url), str(titulo),str(introduccion)]
     
     def getListaConsulta(self):
         return self.lista_consultas
