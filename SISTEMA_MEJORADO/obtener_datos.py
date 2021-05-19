@@ -255,7 +255,7 @@ if "name" in buscador_input:
     archivo.close()
     
     buscador = Buscador(config,ruta_fichero_consultas,5)
-    buscador.procesar_pesos(False)
+    buscador.procesar_pesos()
     
     lista_palabras_consulta_primaria = buscador.getListaConsulta()
     pesosPalabrasConsulta = buscador.getPesosPalabrasConsulta()

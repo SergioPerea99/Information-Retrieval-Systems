@@ -1,5 +1,4 @@
-asma
-important
-factor
-predecir
-viru
+enfermedad
+respiratoria
+infecciosa
+intestinal

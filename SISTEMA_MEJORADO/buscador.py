@@ -63,14 +63,16 @@ class Buscador(object):
         for i in self.lista_consultas:
             if type(i) is list:
                 for palabra in i:
-                    aux.append(palabra)
+                    if palabra not in aux:
+                        aux.append(palabra)
             else:
+                if palabra not in aux:
                  aux.append(i)
         self.lista_consultas = aux.copy()
         
         
     
-    def procesar_pesos(self,prf):
+    def procesar_pesos(self):
         self.pares_palabra_frecuencia_online = Pares_Palabra_Frecuencia()
         self.fich_pesosNorm_online = Ficheros_Pesos_Normalizados()
         rutaGuardado = self.config['OFFLINE']['ruta_coleccion_ficherosNormalizados']
@@ -150,7 +152,8 @@ class Buscador(object):
                 j = 0
                 for palabra in dicc_orden_palabras_doc:
                     if j < num_palabras_frecuentes:
-                        self.lista_consultas.append(self.dicc_palabras[palabra[0]])
+                        if self.dicc_palabras[palabra[0]] not in self.lista_consultas:
+                            self.lista_consultas.append(self.dicc_palabras[palabra[0]])
                     else:
                         break
                     j += 1
@@ -160,7 +163,7 @@ class Buscador(object):
         
         
         #Ahora se vuelve a hacer el cálculo de los pesos
-        self.procesar_pesos(True)
+        self.procesar_pesos()
         
     
     
