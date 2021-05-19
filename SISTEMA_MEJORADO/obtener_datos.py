@@ -313,7 +313,6 @@ if "name" in buscador_input:
                     lista_posiciones_palabra = sorted(lista_posiciones_palabra, key=lambda palabraPeso : palabraPeso[1])
                     
                     
-                    
                     j = 0
                     min_distancias = 10000
                     pos_solucion = -1
@@ -329,9 +328,11 @@ if "name" in buscador_input:
                             
                         j += 1
                     
-                    if pos_solucion == -1: #En caso de no haber encontrado 2 términos distintos, añadir la posición de la primera palabra encontrada.
-                        pos_solucion = lista_posiciones_palabra[0][1] 
-                    
+                    if pos_solucion == -1: #En caso de no haber encontrado 2 términos distintos
+                        if len(lista_posiciones_palabra) > 0:
+                            pos_solucion = lista_posiciones_palabra[0][1] #Posición añadida respectiva a la posición de la primera palabra encontrada.
+                        else:
+                            pos_solucion = 0 #En caso de no encontrar ninguna palabra, empezar desde el inicio
                     
                     #AHORA, MOSTRAR EL CONTENIDO ENTRE UN INTERVALO DONDE LA MITAD SEA EL POS_SOLUCION...
                     poss = pos_solucion - 10
