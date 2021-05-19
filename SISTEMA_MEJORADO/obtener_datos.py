@@ -255,9 +255,11 @@ if "name" in buscador_input:
     archivo.close()
     
     buscador = Buscador(config,ruta_fichero_consultas,5)
-    buscador.procesar_pesos()
+    buscador.procesar_pesos(False)
     
     lista_palabras_consulta_primaria = buscador.getListaConsulta()
+    pesosPalabrasConsulta = buscador.getPesosPalabrasConsulta()
+    palabras_negrita = {contenido[0]: "" for contenido in pesosPalabrasConsulta}
     
     if len(lista_palabras_consulta_primaria) > 0:
         buscador.pseudoalimentacion_prf(5,5) #AQUÍ PARA AÑADIR LA PSEUDOALIMENTACION
@@ -266,7 +268,6 @@ if "name" in buscador_input:
     contenido = os.listdir(rutaColeccion)
     
     archivos = [join(rutaColeccion,nombre) for nombre in contenido]
-    
     
     
     for consulta in archivos:
@@ -295,9 +296,7 @@ if "name" in buscador_input:
                 
                 if (i-1)%3 == 2:
                     #Cuerpo del documento... Se va a mostrar la parte con mayor relevancia según la consulta
-                    pesosPalabrasConsulta = buscador.getPesosPalabrasConsulta()
                     
-                
                     lista_contenido = linea.split(" ")
                     
                     lista_posiciones_palabra = []
@@ -335,7 +334,6 @@ if "name" in buscador_input:
                     
                     
                     #AHORA, MOSTRAR EL CONTENIDO ENTRE UN INTERVALO DONDE LA MITAD SEA EL POS_SOLUCION...
-                    palabras_negrita = {contenido[0]: "" for contenido in pesosPalabrasConsulta}
                     poss = pos_solucion - 10
                     if poss < 0: 
                         poss = 0 
@@ -351,7 +349,8 @@ if "name" in buscador_input:
                                 for palabra_consulta_primaria in lista_palabras_consulta_primaria:
                                     if pal_negrita in palabra_consulta_primaria:
                                         negrita = True
-                                        print("""<b>%s </b>""" % (lista_contenido[poss])) 
+                                        print("""<b>%s </b>""" % (lista_contenido[poss]))
+                                        break;
                         if not negrita:
                             print("""%s """ % (lista_contenido[poss]))
                         poss += 1
