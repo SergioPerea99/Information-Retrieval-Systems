@@ -249,32 +249,40 @@ if "name" in buscador_input:
     config = configparser.ConfigParser()
     config.read('conf.ini')
     
+    #- Se recoge la consulta en consulta.txt
     ruta_fichero_consultas = config['ONLINE']['ruta_fich_consultas']
     archivo = open(ruta_fichero_consultas,"w", encoding='utf8')
     archivo.write(str(buscador_input["name"].value)+"\n")
     archivo.close()
     
+    #- Se crea el objeto buscador para poder procesar los pesos de la consulta.
     buscador = Buscador(config,ruta_fichero_consultas,5)
-    buscador.procesar_pesos(False)
+    buscador.procesar_pesos()
     
+    #- Se recoge la información de cuáles fueron las primeras palabras de la consulta, sus pesos y se obtiene las palabras a poner en negrita.
     lista_palabras_consulta_primaria = buscador.getListaConsulta()
     pesosPalabrasConsulta = buscador.getPesosPalabrasConsulta()
     palabras_negrita = {contenido[0]: "" for contenido in pesosPalabrasConsulta}
     
+    #- Se llama a la pseudorealimentación por relevancia (siempre y cuando no fuese una consulta con sólo palabras vacías o inexistentes en el vocabulario de la colección)
     if len(lista_palabras_consulta_primaria) > 0:
-        buscador.pseudoalimentacion_prf(5,5) #AQUÍ PARA AÑADIR LA PSEUDOALIMENTACION
+        buscador.pseudorealimentacion_prf(5,5) #AQUÍ PARA AÑADIR LA PSEUDOREALIMENTACION
     
+    
+    #Se preparan para abrirse los documentos de la colección que han sido relevantes para la consulta y que están ORDENADOS.
     rutaColeccion = config['ONLINE']['ruta_ficheros_consultas_resultados_ordenados']
     contenido = os.listdir(rutaColeccion)
-    
     archivos = [join(rutaColeccion,nombre) for nombre in contenido]
     
-    
+    #Por cada archivo relevante ordenado...
     for consulta in archivos:
         fichero = open(consulta,"r")
-        i = 0
         
+        i = 0
+        #Por cada línea del fichero "consulta" (recoge: texto de la consulta, 5x(URL,Título,Contenido))
         for linea in fichero:
+            
+            #Muestra el texto de la consulta
             if i == 0:
                 print("""<div class="container">
                       <form id="survey-form">
@@ -283,24 +291,26 @@ if "name" in buscador_input:
                       </div>        
                       </form>
                       </div>""" % (linea))
+            
             else:
                 
+                #Recoge la URL, la cual será enlazada al título
                 if (i-1)%3 == 0:
                     print("""<div class="container">
                           <form id="survey-form">
                           <div class="form-result">
                           <a class="text-center" href = "%s"> """ % (linea))
                 
+                #Muestra el título, ya enlazado al documento con la URL anterior
                 if (i-1)%3 == 1:
                     print("""<h1>%s</h1></a>"""  % (linea))
                 
+                #Muestra el cuerpo del documento: Se mostrará una frase con contenido destacable según la consulta del usuario (No la de la pseudorealimentación por relevancia)
                 if (i-1)%3 == 2:
-                    #Cuerpo del documento... Se va a mostrar la parte con mayor relevancia según la consulta
                     
+                    #Se prepara todo el cuerpo en una lista de contenido del documento.
                     lista_contenido = linea.split(" ")
-                    
                     lista_posiciones_palabra = []
-                    
                     for palabra_peso in pesosPalabrasConsulta:
                         contador = 0
                         for p in lista_contenido:
@@ -308,10 +318,9 @@ if "name" in buscador_input:
                                 lista_posiciones_palabra.append((palabra_peso[0],contador)) #Añadir un sitio que nos localiza la palabra-posición donde aparece del documento
                             contador += 1
                     
-                    #YA TENGO LA LISTA DE PALABRAS Y SUS POSICIONES EN EL TEXTO, AHORA UNA HEURÍSTICA POR CERCANÍA.
-                    #Heurística básica --> ordenación por número, encontrar los distintos términos más próximos...
+                    #Cálculo de qué parte del texto será la mostrada: 
+                    #Una vez encontrada una palabra o varias en negrita (con cierto criterio), se muestran 10 palabras por delante y por detrás (como máximo, en caso de que haya). 
                     lista_posiciones_palabra = sorted(lista_posiciones_palabra, key=lambda palabraPeso : palabraPeso[1])
-                    
                     
                     j = 0
                     min_distancias = 10000
@@ -334,7 +343,6 @@ if "name" in buscador_input:
                         else:
                             pos_solucion = 0 #En caso de no encontrar ninguna palabra, empezar desde el inicio
                     
-                    #AHORA, MOSTRAR EL CONTENIDO ENTRE UN INTERVALO DONDE LA MITAD SEA EL POS_SOLUCION...
                     poss = pos_solucion - 10
                     if poss < 0: 
                         poss = 0 

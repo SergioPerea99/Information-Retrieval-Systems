@@ -1,3 +1,4 @@
-45435
-34
-tt
+enfermedad
+respiratoria
+infecciosa
+intestinal

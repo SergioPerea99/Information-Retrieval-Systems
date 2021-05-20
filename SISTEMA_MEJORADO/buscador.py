@@ -70,7 +70,7 @@ class Buscador(object):
         
         
     
-    def procesar_pesos(self,prf):
+    def procesar_pesos(self):
         self.pares_palabra_frecuencia_online = Pares_Palabra_Frecuencia()
         self.fich_pesosNorm_online = Ficheros_Pesos_Normalizados()
         rutaGuardado = self.config['OFFLINE']['ruta_coleccion_ficherosNormalizados']
@@ -137,7 +137,7 @@ class Buscador(object):
         
        
     
-    def pseudoalimentacion_prf(self,num_docs_relevantes, num_palabras_frecuentes):
+    def pseudorealimentacion_prf(self,num_docs_relevantes, num_palabras_frecuentes):
         #Tengo el diccionario de por cada palabra de la colección, aparece la frecuencia que tiene ésta sobre cada uno de los documentos donde aparece...
         rutaDiccionario = self.config['OFFLINE']['ruta_almacen_documentos_frecuencia_palabras']
         dicc_documentos_frec_palabras = self.pares_palabra_frecuencia_online.cargarEEDD_documentosFrecuenciaPalabras(rutaDiccionario)
@@ -160,7 +160,7 @@ class Buscador(object):
         
         
         #Ahora se vuelve a hacer el cálculo de los pesos
-        self.procesar_pesos(True)
+        self.procesar_pesos()
         
     
     
