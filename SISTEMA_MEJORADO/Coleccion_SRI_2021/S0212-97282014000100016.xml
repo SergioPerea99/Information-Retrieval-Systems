@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0212-97282014000100016</identifier>
+<datestamp>2014-10-01</datestamp>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Oliver,Amparo]]></dc:creator>
+<dc:creator><![CDATA[Sancho,Patricia]]></dc:creator>
+<dc:creator><![CDATA[Galiana,Laura]]></dc:creator>
+<dc:creator><![CDATA[Cebrià i Iranzo,Maria A.]]></dc:creator>
+<dc:subject><![CDATA[Ansiedad estadística]]></dc:subject>
+<dc:subject><![CDATA[rendimiento académico]]></dc:subject>
+<dc:subject><![CDATA[fiabilidad]]></dc:subject>
+<dc:subject><![CDATA[validez]]></dc:subject>
+<dc:publisher><![CDATA[Universidad de Murcia]]></dc:publisher>
+<dc:source><![CDATA[Anales de Psicología  v.30 n.1 2014]]></dc:source>
+<dc:date>2014-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-97282014000100016</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Nueva evidencia sobre la Statistical Anxiety Scale (SAS)]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[New evidence on the Statistical Anxiety Scale (SAS)]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Las asignaturas relacionadas con la estadística suelen tener problemas de rendimiento académico. La ansiedad se relaciona de forma negativa con el rendimiento y en particular, la ansiedad estadística puede ser un constructo clave en la mejora de la enseñanza de esta materia y afines. La Statistical Anxiety Scale (Vigil-Colet, Lorenzo-Seva y Condon, 2008) se creó con la pretensión de ser útil para predecir el rendimiento académico en estadística. Se fundamenta en tres dimensiones de ansiedad referidas a tres aspectos específicos: respecto al examen, cuando se pide ayuda en la comprensión de estadística y en el proceso de interpretación de resultados. Esta estructura de tres factores fue hallada en un primer momento por los autores de la escala y en una primera validación corroborada en estudiantes italianos y españoles. El presente estudio pretende añadir nueva evidencia sobre la fiabilidad y validez de la escala, empleando en el estudio de fiabilidad técnicas estadísticas robustas, y ampliando el estudio de la validez respecto a su principal criterio, el rendimiento académico, ya que no puede ser considerado sinónimo de autoeficacia.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[As anxiety is negatively related to academic performance, and it is broadly known the existence of both anxiety towards statistics and negative statistics results, statistical anxiety may play a role of mediating negative outcomes in this subject. In this context, the Statistical Anxiety Scale (Vigil-Colet, Lorenzo-Seva, & Condon, 2008) aims to be a useñil tool in the comparison of the predictive power of specific and general measures of statistics performance. In order to achieve this goal, the scale is based on three dimensions of anxiety, referred to three specific issues: regarding the exam, when asking for help or advice in statistics understanding and during the process of results interpretation. This three factor structure was found in the scale first validation, in a sample composed by Italian and Spanish students. The aim of the current study is to add new evidence on the reliability and validity of the scale, using robust statistical techniques for the reliability study, and extending the validity of the study regarding its main critena: academic performance, as it shouldnt be considered as synonymous of selfefficacy.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

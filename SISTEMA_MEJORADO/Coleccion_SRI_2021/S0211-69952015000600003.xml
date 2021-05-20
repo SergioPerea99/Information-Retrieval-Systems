@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952015000600003</identifier>
+<datestamp>2016-01-26</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Albalate Ramón,Marta]]></dc:creator>
+<dc:creator><![CDATA[Sequera Ortiz,Patricia de]]></dc:creator>
+<dc:creator><![CDATA[Pérez-García,Rafael]]></dc:creator>
+<dc:creator><![CDATA[Corchete Prats,Elena]]></dc:creator>
+<dc:creator><![CDATA[Alcázar Arroyo,Roberto]]></dc:creator>
+<dc:creator><![CDATA[Ortega Díaz,Mayra]]></dc:creator>
+<dc:creator><![CDATA[Puerta Carretero,Marta]]></dc:creator>
+<dc:subject><![CDATA[Flujo de líquido de diálisis]]></dc:subject>
+<dc:subject><![CDATA[Kt]]></dc:subject>
+<dc:subject><![CDATA[Hemodiafiltración en línea]]></dc:subject>
+<dc:subject><![CDATA[Flujo de infusión]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.35 n.6 2015]]></dc:source>
+<dc:date>2015-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952015000600003</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[¿Cuál es el flujo de baño óptimo en la hemodiafiltración on-line posdilucional?]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[What is the optimum dialysate flow in post-dilution online haemodiafiltration?]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: En la hemodiafiltración en línea posdilucional (HDFOL) la única recomendación acerca del líquido de diálisis (LD) hace referencia a su pureza. No se ha definido si usar flujos de baño (Qd) elevados tiene alguna utilidad para aumentar el Kt o el volumen de ultrafiltración-infusión (VI). Objetivo: Estudiar cómo influye el Qd en el Kt y en el VI en la HDFOL. Material y métodos: Estudio cruzado prospectivo. Se incluyó a 37 pacientes a los que se les realizaron 6 sesiones de HDFOL con cada Qd: 500, 600 y 700 ml/min. Veintiún pacientes se dializaron en monitor 5008® y 17 con AK-200®. Los dializadores utilizados fueron: 20 con FX800® y 17 con Polyflux-210®. El resto de los parámetros se mantuvieron constantes. Se recogieron del monitor: flujo efectivo de sangre, tiempo efectivo de diálisis, Kt final y VI. Resultados: Encontramos que usando un Qd = 600 o 700 ml/min, el Kt aumentó un 1,7% respecto al uso de Qd = 500 ml/min. Las diferencias de VI no fueron significativas. Aumentar el Qd de 500 ml/min a 600 y 700 ml/min aumenta el consumo de LD un 20 y un 40%, respectivamente. Conclusiones: En la HDFOL con los monitores y dializadores utilizados no son útiles los Qd superiores a 500 ml/min para aumentar la eficacia del Kt ni el VI, por lo que su utilización implica un despilfarro de un recurso como el agua, tan importante tanto desde el punto de vista ecológico como económico.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: In post-dilution online hemodiafiltration (OL-HDF), the only recommendation concerning the dialysate, or dialysis fluid, refers to its purity. No study has yet determined whether using a high dialysate flow (Qd) is useful for increasing Kt or ultrafiltration-infusion volume. Objective: Study the influence of Qd on Kt and on infusion volume in OL-HDF. Material and methods: This was a prospective crossover study. There were 37 patients to whom 6 sessions of OL-HDF were administered at 3 different Qds: 500, 600 and 700 ml/min. A 5008® monitor was used for the dialysis in 21 patients, while an AK-200® was used in 17. The dialysers used were: 20 with FX 800® and 17 with Polyflux-210®. The rest of the parameters were kept constant. Monitor data collected were effective blood flow, effective dialysis time, final Kt and infused volume. Results: We found that using a Qd of 600 or 700 ml/min increased Kt by 1.7% compared to using a Qd of 500 ml/min. Differences in infusion volume were not significant. Increasing Qd from 500 ml/min to 600 and 700 ml/min increased dialysate consumption by 20% and 40%, respectively. Conclusions: With the monitors and dialysers currently used in OL-HDF, a Qd higher than 500 ml/min is unhelpful for increasing the efficacy of Kt or infusion volume. Consequently, using a high Qd wastes water, a truly important resource both from the ecological and economic points of view.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

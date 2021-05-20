@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0212-97282013000300041</identifier>
+<datestamp>2014-09-30</datestamp>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Osca-Lluch,Julia]]></dc:creator>
+<dc:creator><![CDATA[Miguel,Sandra]]></dc:creator>
+<dc:creator><![CDATA[González,Claudia]]></dc:creator>
+<dc:creator><![CDATA[Peñaranda-Ortega,María]]></dc:creator>
+<dc:creator><![CDATA[Quiñones-Vidal,Elena]]></dc:creator>
+<dc:subject><![CDATA[Revistas científicas]]></dc:subject>
+<dc:subject><![CDATA[Psicología]]></dc:subject>
+<dc:subject><![CDATA[Scopus]]></dc:subject>
+<dc:subject><![CDATA[Web of Science]]></dc:subject>
+<dc:subject><![CDATA[España]]></dc:subject>
+<dc:publisher><![CDATA[Universidad de Murcia]]></dc:publisher>
+<dc:source><![CDATA[Anales de Psicología  v.29 n.3 2013]]></dc:source>
+<dc:date>2013-10-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-97282013000300041</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Cobertura y solapamiento de Web of Science y Scopus en el análisis de la actividad científica española en psicología]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Coverage and overlap of the Web of Science and Scopus in the analysis of the Spanish scientific activity in Psychology]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Este estudio tiene como primer objetivo conocer el volumen y evolución de la producción científica española en psicología a partir de las bases de datos del Web of Science (Thomson Reuters) y Scopus (Elsevier), durante el periodo 2000-2009. A partir de allí, se propone determinar cuáles son las revistas científicas más utilizadas por los psicólogos españoles para difundir sus trabajos a nivel internacional y comparar la cobertura y solapamiento de revistas y documentos que presentan ambas bases de datos. Se ofrecen datos cuantitativos, se estudia la posible correlación entre las dos bases de datos y se analiza el solapamiento de documentos y de revistas, el modelo de crecimiento que presentan y la dispersión de los trabajos, entre otros. Los resultados muestran que ambos sistemas de información son complementarios pero no excluyentes, así como la relevancia e importancia de las revistas españolas de psicología en la difusión de la investigación de esta disciplina en el contexto internacional de la ciencia.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[The main objective of this study is to figure out the volume and evolution of the Spanish scientific production in Psychology based in the data provided by the databases Web of Science (Thomson Reuters) and Scopus (Elsevier) during the years 2000-2009. It is proposed to determine which are the scientific journals used by most Spanish psychologists to spread their research at an international level; and to compare the coverage and overlap of the journals and documents that are present in both databases. Quantitative data is offered, as well as the possible correlation between both databases is studied and the overlap of documents and journals is analyzed, such as the increase model that is present and the dispersion of the articles, among others. The results demonstrate that both information systems are complementary but not exclusive, as well as the relevance and importance of the Spanish journals in Psychology which use the diffusion of the research in this discipline in the international science context.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

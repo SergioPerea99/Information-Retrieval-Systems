@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952010000100012</identifier>
+<datestamp>2010-05-19</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Gomes,A.M.]]></dc:creator>
+<dc:creator><![CDATA[Rodríguez-Carmona,A.]]></dc:creator>
+<dc:creator><![CDATA[Pérez Fontán,Miguel]]></dc:creator>
+<dc:creator><![CDATA[López Muñiz,A.]]></dc:creator>
+<dc:creator><![CDATA[Blanco Castro,N.]]></dc:creator>
+<dc:creator><![CDATA[Cunha,M. da]]></dc:creator>
+<dc:creator><![CDATA[García Falcón,T.]]></dc:creator>
+<dc:subject><![CDATA[Diálisis peritoneal]]></dc:subject>
+<dc:subject><![CDATA[Prueba de equilibrio peritoneal]]></dc:subject>
+<dc:subject><![CDATA[Potasio]]></dc:subject>
+<dc:subject><![CDATA[IECA-ARA]]></dc:subject>
+<dc:subject><![CDATA[Potasio urinario]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.30 n.1 2010]]></dc:source>
+<dc:date>2010-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952010000100012</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Análisis del transporte peritoneal de potasio mediante pruebas de equilibrio peritoneal con diferentes concentraciones de glucosa]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Correlates of potassium transport during peritoneal equilibration tests using different dialysate glucose concentrations]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: El conocimiento de los factores que determinan el transporte peritoneal de potasio en diálisis peritoneal (DP) es incompleto. Los objetivos de este estudio fueron comparar el transporte peritoneal de potasio en pruebas de equilibrio peritoneal (PEP) con soluciones de glucosa al 2,27 y al 3,86%, y desvelar factores con influencia en este fenómeno. Método: Noventa pacientes en DP fueron sometidos a PEP al 2,27 y al 3,86%, en orden aleatorio. Comparamos el transporte de potasio en ambas pruebas, buscando correlaciones del cociente D/P de potasio a 240 minutos (variable principal) con marcadores de función peritoneal durante PEP, y con diferentes variables demográficas, clínicas y bioquímicas, usando una estrategia multivariante. Resultados: El D/P de potasio presentó buena concordancia en ambas PEP, mostrando asociación univariante con el D/P de creatinina, pero no con potasio plasmático, ultrafiltración o descenso de sodio. La edad, tipo de DP, carga peritoneal de glucosa, icodextrina, tratamiento con IECA-ARA o calcioantagonistas, potasio urinario y filtrado glomerular tuvieron una correlación univariante con el transporte de potasio. En el análisis multivariante, el D/P de creatinina a 240 minutos (B = 0,40 [IC 95%: 0,26-0,53] 2,27%; B = 0,36 [0,21-0,51] 3,86%; p <0,0005) fue el predictor esencial del D/P de potasio a 240'. La excreción urinaria de potasio también tuvo una correlación inversa con la variable principal. Asimismo, el tratamiento con IECA-ARA se asoció de forma consistente con el transporte peritoneal de potasio, pero sólo en la PEP al 3,86% (B = 0,08 [0,04-0,12]; p <0,0005). Conclusiones: Las PEP al 2,27 y al 3,86% estiman de manera concordante el transporte peritoneal de potasio. Aunque el transporte de creatinina es el predictor principal del de potasio, la excreción urinaria de potasio y el tratamiento con IECA-ARA se asocian de manera independiente con el fenómeno citado.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: There are gaps in the knowledge of factors which influence peritoneal potassium transport in peritoneal dialysis (PD). The aims of this study were to compare peritoneal potassium transport in PD patients undergoing 2.27% and 3.86% peritoneal equilibration tests (PET), and to disclose clinical correlates of this phenomenon. Method: Ninety PD patients underwent 2.27% and 3.86% PET, in a random order. We compared peritoneal potassium transport in both tests, and searched for correlations between D/P potassium at 240 minutes (main study variable) and PET-derived markers of peritoneal function and selected demographic, clinical and biochemical variables, using a multivariate approach. Main results: D/P potassium showed a good agreement between both PET, and presented a univariate association with creatinine transport, but not with plasma potassium, ultrafiltration or sodium dip. Age, PD modality, peritoneal glucose load, icodextrin, ACEI-ARA and calcium antagonist therapy, urinary potassium and glomerular filtration rate were other univariate correlates of potassium transport. Multivariate analysis confirmed D/P creatinine at 240 minutes (B = 0.40 [95% CI 0.26-0.53] 2.27%, B = 0.36 [0.21-0.51] 3.86%,p <0.0005) as the main predictor of D/P potassium at 240'. Urinary potassium, rather than glomerular filtration rate, sustained also an inverse correlation with the dependent variable. Treatment with ACEI-ARA was consistently associated with peritoneal potassium transport (3.86% PET) (B = 0,08 [0.04-0.12], p <0.0005). Conclusions: The 2.27% and the 3.86% PET show a good agreement at the time of estimating peritoneal potassium transport. Urinary potassium excretion and treatment with ACEI-ARA (3.86% test) show an independent association with peritoneal potassium transport rates.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

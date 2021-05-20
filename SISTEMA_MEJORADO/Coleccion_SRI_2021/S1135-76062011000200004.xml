@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S1135-76062011000200004</identifier>
+<datestamp>2011-07-07</datestamp>
+<setSpec>1135-7606</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Acevedo,M.L.]]></dc:creator>
+<dc:creator><![CDATA[Borda,O.L.]]></dc:creator>
+<dc:creator><![CDATA[Bocanegra,B.Y.]]></dc:creator>
+<dc:subject><![CDATA[ADN degradado]]></dc:subject>
+<dc:subject><![CDATA[Mini STRs]]></dc:subject>
+<dc:subject><![CDATA[Validación]]></dc:subject>
+<dc:subject><![CDATA[Genética forense]]></dc:subject>
+<dc:publisher><![CDATA[Asociación de Médicos Forenses de Andalucía]]></dc:publisher>
+<dc:source><![CDATA[Cuadernos de Medicina Forense  v.17 n.2 2011]]></dc:source>
+<dc:date>2011-06-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1135-76062011000200004</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Validación y resultados preliminares del kit de AmpFlSTR® MinifilerTM en el Laboratorio de Genética Forense de la DIJIN, Policía Nacional de Colombia]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Validation and preliminary results of kit AmpFlSTR® MinifilerTM in the Laboratory of Forensic Genetics of DIJIN, National Police Colombia]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[El laboratorio de la Dirección de Investigación Criminal e Interpol (DIJIN) de la Policía Nacional implementó la utilización del kit AmpF l STR® MinifilerTM PCR Amplification de AppliedBiosystems con el fin de ayudar en la resolución de casos donde se sospechara una gran fragmentación del ADN. Metodología: Se evaluaron las alturas de los picos de los controles utilizando dos termocicladores diferentes, dos analizadores genéticos ABI Prism310® y empleando dos volúmenes finales de reacción de PCR. Se evaluó la sensibilidad utilizando muestras de concentraciones entre 0,1 ng/&micro;L hasta 0,006 ng/&micro;L y los datos fueron analizados con el software Genemapper ID v3.2. Se valoró la precisión y la reproducibilidad comparando 10 muestras donde se incluía sangre a diferentes concentraciones, saliva, prendas, evidencias traza, pelo, hueso y diente. Una vez realizada la validación se hicieron pruebas con muestras de 5 casos que habían presentado concentraciones bajas de ADN y amplificaciones parciales utilizando el kit AmpF l STR® Identifiler®. Resultados y discusión: Se pudo verificar que la concentración ideal para el uso del kit AmpF l STR® MinifilerTM está en un rango entre 0,05 y 0,075 ng/&micro;l de ADN. Se encontró que es posible obtener resultados en muestras con concentraciones de 0,02 ng/&micro;l; cuando la concentración es inferior, los resultados no son reproducibles. En 4 muestras previamente genotipificadas con el kit AmpF l STR® Identifiler®, se amplió el número de marcadores obtenidos en más del 48% con la utilización del kit AmpF l STR® MinifilerTM y se pudo llegar a la probabilidad exigida por la ley colombiana.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[The laboratory of the Bureau of Criminal Investigation and Interpol (DIJIN) of the National Police implemented the use of the kit AMPF l STR®MinifilerTM PCR Amplification of AppliedBiosystems to assist in the resolution of cases where suspected large DNA fragmentation. Methods: We evaluated the peak heights of the controls using two different thermal cyclers, two ABI Prism 310 genetic analyzers® and using two final volumes of PCR reaction. Sensitivity was assessed using samples ranging from 0.1 ng/mL to 0.006 ng/mL and the data were analyzed using GeneMapper ID v3.2 software. We evaluated the accuracy and reproducibility compared 10 samples which included different concentrations of blood, saliva, brands, trace evidence, hair, bone and tooth. The validation tests were conducted on samples of 5 patients who had presented low concentrations of DNA and partial amplification using AMPF l STR® kit Identifiler®. Results and discussion: It was noticed that the ideal concentration for the use of AMPF l STR® kit MinifilerTM is in a range between 0.05 and 0.075 ng/ul of DNA. It was found that results can be obtained in samples with concentrations of 0.02 ng/ul, where the concentration is lower, the results are not reproducible. In 4 samples previously genotyped with the kit AMPF l STR® Identifiler®, expanded the number of markers obtained in more than 48% using the kit AMPF l STR® MinifilerTM and are able to reach the probability required by Colombian law.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

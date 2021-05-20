@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952016000100007</identifier>
+<datestamp>2016-03-31</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Pérez-García,Rafael]]></dc:creator>
+<dc:creator><![CDATA[Palomares,Inés]]></dc:creator>
+<dc:creator><![CDATA[Merello,José Ignacio]]></dc:creator>
+<dc:creator><![CDATA[Ramos,Rosa]]></dc:creator>
+<dc:creator><![CDATA[Maduell,Francisco]]></dc:creator>
+<dc:creator><![CDATA[Molina,Manolo]]></dc:creator>
+<dc:creator><![CDATA[Aljama,Pedro]]></dc:creator>
+<dc:creator><![CDATA[Marcelli,Daniele]]></dc:creator>
+<dc:subject><![CDATA[Natremia]]></dc:subject>
+<dc:subject><![CDATA[Hemodiálisis]]></dc:subject>
+<dc:subject><![CDATA[Mortalidad]]></dc:subject>
+<dc:subject><![CDATA[Hiponatremia]]></dc:subject>
+<dc:subject><![CDATA[Diabetes]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.36 n.1 2016]]></dc:source>
+<dc:date>2016-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952016000100007</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Hiponatremia, mortalidad y hemodiálisis: una asociación no explicada]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Hyponatraemia, mortality and haemodialysis: an unexplained association]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: Al igual que en la población general, en los pacientes en hemodiálisis (HD), la hiponatremia también se asocia a mayor riesgo de muerte. El objetivo de este trabajo es estudiar en la población en HD la relación entre natremia y mortalidad. Definir hiponatremia en HD y determinar qué peculiaridades tienen los pacientes hiponatrémicos en relación con aspectos antropométricos, analíticos, dialíticos y de hidratación, mediante bioimpedancia. Metodos: Estudio observacional, descriptivo, de una cohorte de pacientes incidentes en HD. La variable independiente fue la media de las natremias medidas en los 6 primeros meses en HD. Resultados: Se incluyó a 4.153 pacientes. La edad media era de 64,7 años y predominaban los hombres con un 64,2%. Un 34,8% eran diabéticos. El tiempo medio de seguimiento fue 21,48 (DE) (1,31) meses. Las natremias tenían una distribución normal, con una media (DE) de 138,46 (2,7) mEq/l. Las variables que presentan diferencias significativas en función de los cuartiles de natremia son: peso, diabetes, presión arterial sistólica, ganancia de peso interdialítica, ultrafiltración total, glucemia, albúmina y creatinina séricas y tipo de acceso vascular y de HD. El índice de masa magra (LTI) en los pacientes con hiponatremia, Q1 (135 mEq/l), fue significativamente más bajo que el del resto de pacientes. Los pacientes con una natremia menor de 136 mEq/l tienen un riesgo independiente de mortalidad mayor que el resto (OR = 1,62) (análisis de regresión de Cox). Conclusiones: Los pacientes en HD con hiponatremia tienen mal pronóstico y presentan desnutrición o sobrecarga de volumen.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: As in the general population, in patients on haemodialysis (HD) hyponatraemia is associated with higher mortality risk. The objective of this article was to study the relationship between predialysis serum sodium (sNa) and mortality in an HD population. We also intended to define hyponatraemia and determine the characteristics of hyponatraemic patients in terms of anthropometric data, analytical features, dialysis measurements and hydration (bioimpedance). Methods: Observational, descriptive study of a cohort of HD incident patients. The independent variable was the mean of each patient's sNa analysed during their first 6 months on HD. Results: A total of 4,153 patients were included in the study. Mean age was 64.7 years; 65.2% of the patients were male and 35% were diabetics. Mean follow-up time was 21.48 (SD) (1.31) months. sNa had a normal distribution, with a mean (SD) = 138.46 (2.7) mEq/l. Body weight, diabetes mellitus, systolic blood pressure, interdialytic weight gain, total ultrafiltration, serum glucose, albumin and creatinine, vascular access and haemodialysis type, acquire significant differences between sodium quartiles. Lean tissue index (LTI) in patients with low serum sodium, Q1 (135 mEq/l), was significantly lower than the LTI of patients from the other serum sodium quartiles. Patients with sNa < 136 mEq/l had a higher independent mortality risk (OR = 1.62) (Cox regression analysis). Conclusions: HD patients with hyponatraemia patients have a poor prognosis and present malnutrition or fluid overload.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

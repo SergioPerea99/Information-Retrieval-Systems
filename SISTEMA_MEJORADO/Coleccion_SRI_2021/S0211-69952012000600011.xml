@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952012000600011</identifier>
+<datestamp>2012-10-23</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Montero,Nuria]]></dc:creator>
+<dc:creator><![CDATA[Soler,M. José]]></dc:creator>
+<dc:creator><![CDATA[Pascual,M. José]]></dc:creator>
+<dc:creator><![CDATA[Barrios,Clara]]></dc:creator>
+<dc:creator><![CDATA[Márquez,Eva]]></dc:creator>
+<dc:creator><![CDATA[Rodríguez,Eva]]></dc:creator>
+<dc:creator><![CDATA[Berrada,Ali]]></dc:creator>
+<dc:creator><![CDATA[Riera,Marta]]></dc:creator>
+<dc:creator><![CDATA[Coca,Lluís]]></dc:creator>
+<dc:creator><![CDATA[Orfila,M. Antonia]]></dc:creator>
+<dc:creator><![CDATA[Pascual,Julio]]></dc:creator>
+<dc:subject><![CDATA[Insuficiencia renal]]></dc:subject>
+<dc:subject><![CDATA[Proteinuria]]></dc:subject>
+<dc:subject><![CDATA[Síndrome nefrótico]]></dc:subject>
+<dc:subject><![CDATA[Cociente proteína/creatinina en orina]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.32 n.4 2012]]></dc:source>
+<dc:date>2012-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952012000600011</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Correlación entre el cociente proteína/creatinina en orina esporádica y las proteínas en orina de 24 horas]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Correlation between the protein/creatinine ratio in spot urine and 24-hour urine protein]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: Las proteínas presentan una eliminación variable a lo largo del día; por ello clásicamente se ha considerado la proteinuria de 24 horas como el método de referencia para su cuantificación. Dada la dificultad de la recogida de la muestra, aparece el cociente proteína/creatinina (P/C) en orina esporádica como herramienta diagnóstica. Objetivo: El objetivo de este estudio es evaluar la correlación entre la medida de proteinuria de 24 horas y el P/C, comparando muestras recogidas de forma consecutiva en pacientes del Hospital del Mar durante el último año. Métodos: Estudio observacional transversal en una muestra de 159 determinaciones analíticas del Servicio de Nefrología. Valoración de la correlación entre proteinuria de 24 horas y P/C según diferentes grados de proteinuria mediante el coeficiente de correlación intraclases (CCI) y el coeficiente de correlación de Spearman (CCS). Resultados: Se observó una correlación directa y estadísticamente significativa entre proteinuria/24 horas y P/C en todo el grupo estudiado (CCS: r = 0,91, p < 0,001). Las correlaciones según diferentes grados de proteinuria/24 horas fueron: < 300 mg (CCS: r = 0,498, p < 0,001; CCI: 0,46), 300-3499 mg (CCS: r = 0,828, p < 0,001; CCI: 0,66) y &#8805; 3500 mg (CCS: r = 0,181, p = NS; CCI: 0,18). Conclusión: El cociente P/C presenta una buena correlación con valores de proteinuria/24 horas entre 300-3499 mg. Dicha correlación se mantiene, pero con menor intensidad, en < 300 mg. En el grupo estudiado, el cociente P/C en orina esporádica no se correlaciona con la proteinuria/24 horas en rango nefrótico.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: Measurement of the protein content in a 24-hour urine sample is the definitive method of establishing the presence of abnormal proteinuria. However, the urine collection is cumbersome. The spot urine protein to creatinine ratio seems to be a reliable diagnostic tool for urine protein measurement. Objective: Our aim was to evaluate the spot urine protein/creatinine ratio against 24-h urine total protein excretion in different proteinuria ranges by comparing samples collected simultaneously in patients of Hospital del Mar during the last year. Material and method: Observational, cross-sectional study of 159 consecutive paired determinations of 24-h urine total protein excretion and the spot urine protein/creatinine ratio (P/C) in renal patients. The strength of the correlation was determined by calculating the intraclass correlation coefficient (ICC) and the Spearman correlation coefficient (SCC). Results: Among all groups, there was a significant correlation between 24-hour proteinuria and the P/C ratio (SCC: r=0.91, P<0.001). The correlation in different levels of proteinuria were: <300mg (SCC: r=0.498, P<0.001; ICC: 0.46), 300-3499mg (SCC: r=0.828, P<0.001; ICC: 0.66) and &#8805;3500mg (SCC: r=0.181, P=NS; ICC: 0.18). Conclusions: In summary, a strong correlation was observed between spot urine protein/creatinine ratio and 24-h urine total protein excretion in proteinuria levels from 300mg/day to 3499mg/day. A lower correlation was also maintained in 24-h urine total protein <300mg. In our experience, there is no relevant correlation between spot urine protein/creatinine ratio and 24-h urine total protein excretion in nephrotic-range proteinuria.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

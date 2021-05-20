@@ -1,0 +1,35 @@
+-------------- MEMORIA DE LA PRÁCTICA 1.1 --------------
+El programa ha tardado 2.984574794769287 segundos en ejecutarse.
+Total de archivos procesados -> 1000.
+Total de tokens -> 276271 :: Tokens/archivo -> 276.271.
+Número MÍNIMO de palabras una vez normalizado y tokenizado -> 141
+Número MÁXIMO de palabras una vez normalizado y tokenizado -> 921
+Número MEDIO de palabras por documento -> 276.271
+Las 5 palabras más frecuentes -> [(('de', 23020), 1.09744469870328), (('la', 11741), 0.559734935163997), (('en', 9332), 0.44488939740655986), (('y', 9133), 0.4354023646071701), (('el', 7499), 0.35750381388253244)]
+-------------- MEMORIA DE LA PRÁCTICA 1.2 --------------
+Listado de Stopword seleccionado -> C:\CODIGO\SRI\PRACTICAS_SRI\SISTEMA_MEJORADO\spanishSmart.txt
+Número TOTAL de palabras una vez limpiada de palabras vacias -> 153545
+Número MÍNIMO de palabras una vez limpiada de palabras vacias -> 75
+Número MÁXIMO de palabras una vez limpiada de palabras vacias -> 458
+Número MEDIO de palabras por documento -> 153.545
+Las 5 palabras más frecuentes -> [(('pacientes', 2088), 0.10593607305936073), (('renal', 1034), 0.05246067985794013), (('estudio', 979), 0.04967021816336885), (('resultados', 965), 0.04895991882293252), (('años', 952), 0.04830035514967022)]
+-------------- MEMORIA DE LA PRÁCTICA 1.3 --------------
+El STEMMER empleado es PorterStemmer de la librería nltk.stem
+Número TOTAL de palabras ÚNICAS de la colección -> 17372
+Número MÍNIMO de palabras ÚNICAS una vez extraidas sus raices de los documentos en la colección-> 55
+Número MÁXIMO de palabras ÚNICAS una vez extraidas sus raices de los documentos en la colección-> 264
+Número MEDIO de palabras ÚNICAS de los documentos en la colección -> 105.685
+Las 5 palabras más frecuentes -> [(('pacient', 2356), 0.13562053879806585), (('estudio', 1235), 0.07109141146672807), (('año', 1172), 0.06746488602348608), (('renal', 1150), 0.0661984803131476), (('resultado', 1008), 0.058024407091871975)]
+-------------- MEMORIA DE LA PRÁCTICA 1.4 --------------
+Tiempo en segundos en calcular y generar la estructura de diccionario (la seleccionada) -> 0.29512619972229004
+El espacio en disco para guardar la estructura es de 640601 bytes.
+Las caracteristicas de mi ordenador son:
+ - Procesador: Inter(R) Core(TM) i7-8565U CPU @ 1.80GHz 1.99 GHz.
+ - Memoria RAM: 7,82 GB utilizable.-------------- MEMORIA DE LA PRÁCTICA 1.5 --------------
+Tiempo en segundos en calcular y generar la estructura de diccionario para los pesos normalizados (la seleccionada) -> 5.601117134094238
+Tiempo en segundos en calcular y generar la estructura de diccionario para los IDF (la seleccionada) -> 43.7208046913147
+El espacio en disco para guardar la estructura de pesos normalizados es de 1380504 bytes.
+El espacio en disco para guardar la estructura de los IDF es de 208286 bytes.
+Las caracteristicas de mi ordenador son:
+ - Procesador: Inter(R) Core(TM) i7-8565U CPU @ 1.80GHz 1.99 GHz.
+ - Memoria RAM: 7,82 GB utilizable.

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S1139-76322009000200004</identifier>
+<datestamp>2009-11-17</datestamp>
+<setSpec>1139-7632</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Segade Buceta,X.M.]]></dc:creator>
+<dc:creator><![CDATA[Sánchez Santos,L.]]></dc:creator>
+<dc:creator><![CDATA[Losada Pazo,M.C.]]></dc:creator>
+<dc:creator><![CDATA[Méndez Bustelo,M.J.]]></dc:creator>
+<dc:creator><![CDATA[Blanco-Ons Fernández,M.P.]]></dc:creator>
+<dc:subject><![CDATA[Pediatría]]></dc:subject>
+<dc:subject><![CDATA[Atención Primaria]]></dc:subject>
+<dc:subject><![CDATA[Demanda aditiva]]></dc:subject>
+<dc:publisher><![CDATA[Asociación Española de Pediatría de Atención Primaria]]></dc:publisher>
+<dc:source><![CDATA[Pediatría Atención Primaria  v.11 n.42 2009]]></dc:source>
+<dc:date>2009-06-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1139-76322009000200004</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Demandas aditivas en Pediatría de Atención Primaria: Un estudio multicéntrico]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Additional reasons for consultation in Primary Care Pediatrics: A multicentric study]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Objetivo: cuantificar las demandas aditivas ("ya que", "de paso") en Pediatría de Atención Primaria y las variables que las determinan, y su influencia en el tiempo disponible del profesional y en la calidad asistencial. Pacientes y métodos: en el estudio fueron incluidos todos aquellos pacientes con cita, atendidos en las consultas de cuatro pediatras en cinco centros de salud durante 20 días laborables entre abril-mayo de 2008 (n = 950). El tipo de estudio es analítico transversal. Se recogieron las siguientes variables: pediatra, género, edad, motivo de consulta (por enfermedad o administrativa), hora de entrada en la consulta, tipo de acompañante, número de demandas aditivas (DA) y hora de salida de la consulta. Para el análisis de los resultados se empleó la media con su desviación estándar (DE), la prueba de Ji-cuadrado, la prueba t, el análisis de varianza y la regresión logística. Resultados: el 55,3% de los pacientes eran varones, siendo la edad media global de 5,6 años (DE = 4,2). En un 16,3% de las consultas se realizaron DA. Mediante la regresión logística se comprobó que las DA son más frecuentes en las consultas administrativas y según la pediatra. El tiempo medio de consulta varió significativamente según no se realizaran DA (8'6''), a realizar una (9'43'') y a realizar dos o más (15'12''). Conclusiones: en las DA influyen el tipo de consulta y el profesional consultor. A su vez, las DA producen un aumento significativo del tiempo de esa consulta y una disminución de la calidad asistencial.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Objective: to assess the additional reasons for consultation ("by the way") and its association with other variables. Patients and methods: all the patients with appointment, attended by four pediatricians in five health centres during 20 working days in April-May 2008 (n = 950), were included in the study. It is an analytic cross-sectional study. The following variables were recorded in each visit: pediatrician, gender, age, reason for consultation (pathology/bureaucratic), entrance time, kind of companion, number of additional requests (AR) and exit time. For the analysis of the results we used the mean with its standard deviation (SD), chi-square test, independentsamples t test, analysis of variance and logistic regression. Results: the males comprised 55.3%, being the global age mean 5.3 years (SD = 4.2). Sixteen point three percent of the consultations made AR. By means of logistic regression we proved that the AR were more frequent in bureaucratic consultations and depended on the pediatrician. The average time varied significantly depending on the number of AR: none (8'6''), one (9'43'') and two or more (15'12''). Conclussions: the reason for consultation and the pediatrician have influence in the AR. Also, the AR increase the consultation time.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

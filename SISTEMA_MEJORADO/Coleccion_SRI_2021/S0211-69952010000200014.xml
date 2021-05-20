@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952010000200014</identifier>
+<datestamp>2010-07-14</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Serra Cabañas,N.]]></dc:creator>
+<dc:creator><![CDATA[Barros Freiría,X.]]></dc:creator>
+<dc:creator><![CDATA[Garro Martínez,J.]]></dc:creator>
+<dc:creator><![CDATA[Blasco Pelicano,M.]]></dc:creator>
+<dc:creator><![CDATA[Maduell Canals,F.]]></dc:creator>
+<dc:creator><![CDATA[Torras Rabasa,A.]]></dc:creator>
+<dc:creator><![CDATA[Poch López de Briñas,Esteban]]></dc:creator>
+<dc:subject><![CDATA[Dosis de diálisis]]></dc:subject>
+<dc:subject><![CDATA[Dialisancia iónica]]></dc:subject>
+<dc:subject><![CDATA[Hemodiálisis]]></dc:subject>
+<dc:subject><![CDATA[Insuficiencia renal aguda]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.30 n.2 2010]]></dc:source>
+<dc:date>2010-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952010000200014</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[La medida de la dosis de diálisis mediante Kt por dialisancia iónica revela una menor adecuación que la medida por Kt/V UREA en la insificiencia renal aguda de pacientes críticos]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Dialysis dose measurements of Kt by ionic dialisance reveals less dialysis adequacy than the Kt/V UREA-based method in critically ill patients with acute renal failure]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: La medida de la dosis de hemodiálisis basada en la cinética de la urea (Kt/V UREA) adolece de problemas de aplicabilidad en el paciente crítico con insuficiencia renal aguda (IRA). No obstante, las recomendaciones de consenso sobre la dosis se basan en el Kt/V UREA. Objetivo: Evaluar la utilidad de la medida en tiempo real de la dosis de diálisis suministrada (Kt) mediante dialisancia iónica (KtDI) en el paciente crítico y el grado de adecuación de la dosis en comparación con la medida estándar del Kt/V UREA. Material y métodos: Estudio prospectivo observacional de medida de dosis en 17 pacientes críticos con IRA sometidos a 3 sesiones de diálisis intermitente con prescripción predefinida para este estudio (en total 51 medidas). Resultados: El Kt/V UREA medio suministrado por sesión fue de 1,19 &plusmn; 0,14, con un 59% de sesiones consideradas adecuadas por lo recomendado por la ADQI. Por el contrario, la media de KtDI obtenida fue de 37,6 &plusmn; 1 l, con sólo un 29,4% igual o por encima del valor mínimo recomendado. Conclusiones: La monitorización de la dosis mediante KtDI revela un menor grado de adecuación en comparación con el Kt/V UREA. El carácter dinámico de la medida de KtDI puede permitir la adaptación de cada sesión de diálisis ("K" y/o "t") con el fin de lograr el objetivo de dosis mínima.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: Measurement of dialysis dose by methods based on urea kinetics (Kt/V UREA) are hardly applicable to critical ill patients with acute renal failure (ARF). However, it is the base of the ADQI consensus recommendation for the target minimum dose. Objetive: To evaluate the usefulness of the real-time measurement of delivered dialysis dose (Kt) by means of the ionic dialysance (KtID) in the critically ill patient and to compare adequacy of dialysis dose between KtID and traditional Kt/V UREA. Material and methods: Prospective observational study in 17 critically ill patients with ARF requiring acute hemodialysis with a predefined prescription for the study (51 measures). Results: The mean delivered Kt/V UREA was 1.19 &plusmn; 0.14, with 59% of the sessions with values equal or above the ADQI recommendation. On the contrary, the mean KtID values obtained was 37.6 &plusmn; 1 l, with only 29.4% of the sessions being equal or greater than the recommended values. Conclusions: Dialysis dose monitoring by means of KtID reveals a lower degree of adequacy as compared to the traditional Kt/V UREA method. The dynamic character of KtID monitoring can allow the adaptation of each dialysis sessions ("K" and/or "t") in order to achieve the recommended dose.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

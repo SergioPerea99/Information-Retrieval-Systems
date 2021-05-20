@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952014000500008</identifier>
+<datestamp>2014-11-11</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Maduell,Francisco]]></dc:creator>
+<dc:creator><![CDATA[Rodríguez,Néstor]]></dc:creator>
+<dc:creator><![CDATA[Sahdalá,Laura]]></dc:creator>
+<dc:creator><![CDATA[Coronel,Diego]]></dc:creator>
+<dc:creator><![CDATA[Arias Guillén,Marta]]></dc:creator>
+<dc:creator><![CDATA[Ojeda,Raquel]]></dc:creator>
+<dc:creator><![CDATA[Vera,Manel]]></dc:creator>
+<dc:creator><![CDATA[Fontseré,Néstor]]></dc:creator>
+<dc:creator><![CDATA[Cases,Aleix]]></dc:creator>
+<dc:creator><![CDATA[Campistol,Josep M.]]></dc:creator>
+<dc:subject><![CDATA[Autosustitución]]></dc:subject>
+<dc:subject><![CDATA[Hemodiafiltración en línea (HDF-OL)]]></dc:subject>
+<dc:subject><![CDATA[Máquina de diálisis]]></dc:subject>
+<dc:subject><![CDATA[PTM]]></dc:subject>
+<dc:subject><![CDATA[Volumen convectivo]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.34 n.5 2014]]></dc:source>
+<dc:date>2014-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952014000500008</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Repercusión de la actualización del software del monitor 5008 en el volumen convectivo total]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Impact of the 5008 monitor software update on total convective volume]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: La hemodiafiltración on-line (HDF-OL) se basa en la administración controlada de grandes volúmenes de sustitución de líquido de diálisis ultrapuro al circuito sanguíneo extracorpóreo de diálisis. Actualmente es la técnica más efectiva para la eliminación de toxinas urémicas de pequeño y gran tamaño. Recientes estudios han observado una asociación en el descenso de la mortalidad en relación directa con el volumen convectivo recibido. La última actualización del software del monitor Fresenius 5008 (5008 CorDiax) permite la automatización del volumen de sustitución sin precisar la introducción de los valores de proteínas totales y hematocrito, con el objetivo optimizar al máximo la convección. Objetivo: El objetivo del estudio fue valorar la reciente versión del software del monitor 5008 comparada con la versión anterior sobre la repercusión en el volumen convectivo total. Material y métodos: Se incluyeron 63 pacientes, 44 varones y 19 mujeres, con una edad media de 65,2 ± 15 años, que se encontraban en programa de HDF-OL. Cada paciente fue analizado en 6 sesiones, 3 con el monitor 5008 y 3 con el monitor 5008 CorDiax. En cada sesión se determinaron el volumen de sustitución, el volumen convectivo total y los parámetros de diálisis. Resultados: No se observaron diferencias significativas en las presiones arterial, venosa o transmembrana ni aumento en el número de alarmas o coagulación de líneas o dializadores. Se observó un aumento significativo del volumen de sustitución con el uso del software CorDiax al pasar de 27,2 a 31,2 l/sesión. El volumen convectivo total se incrementó de 29,5 a 33,3 l/sesión, representando un aumento del volumen convectivo efectivo del 26 % al 29,6 % de la sangre total depurada. Conclusión: El cambio de software en el monitor de diálisis 5008 ha significado un aumento del volumen convectivo total del 13 %, representando un incremento del 3,5 % de la sangre total depurada.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: On-line haemodiafiltration (OL-HDF) is based on the controlled administration of large volumes of replacement ultrapure dialysate to the extracorporeal blood circuit of dialysis. It is currently the most effective technique for eliminating small and large uraemic toxins. Recent studies have observed a direct association between a decrease in mortality and the received convective volume. The latest Fresenius 5008 (5008 CorDiax) monitor software update enables the automation of the replacement volume without requiring total protein and haematocrit values, with the aim of maximising convection. Objective: The study's objective was to evaluate the recent version of the 5008 monitor software, compared to the previous version, on the impact on total convective volume. Material and method: We included 63 patients (44 males and 19 females), with a mean age of 65.2 ± 15 years, on OL-HDF. Each patient was analysed in 6 sessions; 3 with the 5008 monitor and 3 with the 5008 CorDiax monitor. The replacement volume, total convective volume and dialysis parameters were determined in each session. Results: No significant differences were observed in blood, venous or transmembrane pressure, nor was there an increase in the number of alarms or coagulation of lines or dialysers. A significant increase of replacement fluid volume, from 27.2 to 31.2 L/session, was observed using the CorDiax software. Total convective volume increased from 29.5 to 33.3 L/session, representing an effective convective volume increase from 26 % to 29.6 % of total filtered blood. Conclusion: The 5008 dialysis monitor software update has meant a 13 % increase of total convective volume and a 3.5 % increase of total filtered blood.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952016000200141</identifier>
+<datestamp>2017-10-13</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Caravaca-Fontán,Fernando]]></dc:creator>
+<dc:creator><![CDATA[Pampa Saico,Saúl]]></dc:creator>
+<dc:creator><![CDATA[Elías Triviño,Sandra]]></dc:creator>
+<dc:creator><![CDATA[Galeano Álvarez,Cristina]]></dc:creator>
+<dc:creator><![CDATA[Gomis Couto,Antonio]]></dc:creator>
+<dc:creator><![CDATA[Pecharromán de las Heras,Inés]]></dc:creator>
+<dc:creator><![CDATA[Liaño,Fernando]]></dc:creator>
+<dc:subject><![CDATA[Anticoagulación oral]]></dc:subject>
+<dc:subject><![CDATA[Fibrilación auricular]]></dc:subject>
+<dc:subject><![CDATA[Embolia renal]]></dc:subject>
+<dc:subject><![CDATA[Infarto renal agudo]]></dc:subject>
+<dc:subject><![CDATA[Insuficiencia renal aguda]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.36 n.2 2016]]></dc:source>
+<dc:date>2016-04-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952016000200141</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Infarto renal agudo: características clínicas y factores pronósticos]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Acute renal infarction: Clinical characteristics and prognostic factors]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Resumen  Introducción: El infarto renal agudo (INRA) es una patología de diagnóstico infrecuente, cuya incidencia real es probablemente superior a la detectada, y que asocia una evolución desfavorable en un alto porcentaje de casos.  Objetivos: Describir las principales características clínicas, bioquímicas y radiológicas, y determinar qué factores se asocian a una peor evolución (muerte o deterioro permanente de la función renal).  Material y métodos: Estudio retrospectivo y observacional, que incluyó a todos los pacientes diagnosticados de INRA mediante TAC con contraste en un único hospital durante 18 años. Los pacientes fueron clasificados según el origen cardiogénico o no cardiogénico del INRA. Se analizaron las principales características clínicas, bioquímicas y radiológicas, y, mediante un modelo de regresión logística multivariante, se determinaron los factores asociados a una peor evolución.  Resultados: Se incluyeron 62 casos, de los que 30 fueron de origen cardiogénico. Los 32 pacientes con INRA no cardiogénico eran más jóvenes, con menos comorbilidad y menor frecuencia de tratamiento previo con anticoagulación. La extensión media de daño isquémico por radiología fue del 35%, sin observarse diferencias entre los subgrupos etiológicos. El 38% de los pacientes tuvo una evolución desfavorable, y los principales determinantes fueron: la función renal al diagnóstico (eGFR) (OR = 0,949; IC 95%: 0,918-0,980; p = 0,002) y la anticoagulación oral antes del episodio agudo (OR = 0,135; IC 95%: 0,032-0,565; p = 0,006).  Conclusiones: El INRA es una patología infrecuente, con manifestaciones clínicas poco específicas y, en más de la mitad de los casos, no asociada a enfermedad cardiaca o arritmias. Una alta proporción de pacientes evoluciona desfavorablemente. La función renal al diagnóstico es uno de los principales factores pronósticos.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Abstract  Introduction: Acute renal infarction (ARI) is an uncommon disease, whose real incidence is probably higher than expected. It is associated with poor prognosis in a high percentage of cases.  Objectives: To describe the main clinical, biochemical and radiologic features and to determine which factors are associated with poor prognosis (death or permanent renal injury).  Materials and methods: The following is a retrospective, observational, single-hospital-based study. All patients diagnosed with ARI by contrast-enhanced computed tomography (CT) over an 18-year period were included. Patients were classified according to the cardiac or non-cardiac origin of their disease. Clinical, biochemical and radiologic features were analysed, and multiple logistic regression model was used to determine factors associated with poor prognosis.  Results: A total of 62 patients were included, 30 of which had a cardiac origin. Other 32 patients with non-cardiac ARI were younger, had less comorbidity, and were less frequently treated with oral anticoagulants. CT scans estimated mean injury extension at 35%, with no differences observed between groups. A total of 38% of patients had an unfavourable outcome, and the main determinants were: Initial renal function (OR = 0.949; IC 95% 0.918-0.980; p = 0.002), and previous treatment with oral anticoagulants (OR = 0.135; IC 95% 0.032-0.565; p = 0.006).  Conclusions: ARI is a rare pathology with non-specific symptoms, and it is not associated with cardiological disease or arrhythmias in more than half of cases. A substantial proportion of patients have unfavourable outcomes, and the initial renal function is one of the main prognostic factors.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

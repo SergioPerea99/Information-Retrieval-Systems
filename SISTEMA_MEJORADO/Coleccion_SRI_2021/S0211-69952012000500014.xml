@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952012000500014</identifier>
+<datestamp>2012-07-10</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Pozo-Fernández,Carlos Del]]></dc:creator>
+<dc:creator><![CDATA[Pardo-Ruiz,Carlos]]></dc:creator>
+<dc:creator><![CDATA[Sánchez-Botella,Concepción]]></dc:creator>
+<dc:creator><![CDATA[Blanes-Castañer,Vanesa]]></dc:creator>
+<dc:creator><![CDATA[López-Menchero,Ramón]]></dc:creator>
+<dc:creator><![CDATA[Gisbert-Sellés,Cristina]]></dc:creator>
+<dc:creator><![CDATA[Sánchez-Jodar,Carmen]]></dc:creator>
+<dc:creator><![CDATA[Álvarez-Avellán,Luis]]></dc:creator>
+<dc:subject><![CDATA[Diabetes mellitus tipo 2]]></dc:subject>
+<dc:subject><![CDATA[Metformina]]></dc:subject>
+<dc:subject><![CDATA[Documentos de Consenso]]></dc:subject>
+<dc:subject><![CDATA[Guías]]></dc:subject>
+<dc:subject><![CDATA[Normativa legal]]></dc:subject>
+<dc:subject><![CDATA[Insuficiencia renal crónica]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.32 n.3 2012]]></dc:source>
+<dc:date>2012-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952012000500014</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Discrepancias entre documentos de consenso, guías, práctica clínica y normativa legal en el tratamiento de los pacientes con diabetes mellitus tipo 2]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Discrepancies among consensus documents, guidelines, clinical practice and the legal framework for the treatment of type 2 diabetes mellitus patients]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Reflexionamos sobre las discrepancias encontradas en el uso generalizado de metformina en pacientes con diabetes mellitus tipo 2, la ausencia de criterios uniformes acerca de su indicación en los diferentes estadios de insuficiencia renal y sobre su empleo en estos pacientes. Realizamos un corte transversal en 304 pacientes diabéticos tipo 2, visitados a lo largo de 2010 de forma consecutiva en consulta de Atención Primaria, Endocrinología y Nefrología, con una tasa de filtrado glomerular (TFG) estimada < 60 ml/min/1,73 m² y tratados con antidiabéticos orales (ADO). Revisamos la frecuencia de uso de metformina y otros antidiabéticos en función del tipo de consulta y el grado de función renal. El ADO más utilizado fue metformina (54,9%), seguido de repaglinida (47,7%), dipeptidil-peptidasa (IDPP-4) (28,6%) y sulfonilureas (18,4%). Observamos menor uso de metformina y mayor de repaglinida, estadísticamente significativo, en pacientes de Nefrología, y mayor de IDPP-4 en Atención Primaria. La metformina fue la menos utilizada, con TFG entre 29-15 ml/min/1,73 m² (13,3%), junto con las sulfonilureas, y la más prescrita en TFG mayores (70,0% con 59-45 ml/min/1,73 m²), p < 0,001. La repaglinida fue más utilizada, con TFG entre 29-15 ml/min/1,73 m² (76,7%), mientras que se prescribió menos con TFG mayores (38,9% con 59-45 ml/min/1,73 m²), p < 0,001. En nuestra opinión, en la literatura existen evidencias sobre el uso de metformina en pacientes con TFG entre 30-60 ml/min/1,73 m² que permiten sugerir su empleo con precaución en este grupo de pacientes y, algo que es importante para la práctica médica, hacerlo dentro de un marco legal.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[In this paper we analyse the discrepancies that exist in the widespread prescription of metformin in patients with type 2 diabetes and the lack of guidelines concerning its prescription in the different stages of renal failure. This cross-sectional study includes 304 patients with type 2 diabetes treated with oral antidiabetic drugs (ADOs) and a glomerular filtration rate (estimated GFR) <60ml/min/1.73m². Patients were attended in consecutive visits to primary health centres or in hospital departments of endocrinology or nephrology during 2010. We studied the frequency of metformin and other ADO prescriptions according to renal function and the department in which the patient was treated. The ADO most frequently prescribed was metformin (54.9%), followed by repaglinide (47.7%), DPP4 inhibitors (28.6%), and sulfonylureas (18.4%). However, in nephrology departments, repaglinide was more frequently prescribed than metformin (P<.001), whereas in primary health centres, the prescription of DPP4 inhibitors increased. In patients with an estimated GFR of 15-29ml/min/1.73m², metformin (13.3%) and sulfonylureas were the least prescribed, whereas metformin was much more frequently prescribed (70.0%) when estimated GFR was 45-59ml/min/1.73m² (P<.001). In contrast, patients with an estimated GFR of 15-29ml/min/1.73m² were mainly prescribed repaglinide (76.7%), as opposed to patients with an estimated GFR of 45-59ml/min/1.73m² (38.9%) (P<.001). Substantial evidence suggests that the recommendations for the use of ADO should be modified. This would lead to safely prescribing ADO in patients with an estimated GFR<60ml/min/1.73m², and more importantly in medical practice, according to the law.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

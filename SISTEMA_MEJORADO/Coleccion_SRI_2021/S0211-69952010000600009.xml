@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952010000600009</identifier>
+<datestamp>2011-04-25</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Tovillas-Morán,F. J.]]></dc:creator>
+<dc:creator><![CDATA[Vilaplana-Cosculluela,M.]]></dc:creator>
+<dc:creator><![CDATA[Dalfó-Pibernat,A.]]></dc:creator>
+<dc:creator><![CDATA[Zabaleta-del-Olmo,E.]]></dc:creator>
+<dc:creator><![CDATA[Galcerán,J. M.]]></dc:creator>
+<dc:creator><![CDATA[Coca,A.]]></dc:creator>
+<dc:creator><![CDATA[Dalfó-Baqué,A.]]></dc:creator>
+<dc:subject><![CDATA[Hipertensión]]></dc:subject>
+<dc:subject><![CDATA[Enfermedad cardiovascular]]></dc:subject>
+<dc:subject><![CDATA[Atención Primaria de salud]]></dc:subject>
+<dc:subject><![CDATA[Análisis de supervivencia]]></dc:subject>
+<dc:subject><![CDATA[Filtrado glomerular]]></dc:subject>
+<dc:subject><![CDATA[Insuficiencia Renal]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.30 n.6 2010]]></dc:source>
+<dc:date>2010-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952010000600009</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[El filtrado glomerular reducido según las fórmulas de Cockcroft-Gault y MDRD no siempre predice la morbimortalidad cardiovascular en los pacientes hipertensos atendidos en atención primaria]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Decreased glomerular filtration rate using the Cockgroft-Gaultand MDRD formulas does not always predict cardiovascular morbidity and mortality in hypertensive primary care patients]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Antecedentes: El deterioro de la función renal se ha asociado con un incremento de la morbimortalidad cardiovascular. El objetivo del estudio fue analizar la asociación del filtrado glomerular (FG) basal, según las fórmulas de Cockcroft-Gault y MDRD, con la incidencia de eventos cardiovasculares (ECV) en una cohorte de personas hipertensas seguida durante 12 años. Métodos: Estudio prospectivo de una muestra aleatoria de 223 hipertensos libres de ECV atendidos en un centro de atención primaria urbano. Se estimó el FG mediante ambas fórmulas. Se consideró ECV la aparición de cardiopatía isquémica, insuficiencia cardíaca, accidente cerebrovascular, vasculopatía periférica o muerte por ECV. Se analizaron los datos mediante el método actuarial y modelos de regresión de Cox. Resultados: La mediana de tiempo de seguimiento fue de 10,7 años (rango intercuartílico, 6,5-12,1). El seguimiento fue completo en 191 participantes (85,7%). La supervivencia acumulada fue del 64,7% (intervalo de confianza [IC] del 95%: 57,9-71,6%). La tasa media de incidencia de ECV durante todo el período de seguimiento fue de 3,6 (IC del 95%, 2,7-4,4%) por 100 personas hipertensas/año. El modelo multivariable final mostró que las variables con mayor poder predictivo de ECV en la población de estudio fueron la diabetes y la estimación del FG > 60 ml/min/1,73 m² mediante fórmula MDRD. Conclusiones: Se observó una relación entre la aparición de ECV y los valores de FG estimados por la fórmula MDRD al inicio del seguimiento superiores a 60 ml/min/1,73 m², inversa a la esperada. La estimación del FG mediante fórmula de Cockcroft-Gault no se asoció con el riesgo cardiovascular.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: Renal function decrease is associated with cardiovascular morbidity and mortality. The aim was to analyze the association of cardiovascular morbidity and mortality with baseline glomerular filtration rate (GFR), according Cockcroft-Gault and MDRD formulas, with incidence of major adverse cardiovascular events (MACEs) in a cohort of hypertensive individuals followed for 12 years. Methods: We performed a prospective study of a random sample of 223 hypertensive patients free of MACEs followed in an urban Primary Care Center. GFR was estimated using both formulas. MACEs were considered the onset of ischemic heart disease, heart failure, stroke, peripheral vascular disease or cardiovascular death. Data were analyzed using the life-table method and Cox regression modeling. Results: Follow-up median was 10.7 (interquartile range, 6.5-12.1) years. Follow-up was complete in 191 participants (85.7%). The cumulative survival was 64.7% (95% Confidence Interval (CI) 57.9%-71.6%). The incidence of MACEs during the follow-up period was 3.6 (95% CI, 2.7-4.4) per 100 subject-years. The final multivariable model showed that the most predictive variables of MACEs in the study population were the presence of diabetes and the estimation of GFR >60 ml/min/1.73 m2 by MDRD equation. Conclusions: There was a relationship between the occurrence of MACEs and MDRD formula estimated GFR above 60 ml/min/1.73 m² at study entry, inversely to what expected. C-G formula estimated GFR by was not associated with cardiovascular risk.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

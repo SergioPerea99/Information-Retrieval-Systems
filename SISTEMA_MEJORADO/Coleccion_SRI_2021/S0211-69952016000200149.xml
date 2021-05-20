@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952016000200149</identifier>
+<datestamp>2017-10-13</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Janeiro,Darío]]></dc:creator>
+<dc:creator><![CDATA[Portolés,José]]></dc:creator>
+<dc:creator><![CDATA[Lopez-Sanchez,Paula]]></dc:creator>
+<dc:creator><![CDATA[Tornero,Fernando]]></dc:creator>
+<dc:creator><![CDATA[Felipe,Carmen]]></dc:creator>
+<dc:creator><![CDATA[Castellano,Inés]]></dc:creator>
+<dc:creator><![CDATA[Rivera,Maite]]></dc:creator>
+<dc:creator><![CDATA[Fernandez-Cusicanqui,Jeanette]]></dc:creator>
+<dc:creator><![CDATA[Cirugeda,Antonio]]></dc:creator>
+<dc:creator><![CDATA[Fernandez-Reyes,María José]]></dc:creator>
+<dc:creator><![CDATA[Rodriguez-Palomares,José Ramón]]></dc:creator>
+<dc:creator><![CDATA[Bajo,María Auxiliadora]]></dc:creator>
+<dc:creator><![CDATA[Caparrós,Guadalupe]]></dc:creator>
+<dc:creator><![CDATA[Ortiz,Alberto]]></dc:creator>
+<dc:subject><![CDATA[Diálisis peritoneal]]></dc:subject>
+<dc:subject><![CDATA[Mortalidad]]></dc:subject>
+<dc:subject><![CDATA[Supervivencia]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.36 n.2 2016]]></dc:source>
+<dc:date>2016-04-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952016000200149</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Cómo debemos analizar y describir la mortalidad de nuestros pacientes: experiencia del Grupo Centro Diálisis Peritoneal]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[How should we analyze and present mortality in our patients?: A multicentre GCDP experience]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Resumen  Introducción: Existen distintas estrategias para analizar la mortalidad en diálisis peritoneal (DP), con diferentes definiciones de caso, evento, tiempo en riesgo y análisis estadístico. Un método común entre los distintos registros permitiría compararlos adecuadamente y entender mejor las diferencias reales de mortalidad de nuestros pacientes.  Métodos: Revisamos y describimos las estrategias de análisis de los registros autonómicos, nacional e internacionales. Incluimos análisis de supervivencia actuarial, Kaplan-Meier (KM) y riesgos-competitivos (RC). Aplicamos los diferentes enfoques a la misma base de datos (GCDP), lo que permite mostrar las diferencias aparentes con cada método.  Resultados: Se incluyeron 1.890 pacientes incidentes en DP en el periodo 2003-2013 (55 años; 64,2% varones), con FRR inicial de 7ml/min; el 25% presentaba diabetes y un índice de Charlson de 3 [2-4]. Fallecieron 261 pacientes, 380 pasaron a hemodiálisis (HD) y 682 recibieron trasplante. Las tasas de mortalidad anual llegan a variar hasta un 20% en números relativos (6,4 vs. 5,2%) según el sistema aplicado. La estimación de probabilidad de mortalidad por RC es inferior a KM en todos los años: 3,6 vs. 4,0% el 1.er año; 9,0 vs. 11,9%; 15,6 vs. 28,3% y 18,5 vs. 43,3% los siguientes.  Conclusiones: Aunque cada método pueda ser correcto en sí mismo y expresar diferentes enfoques, la impresión final que queda en el lector es un número que sobrestima la mortalidad. El modelo de RC expresa mejor la realidad en DP, donde el número de pacientes que pierden seguimiento (trasplante, paso a HD) cuadruplica al de los fallecidos y solo una cuarta parte continúa en DP al final del seguimiento.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Abstract  Introduction: There are different strategies to analyse mortality in peritoneal dialysis (PD) with different definitions for case, event, time at risk, and statistical tests. A common method for the different registries would enable proper comparison to better understand the actual differences in mortality of our patients.  Methods: We review and describe the analysis strategies of regional, national and international registries. We include actuarial survival, Kaplan-Meier (KM) and competitive risk (CR) analyses. We apply different approaches to the same database (GCDP), which show apparent differences with each method.  Results: A total of 1,890 incident patients in PD from 2003-2013 were included (55 years; men 64.2%), with initial RRF of 7ml/min; 25% had diabetes and a Charlson index of 3 [2-4]; 261 patients died, 380 changed to haemodialysis (HD) and 682 received a transplant. Annual mortality rates varied up to 20% in relative numbers (6.4 vs. 5.2%) depending on the system applied. The estimated probability of mortality measured by CR progressively differs from the KM over the years: 3.6 vs. 4.0% the first year, then 9.0 vs. 11.9%, 15.6 vs. 28.3%, and 18.5 vs. 43.3% the following years.  Conclusions: Although each method may be correct in themselves and express different approaches, the final impression left on the reader is a number that under/overestimates mortality. The CR model better expresses the reality of PD, where the number of patients lost to follow-up (transplant, transfer to HD) it is 4 times more than deceased patients and only a quarter remain on PD at the end of follow up.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

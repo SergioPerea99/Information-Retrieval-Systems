@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952015000500007</identifier>
+<datestamp>2016-03-02</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Gimeno-Orna,José Antonio]]></dc:creator>
+<dc:creator><![CDATA[Blasco-Lamarca,Yolanda]]></dc:creator>
+<dc:creator><![CDATA[Campos-Gutierrez,Belén]]></dc:creator>
+<dc:creator><![CDATA[Molinero-Herguedas,Edmundo]]></dc:creator>
+<dc:creator><![CDATA[Lou-Arnal,Luis Miguel]]></dc:creator>
+<dc:creator><![CDATA[García-García,Blanca]]></dc:creator>
+<dc:subject><![CDATA[Diabetes mellitus tipo 2]]></dc:subject>
+<dc:subject><![CDATA[Insuficiencia renal crónica]]></dc:subject>
+<dc:subject><![CDATA[Mortalidad]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.35 n.5 2015]]></dc:source>
+<dc:date>2015-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952015000500007</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Riesgo de mortalidad asociado a enfermedad renal crónica en pacientes con diabetes tipo 2 durante un seguimiento de 13 años]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Risk of mortality associated to chronic kidney disease in patients with type 2 diabetes mellitus: a 13-year follow-up]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Objetivos: Nuestro objetivo fue evaluar la influencia de la tasa de filtración glomerular (TFG) y de la excreción de albúmina urinaria (EAU) sobre el riesgo de mortalidad en pacientes con diabetes mellitus tipo 2 (DM2). Material y métodos: Estudio de cohortes prospectivo con inclusión de pacientes con DM2. El punto final clínico fue mortalidad total. La TFG se midió en ml/min/1,73 m² con estratificación en 3 categorías (=60; 45-59; <45) y la EAU en mg/24 h con estratificación también en 3 categorías (<30; 30-300; &gt;300). Se evaluaron las tasas de mortalidad por cada 1.000 pacientes/año y, mediante regresión de Cox, el riesgo de mortalidad asociado con las categorías de TFG y EAU. El poder predictivo se midió con el estadístico C de Harrell. Resultados: Se incluyó a 453 pacientes (39,3% varones, edad 64,9 [DE 9,3] años y evolución de DM2 10,4 [DE 7,5] años). Durante una mediana de 13 años de seguimiento, la tasa de mortalidad total fue de 39,5/1.000, con incremento progresivo ante descenso de la TFG y aumento de la EAU (p < 0,001). En análisis multivariante la EAU (HR30-300 = 1,02 y HR&gt;300 = 2,83; chi² = 11,6; p = 0,003) y la TFG (HR45-59 = 1,34 y HR<45= 1,84; chi² = 6,4; p = 0,041) fueron predictores independientes de mortalidad sin interacción significativa. La inclusión de TFG y EAU mejoró la capacidad predictiva de los modelos (C de Harrell 0,741 vs. 0,726; p = 0,045). Conclusiones: La TFG y la EAU son predictores independientes de mortalidad en pacientes con DM2, sin interacción significativa.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Objective: Our aim was to assess the usefulness of glomerular filtration rate (GFR) and urinary albumin excretion (UAE) to predict the risk of mortality in patients with type 2 diabetes mellitus. Material and methods: This is a prospective cohort study in patients with type 2 diabetes mellitus. Clinical end-point was mortality rate. GFR was measured in ml/min/1.73 m² and stratified in 3 categories (=60; 45-59; <45); UAE was measured in mg/24 hours and was also stratified in 3 categories (<30; 30-300; &gt;300). Mortality rates were reported per 1000 patient-years. Cox regression models were used to predict mortality risk associated with combined GFR and UAE. The predictive power was estimated with C-Harrell statistic. Results: A total of 453 patients (39.3% males), aged 64.9 (SD 9.3) years were included; mean diabetes duration was 10.4 (SD 7.5) years. Median follow-up was 13 years. Total mortality rate was 39.5/1000. The progressive increase in mortality in the successive categories of GFR and UAE was statistically significant (P<.001). In a multivariable analysis, UAE (HR30-300 = 1.02 and HR &gt; 300 = 2.83; X2 = 11.6; P =.003) and GFR (HR45-59 = 1.34 and HR < 45=1.84; X2 = 6.4; P =.041) were independent predictors for mortality, with no significant interaction. Simultaneous inclusion of GFR and UAE improved the predictive power of models (C-Harrell 0.741 vs. 0.726; P =.045). Conclusions: GFR and UAE are independent predictors for mortality in type 2 diabetic patients and do not show a statistically significant interaction.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

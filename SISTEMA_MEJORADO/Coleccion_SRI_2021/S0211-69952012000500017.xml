@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952012000500017</identifier>
+<datestamp>2012-07-10</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Teruel-Briones,José L.]]></dc:creator>
+<dc:creator><![CDATA[Fernández-Lucas,Milagros]]></dc:creator>
+<dc:creator><![CDATA[Ruiz-Roso,Gloria]]></dc:creator>
+<dc:creator><![CDATA[Sánchez-Ramírez,Humberto]]></dc:creator>
+<dc:creator><![CDATA[Rivera-Gorrin,Maite]]></dc:creator>
+<dc:creator><![CDATA[Gomis-Couto,Antonio]]></dc:creator>
+<dc:creator><![CDATA[Rodríguez-Mendiola,Nuria]]></dc:creator>
+<dc:creator><![CDATA[Quereda,Carlos]]></dc:creator>
+<dc:subject><![CDATA[Bioimpedancia vectorial]]></dc:subject>
+<dc:subject><![CDATA[Bioimpedancia multifrecuencia espectroscópica]]></dc:subject>
+<dc:subject><![CDATA[Hemodiálisis]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.32 n.3 2012]]></dc:source>
+<dc:date>2012-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952012000500017</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Análisis de concordancia entre la bioimpedancia vectorial y la espectroscópica]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Analysis of concordance between the bioelectrical impedance vector analysis and the bioelectrical impedance spectroscopy in haemodialysis patients]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Introducción: Los valores de los compartimentos corporales proporcionados por los dos sistemas de bioimpedancia más utilizados en España (bioimpedancia de monofrecuencia vectorial [BIVA] y bioimpedancia multifrecuencia espectroscópica [BIS]) son diferentes y no pueden intercambiarse. Objetivo: Analizar si la variabilidad intermétodo es debida a la diferente lectura de las variables bioeléctricas realizadas por los monitores o a las ecuaciones utilizadas por cada uno de ellos para el cálculo de los volúmenes y masas corporales. Otro objetivo fue comprobar si, a pesar de la variabilidad intermétodo, la clasificación de los estados de hidratación definidos por ambos monitores es concordante. Material y métodos: Estudio de corte transversal. En 54 enfermos tratados con hemodiálisis se hizo un análisis de bioimpedancia con los monitores BIVA y BIS inmediatamente antes de una sesión de diálisis. En 38 de ellos se repitió el estudio con el monitor BIVA al finalizar la misma sesión de diálisis. Resultados: Los datos de resistencia y ángulo de fase proporcionados por el monitor BIVA y por el monitor BIS a la frecuencia de 50 kHz son concordantes. En el caso de la resistencia, la variabilidad es de 1,3%, y el coeficiente de correlación intraclase, de 0,99. Para el ángulo de fase, la variabilidad es del 11,5%, y el coeficiente de correlación intraclase, de 0,92. Los valores del volumen de agua corporal total, agua extracelular, masa grasa y masa celular tienen un sesgo y una variabilidad no admisibles en la práctica clínica y el coeficiente de correlación intraclase indica que la concordancia es mediocre. En el sistema BIVA se define hiperhidratación o deshidratación según el vector estuviera en el eje de hidratación por debajo o por encima de la elipse de tolerancia de 75%, tanto pre como posdiálisis. El sistema BIS utiliza dos criterios de hiperhidratación prediálisis: OH (exceso de hidratación prediálisis) superior a 2,5 litros o mayor del 15% del volumen de agua extracelular. El grado de equivalencia con los resultados del monitor BIVA fue mejor con el segundo criterio (índice kappa 0,81, concordancia excelente), que con el primero (índice kappa 0,71, concordancia aceptable). El sistema BIS define la normohidratación posdiálisis cuando la diferencia entre OH y volumen ultrafiltrado está comprendida entre -1,1 y 1,1 litros, y su concordancia con el BIVA fue aceptable (índice kappa ponderado 0,64). Conclusiones: Los monitores BIVA y BIS utilizados proporcionan lecturas similares de los parámetros bioeléctricos y la gran variabilidad observada en la cuantificación de volúmenes y masas corporales debe ser atribuida a las diferentes ecuaciones utilizadas para su cálculo. Sin embargo, los criterios utilizados por ambos sistemas para definir los estados de hidratación pre y posdiálisis tienen una equivalencia aceptable.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Introduction: The values of body composition provided by the two most commonly used bioelectrical impedance systems in Spain, single-frequency bioelectrical impedance vector analysis (SF-BIVA) and multi-frequency bioelectrical impedance spectroscopy (MF-BIS) are different and not comparable. Objective: Analyse whether the inter-method variability is due to bioelectrical variables measured by the different monitors, or rather due to the equations used to calculate body volume and mass. Another objective was to determine whether, despite the inter-method variability, the classification of hydration status by the two methods is consistent. Material and Methods: Bioelectrical impedance was measured by SF-BIVA and MF-BIS immediately before a dialysis session in 54 patients on haemodialysis. In 38 patients, the study was repeated by SF-BIVA at the end of the same dialysis session. Results: Resistance and phase angle values provided by the two monitors at a frequency of 50kHz were consistent. For resistance, variability was 1.3% and the intra-class correlation coefficient was 0.99. For phase angle, variability and the intra-class correlation coefficient were 11.5% and 0.92, respectively. The volume values for total body water, extracellular water, fat mass and body cell mass were biased, with a level of variability that would not be acceptable in clinical practice. The intra-class correlation coefficient also suggested a poor level of agreement. SF-BIVA systems define overhydration or dehydration as a vector below or above the tolerance ellipse of 75% on the longitudinal axis. MF-BIS uses two criteria for pre-dialysis hyper-hydration: overhydration (OH) greater than 2.5 litres, or greater than 15% of extracellular water. The degree of equivalence with the results of the SF-BIVA monitor was better with the second criterion (kappa: 0.81, excellent agreement) than with the first one (kappa: 0.71, acceptable agreement). The MF-BIS system defines post-dialysis normal hydration as a difference between OH and ultrafiltratation volume between -1.1 and 1.1 litres and agreement with the SF-BIVA system for this parameter was acceptable (weighted kappa index: 0.64). Conclusions: The MF-BIS and SF-BIVA systems provide similar readings for bioelectrical parameters, and the wide variation in the quantification of volume and body mass must be attributed to the different equations used for calculation. Furthermore, the criteria used by both systems to define both pre- and post-dialysis hydration have an acceptable level of equivalence.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

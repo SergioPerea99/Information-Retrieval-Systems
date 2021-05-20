@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0212-97282014000300040</identifier>
+<datestamp>2016-03-08</datestamp>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Lloret-Segura,Susana]]></dc:creator>
+<dc:creator><![CDATA[Ferreres-Traver,Adoración]]></dc:creator>
+<dc:creator><![CDATA[Hernández-Baeza,Ana]]></dc:creator>
+<dc:creator><![CDATA[Tomás-Marco,Inés]]></dc:creator>
+<dc:subject><![CDATA[AFE]]></dc:subject>
+<dc:subject><![CDATA[ACP]]></dc:subject>
+<dc:subject><![CDATA[matriz de asociación]]></dc:subject>
+<dc:subject><![CDATA[estimación de factores]]></dc:subject>
+<dc:subject><![CDATA[número de factores]]></dc:subject>
+<dc:subject><![CDATA[rotación de factores]]></dc:subject>
+<dc:publisher><![CDATA[Universidad de Murcia]]></dc:publisher>
+<dc:source><![CDATA[Anales de Psicología  v.30 n.3 2014]]></dc:source>
+<dc:date>2014-10-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-97282014000300040</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[El Análisis Factorial Exploratorio de los Ítems: una guía práctica, revisada y actualizada]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Exploratory Item Factor Analysis: a practical guide revised and updated]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[El Análisis Factorial Exploratorio es una de las técnicas más usadas en el desarrollo, validación y adaptación de instrumentos de medida psicológicos. Su uso se extendió durante los años 60 y ha ido creciendo de forma exponencial al ritmo que el avance de la informática ha permitido. Los criterios empleados en su uso, como es natural, también han evolucionado. Pero los investigadores interesados en asuntos sustantivos que utilizan rutinariamente esta técnica permanecen en muchos casos ignorantes de todo ello. En las últimas décadas numerosos trabajos han denunciado esta situación. La necesidad de actualizar los criterios clásicos para incorporar aquellos más adecuados es una necesidad urgente para hacer investigación de calidad. En este trabajo se revisan los criterios clásicos y, según el caso, se sustituyen o se complementan con otros más actuales. El objetivo es ofrecer al investigador aplicado interesado una guía actualizada acerca de cómo realizar un Análisis Factorial Exploratorio consonante con la psicometría post-Little Jiffy. Esta revisión y la guía con las recomendaciones correspondientes se han articulado en cuatro grandes bloques: 1) el tipo de datos y la matriz de asociación, 2) el método de estimación de factores, 3) el número de factores a retener, y 4) el método de rotación y asignación de ítems. Al final del artículo hemos incluido una versión breve de la guía.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Exploratory Factor analysis is one of the techniques used in the development, validation and adaptation of psychological measurement instruments. Its use spread during the 1960s and has been growing exponentially thanks to the advancement of information technology. The criteria used, of course, have also evolved. But the applied researchers, who use this technique as a routine, remain often ignorant of all this. In the last few decades numerous studies have denounced this situation. There is an urgent need to update the classic criteria. The incorporation of the most suitable criteria will improve the quality of our research. In this work we review the classic criteria and, depending on the case, we also propose current criteria to replace or complement the former. Our objective is to offer the interested applied researcher updated guidance on how to perform an Exploratory Item Factor Analysis, according to the "post-Little Jiffy" psychometrics. This review and the guide with the corresponding recommendations have been articulated in four large blocks: 1) the data type and the matrix of association, 2) the method of factor estimation, 3) the number of factors to be retained, and 4) the method of rotation and allocation of items. An abridged version of the complete guide is provided at the end of the article.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

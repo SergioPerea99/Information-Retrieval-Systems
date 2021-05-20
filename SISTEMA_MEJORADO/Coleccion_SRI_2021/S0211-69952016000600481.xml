@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952016000600481</identifier>
+<datestamp>2017-10-19</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Cano Megías,Marta]]></dc:creator>
+<dc:creator><![CDATA[Rodriguez Puyol,Diego]]></dc:creator>
+<dc:creator><![CDATA[Fernández Rodríguez,Loreto]]></dc:creator>
+<dc:creator><![CDATA[Sención Martinez,Gloria Lisette]]></dc:creator>
+<dc:creator><![CDATA[Martínez Miguel,Patricia]]></dc:creator>
+<dc:subject><![CDATA[Feocromocitoma]]></dc:subject>
+<dc:subject><![CDATA[Paraganglioma]]></dc:subject>
+<dc:subject><![CDATA[Genética]]></dc:subject>
+<dc:subject><![CDATA[Imagen funcional]]></dc:subject>
+<dc:subject><![CDATA[VHL]]></dc:subject>
+<dc:subject><![CDATA[MEN2]]></dc:subject>
+<dc:subject><![CDATA[SDHx]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.36 n.5 2016]]></dc:source>
+<dc:date>2016-10-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952016000600481</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Feocromocitoma-paraganglioma: del diagnóstico bioquímico al genético]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Pheochromocytoma-paraganglioma: Biochemical and genetic diagnosis]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Resumen Los feocromocitomas y paragangliomas son tumores derivados de células de la cresta neural, que pueden ser diagnosticados mediante la determinación bioquímica de metanefrinas y metoxitiramina. Los avances en la investigación genética han permitido identificar múltiples genes implicados en la fisiopatogenia de estos tumores, de forma que hasta el 35-45% podrían tener una mutación germinal subyacente. Estos genes tienen una firma biológica de transcripción característica y se pueden agrupar en 2 grandes grupos (o clusters), el grupo 1 (VHL y SHDx), con implicación de la vía de la angiogénesis e hipoxia; y el grupo 2 (MEN2 y NF1), implicados en la vía de señalización de la cinasa. A su vez estos genes se asocian a un fenotipo bioquímico (adrenérgicos y noradrenérgicos), y presentación clínica (localización, comportamiento biológico, edad de presentación&#8230;) característicos en un número elevado de casos. Un diagnóstico precoz de estos tumores, acompañado de un correcto diagnóstico genético, debe ser una prioridad que permita un mejor tratamiento, la detección precoz de complicaciones, un correcto screening de familiares y de otros tumores relacionados, así como una mejoría en el pronóstico global de estos pacientes.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Abstract Pheochromocytomas and paragangliomas are tumours derived from neural crest cells, which can be diagnosed by biochemical measurement of metanephrine and methoxytyramine. Advances in genetic research have identified many genes involved in the pathogenesis of these tumours, suggesting that up to 35-45% may have an underlying germline mutation. These genes have a singular transcriptional signature and can be grouped into 2 clusters (or groups): cluster 1 (VHL and SHDx), involved in angiogenesis and hypoxia pathways; and cluster 2 (MEN2 and NF1), linked to the kinase signalling pathway. In turn, these genes are associated with a characteristic biochemical phenotype (noradrenergic and adrenergic), and clinical features (location, biological behaviour, age of presentation, etc.) in a large number of cases. Early diagnosis of these tumours, accompanied by a correct genetic diagnosis, should eventually become a priority to enable better treatment, early detection of complications, proper screening of family members and related tumours, as well as an improvement in the overall prognosis of these patients.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

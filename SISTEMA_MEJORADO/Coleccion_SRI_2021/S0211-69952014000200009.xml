@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0211-69952014000200009</identifier>
+<datestamp>2014-05-29</datestamp>
+<setSpec>0211-6995</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[Amor,Antonio J.]]></dc:creator>
+<dc:creator><![CDATA[Canivell,Silvia]]></dc:creator>
+<dc:creator><![CDATA[Oriola,Josep]]></dc:creator>
+<dc:creator><![CDATA[Ricart,Maria J.]]></dc:creator>
+<dc:creator><![CDATA[Hollanda,Ana M. de]]></dc:creator>
+<dc:creator><![CDATA[Bosch-Comas,Anna]]></dc:creator>
+<dc:creator><![CDATA[Esmatjes,Enric]]></dc:creator>
+<dc:subject><![CDATA[Diabetes mellitus tipo 1]]></dc:subject>
+<dc:subject><![CDATA[Nefropatía diabética]]></dc:subject>
+<dc:subject><![CDATA[Enfermedad renal crónica terminal]]></dc:subject>
+<dc:subject><![CDATA[Genotipo de haptoglobina]]></dc:subject>
+<dc:publisher><![CDATA[Sociedad Española de Nefrología]]></dc:publisher>
+<dc:source><![CDATA[Nefrología (Madrid)  v.34 n.2 2014]]></dc:source>
+<dc:date>2014-01-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0211-69952014000200009</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Genotipo de la haptoglobina y riesgo de nefropatía diabética en pacientes con diabetes mellitus tipo 1: estudio en población española]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Haptoglobin genotype and risk of diabetic nephropathy in patients with type 1 diabetes mellitus: a study on a Spanish population]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Antecedentes: Pocos trabajos han estudiado la asociación entre el genotipo de la haptoglobina (Hp) y el riesgo de nefropatía diabética (ND) en pacientes con diabetes tipo 1 (DM1), con resultados contradictorios hasta ahora. Objetivos: Estudiar si el genotipo 2-2 de Hp se asocia a un incremento del riesgo de ND en población española con DM1. Métodos: Se diseñó un estudio de casos y controles. CASOS: pacientes con DM1 y enfermedad renal crónica estadio 5 de la NKF-KDOQI, en espera de trasplante reno-pancreático o que han sido trasplantados (reno-pancreático o renal aislado). CONTROLES: pacientes con DM1, apareados por sexo y tiempo de evolución de la diabetes, con función renal y excreción urinaria de albúmina normales. El genotipo de Hp se realizó mediante reacción en cadena de la polimerasa y electroforesis. Resultados: Incluimos 57 casos y 57 controles, sin diferencias estadísticamente significativas en el sexo (70 % frente a 61 % varones, p = 1,0) o duración de la diabetes (23,0 ± 6,7 frente a 20,8 ± 9,3 años; p = 0,1), aunque la edad de inicio de la diabetes fue menor en los casos (14,1 ± 6,8 frente a 17,7 ± 10,1 años, p = 0,03). La frecuencia de genotipos 1-1, 1-2 y 2-2 fue de 19,3 %, 42,1 % y 38,6 % en los casos y de 17,5 %, 49,1 % y 33,4 % en los controles, respectivamente, sin diferencias significativas (p = 0,8). El análisis de regresión logística condicional no mostró asociación entre el genotipo 2-2 de Hp y el desarrollo de ND (OR 1,14, IC 0,52-2,52). Conclusiones: En nuestra muestra de población española con DM1, no se ha hallado asociación entre el genotipo de Hp y el riesgo de ND.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Background: Few reports have studied the possible association between the haptoglobin (Hp) genotype and the risk of diabetic nephropathy (DN) in type 1 diabetes (T1D), with conflicting results to date. Aims: To study whether the 2-2 Hp genotype is associated with an increased risk of overt DN in a Spanish population with T1D. Methods: We performed a case-control study in a Spanish population. CASES: T1D patients with end-stage renal disease (stage 5 of NKF-KDOQI), awaiting reno-pancreatic transplantation or having already been transplanted (reno-pancreatic or renal alone). CONTROLS: T1D patients, matched for sex and time of diabetes evolution, with preserved renal function and normal urinary albumin excretion. Hp genotyping was done using polymerase chain reaction and electrophoresis. Results: We included 57 cases and 57 controls in the study. There were no statistically significant differences in gender (70% vs. 61% males, p=1.0) or the duration of diabetes (23.0±6.7 vs. 20.8±9.3 years; p=0.1), although the age of onset of diabetes was lower in the cases (14.1±6.8 vs. 17.7±10.1 years, p=0.03). The frequency of genotypes 1-1, 1-2 and 2-2 was 19.3%, 42.1% and 38.6% in cases and 17.5%, 49.1% and 33.4% in controls, respectively, with no statistically significant differences between groups (p=0.8). Conditional logistic regression analysis showed no significant association between genotype 2-2 of Hp and the development of DN (OR 1.14, CI 0.52-2.52). Conclusions: In our sample of a Spanish population with T1D, no association was found between the Hp genotype and risk of overt DN.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>

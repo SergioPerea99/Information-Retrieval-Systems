@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scielo-document>
+<record>
+<header>
+<identifier>oai:scielo:S0212-97282014000300013</identifier>
+<datestamp>2016-03-10</datestamp>
+<setSpec>0212-9728</setSpec>
+</header>
+<metadata>
+<oai-dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai-dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:creator><![CDATA[López-Villalobos,José Antonio]]></dc:creator>
+<dc:creator><![CDATA[Andrés-de Llano,Jesús María]]></dc:creator>
+<dc:creator><![CDATA[Sánchez-Mateos,Juan Delgado]]></dc:creator>
+<dc:creator><![CDATA[Rodríguez-Molinero,Luis]]></dc:creator>
+<dc:creator><![CDATA[Garrido-Redondo,Mercedes]]></dc:creator>
+<dc:creator><![CDATA[Martínez-Rivera,María Teresa]]></dc:creator>
+<dc:creator><![CDATA[Sacristán-Martín,Ana María]]></dc:creator>
+<dc:creator><![CDATA[Serrano-Pintado,Isabel]]></dc:creator>
+<dc:subject><![CDATA[Trastorno por déficit de atención con hiperactividad (TDAH)]]></dc:subject>
+<dc:subject><![CDATA[Manual Diagnóstico y Estadístico de los Trastornos Mentales (DSM-IV)]]></dc:subject>
+<dc:subject><![CDATA[validez]]></dc:subject>
+<dc:subject><![CDATA[síntomas TDAH]]></dc:subject>
+<dc:publisher><![CDATA[Universidad de Murcia]]></dc:publisher>
+<dc:source><![CDATA[Anales de Psicología  v.30 n.3 2014]]></dc:source>
+<dc:date>2014-10-01</dc:date>
+<dc:type>journal article</dc:type>
+<dc:format>text/html</dc:format>
+<dc:identifier>http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-97282014000300013</dc:identifier>
+<dc:language>es</dc:language>
+<dc:title xml:lang="es"><![CDATA[Validez de un modelo reducido de ítems del DSM-IV según respuesta de padres y profesores en el diagnóstico del Trastorno por Déficit de Atención con Hiperactividad Combinado]]></dc:title>
+<dc:title xml:lang="en"><![CDATA[Validity of a reduced model of items of DSM-IV criteria according to the parents' and teachers' responses in the diagnostic of the Attention Deficit Hyperactivity Disorder (Combined Type)]]></dc:title>
+<dc:description xml:lang="es"><![CDATA[Objetivo: Buscar un modelo reducido de síntomas del Trastorno por Déficit de Atención con Hiperactividad subtipo Combinado (TDAH-C), que presente adecuada validez de criterio para su diagnóstico. Metodología: Contexto de estudio epidemiológico. Muestra de 1095 casos entre 6 y 16 años [4.38 % TDAH-C]. Selección de casos con primera fase psicométrica de sospecha TDAH-C que requiere que ADHD RS-IV, implementado por padres (PA) y profesores (PR), supere el PC 90. Segunda fase: Los casos seleccionados se evalúan mediante entrevista clínica modelo DISC-IV (DSM-IV) para confirmar TDAH-C. Se implementa regresión logística para buscar modelo parsimonioso de ítems que permita predecir TDAH-C. Resultados: El modelo de ítems que permite predecir TDAH-C contiene 8 de los 36 ítems del ADHD RS-IV contestados por PA y PR. Considerando las odds ratio del modelo de regresión logística, los ítems del ADHD RS-IV seleccionados son los siguientes 15PR, 1PA, 16PR, 12PA, 17PA, 10PA, 14PA y 4PR. El modelo presenta validez de criterio para TDAH-C clínico (sensibilidad: 97.9 %. Especificidad: 93.8%. Razón de verosimilitud: 16.02). Conclusiones: Es posible reducir la lista de síntomas de TDAH-C con buena validez de criterio, manteniendo los que proporcionan mayor discriminación entre TDAH-C y población general.]]></dc:description>
+<dc:description xml:lang="en"><![CDATA[Main Objective: To look for a reduced model of symptoms of the attention deficit hyperactivity disorder combined type (ADHD-C) that shows suitable levels of criterion validity for the diagnostic of the disease. Methods: Epidemiological study. Sample of 1095 children between 6 and 16 years. First stage: psicometric study using ADHD RS-IV answered by parents (P) and teachers (T). ADHD is suspected when both questionnaires are over 90th percentile. Second stage: Clinical interview DISC-IV (DSM-IV) only in those selected cases to confirm ADHD-C. Logistic regression is implemented to find the most parsimonious model to predict ADHD-C. Results: The model that predicts clinical ADHD-C consists of 8 of the 36 items of the ADHD RS-IV answered by P and T. Considering the Odds Ratio obtained by regression, the selected items are as follows: 15T, 1P, 16T, 12P, 17P, 10P, 14P and 4T. The model has criterion validity for symptomatic ADHD-C (sensitivity: 97.9%. Specificity: 93.8%. Likelihood ratio: 16.02). Conclusions: It is possible to reduce the list of symptoms of ADHD-C with good criterion validity, removing redundant items and keeping those that provide greater discrimination between ADHD-C and the general population.]]></dc:description>
+<dc:rights>https://creativecommons.org/licenses/by-nc-nd/2.0/</dc:rights>
+</oai-dc:dc>
+</metadata>
+</record>
+</scielo-document>
